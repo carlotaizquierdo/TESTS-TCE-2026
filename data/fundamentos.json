@@ -848,5 +848,175 @@
     "explanation": "El paradigma combina integración global con regionalización y gestión de riesgos.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "fun-51",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué ocurre con la cantidad demandada si sube el precio del propio bien, ceteris paribus?",
+    "options": [
+      "Tiende a disminuir",
+      "Tiende a aumentar",
+      "La curva de demanda se desplaza siempre a la derecha",
+      "No cambia"
+    ],
+    "answer": 0,
+    "explanation": "La ley de demanda establece una relación inversa precio-cantidad demandada.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-52",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué ocurre con la cantidad ofrecida si sube el precio del propio bien, ceteris paribus?",
+    "options": [
+      "Tiende a aumentar",
+      "Tiende a disminuir",
+      "La oferta desaparece",
+      "La curva siempre se desplaza a la izquierda"
+    ],
+    "answer": 0,
+    "explanation": "La ley de oferta establece una relación directa.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-53",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué diferencia un movimiento a lo largo de la demanda de un desplazamiento de la curva?",
+    "options": [
+      "El primero lo provoca el precio del propio bien; el segundo otros factores como renta, gustos o expectativas",
+      "Son lo mismo",
+      "El desplazamiento solo ocurre por inflación",
+      "El movimiento solo ocurre por tecnología"
+    ],
+    "answer": 0,
+    "explanation": "Es una distinción básica de oferta y demanda.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-54",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué factor puede desplazar la oferta?",
+    "options": [
+      "Costes de producción o tecnología",
+      "El precio del propio bien únicamente",
+      "La nacionalidad del consumidor",
+      "La población inactiva"
+    ],
+    "answer": 0,
+    "explanation": "Los costes, tecnología y número de productores desplazan la curva de oferta.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-55",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué significa demanda inelástica?",
+    "options": [
+      "La cantidad reacciona relativamente poco ante cambios de precio",
+      "La cantidad cambia más que proporcionalmente",
+      "No existe demanda",
+      "El precio es fijo por ley"
+    ],
+    "answer": 0,
+    "explanation": "Los bienes necesarios suelen mostrar menor sensibilidad al precio.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-56",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué mide la prima de riesgo soberana en la zona euro, en términos generales?",
+    "options": [
+      "El interés extra frente a una referencia segura como el Bund alemán",
+      "La inflación esperada exclusivamente",
+      "El crecimiento del PIB",
+      "La tasa de paro"
+    ],
+    "answer": 0,
+    "explanation": "Es un diferencial de rendimiento asociado al riesgo percibido.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-57",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué suele ocurrir con la prima de riesgo cuando aumenta la desconfianza sobre un emisor?",
+    "options": [
+      "Sube",
+      "Baja siempre",
+      "Desaparece",
+      "Se convierte en inflación"
+    ],
+    "answer": 0,
+    "explanation": "Mayor riesgo percibido exige mayor rentabilidad.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-58",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué caracteriza una demanda elástica?",
+    "options": [
+      "La cantidad responde mucho a cambios de precio",
+      "La cantidad apenas cambia",
+      "El bien no tiene sustitutos",
+      "El precio no puede variar"
+    ],
+    "answer": 0,
+    "explanation": "La elasticidad mide sensibilidad de cantidades ante cambios de precio.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-59",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué efecto puede tener una inflación superior a la de socios comerciales?",
+    "options": [
+      "Erosionar competitividad exterior si los precios relativos suben más",
+      "Aumentar siempre exportaciones",
+      "Reducir automáticamente tipos de interés",
+      "Eliminar el déficit público"
+    ],
+    "answer": 0,
+    "explanation": "Una inflación comparativamente alta puede encarecer la producción nacional.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-60",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué diferencia globalización y fragmentación geoeconómica en el enfoque actual?",
+    "options": [
+      "La integración continúa, pero convive con regionalización, nearshoring, friend-shoring y búsqueda de resiliencia",
+      "La fragmentación significa fin total del comercio",
+      "Globalización significa ausencia de riesgos",
+      "Son términos idénticos"
+    ],
+    "answer": 0,
+    "explanation": "El escenario actual combina interdependencia con reconfiguración de cadenas.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
