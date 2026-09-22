@@ -168,5 +168,515 @@
     "explanation": "La lógica común es diagnóstico, selección de oportunidades y hoja de ruta priorizada.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "coc-11",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una empresa necesita llevar muestras a una feria extranjera y traerlas de vuelta. ¿Qué instrumento encaja mejor?",
+    "options": [
+      "Cuaderno ATA",
+      "Certificado de origen",
+      "REX",
+      "INTRASTAT"
+    ],
+    "answer": 0,
+    "explanation": "El cuaderno ATA se utiliza para exportaciones temporales como muestras o material de feria.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-12",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué diferencia operativa hay entre certificado de origen y cuaderno ATA?",
+    "options": [
+      "El primero acredita origen; el segundo facilita movimientos temporales",
+      "El primero sirve solo en la UE; el segundo solo fuera de la UE",
+      "El primero es voluntario y el segundo sustituye a toda declaración aduanera",
+      "No existe diferencia funcional"
+    ],
+    "answer": 0,
+    "explanation": "Los documentos responden a necesidades distintas y no son intercambiables.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-13",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué ventaja aporta la tramitación digital mediante E-trámites?",
+    "options": [
+      "Reducir desplazamientos y agilizar el procedimiento",
+      "Eliminar la necesidad de documentación justificativa",
+      "Sustituir cualquier control aduanero",
+      "Conceder origen preferencial automáticamente"
+    ],
+    "answer": 0,
+    "explanation": "La digitalización facilita la gestión, pero no cambia los requisitos sustantivos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-14",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio es más adecuado para consultas continuadas sobre operativa internacional?",
+    "options": [
+      "Gestor personalizado",
+      "Misión empresarial",
+      "SUBCONTEX",
+      "Campaña Madrid 7 Estrellas"
+    ],
+    "answer": 0,
+    "explanation": "El gestor personalizado es un servicio anual para consultas de gestión operativa internacional.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-15",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué combinación corresponde a los informes a medida de la Cámara?",
+    "options": [
+      "Arancelario, origen y clasificación TARIC",
+      "Solo riesgo país y rating",
+      "Solo fiscalidad y financiación",
+      "Únicamente estadísticas de comercio"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes citan expresamente esos tres tipos de informe.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-16",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuál es la finalidad principal de las facilitaciones aduaneras citadas en el temario?",
+    "options": [
+      "Gestionar mecanismos como Exportador Autorizado y REX",
+      "Emitir cuadernos ATA exclusivamente",
+      "Crear filiales exteriores",
+      "Organizar misiones empresariales"
+    ],
+    "answer": 0,
+    "explanation": "Las facilitaciones aduaneras incluyen la gestión de Exportador Autorizado y REX.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-17",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "INTRASTAT resulta relevante para:",
+    "options": [
+      "Empresas obligadas a declarar determinados flujos intracomunitarios",
+      "Cualquier exportación temporal",
+      "Solicitar un registro FDA",
+      "Obtener un certificado de libre venta"
+    ],
+    "answer": 0,
+    "explanation": "INTRASTAT se refiere a determinados movimientos intracomunitarios sujetos a obligación estadística.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-18",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Para qué puede solicitarse un certificado de libre venta?",
+    "options": [
+      "Como documento de apoyo exigido por determinados mercados de exportación",
+      "Para acreditar origen preferencial",
+      "Para sustituir una factura comercial",
+      "Para acceder a PYMEXT"
+    ],
+    "answer": 0,
+    "explanation": "Algunos mercados exigen este documento como acompañamiento de la exportación.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-19",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "El apoyo de la Cámara al registro FDA se relaciona con:",
+    "options": [
+      "Registros obligatorios en Estados Unidos para sectores como alimentación, cosmética, OTC o equipos médicos",
+      "Registro de marcas en cualquier país",
+      "Declaraciones INTRASTAT",
+      "Obtención de un cuaderno ATA"
+    ],
+    "answer": 0,
+    "explanation": "El temario cita expresamente apoyo para registros FDA en esos ámbitos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-20",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué distingue PYMEXT Internacional de PYMEXT E-Commerce?",
+    "options": [
+      "El primero diseña/refuerza presencia exterior general; el segundo se centra en internacionalización online",
+      "El primero es solo para licitaciones; el segundo para ferias",
+      "El primero solo sirve a grandes empresas",
+      "No existe diferencia"
+    ],
+    "answer": 0,
+    "explanation": "Cada programa comparte metodología de diagnóstico, pero tiene un foco distinto.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-21",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué analiza específicamente PYMEXT E-Commerce?",
+    "options": [
+      "Demanda digital, marketplaces, canales y prioridades online",
+      "Solo aranceles y reglas de origen",
+      "Únicamente financiación bancaria",
+      "Exclusivamente concursos multilaterales"
+    ],
+    "answer": 0,
+    "explanation": "Su objeto es definir la estrategia de internacionalización digital.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-22",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué analiza específicamente PYMEXT Multilaterales?",
+    "options": [
+      "Oportunidades, organismos, requisitos, concursos y estrategia de acceso",
+      "Marketplaces y SEO",
+      "Exportación temporal",
+      "Solo aranceles"
+    ],
+    "answer": 0,
+    "explanation": "El programa está orientado a concursos de organismos de desarrollo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-23",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuál es la lógica común de los tres planes PYMEXT?",
+    "options": [
+      "Diagnóstico → selección de oportunidades → hoja de ruta priorizada",
+      "Financiación → feria → certificado ATA",
+      "Registro → importación → devolución",
+      "Contacto → subvención → franquicia"
+    ],
+    "answer": 0,
+    "explanation": "Los tres parten de diagnóstico y terminan en una hoja de ruta priorizada.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-24",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué diferencia una misión empresarial de una jornada sobre mercados?",
+    "options": [
+      "La misión busca reuniones y contactos adaptados a la empresa; la jornada se centra en información y recomendaciones generales",
+      "La jornada incluye siempre reuniones individuales y la misión no",
+      "La misión solo es formativa",
+      "La jornada sustituye a una agenda comercial"
+    ],
+    "answer": 0,
+    "explanation": "Las misiones son más operativas y personalizadas; las jornadas son principalmente informativas.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-25",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué elemento es propio de una misión empresarial?",
+    "options": [
+      "Agenda de potenciales clientes o socios adaptada a la empresa",
+      "Concesión automática de subvención",
+      "Clasificación TARIC obligatoria",
+      "Registro FDA gratuito"
+    ],
+    "answer": 0,
+    "explanation": "La agenda personalizada es uno de los elementos centrales de la misión.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-26",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuándo tiene especial sentido utilizar un servicio a medida?",
+    "options": [
+      "Cuando la empresa necesita una actuación concreta que no encaja en un programa estándar",
+      "Cuando quiere cualquier certificado de origen",
+      "Solo cuando desea vender online",
+      "Únicamente para licitaciones del Banco Mundial"
+    ],
+    "answer": 0,
+    "explanation": "Los servicios a medida cubren necesidades específicas en mercados concretos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-27",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuál de estas necesidades encaja mejor en un servicio a medida?",
+    "options": [
+      "Constitución, contactos, agenda, selección de personal o apoyo local",
+      "Emitir un cuaderno ATA",
+      "Declarar INTRASTAT",
+      "Obtener un certificado de origen"
+    ],
+    "answer": 0,
+    "explanation": "Son ejemplos expresos del uso de servicios personalizados en destino.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-28",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué ofrece SUBCONTEX a una empresa industrial?",
+    "options": [
+      "Conexión con compradores internacionales y oportunidades de subcontratación",
+      "Solo financiación bancaria",
+      "Solo formación lingüística",
+      "Únicamente servicios jurídicos"
+    ],
+    "answer": 0,
+    "explanation": "SUBCONTEX está orientado a la promoción de la subcontratación industrial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-29",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuál de estas actuaciones corresponde a SUBCONTEX?",
+    "options": [
+      "Participación en ferias industriales y recepción de demandas concretas de compradores",
+      "Registro FDA",
+      "Expedición de ATA",
+      "Gestión del REX"
+    ],
+    "answer": 0,
+    "explanation": "SUBCONTEX combina promoción, ferias y conexión con demanda internacional.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-30",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué papel cumple el Directorio de la Subcontratación Española dentro de SUBCONTEX?",
+    "options": [
+      "Dar visibilidad a empresas del sector ante potenciales compradores",
+      "Sustituir el registro mercantil",
+      "Emitir certificados de origen",
+      "Publicar aranceles"
+    ],
+    "answer": 0,
+    "explanation": "Formar parte del directorio es una vía de promoción comercial sectorial.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "coc-31",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué caracteriza a Enterprise Europe Network?",
+    "options": [
+      "Es una red internacional de apoyo a pymes en internacionalización, innovación y cooperación",
+      "Es una aduana europea",
+      "Es un registro de exportadores",
+      "Es un programa exclusivo de financiación"
+    ],
+    "answer": 0,
+    "explanation": "EEN combina apoyo empresarial, innovación y cooperación en una red internacional.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-32",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Cuál de estas actuaciones encaja en EEN?",
+    "options": [
+      "Buscar cooperación empresarial o participar en programas de I+D de la UE",
+      "Emitir cuadernos ATA",
+      "Registrar ante FDA",
+      "Clasificar mercancías en TARIC"
+    ],
+    "answer": 0,
+    "explanation": "EEN facilita cooperación e innovación, incluida participación en programas europeos de I+D.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-33",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una pyme necesita reuniones comerciales en destino, no un estudio general. ¿Qué servicio encaja mejor?",
+    "options": [
+      "Misión empresarial",
+      "Jornada de mercado",
+      "Certificado de libre venta",
+      "INTRASTAT"
+    ],
+    "answer": 0,
+    "explanation": "La misión está diseñada para generar una agenda adaptada con contactos en destino.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-34",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una pyme quiere analizar si vender a través de marketplaces extranjeros. ¿Qué programa debería priorizar?",
+    "options": [
+      "PYMEXT E-Commerce",
+      "PYMEXT Multilaterales",
+      "SUBCONTEX",
+      "Cuaderno ATA"
+    ],
+    "answer": 0,
+    "explanation": "El foco es la internacionalización digital y selección de canales online.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-35",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una empresa quiere diseñar un plan general de presencia exterior. ¿Qué programa encaja mejor?",
+    "options": [
+      "PYMEXT Internacional",
+      "PYMEXT E-Commerce",
+      "PYMEXT Multilaterales",
+      "Enterprise Europe Network exclusivamente"
+    ],
+    "answer": 0,
+    "explanation": "PYMEXT Internacional analiza capacidad, mercados, producto, oportunidades y prioridades.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-36",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Por qué los porcentajes de ayuda de una presentación no deberían memorizarse como permanentes?",
+    "options": [
+      "Porque dependen del convenio y periodo subvencionable aplicable",
+      "Porque nunca existen ayudas a internacionalización",
+      "Porque la Cámara no usa convenios",
+      "Porque todos los programas son siempre gratuitos"
+    ],
+    "answer": 0,
+    "explanation": "El propio material advierte que porcentajes y periodos deben confirmarse antes de solicitar apoyo.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-37",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio escogerías para una empresa que necesita acreditar origen de forma recurrente bajo un régimen aplicable?",
+    "options": [
+      "Exportador Autorizado o REX, según corresponda",
+      "Cuaderno ATA",
+      "Misión empresarial",
+      "SUBCONTEX"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes relacionan esos mecanismos con la acreditación recurrente de origen preferencial.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-38",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio escogerías si la prioridad es conocer el arancel o clasificación de un producto?",
+    "options": [
+      "Informe TARIC o arancelario",
+      "PYMEXT E-Commerce",
+      "Certificado de libre venta",
+      "Programa TCE"
+    ],
+    "answer": 0,
+    "explanation": "Los informes a medida incluyen arancel y clasificación TARIC.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-39",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué necesidad NO resuelve directamente una jornada de mercado?",
+    "options": [
+      "Conseguir una agenda personalizada de reuniones con potenciales clientes",
+      "Obtener información de actualidad sobre un país",
+      "Conocer recomendaciones de implantación",
+      "Escuchar a expertos o representantes institucionales"
+    ],
+    "answer": 0,
+    "explanation": "La agenda comercial personalizada es propia de una misión o servicio a medida.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-40",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué describe mejor el papel global de la Cámara de Madrid en internacionalización?",
+    "options": [
+      "Combina documentación, asesoramiento, estrategia, promoción, contactos y redes de cooperación",
+      "Se limita a emitir certificados",
+      "Actúa solo como entidad financiera",
+      "Sustituye a las aduanas"
+    ],
+    "answer": 0,
+    "explanation": "La Cámara ofrece una cartera amplia que cubre desde operativa hasta estrategia y promoción.",
+    "difficulty": "easy",
+    "key": true
   }
 ]
