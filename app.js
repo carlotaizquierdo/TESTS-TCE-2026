@@ -92,7 +92,12 @@ function optionFrame(text,question,target,index){
   const q=(question||"").toLowerCase();
 
   if(/^solo\s+/i.test(t)){
-    t="Centrarse únicamente en "+t.replace(/^solo\s+/i,"")+" como criterio principal";
+    const rest=t.replace(/^solo\s+/i,"");
+    if(/^(el|la|los|las|un|una|unos|unas)\s+/i.test(rest)){
+      t="Centrarse únicamente en "+rest+" como criterio principal";
+    }else{
+      t="Considerar que "+rest+" de forma exclusiva";
+    }
   }else if(/^únicamente\s+/i.test(t)){
     t="Considerar únicamente "+t.replace(/^únicamente\s+/i,"")+" como elemento determinante";
   }else if(/^exclusivamente\s+/i.test(t)){
@@ -106,7 +111,13 @@ function optionFrame(text,question,target,index){
   }else if(/^porque\s+/i.test(t)){
     t="La explicación según la cual "+t.replace(/^porque\s+/i,"");
   }else if(/^(la|el|una|un|los|las)\s+/i.test(t)){
-    t="La alternativa que señala "+lower;
+    if(/\b(es|son|puede|pueden|debe|deben|incluye|incluyen|importa|afecta|elimina|aumenta|reduce|tiene|tienen|exige|exigen|permite|permiten|representa|representan|se)\b/i.test(t)){
+      t="La alternativa según la cual "+lower;
+    }else{
+      t="La alternativa que señala "+lower;
+    }
+  }else if(/^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+(?:ar|er|ir)\b/i.test(t)){
+    t="La opción basada en "+lower;
   }else if(t.length<36 && /(herramienta|programa|servicio|institución|organismo|indicador|modelo|dimensión|concepto)/i.test(q)){
     t=t+" como alternativa aplicable al supuesto planteado";
   }else{
@@ -139,7 +150,9 @@ function lengthenDecoy(text,question,target,index){
     }else if(/^que\s+/i.test(t)){
       t="La interpretación según la cual "+t.replace(/^que\s+/i,"");
     }else if(/^(la|el|una|un|los|las)\s+/i.test(t)){
-      t="La alternativa que propone "+lower;
+      t="La alternativa según la cual "+lower;
+    }else if(/^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+(?:ar|er|ir)\b/i.test(t)){
+      t="La opción basada en "+lower;
     }else{
       t="La alternativa que sostiene que "+lower;
     }
