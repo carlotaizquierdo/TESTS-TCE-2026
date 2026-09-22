@@ -678,5 +678,175 @@
     "explanation": "Una caída de confianza empresarial puede anticipar menor inversión y actividad.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "ins-41",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia existe entre PIB total y PIB per cápita?",
+    "options": [
+      "El primero mide producción agregada; el segundo la divide entre población",
+      "El PIB per cápita es siempre mayor",
+      "El PIB total mide renta individual",
+      "Son equivalentes"
+    ],
+    "answer": 0,
+    "explanation": "El PIB per cápita aproxima producción media por habitante.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-42",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué las importaciones se restan en la fórmula del PIB?",
+    "options": [
+      "Porque C, I y G pueden incluir bienes producidos fuera y hay que excluirlos de la producción nacional",
+      "Porque importar siempre reduce bienestar",
+      "Porque son gasto público",
+      "Porque no tienen precio"
+    ],
+    "answer": 0,
+    "explanation": "Restarlas evita atribuir producción extranjera al PIB doméstico.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-43",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia PIB nominal y PIB real?",
+    "options": [
+      "El nominal usa precios corrientes; el real intenta aislar el efecto de los precios",
+      "El real incluye importaciones y el nominal no",
+      "El nominal mide solo servicios",
+      "El real usa siempre dólares"
+    ],
+    "answer": 0,
+    "explanation": "La comparación separa cambios de cantidades y precios.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-44",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Si el PIB nominal sube pero la producción física no cambia, una explicación posible es:",
+    "options": [
+      "Aumento de precios",
+      "Aumento de población activa necesariamente",
+      "Reducción de importaciones exclusivamente",
+      "Caída del deflactor"
+    ],
+    "answer": 0,
+    "explanation": "El nominal puede aumentar solo por inflación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-45",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué indicador relaciona PIB nominal y PIB real?",
+    "options": [
+      "Deflactor del PIB",
+      "Euríbor",
+      "Tasa de paro",
+      "Prima de riesgo"
+    ],
+    "answer": 0,
+    "explanation": "El deflactor capta la evolución general de precios implícita en el PIB.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-46",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia una tasa intertrimestral de una interanual?",
+    "options": [
+      "La primera compara con el trimestre anterior; la segunda con el mismo trimestre del año previo",
+      "Son idénticas",
+      "La interanual siempre está anualizada",
+      "La intertrimestral solo mide inflación"
+    ],
+    "answer": 0,
+    "explanation": "Usan horizontes de comparación distintos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-47",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "En una crisis, ¿por qué puede caer también la importación?",
+    "options": [
+      "Porque al reducirse consumo e inversión se compran menos bienes del exterior",
+      "Porque una crisis obliga legalmente a cerrar fronteras",
+      "Porque las importaciones no dependen de demanda",
+      "Porque siempre sube el tipo de cambio"
+    ],
+    "answer": 0,
+    "explanation": "La debilidad de demanda doméstica reduce compras externas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-48",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Si un país no controla su propia moneda, ¿qué vía puede utilizar para mejorar competitividad?",
+    "options": [
+      "Productividad, costes, innovación y otras mejoras internas",
+      "Devaluación unilateral de una moneda ajena",
+      "Fijación de aranceles por el banco central",
+      "Eliminar el PIB nominal"
+    ],
+    "answer": 0,
+    "explanation": "Sin política cambiaria propia, el ajuste competitivo debe venir por otras vías.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-49",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cuál de estos es un riesgo económico/financiero relevante para una empresa internacional?",
+    "options": [
+      "Riesgo cambiario",
+      "Solo riesgo meteorológico local",
+      "Solo diseño del logotipo",
+      "Solo rotación del personal"
+    ],
+    "answer": 0,
+    "explanation": "El temario incluye riesgos cambiarios, tipos, materias primas, impago y acceso a crédito.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-50",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué lectura es más útil para internacionalización?",
+    "options": [
+      "Combinar crecimiento, inflación, empleo, deuda, sector exterior, tipos y confianza para entender la trayectoria del país",
+      "Elegir un único indicador y decidir",
+      "Mirar solo el PIB del último trimestre",
+      "Ignorar expectativas"
+    ],
+    "answer": 0,
+    "explanation": "La asignatura busca lectura integrada de coyuntura.",
+    "difficulty": "hard",
+    "key": true
   }
 ]
