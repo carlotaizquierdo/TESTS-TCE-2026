@@ -168,5 +168,515 @@
     "explanation": "La utilidad está en interpretar relaciones y señales, no cifras aisladas.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "ins-11",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué es útil el análisis macroeconómico antes de entrar en un mercado?",
+    "options": [
+      "Porque ayuda a evaluar si el entorno favorece o dificulta ventas, costes, financiación y estabilidad",
+      "Porque sustituye al análisis del producto",
+      "Porque permite ignorar el sector",
+      "Porque garantiza la demanda"
+    ],
+    "answer": 0,
+    "explanation": "El atractivo de un mercado depende también del entorno macroeconómico.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-12",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué error debe evitarse al leer indicadores macroeconómicos?",
+    "options": [
+      "Analizarlos de forma aislada sin relacionar causas y efectos",
+      "Compararlos a lo largo del tiempo",
+      "Examinar su impacto sobre la empresa",
+      "Buscar señales adelantadas"
+    ],
+    "answer": 0,
+    "explanation": "La asignatura insiste en relacionar indicadores y no quedarse con una cifra suelta.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-13",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué aportan los hogares a las empresas en el flujo circular?",
+    "options": [
+      "Trabajo y capital",
+      "Aranceles y subvenciones",
+      "Solo bienes finales",
+      "Reservas de divisas"
+    ],
+    "answer": 0,
+    "explanation": "Los hogares aportan factores productivos y reciben rentas a cambio.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "ins-14",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué reciben los hogares a cambio de aportar factores productivos?",
+    "options": [
+      "Salarios, intereses, dividendos u otras rentas",
+      "Solo impuestos",
+      "Únicamente subvenciones",
+      "Exportaciones netas"
+    ],
+    "answer": 0,
+    "explanation": "Las rentas permiten posteriormente demandar bienes y servicios.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "ins-15",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cómo entra el resto del mundo en el flujo circular?",
+    "options": [
+      "Mediante exportaciones e importaciones",
+      "Mediante impuestos municipales",
+      "Solo mediante deuda pública",
+      "Únicamente mediante salarios"
+    ],
+    "answer": 0,
+    "explanation": "El sector exterior conecta la economía doméstica con otros países.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-16",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué efecto puede tener un desempleo persistentemente elevado?",
+    "options": [
+      "Deteriorar expectativas y reducir compras importantes de los hogares",
+      "Aumentar automáticamente la inversión",
+      "Elevar necesariamente las exportaciones",
+      "Reducir siempre la deuda pública"
+    ],
+    "answer": 0,
+    "explanation": "El deterioro de empleo puede debilitar consumo y confianza.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-17",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia a productividad de competitividad?",
+    "options": [
+      "Productividad se centra en eficiencia de uso de recursos; competitividad en capacidad de vender frente a otros oferentes",
+      "Son exactamente lo mismo",
+      "Competitividad mide solo costes laborales",
+      "Productividad depende solo del precio"
+    ],
+    "answer": 0,
+    "explanation": "La competitividad incorpora precio, calidad, innovación, regulación, marketing y otros factores.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-18",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué puede mejorar la productividad según los apuntes?",
+    "options": [
+      "Formación, tecnología, innovación y mejora de procesos",
+      "Solo bajar salarios",
+      "Aumentar aranceles",
+      "Reducir siempre inversión"
+    ],
+    "answer": 0,
+    "explanation": "La productividad se eleva mejorando capacidades y eficiencia.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-19",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué una deuda elevada puede limitar la política económica futura?",
+    "options": [
+      "Porque obliga a atender intereses y vencimientos y reduce margen de actuación",
+      "Porque elimina todos los ingresos fiscales",
+      "Porque impide cualquier exportación",
+      "Porque reduce automáticamente la inflación"
+    ],
+    "answer": 0,
+    "explanation": "El endeudamiento genera compromisos financieros futuros.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-20",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué cinco grandes tipos de política económica organiza la clase?",
+    "options": [
+      "Monetaria, presupuestaria, de oferta, cambiaria y exterior",
+      "Laboral, sanitaria, educativa, militar y judicial",
+      "Fiscal, aduanera, salarial, social y energética exclusivamente",
+      "Monetaria, demográfica, tecnológica, cultural y comercial"
+    ],
+    "answer": 0,
+    "explanation": "Es la clasificación utilizada en el temario.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-21",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Quién tiene la competencia principal sobre política monetaria en el esquema explicado?",
+    "options": [
+      "El banco central",
+      "El parlamento exclusivamente",
+      "Las empresas",
+      "Los hogares"
+    ],
+    "answer": 0,
+    "explanation": "La política monetaria se presenta como responsabilidad del banco central.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-22",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cuál es el objetivo central de la política monetaria destacado en clase?",
+    "options": [
+      "Estabilidad de precios",
+      "Maximizar exportaciones a cualquier coste",
+      "Eliminar el desempleo por completo",
+      "Fijar todos los salarios"
+    ],
+    "answer": 0,
+    "explanation": "La estabilidad de precios aparece como objetivo central.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-23",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué dos instrumentos básicos de política monetaria se destacan?",
+    "options": [
+      "Liquidez/dinero en circulación y tipo de interés oficial",
+      "Aranceles y contingentes",
+      "Impuestos y gasto público",
+      "Subvenciones e I+D"
+    ],
+    "answer": 0,
+    "explanation": "El banco central influye a través de liquidez y tipos oficiales.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-24",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué los tipos interbancarios a plazos largos incorporan expectativas?",
+    "options": [
+      "Porque reflejan lo que el mercado espera que haga el banco central en el futuro",
+      "Porque son fijados por los consumidores",
+      "Porque dependen solo de impuestos",
+      "Porque no están relacionados con política monetaria"
+    ],
+    "answer": 0,
+    "explanation": "La curva de tipos contiene información sobre expectativas futuras.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-25",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué es el Euríbor en el enfoque de la clase?",
+    "options": [
+      "Una referencia derivada de tipos del mercado interbancario usada en préstamos variables",
+      "El tipo oficial del BCE exactamente",
+      "Un impuesto bancario",
+      "Un índice de inflación"
+    ],
+    "answer": 0,
+    "explanation": "El Euríbor es una referencia de mercado, no el tipo oficial mismo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-26",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué riesgo aparece al financiarse en una moneda con tipos bajos para invertir en otra con tipos altos?",
+    "options": [
+      "El riesgo de tipo de cambio puede borrar el diferencial de intereses",
+      "No existe riesgo adicional",
+      "Solo riesgo fiscal",
+      "Solo riesgo de desempleo"
+    ],
+    "answer": 0,
+    "explanation": "Un movimiento adverso de la moneda de la deuda puede generar pérdidas.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-27",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Existe déficit público cuando:",
+    "options": [
+      "El gasto público supera a los ingresos públicos",
+      "Las importaciones superan a las exportaciones",
+      "La deuda baja",
+      "El PIB real supera al nominal"
+    ],
+    "answer": 0,
+    "explanation": "Déficit público es un flujo anual de ingresos menos gastos del sector público.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-28",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia déficit público y deuda pública?",
+    "options": [
+      "El déficit es un flujo del periodo; la deuda es el stock acumulado pendiente de devolver",
+      "Son sinónimos",
+      "La deuda es anual y el déficit acumulado",
+      "El déficit solo existe fuera de la eurozona"
+    ],
+    "answer": 0,
+    "explanation": "La deuda se acumula a partir de déficits y otras operaciones a lo largo del tiempo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-29",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cómo puede financiarse un Estado cuando incurre en déficit?",
+    "options": [
+      "Emitiendo letras, bonos u obligaciones del Tesoro, entre otras vías",
+      "Creando exportaciones automáticamente",
+      "Aumentando necesariamente el PIB real",
+      "Reduciendo siempre impuestos"
+    ],
+    "answer": 0,
+    "explanation": "La emisión de deuda permite cubrir necesidades de financiación.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "ins-30",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia depreciación y devaluación?",
+    "options": [
+      "La depreciación responde al mercado; la devaluación es una decisión de la autoridad en un régimen que permite fijar el tipo",
+      "Son exactamente iguales",
+      "La devaluación ocurre solo con inflación cero",
+      "La depreciación es una medida fiscal"
+    ],
+    "answer": 0,
+    "explanation": "El mecanismo que origina el cambio distingue ambos conceptos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-31",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Si una moneda se aprecia fuertemente, en igualdad de condiciones sus exportaciones tienden a:",
+    "options": [
+      "Enc encarecerse para compradores extranjeros",
+      "Abaratarse para compradores extranjeros",
+      "No verse afectadas",
+      "Convertirse en importaciones"
+    ],
+    "answer": 0,
+    "explanation": "Una moneda más fuerte eleva el precio relativo de sus bienes para quien paga en otra divisa.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-32",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué se dice que el tipo de cambio puede actuar como bisagra de desequilibrios comerciales?",
+    "options": [
+      "Porque una fuerte demanda de la moneda puede apreciarla y moderar parte de la ventaja exportadora",
+      "Porque elimina los aranceles",
+      "Porque fija el gasto público",
+      "Porque determina el desempleo por ley"
+    ],
+    "answer": 0,
+    "explanation": "En cambio flexible, el mercado cambiario puede contribuir al ajuste externo.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-33",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué busca una política de oferta?",
+    "options": [
+      "Mejorar capacidad productiva y productividad mediante incentivos, formación, tecnología o I+D+i",
+      "Reducir exclusivamente la demanda",
+      "Fijar tipos de cambio",
+      "Aumentar importaciones sin condiciones"
+    ],
+    "answer": 0,
+    "explanation": "La política de oferta actúa sobre la capacidad productiva de la economía.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-34",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué instrumento pertenece a política exterior/comercial?",
+    "options": [
+      "Aranceles, contingentes, restricciones y acuerdos comerciales",
+      "Euríbor",
+      "Transferencias a hogares",
+      "Tipo oficial interbancario"
+    ],
+    "answer": 0,
+    "explanation": "La política comercial modifica directamente condiciones de intercambio con el exterior.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-35",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué incluye la inversión en el PIB por el lado del gasto?",
+    "options": [
+      "Bienes de equipo, inversión residencial y variación de existencias",
+      "Solo compra de acciones",
+      "Todo consumo de hogares",
+      "Pensiones"
+    ],
+    "answer": 0,
+    "explanation": "La formación bruta de capital incluye esas partidas productivas y residenciales.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-36",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Un ordenador comprado por una familia se clasifica normalmente como:",
+    "options": [
+      "Consumo",
+      "Inversión empresarial",
+      "Gasto público",
+      "Exportación"
+    ],
+    "answer": 0,
+    "explanation": "El destino del bien determina su clasificación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-37",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Ese mismo ordenador, comprado por una empresa para trabajar, se clasifica como:",
+    "options": [
+      "Inversión",
+      "Consumo privado",
+      "Transferencia",
+      "Importación necesariamente"
+    ],
+    "answer": 0,
+    "explanation": "Al incorporarse a la estructura productiva se considera inversión.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-38",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué una caída en compras de bienes duraderos puede ser señal adelantada de desaceleración?",
+    "options": [
+      "Porque las familias suelen posponer primero las compras grandes cuando aumenta la incertidumbre",
+      "Porque los bienes duraderos no forman parte del consumo",
+      "Porque aumenta automáticamente la inversión",
+      "Porque el PIB ya ha caído necesariamente"
+    ],
+    "answer": 0,
+    "explanation": "La cautela suele aparecer primero en decisiones fácilmente aplazables.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-39",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué mide un índice de confianza del consumidor?",
+    "options": [
+      "Percepción de los hogares sobre situación actual y futura, útil para anticipar consumo",
+      "Solo inflación pasada",
+      "Solo tipos de interés",
+      "Exportaciones empresariales"
+    ],
+    "answer": 0,
+    "explanation": "El deterioro de confianza puede preceder una reducción del consumo.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-40",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué información aportan las encuestas a gerentes de compra?",
+    "options": [
+      "Pedidos, inventarios, situación y expectativas empresariales, útiles como indicador adelantado",
+      "Solo salarios públicos",
+      "Solo deuda externa",
+      "Solo importaciones"
+    ],
+    "answer": 0,
+    "explanation": "Una caída de confianza empresarial puede anticipar menor inversión y actividad.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
