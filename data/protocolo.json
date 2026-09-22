@@ -678,5 +678,175 @@
     "explanation": "La comodidad del invitado y la fluidez de la conversación son prioritarias.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "pro-41",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué significa la congruencia entre mensaje verbal y no verbal?",
+    "options": [
+      "Que postura, tono y gestos deben reforzar de forma coherente lo que se dice",
+      "Que todos los gestos tienen un significado universal",
+      "Que solo importan las palabras",
+      "Que el lenguaje corporal debe exagerarse"
+    ],
+    "answer": 0,
+    "explanation": "La credibilidad mejora cuando contenido, voz y conducta corporal son coherentes.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-42",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio debe seguirse al usar vestimenta o accesorios con significado simbólico?",
+    "options": [
+      "Que la elección tenga una razón compatible con el objetivo y contexto del acto",
+      "Que el significado sea siempre universal",
+      "Que sea llamativa por encima de todo",
+      "Que sustituya el mensaje verbal"
+    ],
+    "answer": 0,
+    "explanation": "El sentido de un símbolo depende del contexto.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-43",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué puede comunicar una mala colocación de un invitado relevante?",
+    "options": [
+      "Falta de reconocimiento o atribución de un rango inferior al esperado",
+      "Neutralidad absoluta",
+      "Mayor cortesía necesariamente",
+      "Que el protocolo no importa"
+    ],
+    "answer": 0,
+    "explanation": "La colocación es una forma de reconocimiento institucional.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-44",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué debe hacerse si una excepción a la precedencia es necesaria por razones operativas?",
+    "options": [
+      "Explicarla con discreción y evitar que se interprete como desconsideración",
+      "Ocultarla siempre",
+      "Cambiar toda la presidencia",
+      "Ignorar al afectado"
+    ],
+    "answer": 0,
+    "explanation": "La gestión relacional de la excepción es parte del protocolo.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "pro-45",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio debe prevalecer al diseñar la trasera de una comparecencia?",
+    "options": [
+      "Comprobar cómo aparece realmente desde cámara",
+      "Elegir el diseño más complejo",
+      "Colocar logos detrás de las cabezas",
+      "Priorizar objetos decorativos"
+    ],
+    "answer": 0,
+    "explanation": "El fondo debe revisarse desde el encuadre real para evitar errores visuales.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-46",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué regla general se aplica a los regalos en negociación internacional?",
+    "options": [
+      "Adaptar el obsequio al contexto cultural y evitar imponer la costumbre propia",
+      "Entregar siempre regalos caros",
+      "Abrirlos siempre en público",
+      "Rechazar cualquier regalo"
+    ],
+    "answer": 0,
+    "explanation": "El valor, momento y forma de entrega dependen del contexto.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-47",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En Japón, una negativa indirecta puede expresarse mediante:",
+    "options": [
+      "Silencio, cambio de tema o indicar que algo será difícil",
+      "Un sí explícito",
+      "Un brindis",
+      "Una tarjeta de visita"
+    ],
+    "answer": 0,
+    "explanation": "La comunicación negativa puede ser indirecta.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-48",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una negociación internacional, ¿qué error supone juzgar una costumbre alimentaria desde la propia cultura?",
+    "options": [
+      "Confundir diferencia cultural con falta de educación",
+      "Aplicar correctamente relativismo metodológico",
+      "Mejorar la confianza",
+      "Reducir estereotipos"
+    ],
+    "answer": 0,
+    "explanation": "Las pautas culturales deben observarse sin convertir preferencias propias en norma universal.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-49",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué debe hacerse con alergias, intolerancias o restricciones religiosas al planificar un menú?",
+    "options": [
+      "Recogerlas previamente y adaptar el menú",
+      "Esperar a que el invitado rechace el plato",
+      "Ofrecer siempre el mismo menú",
+      "Ignorarlas si hay varios platos"
+    ],
+    "answer": 0,
+    "explanation": "La anticipación evita incidentes y comunica consideración.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-50",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué práctica cierra adecuadamente una comida de negociación?",
+    "options": [
+      "El anfitrión paga discretamente y envía agradecimiento posterior",
+      "Dividir siempre la cuenta",
+      "Entregar regalos de gran valor",
+      "Reabrir la negociación al despedirse"
+    ],
+    "answer": 0,
+    "explanation": "El cierre debe mantener cortesía y discreción.",
+    "difficulty": "medium",
+    "key": false
   }
 ]
