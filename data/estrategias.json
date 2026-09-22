@@ -678,5 +678,175 @@
     "explanation": "La internacionalización exige proactividad comercial y una propuesta diferenciada.",
     "difficulty": "easy",
     "key": true
+  },
+  {
+    "id": "est-41",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué significa que un mercado no coincida necesariamente con un Estado?",
+    "options": [
+      "Que la unidad relevante puede ser una región integrada, ciudad, segmento global o grupo de consumidores",
+      "Que las fronteras jurídicas no existen",
+      "Que todos los países forman un único mercado",
+      "Que la regulación deja de importar"
+    ],
+    "answer": 0,
+    "explanation": "La unidad de análisis depende del producto, regulación, canal y competencia.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-42",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué implica definir la calidad desde la perspectiva del cliente?",
+    "options": [
+      "Valorar la oferta según las necesidades y experiencia que percibe el comprador",
+      "Aplicar solo estándares internos",
+      "Reducir siempre el precio",
+      "Eliminar el servicio posventa"
+    ],
+    "answer": 0,
+    "explanation": "La orientación al cliente exige entender qué valora realmente quien compra.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-43",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué relación hay entre especialización y nichos globales?",
+    "options": [
+      "Una empresa puede competir internacionalmente dominando una tarea muy específica y valiosa",
+      "La especialización limita necesariamente la empresa al mercado local",
+      "Solo las grandes empresas pueden especializarse",
+      "Especializarse implica vender a un único cliente"
+    ],
+    "answer": 0,
+    "explanation": "La fragmentación de cadenas permite a pymes ocupar eslabones concretos con alcance global.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-44",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué ventaja puede aportar una adquisición frente a desarrollar capacidades desde cero?",
+    "options": [
+      "Acelerar acceso a tecnología, clientes o capacidades",
+      "Eliminar todo riesgo de integración",
+      "Evitar cualquier coste de oportunidad",
+      "Garantizar compatibilidad cultural"
+    ],
+    "answer": 0,
+    "explanation": "Comprar o aliarse puede acelerar acceso, aunque mantiene riesgos de integración y gobierno.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "est-45",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué significa que una estrategia implique renuncias?",
+    "options": [
+      "Elegir una opción consume recursos que ya no pueden dedicarse igual a alternativas",
+      "Que la empresa debe abandonar todos los mercados actuales",
+      "Que cualquier decisión estratégica reduce ventas",
+      "Que no se pueden revisar prioridades"
+    ],
+    "answer": 0,
+    "explanation": "Toda elección tiene coste de oportunidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-46",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es una señal de mala secuencia de internacionalización?",
+    "options": [
+      "Acudir a una feria necesitando pedidos inmediatos para evitar cerrar la fábrica",
+      "Investigar mercados con antelación",
+      "Asignar presupuesto antes de viajar",
+      "Definir objetivos antes de elegir canal"
+    ],
+    "answer": 0,
+    "explanation": "Internacionalizar bajo urgencia extrema deja poco margen para aprender y adaptar.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-47",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué principio resume mejor la decisión de no exportar?",
+    "options": [
+      "También puede ser correcta si resulta de un análisis consciente de capacidades, recursos y alternativas",
+      "Siempre es un fracaso estratégico",
+      "Nunca debe considerarse",
+      "Solo es válida para microempresas"
+    ],
+    "answer": 0,
+    "explanation": "No toda empresa debe salir; lo importante es decidir con criterio.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-48",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué significa que una empresa pueda controlar una oferta sin poseer todos los activos que la producen?",
+    "options": [
+      "Puede coordinar redes, proveedores y capacidades externas para entregar valor",
+      "No necesita contratos ni control",
+      "Puede ignorar calidad",
+      "Debe externalizar toda la producción"
+    ],
+    "answer": 0,
+    "explanation": "La nueva economía permite modelos de empresa extendida y coordinación de recursos externos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-49",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué debe acompañar a una oportunidad detectada en una megatendencia?",
+    "options": [
+      "Un indicador observable y una consecuencia económica para la empresa",
+      "Solo una opinión del equipo",
+      "Una previsión exacta del futuro",
+      "Una decisión irreversible inmediata"
+    ],
+    "answer": 0,
+    "explanation": "El análisis útil vincula tendencia, indicador y efecto económico.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-50",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué pregunta ayuda a comprobar una estrategia comercial que no está funcionando?",
+    "options": [
+      "¿Por qué no vendemos más y qué supuesto puede estar equivocado?",
+      "¿Cómo mantenemos exactamente lo mismo?",
+      "¿Qué mercado tiene más población sin más datos?",
+      "¿Cómo evitamos hablar con clientes?"
+    ],
+    "answer": 0,
+    "explanation": "El temario propone cuestionar los supuestos que explican los resultados insuficientes.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
