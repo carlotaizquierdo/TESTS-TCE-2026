@@ -1,0 +1,172 @@
+[
+  {
+    "id": "cc-01",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "En la metáfora del “software de la mente”, la cultura es principalmente:",
+    "options": [
+      "Una característica genética",
+      "Un sistema aprendido de categorías y significados",
+      "Una norma jurídica internacional",
+      "Una técnica de venta"
+    ],
+    "answer": 1,
+    "explanation": "La cultura se aprende a través de familia, escuela, trabajo, medios e instituciones.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-02",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué implica “conducta observable ≠ intención”?",
+    "options": [
+      "Que la conducta nunca puede interpretarse",
+      "Que entre la conducta y la intención existe un código cultural que debe validarse",
+      "Que toda conducta intercultural es falsa",
+      "Que la intención no importa"
+    ],
+    "answer": 1,
+    "explanation": "La misma conducta puede tener significados distintos según el marco cultural.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-03",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Cómo deben utilizarse los perfiles nacionales?",
+    "options": [
+      "Como diagnóstico definitivo de cada individuo",
+      "Como mapas iniciales que orientan hipótesis",
+      "Como sustitutos del análisis de empresa",
+      "Como reglas jurídicas"
+    ],
+    "answer": 1,
+    "explanation": "Los promedios culturales sirven para formular hipótesis, no para etiquetar personas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-04",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "El relativismo metodológico permite:",
+    "options": [
+      "Justificar cualquier práctica cultural",
+      "Suspender el juicio inicial para comprender, sin legitimar daño o discriminación",
+      "Ignorar la legislación local",
+      "Eliminar los límites personales"
+    ],
+    "answer": 1,
+    "explanation": "Comprender una práctica no obliga a considerarla aceptable.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "cc-05",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Según las capas de Trompenaars, ¿qué elemento es más profundo?",
+    "options": [
+      "Comportamientos visibles",
+      "Actitudes",
+      "Normas",
+      "Valores"
+    ],
+    "answer": 3,
+    "explanation": "Los valores ocupan una capa profunda; los comportamientos son más externos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-06",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Una cultura con alta distancia del poder suele esperar:",
+    "options": [
+      "Jerarquía visible y respeto por el rango",
+      "Ausencia de cadena de mando",
+      "Cuestionamiento constante del superior",
+      "Decisiones siempre por consenso"
+    ],
+    "answer": 0,
+    "explanation": "Alta PDI implica mayor aceptación de una distribución desigual de autoridad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-07",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Una alta aversión a la incertidumbre suele asociarse con:",
+    "options": [
+      "Menos necesidad de estructura",
+      "Más reglas, planificación e informes",
+      "Mayor tolerancia automática al riesgo financiero",
+      "Menos especialistas"
+    ],
+    "answer": 1,
+    "explanation": "UAI alta suele llevar a buscar estructura, procedimientos y previsibilidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-08",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Cuál fue un error de Baker en el caso Baker/Rennalls?",
+    "options": [
+      "Pedir demasiados datos objetivos",
+      "Presentar su interpretación como hecho sin verificarla",
+      "Separar sucesión y feedback",
+      "Reconocer la asimetría de poder"
+    ],
+    "answer": 1,
+    "explanation": "Baker diagnosticó y atribuyó intenciones antes de escuchar la perspectiva de Rennalls.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "cc-09",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Antes de un contacto intercultural conviene:",
+    "options": [
+      "Usar modelos culturales como certezas",
+      "Investigar contexto, empresa e interlocutores y preparar protocolo/comunicación",
+      "Evitar revisar límites legales",
+      "Improvisar para parecer natural"
+    ],
+    "answer": 1,
+    "explanation": "La preparación combina contexto, empresa, hipótesis culturales, protocolo, comunicación y límites legales.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-10",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Después de una interacción intercultural, una buena práctica es:",
+    "options": [
+      "Convertir la experiencia en regla general del país",
+      "Separar hechos observables de interpretaciones y contrastar la lectura",
+      "Eliminar cualquier registro",
+      "Asumir que el silencio equivale a acuerdo"
+    ],
+    "answer": 1,
+    "explanation": "Los apuntes recomiendan registrar hechos, contrastar y actualizar hipótesis sin generalizar.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
