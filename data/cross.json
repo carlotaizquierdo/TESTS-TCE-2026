@@ -848,5 +848,175 @@
     "explanation": "Prepararse sirve para observar mejor y reducir errores, no para prejuzgar.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "cc-51",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué diferencia hay entre norma y valor en las capas culturales?",
+    "options": [
+      "La norma orienta lo que se considera apropiado; el valor expresa preferencias profundas sobre lo deseable",
+      "Son exactamente lo mismo",
+      "El valor siempre es visible y la norma no",
+      "La norma es genética"
+    ],
+    "answer": 0,
+    "explanation": "Las capas profundas influyen sobre comportamientos y expectativas visibles.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "cc-52",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Por qué no debe asumirse que silencio significa acuerdo?",
+    "options": [
+      "Porque su significado depende del contexto cultural, relacional y situacional",
+      "Porque el silencio siempre significa desacuerdo",
+      "Porque no tiene ningún significado",
+      "Porque solo importa el lenguaje verbal"
+    ],
+    "answer": 0,
+    "explanation": "Una conducta aislada requiere interpretación y validación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-53",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué práctica reduce el riesgo de atribuir intenciones equivocadas?",
+    "options": [
+      "Describir primero la conducta observable y preguntar antes de interpretar motivos",
+      "Inferir la motivación a partir de nacionalidad",
+      "Confiar solo en intuición",
+      "Evitar preguntas"
+    ],
+    "answer": 0,
+    "explanation": "Separar observación e interpretación es una herramienta central.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-54",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué harías si un modelo cultural y la conducta real del interlocutor entran en conflicto?",
+    "options": [
+      "Dar prioridad a la evidencia de la persona y revisar la hipótesis",
+      "Forzar la conducta dentro del modelo",
+      "Descartar la evidencia",
+      "Cambiar de interlocutor"
+    ],
+    "answer": 0,
+    "explanation": "El individuo real pesa más que un promedio nacional.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-55",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué riesgo tiene usar comparaciones del tipo “nuestra cultura es más avanzada”?",
+    "options": [
+      "Puede resultar paternalista, generar resistencia y dañar la relación",
+      "Mejora siempre la claridad",
+      "Reduce la asimetría de poder",
+      "Es una buena técnica de feedback"
+    ],
+    "answer": 0,
+    "explanation": "Las comparaciones civilizatorias fueron parte del problema en el caso Baker/Rennalls.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "cc-56",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué debería incluir una preparación de protocolo intercultural?",
+    "options": [
+      "Saludo, tratamientos, puntualidad, jerarquía, regalos, comidas y comunicación cuando sean relevantes",
+      "Solo vestimenta",
+      "Solo idioma",
+      "Solo intercambio de tarjetas"
+    ],
+    "answer": 0,
+    "explanation": "La preparación debe cubrir los elementos que pueden afectar la interacción.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "cc-57",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué significa validar localmente una interpretación?",
+    "options": [
+      "Contrastar con alguien conocedor del contexto sin convertir su opinión en verdad absoluta",
+      "Preguntar solo a una persona y generalizar al país",
+      "Buscar un estereotipo coincidente",
+      "Evitar fuentes locales"
+    ],
+    "answer": 0,
+    "explanation": "La validación local es apoyo contextual, no sustituto del juicio.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "cc-58",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué ventaja tiene reconocer un error intercultural de forma temprana?",
+    "options": [
+      "Permite reparar la relación antes de que la interpretación negativa se consolide",
+      "Demuestra debilidad necesariamente",
+      "Hace innecesario cambiar conducta",
+      "Elimina la necesidad de escuchar"
+    ],
+    "answer": 0,
+    "explanation": "La reparación temprana puede preservar confianza.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "cc-59",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué combinación refleja mejor competencia intercultural?",
+    "options": [
+      "Conocimiento + observación + adaptación + límites éticos",
+      "Memorización de estereotipos",
+      "Imitación automática",
+      "Evitar cualquier diferencia"
+    ],
+    "answer": 0,
+    "explanation": "La competencia intercultural es práctica y reflexiva, no una colección de etiquetas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-60",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué pregunta ayuda a reducir el sesgo etnocéntrico?",
+    "options": [
+      "¿Cómo podría interpretar la otra persona mi propio comportamiento?",
+      "¿Por qué no actúa como yo?",
+      "¿Qué cultura es superior?",
+      "¿Cómo puedo hacer que copie mi estilo?"
+    ],
+    "answer": 0,
+    "explanation": "La doble perspectiva obliga a revisar el propio marco cultural.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
