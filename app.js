@@ -63,53 +63,23 @@ function saveMistakes(result){
   localStorage.setItem("tce_mistakes",JSON.stringify(m));
 }
 
-const stems={
-  direct:[
-    q=>q.question,
-    q=>"Según el temario, "+q.question.charAt(0).toLowerCase()+q.question.slice(1),
-    q=>"¿Cuál de las siguientes opciones responde correctamente a esta cuestión? "+q.question,
-    q=>"Señala la opción correcta: "+q.question
-  ],
-  reverse:[
-    q=>`¿Qué concepto o respuesta corresponde mejor con esta explicación: “${q.explanation}”?`,
-    q=>`A partir de la explicación del temario —${q.explanation}—, ¿qué opción es correcta?`
-  ],
-  false:[
-    q=>"¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con este contenido?",
-    q=>"Señala la opción que NO encaja con el concepto estudiado."
-  ]
-};
+const stems=[
+  q=>q.question,
+  q=>"Según el temario, "+q.question.charAt(0).toLowerCase()+q.question.slice(1),
+  q=>"Señala la opción correcta: "+q.question
+];
 
-function variantFrom(base, allPool){
-  const seed=Math.random();
-  let qtext,options=[...base.options],correct=base.answer,type="direct";
-
-  if(seed<0.62){
-    qtext=stems.direct[Math.floor(Math.random()*stems.direct.length)](base);
-  }else if(seed<0.82){
-    type="reverse";
-    qtext=stems.reverse[Math.floor(Math.random()*stems.reverse.length)](base);
-    const correctText=base.options[base.answer];
-    const distractors=shuffle(allPool.filter(x=>x.id!==base.id).map(x=>x.options[x.answer]).filter(Boolean))
-      .filter((v,i,a)=>a.indexOf(v)===i&&v!==correctText).slice(0,3);
-    if(distractors.length===3){options=[correctText,...distractors];correct=0}else{qtext=base.question}
-  }else{
-    type="direct";
-    qtext=stems.direct[Math.floor(Math.random()*stems.direct.length)](base);
-  }
-
-  const packed=options.map((text,i)=>({text,isCorrect:i===correct}));
+function variantFrom(base){
+  const qtext=stems[Math.floor(Math.random()*stems.length)](base);
+  const packed=base.options.map((text,i)=>({text,isCorrect:i===base.answer}));
   const mixed=shuffle(packed);
-  const answer=mixed.findIndex(x=>x.isCorrect);
-
   return {
     ...base,
     id:base.id+"-"+Date.now()+"-"+Math.random().toString(36).slice(2,8),
     baseId:base.id,
     question:qtext,
     options:mixed.map(x=>x.text),
-    answer,
-    variantType:type
+    answer:mixed.findIndex(x=>x.isCorrect)
   };
 }
 
@@ -130,7 +100,7 @@ function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBase
   while(chosen.length<count&&pool.length){
     chosen.push(pool[Math.floor(Math.random()*pool.length)]);
   }
-  const generated=shuffle(chosen.map(b=>variantFrom(b,pool)));
+  const generated=shuffle(chosen.map(b=>variantFrom(b)));
   remember(generated.map(x=>x.baseId));
   return generated;
 }
