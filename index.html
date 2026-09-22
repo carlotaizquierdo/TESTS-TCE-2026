@@ -48,8 +48,15 @@
               <option value="hard">Difícil</option>
             </select>
           </label>
+          <label>Estilo de examen
+            <select id="examStyle">
+              <option value="icex" selected>ICEX · respuestas muy parecidas</option>
+              <option value="general">General · banco completo</option>
+            </select>
+          </label>
         </div>
         <label class="toggle"><input id="priority" type="checkbox" checked> Priorizar contenido marcado como EXAMEN / clave</label>
+        <p class="note"><strong>Modo ICEX:</strong> prioriza preguntas medias/difíciles y alternativas plausibles entre sí, evitando distractores demasiado obvios.</p>
         <button id="startBtn" class="primary">Empezar test</button>
       </div>
     </section>
