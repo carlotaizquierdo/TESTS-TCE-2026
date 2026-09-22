@@ -848,5 +848,175 @@
     "explanation": "La asignatura busca lectura integrada de coyuntura.",
     "difficulty": "hard",
     "key": true
+  },
+  {
+    "id": "ins-51",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia consumo duradero y no duradero desde el punto de vista coyuntural?",
+    "options": [
+      "El duradero suele aplazarse con mayor facilidad cuando aumenta la incertidumbre",
+      "El no duradero siempre es inversión",
+      "El duradero no forma parte del PIB",
+      "No hay diferencia"
+    ],
+    "answer": 0,
+    "explanation": "Los bienes duraderos pueden actuar como señal adelantada de cautela.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-52",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué puede anticipar una caída de confianza empresarial?",
+    "options": [
+      "Menor inversión y retraso de proyectos",
+      "Aumento automático de exportaciones",
+      "Reducción inmediata de deuda",
+      "Mayor inflación necesariamente"
+    ],
+    "answer": 0,
+    "explanation": "Las expectativas de gerentes condicionan decisiones de inversión.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-53",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué significa política fiscal expansiva en términos generales?",
+    "options": [
+      "Aumentar gasto y/o reducir impuestos para sostener demanda",
+      "Subir tipos de interés",
+      "Apreciar la moneda",
+      "Reducir liquidez bancaria"
+    ],
+    "answer": 0,
+    "explanation": "La política fiscal actúa sobre ingresos y gastos públicos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "ins-54",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué significa política fiscal restrictiva?",
+    "options": [
+      "Reducir gasto y/o aumentar ingresos para contener déficit o demanda",
+      "Bajar tipos oficiales",
+      "Aumentar importaciones",
+      "Devaluar la moneda"
+    ],
+    "answer": 0,
+    "explanation": "Es la orientación opuesta a una política expansiva.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "ins-55",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué puede ocurrir si un país tiene inflación persistentemente superior a la de sus socios?",
+    "options": [
+      "Puede perder competitividad-precio",
+      "Mejora automáticamente su saldo exterior",
+      "Su moneda siempre se deprecia",
+      "Aumenta necesariamente la productividad"
+    ],
+    "answer": 0,
+    "explanation": "Precios relativos más altos pueden dificultar competir.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-56",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué variable del entorno afecta directamente al coste de financiación empresarial?",
+    "options": [
+      "Tipos de interés",
+      "Pirámide demográfica",
+      "Número de exportadores",
+      "Clima exclusivamente"
+    ],
+    "answer": 0,
+    "explanation": "Los tipos influyen en préstamos, inversión y consumo.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-57",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué indica una curva de tipos con plazos largos por debajo de cortos, en términos de expectativas?",
+    "options": [
+      "Puede reflejar expectativa de bajadas futuras de tipos o menor actividad",
+      "Garantiza una recesión",
+      "Implica inflación cero",
+      "Significa que el banco central ya bajó tipos"
+    ],
+    "answer": 0,
+    "explanation": "La curva incorpora expectativas, no certezas.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-58",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué riesgo afronta una empresa que cobra en moneda extranjera?",
+    "options": [
+      "Que una variación adversa del tipo de cambio reduzca el valor del cobro en su moneda",
+      "Que el PIB real se convierta en nominal",
+      "Que desaparezca la demanda",
+      "Que el arancel se duplique automáticamente"
+    ],
+    "answer": 0,
+    "explanation": "El tipo de cambio puede modificar el margen final.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-59",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué diferencia una medida de política de oferta de una política monetaria?",
+    "options": [
+      "La primera busca capacidad/productividad; la segunda actúa sobre liquidez y tipos",
+      "La política de oferta fija el Euríbor",
+      "La monetaria subvenciona I+D directamente",
+      "Son equivalentes"
+    ],
+    "answer": 0,
+    "explanation": "Actúan sobre mecanismos económicos distintos.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-60",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué combinación sería una señal de desaceleración antes de ver una caída fuerte del PIB?",
+    "options": [
+      "Menos bienes duraderos, menor confianza de consumidores y peores encuestas empresariales",
+      "Más inversión y más confianza",
+      "Mayor empleo y más consumo",
+      "Superávit fiscal exclusivamente"
+    ],
+    "answer": 0,
+    "explanation": "Los tres indicadores adelantados pueden deteriorarse antes que el PIB agregado.",
+    "difficulty": "hard",
+    "key": true
   }
 ]
