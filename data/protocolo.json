@@ -1,0 +1,172 @@
+[
+  {
+    "id": "pro-01",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Cuál es la finalidad operativa del protocolo?",
+    "options": [
+      "Organizar actos al servicio de lo que el anfitrión quiere transmitir",
+      "Aplicar ceremonial solo en actos de Estado",
+      "Determinar únicamente el vestuario",
+      "Sustituir la comunicación institucional"
+    ],
+    "answer": 0,
+    "explanation": "El protocolo organiza actos, precedencias, símbolos y tiempos para transmitir coherentemente el mensaje del anfitrión.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-02",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué determina la precedencia?",
+    "options": [
+      "La superioridad personal",
+      "La primacía funcional a efectos de lugar, asiento, intervención y honores",
+      "El salario",
+      "La edad de cualquier asistente"
+    ],
+    "answer": 1,
+    "explanation": "La precedencia ordena funcionalmente el acto; no implica superioridad personal.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-03",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En un automóvil con chófer, ¿cuál es el puesto de honor?",
+    "options": [
+      "Posterior derecha",
+      "Posterior izquierda",
+      "Delantera derecha",
+      "Posterior central"
+    ],
+    "answer": 0,
+    "explanation": "La plaza posterior derecha es el puesto de honor.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-04",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En ese mismo automóvil, la segunda plaza es:",
+    "options": [
+      "Delantera derecha",
+      "Posterior izquierda",
+      "Posterior central",
+      "Delantera izquierda"
+    ],
+    "answer": 1,
+    "explanation": "La segunda plaza es la posterior izquierda.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-05",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En un avión, la persona de mayor rango normalmente:",
+    "options": [
+      "Embarca primera y desembarca última",
+      "Embarca última y desembarca primera",
+      "Embarca tercera y desembarca segunda",
+      "No sigue regla alguna"
+    ],
+    "answer": 1,
+    "explanation": "La pauta recogida es embarcar la última y desembarcar la primera.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-06",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una presidencia impar:",
+    "options": [
+      "No existe centro",
+      "Existe un centro único y los demás puestos alternan derecha e izquierda",
+      "Los puestos se ordenan alfabéticamente",
+      "El anfitrión nunca ocupa el centro"
+    ],
+    "answer": 1,
+    "explanation": "La presidencia impar tiene un centro único.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-07",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué significa “derecha ceremonial”?",
+    "options": [
+      "La derecha del público",
+      "La derecha de quien preside",
+      "La puerta derecha",
+      "El lado de la bandera nacional"
+    ],
+    "answer": 1,
+    "explanation": "La referencia es la derecha de quien preside, no la del público.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-08",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Respecto a la bandera de España:",
+    "options": [
+      "Puede ser menor que las demás",
+      "Debe ocupar lugar destacado, visible y de honor",
+      "Debe ir siempre en un extremo",
+      "Puede omitirse si hay bandera UE"
+    ],
+    "answer": 1,
+    "explanation": "Debe ocupar un lugar destacado y las demás no pueden tener mayor tamaño.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-09",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Cuál es una función del anfitrión?",
+    "options": [
+      "Invitar, recibir, despedir y definir el tono del acto",
+      "Limitarse a cerrar discursos",
+      "Delegar siempre las presentaciones",
+      "No intervenir en la presidencia"
+    ],
+    "answer": 0,
+    "explanation": "El anfitrión organiza la recepción y define objetivo, tono y mensaje.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-10",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué práctica ayuda a evitar errores visuales en una comparecencia?",
+    "options": [
+      "Comprobar traseras y fondos desde el punto exacto de cámara",
+      "Elegir siempre fondos muy recargados",
+      "Colocar objetos altos detrás de los ponentes",
+      "Evitar pruebas de cámara"
+    ],
+    "answer": 0,
+    "explanation": "Las traseras deben comprobarse desde cámara para evitar asociaciones visuales o logotipos ocultos.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
