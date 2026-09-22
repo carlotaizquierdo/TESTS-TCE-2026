@@ -238,24 +238,65 @@ async function readPdfLocally(file){
   for(let p=1;p<=pdf.numPages;p++){const page=await pdf.getPage(p);const tc=await page.getTextContent();text+="\n"+tc.items.map(i=>i.str).join(" ")}
   return text;
 }
-function localQuestionsFromText(text,subjectName,source,count){
-  const sentences=text.replace(/\s+/g," ").split(/(?<=[.!?])\s+/).filter(s=>s.length>70&&s.length<320);
-  const candidates=shuffle(sentences).slice(0,Math.min(sentences.length,count*4));
-  const words=text.toLowerCase().match(/[a-záéíóúüñ]{6,}/g)||[];
-  const freq={};words.forEach(w=>freq[w]=(freq[w]||0)+1);
-  const common=Object.entries(freq).sort((a,b)=>b[1]-a[1]).map(x=>x[0]).filter(w=>!["porque","también","cuando","donde","puede","tienen","entre","sobre","desde","hasta","según","mientras"].includes(w)).slice(0,80);
-  const out=[];
-  for(const s of candidates){
-    const terms=s.match(/[A-Za-zÁÉÍÓÚÜÑáéíóúüñ][A-Za-zÁÉÍÓÚÜÑáéíóúüñ-]{5,}/g)||[];
-    const target=terms.sort((a,b)=>b.length-a.length)[0]; if(!target)continue;
-    const distractors=shuffle(common.filter(w=>w!==target.toLowerCase()&&Math.abs(w.length-target.length)<6)).slice(0,3);
-    if(distractors.length<3)continue;
-    const opts=shuffle([target,...distractors]);
-    out.push({id:"local-"+Date.now()+"-"+out.length,baseId:"local-"+out.length,subject:"custom",subjectName,source,question:"Completa correctamente la afirmación extraída del temario: "+s.replace(target,"_____"),options:opts,answer:opts.indexOf(target),explanation:"La frase procede directamente del documento cargado: "+s,difficulty:"medium",key:false});
-    if(out.length>=count)break;
+function extractConceptPairs(text){
+  const clean=text.replace(/\s+/g," ").trim();
+  const sentences=clean.split(/(?<=[.!?])\s+/).filter(s=>s.length>=45&&s.length<=320);
+  const pairs=[],seen=new Set();
+  const add=(concept,definition)=>{
+    concept=(concept||"").replace(/^[•\-–—\d.)\s]+/,"").trim();
+    definition=(definition||"").trim().replace(/[.;:]$/,"");
+    if(concept.length<3||concept.length>70||definition.length<20||definition.length>240)return;
+    if(concept.split(/\s+/).length>10)return;
+    const key=concept.toLowerCase();
+    if(seen.has(key))return;
+    seen.add(key);pairs.push({concept,definition});
+  };
+  for(const s of sentences){
+    let m=s.match(/^([^:]{3,70}):\s+(.{20,240})$/);
+    if(m){add(m[1],m[2]);continue}
+    m=s.match(/^(.{3,70}?)\s+(?:es|son|se define como|se refiere a|consiste en|sirve para|permite)\s+(.{20,240})$/i);
+    if(m)add(m[1],m[2]);
   }
-  return out;
+  return pairs;
 }
+function localQuestionsFromText(text,subjectName,source,count){
+  const pairs=extractConceptPairs(text);
+  if(pairs.length<4)return [];
+  const pool=shuffle(pairs);
+  const out=[];
+  let cursor=0;
+  while(out.length<count&&cursor<pool.length*3){
+    const item=pool[cursor%pool.length],others=shuffle(pairs.filter(p=>p.concept.toLowerCase()!==item.concept.toLowerCase()));
+    if(others.length<3)break;
+    const reverse=Math.random()<0.45;
+    if(reverse){
+      const packed=shuffle([{text:item.concept,ok:true},...others.slice(0,3).map(p=>({text:p.concept,ok:false}))]);
+      out.push({
+        id:"local-"+Date.now()+"-"+out.length+"-"+Math.random().toString(36).slice(2,6),
+        baseId:"local-"+source+"-"+item.concept,
+        subject:"custom",subjectName,source,
+        question:'¿A qué concepto del temario corresponde esta descripción? “'+item.definition+'”',
+        options:packed.map(x=>x.text),answer:packed.findIndex(x=>x.ok),
+        explanation:'La descripción corresponde a «'+item.concept+'» según el documento cargado.',
+        difficulty:"medium",key:false
+      });
+    }else{
+      const packed=shuffle([{text:item.definition,ok:true},...others.slice(0,3).map(p=>({text:p.definition,ok:false}))]);
+      out.push({
+        id:"local-"+Date.now()+"-"+out.length+"-"+Math.random().toString(36).slice(2,6),
+        baseId:"local-"+source+"-"+item.concept,
+        subject:"custom",subjectName,source,
+        question:'Según el documento, ¿qué descripción corresponde mejor a «'+item.concept+'»?',
+        options:packed.map(x=>x.text),answer:packed.findIndex(x=>x.ok),
+        explanation:'«'+item.concept+'» se asocia en el documento con: '+item.definition,
+        difficulty:"medium",key:false
+      });
+    }
+    cursor++;
+  }
+  return shuffle(out).slice(0,count);
+}
+
 $("generateBtn").addEventListener("click",async()=>{
   const subject=$("uploadSubject").value.trim()||"Temario añadido";
   const source=$("fileInput").files[0]?.name||"Documento cargado";
