@@ -1,0 +1,172 @@
+[
+  {
+    "id": "est-01",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué cuatro rasgos integran el entorno VUCA?",
+    "options": [
+      "Volatilidad, incertidumbre, complejidad y ambigüedad",
+      "Valor, utilidad, coste y adaptación",
+      "Velocidad, universalidad, competencia y apertura",
+      "Variabilidad, unidad, control y anticipación"
+    ],
+    "answer": 0,
+    "explanation": "VUCA significa volatilidad, incertidumbre, complejidad y ambigüedad.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-02",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Ante la incertidumbre, ¿qué respuesta estratégica recomiendan los apuntes?",
+    "options": [
+      "Esperar hasta disponer de certeza completa",
+      "Mejorar información, construir escenarios, fijar umbrales y conservar flexibilidad",
+      "Eliminar todas las decisiones irreversibles",
+      "Usar solo datos del ejercicio anterior"
+    ],
+    "answer": 1,
+    "explanation": "La incertidumbre no se elimina: se gestiona con mejor información, escenarios, umbrales y flexibilidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-03",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué afirmación diferencia mejor internacionalización y exportación?",
+    "options": [
+      "Son sinónimos",
+      "Exportar es más amplio",
+      "Internacionalizar incluye exportar, pero también compras, alianzas, licencias, oficinas, filiales, inversión o producción exterior",
+      "Internacionalizar exige siempre inversión productiva"
+    ],
+    "answer": 2,
+    "explanation": "La internacionalización engloba muchas formas de relación con mercados exteriores, no solo ventas.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-04",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es un factor exógeno de globalización?",
+    "options": [
+      "Economías de escala internas",
+      "Estrategia corporativa",
+      "Reducción de barreras comerciales",
+      "Ciclo de vida del producto"
+    ],
+    "answer": 2,
+    "explanation": "La reducción de barreras es un factor externo; economías de escala, ciclo de vida y estrategia son factores endógenos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-05",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es un factor endógeno de globalización?",
+    "options": [
+      "Integración regional",
+      "Tecnología de comunicación mundial",
+      "Logística internacional",
+      "Economías de escala"
+    ],
+    "answer": 3,
+    "explanation": "Las economías de escala nacen de la lógica y recursos de la propia empresa.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-06",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza al nearshoring?",
+    "options": [
+      "Trasladar producción a cualquier país aliado, aunque esté lejos",
+      "Acercar producción o aprovisionamiento al mercado",
+      "Concentrar todo en un único proveedor",
+      "Eliminar proveedores internacionales"
+    ],
+    "answer": 1,
+    "explanation": "Nearshoring busca proximidad geográfica para mejorar continuidad y tiempos de respuesta.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-07",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza al friendshoring?",
+    "options": [
+      "Priorizar países aliados o políticamente afines en la cadena de suministro",
+      "Producir únicamente en el mercado doméstico",
+      "Acercar siempre físicamente la producción",
+      "Elegir siempre el proveedor más barato"
+    ],
+    "answer": 0,
+    "explanation": "Friendshoring prioriza países aliados; no es sinónimo de proximidad geográfica.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-08",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estas decisiones es estratégicamente más relevante?",
+    "options": [
+      "Cambiar el horario de una reunión",
+      "Elegir un mercado y comprometer recursos durante varios años",
+      "Reordenar un archivo",
+      "Modificar el color de una presentación"
+    ],
+    "answer": 1,
+    "explanation": "Las decisiones estratégicas comprometen recursos, condicionan funciones y tienen efectos de medio/largo plazo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-09",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué debe expresar una propuesta de valor?",
+    "options": [
+      "Qué problema resuelve, para quién y por qué la solución es preferible",
+      "Solo el precio final",
+      "Únicamente las características técnicas",
+      "La misión corporativa completa"
+    ],
+    "answer": 0,
+    "explanation": "La propuesta de valor conecta problema, cliente y razón de preferencia.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-10",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de las siguientes NO figura entre las megatendencias de los apuntes?",
+    "options": [
+      "Orientación hacia el cliente",
+      "Especialización",
+      "Geopolítica",
+      "Eliminación total de la regulación"
+    ],
+    "answer": 3,
+    "explanation": "Los apuntes hablan de desregulación, privatización y nueva regulación, no de eliminar toda regulación.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
