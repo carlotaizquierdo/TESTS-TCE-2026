@@ -848,5 +848,175 @@
     "explanation": "El temario propone cuestionar los supuestos que explican los resultados insuficientes.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "est-51",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué diferencia existe entre estrategia y gestión en los apuntes?",
+    "options": [
+      "La estrategia decide prioridades y dirección; la gestión organiza personas y tareas para ejecutarlas",
+      "La estrategia solo trata operaciones diarias",
+      "La gestión sustituye la necesidad de estrategia",
+      "Son conceptos idénticos"
+    ],
+    "answer": 0,
+    "explanation": "Una sin la otra produce ejecución sin dirección o intención sin resultados.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-52",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué puede ser peligrosa una estrategia demasiado rígida en un entorno turbulento?",
+    "options": [
+      "Porque pierde valor cuando cambian variables y no incorpora revisión ni escenarios",
+      "Porque una estrategia nunca debe tener objetivos",
+      "Porque impide medir resultados financieros",
+      "Porque elimina cualquier competencia"
+    ],
+    "answer": 0,
+    "explanation": "La turbulencia exige revisión periódica y flexibilidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-53",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué describe mejor una empresa extendida?",
+    "options": [
+      "Una organización que integra servicios en la nube, proveedores tecnológicos y colaboradores externos",
+      "Una empresa que produce todo internamente",
+      "Una filial dedicada solo a exportación",
+      "Una empresa sin proveedores"
+    ],
+    "answer": 0,
+    "explanation": "La empresa extendida coordina capacidades internas y externas.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-54",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué riesgo puede generar no adoptar una tecnología relevante?",
+    "options": [
+      "Quedar rezagado frente a competidores que mejoran procesos o propuesta de valor",
+      "Reducir automáticamente el endeudamiento",
+      "Eliminar la necesidad de talento",
+      "Aumentar siempre el margen"
+    ],
+    "answer": 0,
+    "explanation": "No adoptar también puede ser un riesgo estratégico.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-55",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué efecto estratégico puede tener el envejecimiento demográfico?",
+    "options": [
+      "Cambiar segmentos de demanda y disponibilidad de trabajadores",
+      "Afectar solo al sistema de pensiones",
+      "Eliminar la innovación",
+      "No tener impacto empresarial"
+    ],
+    "answer": 0,
+    "explanation": "La demografía afecta tanto a clientes como a talento y servicios.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-56",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué pregunta convierte una tendencia tecnológica en una cuestión de negocio?",
+    "options": [
+      "Cómo cambia ingresos, costes, margen, caja o continuidad del suministro",
+      "Qué titulares ha generado",
+      "Qué opinan los competidores en redes",
+      "Si parece moderna"
+    ],
+    "answer": 0,
+    "explanation": "La estrategia exige traducir tendencias en efectos económicos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-57",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué beneficio puede aportar diversificar proveedores?",
+    "options": [
+      "Reducir dependencia de una única fuente de suministro",
+      "Garantizar siempre el menor precio",
+      "Eliminar todos los controles de calidad",
+      "Evitar gestionar inventarios"
+    ],
+    "answer": 0,
+    "explanation": "La diversificación mejora resiliencia aunque pueda aumentar complejidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-58",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué relación hay entre internacionalización y aprendizaje?",
+    "options": [
+      "Competir en mercados exigentes puede mejorar procesos, calidad y disciplina si la empresa aprende",
+      "Exportar garantiza aprendizaje automático",
+      "El aprendizaje solo ocurre antes de entrar",
+      "La internacionalización reduce siempre capacidades"
+    ],
+    "answer": 0,
+    "explanation": "La analogía de la Champions subraya que competir fuera puede elevar capacidades.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "est-59",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué debe evaluarse al considerar trasladar maquinaria madura a otro mercado?",
+    "options": [
+      "Productividad, seguridad, mantenimiento, demanda y vida útil real",
+      "Solo que esté amortizada contablemente",
+      "Solo el coste de transporte",
+      "Solo el precio de compra original"
+    ],
+    "answer": 0,
+    "explanation": "Una máquina amortizada no es automáticamente competitiva o adecuada.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-60",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué refleja mejor una internacionalización coherente?",
+    "options": [
+      "Objetivos, ventajas esperadas, barreras, recursos y coste de oportunidad alineados",
+      "Entusiasmo sin presupuesto",
+      "Elegir país antes de definir producto",
+      "Exportar todo el catálogo sin priorización"
+    ],
+    "answer": 0,
+    "explanation": "La coherencia entre intención, capacidades y recursos es esencial.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
