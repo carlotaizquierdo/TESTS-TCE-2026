@@ -678,5 +678,175 @@
     "explanation": "Los apuntes estructuran LinkedIn en esas cinco fases.",
     "difficulty": "easy",
     "key": true
+  },
+  {
+    "id": "int-41",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué herramienta es más adecuada para estudiar pirámides de población y tendencias demográficas?",
+    "options": [
+      "International Data Base",
+      "Trade Map",
+      "MACMAP",
+      "Export Potential Map"
+    ],
+    "answer": 0,
+    "explanation": "International Data Base se utiliza para estructura y evolución demográfica.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-42",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué herramienta ayuda a comparar la estructura exportadora y proximidad productiva entre países?",
+    "options": [
+      "Atlas of Economic Complexity",
+      "COFACE",
+      "LinkedIn",
+      "International Data Base"
+    ],
+    "answer": 0,
+    "explanation": "El Atlas permite analizar productos, relaciones y estructura productiva/comercial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-43",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué combinación sería metodológicamente más sólida para seleccionar un mercado?",
+    "options": [
+      "Trade Map + MACMAP + riesgo país + análisis de canales y validación primaria",
+      "Solo PIB",
+      "Solo una respuesta de IA",
+      "Solo número de habitantes"
+    ],
+    "answer": 0,
+    "explanation": "La triangulación reduce decisiones basadas en un único indicador.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-44",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué significa triangulación en este contexto?",
+    "options": [
+      "Contrastar una conclusión usando varios indicadores, fuentes o métodos",
+      "Elegir tres países siempre",
+      "Consultar tres redes sociales",
+      "Usar tres modelos de IA sin verificar"
+    ],
+    "answer": 0,
+    "explanation": "La idea es no depender de una única cifra o fuente.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-45",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué problema tiene considerar cliente a toda empresa que aparece como importadora?",
+    "options": [
+      "Puede estar inactiva, comprar otro producto o no encajar con nuestro posicionamiento/capacidad",
+      "Todas las importadoras son competidores",
+      "Trade Map nunca muestra empresas",
+      "Impide usar LinkedIn"
+    ],
+    "answer": 0,
+    "explanation": "La lista estadística requiere validación comercial.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-46",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es una buena primera acción antes de pedir conclusiones a una IA sobre una tabla?",
+    "options": [
+      "Solicitar un resumen descriptivo y revisar columnas, unidades y periodo",
+      "Pedir causalidades inmediatamente",
+      "Eliminar valores atípicos sin comprobarlos",
+      "Suponer que no hay datos ausentes"
+    ],
+    "answer": 0,
+    "explanation": "Comprender la estructura de los datos precede a la interpretación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-47",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué el canal digital no debe copiarse de un país a otro?",
+    "options": [
+      "Porque cambian producto, hábitos de búsqueda, etapa de compra y decisores",
+      "Porque todas las redes sociales están prohibidas fuera del país",
+      "Porque solo funciona LinkedIn",
+      "Porque el canal depende únicamente del idioma"
+    ],
+    "answer": 0,
+    "explanation": "El comportamiento digital varía por mercado y tipo de compra.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-48",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debe comprobarse en las primeras líneas de la sección “Acerca de” de LinkedIn?",
+    "options": [
+      "Si atraen, explican a quién se ayuda, qué problema se resuelve y la propuesta de valor",
+      "Solo el número de seguidores",
+      "Únicamente la antigüedad laboral",
+      "La lista completa de contactos"
+    ],
+    "answer": 0,
+    "explanation": "La auditoría del perfil busca claridad de posicionamiento y llamada a la acción.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "int-49",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué función cumplen organismos como ICEX, cámaras o agencias regionales en internacionalización?",
+    "options": [
+      "Facilitar información, ferias, misiones, búsqueda de socios, ayudas y asesoramiento",
+      "Sustituir al departamento comercial de forma permanente",
+      "Garantizar contratos",
+      "Eliminar barreras regulatorias"
+    ],
+    "answer": 0,
+    "explanation": "Son organismos de apoyo, no sustitutos de la estrategia empresarial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-50",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué regla resume mejor el uso profesional de IA en comercio exterior?",
+    "options": [
+      "Usarla para explorar y estructurar, pero verificar cuando afecta a normas, costes o decisiones",
+      "Aceptar cualquier respuesta bien redactada",
+      "Evitar toda fuente primaria",
+      "No dar contexto para no sesgar"
+    ],
+    "answer": 0,
+    "explanation": "La IA apoya el juicio profesional; no sustituye verificación ni responsabilidad.",
+    "difficulty": "easy",
+    "key": true
   }
 ]
