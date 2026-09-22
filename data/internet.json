@@ -168,5 +168,515 @@
     "explanation": "El contenido debe dar evidencia técnica al prescriptor y seguridad empresarial al decisor final.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "int-11",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué error metodológico se comete al elegir primero una herramienta y después el objetivo?",
+    "options": [
+      "Se generan búsquedas desordenadas y conclusiones débiles",
+      "Se mejora automáticamente la precisión",
+      "Se reduce el riesgo de sesgo",
+      "Se garantiza una fuente primaria"
+    ],
+    "answer": 0,
+    "explanation": "El proceso debe partir de la pregunta de negocio y no de la herramienta disponible.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-12",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "En el proceso exportador, la función de información responde principalmente a:",
+    "options": [
+      "Dónde existe una oportunidad real",
+      "Cómo cerrar una venta ya negociada",
+      "Cómo emitir una factura",
+      "Cómo fijar el tipo de cambio"
+    ],
+    "answer": 0,
+    "explanation": "La información sirve para identificar y evaluar oportunidades.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-13",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué ventaja principal tiene un modelo conversacional frente a un buscador?",
+    "options": [
+      "Relacionar, resumir, comparar y reformular información",
+      "Garantizar que todas sus fuentes existen",
+      "Mostrar siempre la fuente primaria",
+      "Eliminar el riesgo de alucinación"
+    ],
+    "answer": 0,
+    "explanation": "El modelo conversacional destaca en síntesis y estructuración, pero requiere verificación.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-14",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es un riesgo específico de los buscadores citado en los apuntes?",
+    "options": [
+      "SEO, saturación y resultados poco relevantes",
+      "Inventar siempre fuentes",
+      "No permitir abrir páginas",
+      "No ordenar resultados"
+    ],
+    "answer": 0,
+    "explanation": "El buscador puede priorizar contenido optimizado o poco útil para la necesidad real.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "int-15",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es un riesgo específico de los modelos conversacionales?",
+    "options": [
+      "Alucinaciones o mezcla de hechos e inferencias",
+      "No poder comparar información",
+      "No poder resumir",
+      "No poder adaptar el tono"
+    ],
+    "answer": 0,
+    "explanation": "Una respuesta plausible puede ser falsa o no estar sustentada.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-16",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué debe analizarse la demografía antes de seleccionar un mercado?",
+    "options": [
+      "Porque ayuda a estimar tamaño, evolución y segmentos de demanda",
+      "Porque determina el arancel",
+      "Porque sustituye al análisis de renta",
+      "Porque define automáticamente el canal"
+    ],
+    "answer": 0,
+    "explanation": "Población, edades, crecimiento, renta y gasto ayudan a valorar el mercado potencial.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-17",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué variable se relaciona directamente con precio final, margen y necesidad de cobertura?",
+    "options": [
+      "Tipo de cambio",
+      "Población total",
+      "Número de ferias",
+      "Número de seguidores en LinkedIn"
+    ],
+    "answer": 0,
+    "explanation": "La volatilidad de la divisa puede alterar ingresos, costes y margen.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-18",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué aportan los acuerdos comerciales al análisis de mercado?",
+    "options": [
+      "Preferencias, reglas de origen y condiciones documentales",
+      "Solo información demográfica",
+      "Únicamente estadísticas de LinkedIn",
+      "La lista de expositores de ferias"
+    ],
+    "answer": 0,
+    "explanation": "Los acuerdos pueden reducir aranceles, pero exigen cumplir condiciones de origen y documentación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-19",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál de estos es un ejemplo de barrera no arancelaria?",
+    "options": [
+      "Un requisito obligatorio de homologación",
+      "Un derecho arancelario del 8 %",
+      "Un tipo de cambio desfavorable",
+      "Un coste de transporte elevado"
+    ],
+    "answer": 0,
+    "explanation": "Los reglamentos técnicos y homologaciones son barreras no arancelarias.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-20",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué ejemplo corresponde a una medida sanitaria o fitosanitaria?",
+    "options": [
+      "Una condición de entrada aplicable a alimentos, animales o vegetales",
+      "Un arancel ad valorem",
+      "Un cupo de crédito bancario",
+      "Una comisión de marketplace"
+    ],
+    "answer": 0,
+    "explanation": "Las medidas SPS afectan productos alimentarios, animales, vegetales y relacionados.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-21",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué un mercado grande puede no ser atractivo?",
+    "options": [
+      "Porque puede presentar barreras, riesgo, saturación o canales poco accesibles",
+      "Porque tamaño y atractivo siempre son equivalentes",
+      "Porque los mercados grandes no importan",
+      "Porque un arancel bajo garantiza acceso"
+    ],
+    "answer": 0,
+    "explanation": "El tamaño es solo uno de varios criterios de selección.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-22",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué enseña la idea de que la proximidad no es solo geográfica?",
+    "options": [
+      "Países lejanos pueden tener estructuras productivas, gustos o redes comerciales compatibles",
+      "La distancia física nunca importa",
+      "Los países vecinos siempre son los mejores mercados",
+      "Solo cuenta el idioma"
+    ],
+    "answer": 0,
+    "explanation": "La proximidad relevante puede ser productiva, comercial o de consumo.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "int-23",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es el primer paso del método recomendado de selección de países?",
+    "options": [
+      "Definir el producto con precisión y confirmar su clasificación arancelaria",
+      "Elegir directamente el país con más PIB",
+      "Contactar distribuidores",
+      "Diseñar anuncios en redes sociales"
+    ],
+    "answer": 0,
+    "explanation": "Sin definir bien el producto y su clasificación, los datos de comercio y acceso pueden ser erróneos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-24",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "Después de comparar importaciones y crecimiento, ¿qué debe añadirse al análisis?",
+    "options": [
+      "Aranceles, barreras no arancelarias, riesgo, divisa y canales",
+      "Solo población",
+      "Solo ferias",
+      "Solo redes sociales"
+    ],
+    "answer": 0,
+    "explanation": "La selección debe combinar demanda con acceso y riesgo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-25",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué conviene asignar pesos a los criterios de selección?",
+    "options": [
+      "Para hacer explícitas las prioridades y justificar la preselección",
+      "Para evitar usar fuentes primarias",
+      "Para convertir cualquier resultado en objetivo",
+      "Para sustituir el juicio profesional"
+    ],
+    "answer": 0,
+    "explanation": "Ponderar obliga a explicitar qué factores importan más para ese producto y empresa.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "int-26",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es el último paso recomendado antes de decidir un mercado prioritario?",
+    "options": [
+      "Validar con fuentes primarias y entrevistas",
+      "Elegir el país con menor arancel",
+      "Usar solo una respuesta de IA",
+      "Basarse exclusivamente en importaciones"
+    ],
+    "answer": 0,
+    "explanation": "La preselección cuantitativa debe contrastarse con evidencia directa y cualitativa.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-27",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué información NO debería incluirse alegremente en un sistema de IA?",
+    "options": [
+      "Secretos empresariales o datos personales innecesarios sin garantías adecuadas",
+      "Objetivos generales del proyecto",
+      "El país que se está estudiando",
+      "Un formato de salida"
+    ],
+    "answer": 0,
+    "explanation": "La protección de datos y confidencialidad forma parte del uso profesional de IA.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-28",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué es importante dar contexto empresarial a una IA?",
+    "options": [
+      "Reduce respuestas genéricas y ayuda a adaptar el análisis a empresa, producto y mercado",
+      "Evita por completo cualquier error",
+      "Sustituye la verificación de fuentes",
+      "Elimina la necesidad de definir una tarea"
+    ],
+    "answer": 0,
+    "explanation": "El contexto hace la respuesta más pertinente, pero no elimina la necesidad de comprobarla.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-29",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué significa separar hechos, interpretación y recomendación?",
+    "options": [
+      "Distinguir qué está respaldado por una fuente, qué inferimos y qué proponemos hacer",
+      "Tratar toda conclusión como un hecho",
+      "Eliminar las recomendaciones",
+      "Evitar citar fuentes"
+    ],
+    "answer": 0,
+    "explanation": "Separar niveles reduce confusión entre evidencia y juicio.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-30",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "Pedir fuentes a una IA:",
+    "options": [
+      "Reduce el riesgo, pero no garantiza que existan ni que respalden la afirmación",
+      "Garantiza exactitud total",
+      "Hace innecesario abrir los enlaces",
+      "Convierte cualquier respuesta en fuente primaria"
+    ],
+    "answer": 0,
+    "explanation": "Las referencias deben abrirse y comprobarse.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-31",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué modalidad conviene cuando la pregunta exige localizar y contrastar múltiples fuentes externas?",
+    "options": [
+      "Investigación profunda",
+      "Corpus cerrado",
+      "Solo LinkedIn",
+      "Cuaderno ATA"
+    ],
+    "answer": 0,
+    "explanation": "La investigación profunda es adecuada para preguntas amplias que requieren búsqueda y contraste.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "int-32",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuándo resulta especialmente útil un corpus cerrado?",
+    "options": [
+      "Cuando se quiere responder únicamente con documentos aportados",
+      "Cuando se desea completar lagunas con conocimiento general",
+      "Cuando no existen documentos",
+      "Cuando se quiere evitar citar fuentes"
+    ],
+    "answer": 0,
+    "explanation": "El corpus cerrado restringe la respuesta al material definido.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-33",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué paso permite pasar de estadísticas de Trade Map a potenciales clientes?",
+    "options": [
+      "Identificar importadores cuando sea posible y validar actividad, tamaño y encaje de cada empresa",
+      "Considerar cliente a cualquier empresa que aparezca en la base",
+      "Contactar sin revisar la actividad",
+      "Usar solo el volumen del país"
+    ],
+    "answer": 0,
+    "explanation": "Una empresa listada no es automáticamente un cliente adecuado.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-34",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debería definirse antes de seleccionar una feria?",
+    "options": [
+      "El objetivo: venta, distribuidores, inteligencia competitiva o visibilidad",
+      "El diseño del stand",
+      "El número de folletos",
+      "La red social que se utilizará"
+    ],
+    "answer": 0,
+    "explanation": "El objetivo condiciona qué feria merece la pena y cómo se prepara.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-35",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué es útil el catálogo de expositores de una feria?",
+    "options": [
+      "Funciona como fuente de inteligencia competitiva y de posibles socios o compradores",
+      "Sustituye la visita a la feria",
+      "Garantiza que todos sean clientes potenciales",
+      "Permite conocer aranceles"
+    ],
+    "answer": 0,
+    "explanation": "El catálogo permite analizar quién participa, cómo se posiciona y qué relaciones pueden interesar.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-36",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "En B2B técnico, ¿qué contenido ayuda más a un ingeniero prescriptor?",
+    "options": [
+      "Pruebas, tolerancias, fiabilidad, automatización y datos técnicos",
+      "Solo mensajes de marca genéricos",
+      "Únicamente promociones de precio",
+      "Contenido personal del CEO"
+    ],
+    "answer": 0,
+    "explanation": "El prescriptor técnico necesita evidencia técnica para evaluar la solución.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-37",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "En B2B técnico, ¿qué contenido ayuda más a un decisor de nivel directivo?",
+    "options": [
+      "Riesgo, referencias, servicio, continuidad y reputación",
+      "Solo tolerancias de fabricación",
+      "Únicamente vídeos de maquinaria sin contexto",
+      "Solo características dimensionales"
+    ],
+    "answer": 0,
+    "explanation": "El decisor final suele valorar seguridad empresarial y riesgo además de lo técnico.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-38",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debe hacerse antes de extraer causalidades de una tabla analizada con IA?",
+    "options": [
+      "Revisar datos, valores atípicos, ausencias y validar las relaciones",
+      "Aceptar cualquier correlación como causal",
+      "Eliminar el análisis descriptivo",
+      "Ignorar denominadores"
+    ],
+    "answer": 0,
+    "explanation": "Una correlación o patrón no implica causalidad automáticamente.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-39",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué son especialmente útiles los contactos de segundo grado en LinkedIn?",
+    "options": [
+      "Combinan alcance con posibilidad de referencia o presentación",
+      "Son siempre decisores de compra",
+      "No requieren mensaje personalizado",
+      "Tienen acceso automático a la empresa"
+    ],
+    "answer": 0,
+    "explanation": "El segundo grado ofrece una vía de contacto más cálida que un completo desconocido.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-40",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es la secuencia más coherente para desarrollo de negocio en LinkedIn?",
+    "options": [
+      "Crear → encontrar → conectar → interactuar → convertir",
+      "Conectar → vender → crear → encontrar → interactuar",
+      "Convertir → crear → vender → encontrar → comentar",
+      "Publicar → vender → bloquear → importar contactos"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes estructuran LinkedIn en esas cinco fases.",
+    "difficulty": "easy",
+    "key": true
   }
 ]
