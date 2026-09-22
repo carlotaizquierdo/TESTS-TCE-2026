@@ -1,0 +1,172 @@
+[
+  {
+    "id": "coc-01",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué acredita un certificado de origen?",
+    "options": [
+      "El origen declarado de la mercancía",
+      "La temporalidad de una exportación",
+      "La solvencia del comprador",
+      "El pago del arancel"
+    ],
+    "answer": 0,
+    "explanation": "El certificado de origen acredita el origen declarado de la mercancía.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-02",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Para qué sirve principalmente un cuaderno ATA?",
+    "options": [
+      "Acreditar origen preferencial",
+      "Facilitar exportaciones temporales de muestras, material profesional o bienes para ferias",
+      "Registrar una filial",
+      "Solicitar financiación"
+    ],
+    "answer": 1,
+    "explanation": "El ATA facilita movimientos temporales sin seguir el esquema de una exportación definitiva en cada frontera participante.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-03",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué programa PYMEXT encaja con una pyme que quiere licitar con el Banco Mundial?",
+    "options": [
+      "PYMEXT E-Commerce",
+      "PYMEXT Internacional",
+      "PYMEXT Multilaterales",
+      "SUBCONTEX"
+    ],
+    "answer": 2,
+    "explanation": "PYMEXT Multilaterales está orientado a licitaciones de organismos de desarrollo.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-04",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "PYMEXT E-Commerce se centra en:",
+    "options": [
+      "Internacionalización online",
+      "Expedición de certificados de origen",
+      "Licitaciones multilaterales",
+      "Registro de patentes"
+    ],
+    "answer": 0,
+    "explanation": "El programa analiza demanda digital, marketplaces, canales y prioridades online.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-05",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio permite conocer clasificación TARIC u origen?",
+    "options": [
+      "Informes a medida",
+      "Cuaderno ATA",
+      "Misión empresarial",
+      "EEN únicamente"
+    ],
+    "answer": 0,
+    "explanation": "La Cámara ofrece informes arancelarios, de origen y clasificación TARIC.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-06",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una misión empresarial aporta principalmente:",
+    "options": [
+      "Agenda adaptada de clientes o socios y acompañamiento",
+      "Eliminación automática de aranceles",
+      "Garantía de ventas",
+      "Registro FDA"
+    ],
+    "answer": 0,
+    "explanation": "Las misiones incluyen agenda, información de mercado, acompañamiento y contactos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-07",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué es SUBCONTEX?",
+    "options": [
+      "Un programa de financiación",
+      "Un servicio para conectar subcontratación industrial con compradores internacionales",
+      "Un certificado aduanero",
+      "Una red de arbitraje"
+    ],
+    "answer": 1,
+    "explanation": "SUBCONTEX promueve a empresas de subcontratación industrial ante compradores internacionales.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-08",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "La Enterprise Europe Network apoya principalmente:",
+    "options": [
+      "Internacionalización, innovación y cooperación empresarial",
+      "Solo visados",
+      "Solo fiscalidad",
+      "Únicamente exportaciones temporales"
+    ],
+    "answer": 0,
+    "explanation": "EEN presta apoyo a pymes con proyección internacional, innovación y cooperación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-09",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Exportador Autorizado y REX se relacionan con:",
+    "options": [
+      "Facilitaciones aduaneras y acreditación de origen preferencial según el régimen",
+      "Financiación bancaria",
+      "Seguro de transporte",
+      "Protocolo institucional"
+    ],
+    "answer": 0,
+    "explanation": "Son mecanismos utilizados en la operativa de origen preferencial según el régimen aplicable.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-10",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué tienen en común los tres programas PYMEXT?",
+    "options": [
+      "Parten de diagnóstico, seleccionan oportunidades y convierten el análisis en hoja de ruta",
+      "Todos se centran en e-commerce",
+      "Todos financian el 100 % sin condiciones",
+      "Todos expiden documentos aduaneros"
+    ],
+    "answer": 0,
+    "explanation": "La lógica común es diagnóstico, selección de oportunidades y hoja de ruta priorizada.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
