@@ -678,5 +678,175 @@
     "explanation": "El aprendizaje útil es específico de la persona/contexto y evita generalizaciones.",
     "difficulty": "hard",
     "key": true
+  },
+  {
+    "id": "cc-41",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué riesgo existe al copiar literalmente un estilo de comunicación local?",
+    "options": [
+      "Puede resultar artificial y no sustituye a comprender el contexto y al interlocutor",
+      "Garantiza integración cultural",
+      "Elimina malentendidos",
+      "Hace innecesario validar interpretaciones"
+    ],
+    "answer": 0,
+    "explanation": "Adaptarse no significa imitar mecánicamente.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "cc-42",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué sería una aplicación incorrecta de Hofstede?",
+    "options": [
+      "Decir que una persona actuará de una forma concreta solo por su nacionalidad",
+      "Usar dimensiones para preparar hipótesis",
+      "Comparar tendencias agregadas",
+      "Contrastar el modelo con observación real"
+    ],
+    "answer": 0,
+    "explanation": "El error es convertir promedios nacionales en predicciones individuales.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-43",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "Si una contraparte evita decir “no” de forma directa, ¿qué debe hacer el negociador intercultural?",
+    "options": [
+      "Observar señales, preguntar con tacto y validar el significado antes de concluir",
+      "Interpretarlo automáticamente como sí",
+      "Presionar hasta obtener una negativa explícita",
+      "Asumir falta de profesionalidad"
+    ],
+    "answer": 0,
+    "explanation": "La conducta debe interpretarse dentro de su contexto comunicativo.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "cc-44",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué ayuda a reducir un choque derivado de asimetría de poder?",
+    "options": [
+      "Reconocer explícitamente el contexto y crear espacio para que la otra parte exprese su perspectiva",
+      "Ignorar la jerarquía",
+      "Dar feedback delante de superiores",
+      "Usar comparaciones civilizatorias"
+    ],
+    "answer": 0,
+    "explanation": "Reconocer la asimetría puede hacer la conversación más segura y precisa.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "cc-45",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué significa reparar una interacción intercultural?",
+    "options": [
+      "Reconocer el impacto, aclarar intención si procede y acordar cómo continuar",
+      "Fingir que no ocurrió",
+      "Explicar que la otra cultura entendió mal",
+      "Cambiar de interlocutor"
+    ],
+    "answer": 0,
+    "explanation": "La reparación reconstruye confianza tras un malentendido.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "cc-46",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Por qué conviene acordar comportamientos futuros verificables tras un feedback difícil?",
+    "options": [
+      "Porque reduce ambigüedad y permite comprobar si se produce el cambio esperado",
+      "Porque evita cualquier nueva conversación",
+      "Porque sustituye la escucha",
+      "Porque convierte opiniones en hechos pasados"
+    ],
+    "answer": 0,
+    "explanation": "Los acuerdos concretos permiten seguimiento y reducen interpretaciones vagas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "cc-47",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué capa cultural es normalmente más fácil de observar y adaptar?",
+    "options": [
+      "Comportamientos visibles",
+      "Valores profundos",
+      "Creencias básicas",
+      "Supuestos inconscientes"
+    ],
+    "answer": 0,
+    "explanation": "Las capas externas son más visibles y flexibles que los valores profundos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-48",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué ventaja tiene comparar varios modelos culturales en lugar de usar solo uno?",
+    "options": [
+      "Permite formular hipótesis desde perspectivas distintas y detectar límites de cada marco",
+      "Produce una verdad exacta sobre cada país",
+      "Elimina la necesidad de observación",
+      "Permite ignorar diferencias individuales"
+    ],
+    "answer": 0,
+    "explanation": "Los modelos son complementarios y parciales.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "cc-49",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Qué debe prevalecer si una práctica cultural entra en conflicto con una obligación legal o de compliance?",
+    "options": [
+      "La obligación legal y ética aplicable",
+      "La adaptación cultural sin límites",
+      "La preferencia del interlocutor",
+      "El promedio nacional"
+    ],
+    "answer": 0,
+    "explanation": "El relativismo metodológico no elimina límites legales y éticos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "cc-50",
+    "subject": "cross",
+    "subjectName": "Cross Cultural",
+    "source": "Apuntes_Cross_Cultural.pdf",
+    "question": "¿Cuál es el mejor resultado de una buena preparación intercultural?",
+    "options": [
+      "Llegar con hipótesis informadas, preguntas adecuadas y capacidad de adaptación",
+      "Llegar con conclusiones cerradas sobre la otra cultura",
+      "Evitar cualquier espontaneidad",
+      "Memorizar estereotipos nacionales"
+    ],
+    "answer": 0,
+    "explanation": "Prepararse sirve para observar mejor y reducir errores, no para prejuzgar.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
