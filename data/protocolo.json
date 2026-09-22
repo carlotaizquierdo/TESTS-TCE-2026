@@ -848,5 +848,175 @@
     "explanation": "El cierre debe mantener cortesía y discreción.",
     "difficulty": "medium",
     "key": false
+  },
+  {
+    "id": "pro-51",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué debe hacer el anfitrión respecto a los discursos?",
+    "options": [
+      "Abrirlos para agradecer, explicar el motivo y presentar la presidencia",
+      "Hablar siempre el último aunque no sea máxima autoridad",
+      "Evitar cualquier intervención",
+      "Delegar siempre en prensa"
+    ],
+    "answer": 0,
+    "explanation": "El anfitrión marca el tono inicial y contextualiza el acto.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-52",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué principio se aplica al número de sillas y servicios en un banquete?",
+    "options": [
+      "Debe haber exactamente tantas sillas como servicios previstos",
+      "Conviene dejar siempre varias sillas vacías",
+      "Los servicios deben superar a los invitados",
+      "No importa si hay asientos sobrantes"
+    ],
+    "answer": 0,
+    "explanation": "La preparación debe ser precisa y coherente con la lista final.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-53",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio puede justificar dar preferencia a un extranjero en igualdad de rango?",
+    "options": [
+      "Cortesía",
+      "Jerarquía automática por nacionalidad",
+      "Antigüedad empresarial",
+      "Edad siempre"
+    ],
+    "answer": 0,
+    "explanation": "En igualdad de rango, la cortesía puede favorecer al visitante extranjero.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-54",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué debe hacerse si dos invitados de igual rango no comparten idioma?",
+    "options": [
+      "Evitar sentarlos juntos si ello dificulta la conversación",
+      "Sentarlos siempre juntos",
+      "Separar a todos los extranjeros",
+      "Ignorar el idioma"
+    ],
+    "answer": 0,
+    "explanation": "La distribución debe favorecer interacción y comodidad.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-55",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué diferencia airear y decantar un vino?",
+    "options": [
+      "Decantar se reserva a vinos con sedimentos; airear no implica necesariamente separar sedimentos",
+      "Son exactamente lo mismo",
+      "Airear solo se hace con espumosos",
+      "Decantar significa enfriar"
+    ],
+    "answer": 0,
+    "explanation": "El temario distingue claramente ambas operaciones.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-56",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Cómo debe sujetarse una copa de vino?",
+    "options": [
+      "Por el tallo o pie para evitar calentarlo",
+      "Por el cáliz siempre",
+      "Por el borde",
+      "Con ambas manos"
+    ],
+    "answer": 0,
+    "explanation": "Sujetarla por el tallo evita transferir calor al vino.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-57",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio debe seguir el orden de sabores en un menú?",
+    "options": [
+      "De menor a mayor intensidad",
+      "De mayor a menor siempre",
+      "Aleatorio",
+      "Primero los platos más picantes"
+    ],
+    "answer": 0,
+    "explanation": "La progresión evita que sabores intensos anulen los siguientes.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-58",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una comida solemne, ¿qué tipo de preparación conviene evitar?",
+    "options": [
+      "Pescados con espinas o carnes difíciles de manipular",
+      "Platos fáciles de comer",
+      "Preparaciones ensayadas",
+      "Productos adecuados a la estación"
+    ],
+    "answer": 0,
+    "explanation": "La comodidad y seguridad del comensal forman parte del protocolo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-59",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Por qué no debe llenarse un espacio de banquete al máximo?",
+    "options": [
+      "Porque comodidad, circulación, evacuación y accesibilidad prevalecen sobre capacidad teórica",
+      "Porque reduce el número de mesas redondas",
+      "Porque la precedencia lo prohíbe siempre",
+      "Porque impide servir vino"
+    ],
+    "answer": 0,
+    "explanation": "El diseño debe ser funcional y seguro.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-60",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué información aporta una minuta?",
+    "options": [
+      "Los platos y bebidas que se servirán",
+      "La precedencia oficial",
+      "La lista de autoridades",
+      "El plano de evacuación"
+    ],
+    "answer": 0,
+    "explanation": "La minuta informa al comensal del menú previsto.",
+    "difficulty": "easy",
+    "key": false
   }
 ]
