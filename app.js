@@ -12,7 +12,7 @@ const LABELS={
   fundamentos:"Fundamentos de Economía"
 };
 
-let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="";
+let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
 const $=id=>document.getElementById(id);
 const shuffle=a=>{const x=[...a];for(let i=x.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[x[i],x[j]]=[x[j],x[i]]}return x};
 const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[m]));
@@ -23,13 +23,19 @@ async function loadBanks(){
     return r.json();
   }));
   bank=chunks.flat();
+  localDocs=await loadLocalDocs();
   buildSubjects();
 }
 function buildSubjects(){
-  $("subjects").innerHTML=BANK_FILES.map((k,i)=>`
+  const built=BANK_FILES.map((k,i)=>`
     <label class="subject"><input type="checkbox" value="${k}" ${i<3?"checked":""}>
     <span><strong>${LABELS[k]}</strong><small class="muted"> ${bank.filter(q=>q.subject===k).length} conceptos base</small></span></label>
   `).join("");
+  const local=localDocs.map(d=>`
+    <label class="subject"><input type="checkbox" value="local:${d.id}">
+    <span><strong>${esc(d.subject)}</strong><small class="muted"> ${esc(d.name)} · generación nueva desde el documento</small></span></label>
+  `).join("");
+  $("subjects").innerHTML=built+local;
 }
 document.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
 function showView(id){
@@ -130,12 +136,28 @@ function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBase
 }
 
 $("startBtn").addEventListener("click",()=>{
-  const subjects=[...document.querySelectorAll("#subjects input:checked")].map(x=>x.value);
-  if(!subjects.length){alert("Selecciona al menos una asignatura.");return}
+  const selectedSubjects=[...document.querySelectorAll("#subjects input:checked")].map(x=>x.value);
+  if(!selectedSubjects.length){alert("Selecciona al menos una asignatura.");return}
   const count=Math.min(Number($("count").value),999);
   const difficulty=$("difficulty").value;
-  quiz=createFreshQuiz(subjects,count,difficulty,$("priority").checked);
-  if(!quiz.length){alert("No hay conceptos con esa combinación.");return}
+  const builtins=selectedSubjects.filter(x=>!x.startsWith("local:"));
+  const locals=selectedSubjects.filter(x=>x.startsWith("local:")).map(x=>x.slice(6));
+  let parts=[];
+  const totalSources=builtins.length+locals.length;
+  if(builtins.length){
+    const n=Math.max(1,Math.round(count*(builtins.length/totalSources)));
+    parts.push(...createFreshQuiz(builtins,n,difficulty,$("priority").checked));
+  }
+  if(locals.length){
+    const localCount=Math.max(1,count-parts.length);
+    const per=Math.max(1,Math.ceil(localCount/locals.length));
+    locals.forEach(id=>{
+      const d=localDocs.find(x=>String(x.id)===String(id));
+      if(d)parts.push(...localQuestionsFromText(d.text,d.subject,d.name,per));
+    });
+  }
+  quiz=shuffle(parts).slice(0,count);
+  if(!quiz.length){alert("No hay contenido suficiente para generar ese test.");return}
   startQuiz();
 });
 function startQuiz(){
@@ -197,6 +219,31 @@ function renderStats(){
 }
 $("resetBtn").addEventListener("click",()=>{if(confirm("¿Borrar estadísticas e historial local?")){["tce_history","tce_mistakes","tce_recent"].forEach(k=>localStorage.removeItem(k));renderStats()}});
 
+// IndexedDB: guarda los documentos solo en este dispositivo.
+function openLocalDB(){
+  return new Promise((resolve,reject)=>{
+    const req=indexedDB.open("tests-tce-db",1);
+    req.onupgradeneeded=()=>{const db=req.result;if(!db.objectStoreNames.contains("docs"))db.createObjectStore("docs",{keyPath:"id",autoIncrement:true})};
+    req.onsuccess=()=>resolve(req.result);req.onerror=()=>reject(req.error);
+  });
+}
+async function loadLocalDocs(){
+  try{
+    const db=await openLocalDB();
+    return await new Promise((resolve,reject)=>{
+      const tx=db.transaction("docs","readonly"),req=tx.objectStore("docs").getAll();
+      req.onsuccess=()=>resolve(req.result||[]);req.onerror=()=>reject(req.error);
+    });
+  }catch(e){console.error(e);return []}
+}
+async function saveLocalDoc(doc){
+  const db=await openLocalDB();
+  await new Promise((resolve,reject)=>{
+    const tx=db.transaction("docs","readwrite"),req=tx.objectStore("docs").add(doc);
+    req.onsuccess=()=>resolve();req.onerror=()=>reject(req.error);
+  });
+}
+
 // Local file ingestion. Generates fresh basic cloze-style questions without paid AI.
 $("fileInput").addEventListener("change",async e=>{
   const f=e.target.files[0]; if(!f)return;
@@ -239,14 +286,17 @@ function localQuestionsFromText(text,subjectName,source,count){
   }
   return out;
 }
-$("generateBtn").addEventListener("click",()=>{
+$("generateBtn").addEventListener("click",async()=>{
   const subject=$("uploadSubject").value.trim()||"Temario añadido";
   const source=$("fileInput").files[0]?.name||"Documento cargado";
   const n=Number($("generatedCount").value);
   const qs=localQuestionsFromText(uploadedText,subject,source,n);
   if(!qs.length){alert("No he podido extraer suficientes frases para generar preguntas.");return}
-  $("generatedPreview").innerHTML='<h3>Preguntas generadas</h3>'+qs.slice(0,5).map(q=>`<div class="preview-q"><strong>${esc(q.question)}</strong></div>`).join("")+`<p class="muted">${qs.length} preguntas listas para practicar ahora.</p><button id="practiceGenerated" class="primary">Practicar este temario</button>`;
-  document.getElementById("practiceGenerated").addEventListener("click",()=>{quiz=shuffle(qs);startQuiz()});
+  await saveLocalDoc({subject,name:source,text:uploadedText,addedAt:new Date().toISOString()});
+  localDocs=await loadLocalDocs();
+  buildSubjects();
+  $("generatedPreview").innerHTML='<h3>Temario guardado</h3>'+qs.slice(0,5).map(q=>`<div class="preview-q"><strong>${esc(q.question)}</strong></div>`).join("")+`<p class="muted">El documento queda guardado en este iPad. Cada nuevo test generará otra tanda desde su contenido.</p><button id="practiceGenerated" class="primary">Practicar ahora</button>`;
+  document.getElementById("practiceGenerated").addEventListener("click",()=>{quiz=shuffle(localQuestionsFromText(uploadedText,subject,source,n));startQuiz()});
 });
 
 let deferredPrompt=null;
