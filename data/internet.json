@@ -1,0 +1,172 @@
+[
+  {
+    "id": "int-01",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál es la secuencia correcta del proceso exportador señalada en clase?",
+    "options": [
+      "Investigar → seleccionar → promocionar → contactar → convertir",
+      "Promocionar → investigar → contactar → seleccionar → convertir",
+      "Contactar → vender → investigar → promocionar → seleccionar",
+      "Seleccionar → convertir → investigar → contactar → promocionar"
+    ],
+    "answer": 0,
+    "explanation": "La secuencia correcta es investigar, seleccionar, promocionar, contactar y convertir.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-02",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "Una fortaleza de un buscador frente a un modelo conversacional es:",
+    "options": [
+      "Relacionar mejor conceptos",
+      "Localizar y abrir la fuente original",
+      "Eliminar por completo el SEO",
+      "No requerir verificación"
+    ],
+    "answer": 1,
+    "explanation": "El buscador facilita localizar la fuente original; el modelo conversacional destaca en síntesis.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-03",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué herramienta sirve para analizar importaciones, crecimiento y proveedores?",
+    "options": [
+      "Trade Map",
+      "MACMAP",
+      "International Data Base",
+      "LinkedIn"
+    ],
+    "answer": 0,
+    "explanation": "Trade Map permite analizar comercio por producto y mercado.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-04",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué herramienta se utiliza para consultar aranceles de acceso?",
+    "options": [
+      "Export Potential Map",
+      "Market Access Map (MACMAP)",
+      "COFACE",
+      "Atlas of Economic Complexity"
+    ],
+    "answer": 1,
+    "explanation": "MACMAP está orientada a aranceles y acceso a mercado.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-05",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué herramienta ayuda a estimar potencial exportador no realizado?",
+    "options": [
+      "Export Potential Map",
+      "CESCE",
+      "LinkedIn",
+      "International Data Base"
+    ],
+    "answer": 0,
+    "explanation": "Export Potential Map estima oportunidades y exportaciones potenciales no realizadas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-06",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "COFACE y CESCE se utilizan para analizar:",
+    "options": [
+      "Riesgo país y de pago",
+      "Demografía",
+      "Clasificación arancelaria",
+      "Redes sociales"
+    ],
+    "answer": 0,
+    "explanation": "Ambas se utilizan como referencias de riesgo político, económico y de pago.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-07",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cuál de estos elementos forma parte de un buen prompt?",
+    "options": [
+      "Contexto/rol, acción, datos, tono/formato e iteración",
+      "Solo el idioma",
+      "Solo enlaces",
+      "Una instrucción sin objetivo"
+    ],
+    "answer": 0,
+    "explanation": "El esquema de clase contiene cinco elementos: contexto, acción, datos, formato y revisión/iteración.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-08",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Cómo se reduce el riesgo de alucinaciones?",
+    "options": [
+      "Pidiendo una respuesta más larga",
+      "Abriendo fuentes, verificando autor/fecha y comprobando que sostienen la afirmación",
+      "Confiando en cualquier enlace generado",
+      "Evitando fuentes primarias"
+    ],
+    "answer": 1,
+    "explanation": "La verificación exige comprobar que la referencia existe y respalda realmente la conclusión.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-09",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "En un corpus cerrado la instrucción correcta es:",
+    "options": [
+      "Completar huecos con conocimiento general",
+      "Responder solo con documentos aportados e indicar cuando algo no aparece",
+      "Usar siempre Wikipedia",
+      "Ignorar las fuentes"
+    ],
+    "answer": 1,
+    "explanation": "Un corpus cerrado exige limitarse al material aportado y no inventar lagunas.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "int-10",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "En B2B técnico, ¿por qué no basta con un único mensaje comercial?",
+    "options": [
+      "Porque quien investiga o prescribe puede no ser quien aprueba el gasto",
+      "Porque siempre hay cuatro decisores",
+      "Porque LinkedIn no sirve para B2B",
+      "Porque la web técnica no aporta confianza"
+    ],
+    "answer": 0,
+    "explanation": "El contenido debe dar evidencia técnica al prescriptor y seguridad empresarial al decisor final.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
