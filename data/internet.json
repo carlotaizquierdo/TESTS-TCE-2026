@@ -848,5 +848,175 @@
     "explanation": "La IA apoya el juicio profesional; no sustituye verificación ni responsabilidad.",
     "difficulty": "easy",
     "key": true
+  },
+  {
+    "id": "int-51",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué información económica debe cruzarse al evaluar un mercado?",
+    "options": [
+      "PIB, crecimiento, inflación, desempleo y deuda",
+      "Solo población",
+      "Solo aranceles",
+      "Solo exportaciones españolas"
+    ],
+    "answer": 0,
+    "explanation": "El bloque económico ayuda a estimar capacidad de compra y estabilidad.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-52",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué información política interesa desde una perspectiva exportadora?",
+    "options": [
+      "Estabilidad institucional y riesgo regulatorio",
+      "Solo sistema electoral",
+      "Solo nombre del gobierno",
+      "Solo relaciones culturales"
+    ],
+    "answer": 0,
+    "explanation": "La continuidad de contratos, pagos e inversión puede depender del entorno institucional.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-53",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué analiza el bloque de distribución?",
+    "options": [
+      "Canales, intermediarios y poder negociador",
+      "Solo aranceles",
+      "Solo población",
+      "Solo inflación"
+    ],
+    "answer": 0,
+    "explanation": "La estructura de distribución condiciona modelo de entrada y margen.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-54",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Por qué un arancel bajo no basta para concluir que un mercado es accesible?",
+    "options": [
+      "Porque pueden existir barreras técnicas, licencias, requisitos sanitarios u otras restricciones",
+      "Porque un arancel bajo siempre implica prohibición",
+      "Porque el arancel no afecta al comercio",
+      "Porque solo importa la distancia"
+    ],
+    "answer": 0,
+    "explanation": "El acceso depende de barreras arancelarias y no arancelarias.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-55",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debe incluir una solicitud de fuentes a una IA para facilitar la verificación?",
+    "options": [
+      "Título, organismo/autor, fecha y enlace funcional",
+      "Solo el nombre del sitio",
+      "Únicamente una cita textual",
+      "Ningún dato de referencia"
+    ],
+    "answer": 0,
+    "explanation": "Una referencia verificable necesita identificación suficiente.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-56",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debería hacer una IA en corpus cerrado si la respuesta no aparece en los documentos?",
+    "options": [
+      "Indicar expresamente que la información no está contenida en las fuentes",
+      "Completarla con conocimiento externo sin avisar",
+      "Inventar una respuesta probable",
+      "Cambiar la pregunta"
+    ],
+    "answer": 0,
+    "explanation": "No rellenar lagunas es parte de la disciplina de corpus cerrado.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "int-57",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué debe comprobarse al analizar una feria antes de participar?",
+    "options": [
+      "Fechas, perfil de visitante, sectores, coste, países y expositores",
+      "Solo número de seguidores en redes",
+      "Solo tamaño del recinto",
+      "Solo ciudad"
+    ],
+    "answer": 0,
+    "explanation": "La evaluación debe conectarse con objetivos comerciales concretos.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "int-58",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué función cumple una agenda previa de feria?",
+    "options": [
+      "Priorizar reuniones y aumentar la probabilidad de convertir presencia en oportunidades",
+      "Sustituir el seguimiento posterior",
+      "Evitar revisar expositores",
+      "Eliminar la necesidad de objetivos"
+    ],
+    "answer": 0,
+    "explanation": "La feria rinde más cuando se prepara comercialmente antes.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "int-59",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué es más adecuado para maquinaria industrial en marketing digital según los ejemplos?",
+    "options": [
+      "YouTube, LinkedIn y web técnica con pruebas, datos y casos",
+      "Solo contenido aspiracional de consumo",
+      "Únicamente Instagram",
+      "Solo descuentos"
+    ],
+    "answer": 0,
+    "explanation": "El contenido técnico debe demostrar funcionamiento y fiabilidad.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "int-60",
+    "subject": "internet",
+    "subjectName": "Internet como fuente de información",
+    "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
+    "question": "¿Qué regla debe aplicarse a una correlación detectada por IA?",
+    "options": [
+      "Validarla antes de convertirla en una decisión comercial o afirmar causalidad",
+      "Tratarla automáticamente como causal",
+      "Ignorar denominadores",
+      "Eliminar los datos atípicos sin revisar"
+    ],
+    "answer": 0,
+    "explanation": "La IA puede detectar patrones, pero la interpretación requiere validación.",
+    "difficulty": "hard",
+    "key": true
   }
 ]
