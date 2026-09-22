@@ -678,5 +678,175 @@
     "explanation": "La Cámara ofrece una cartera amplia que cubre desde operativa hasta estrategia y promoción.",
     "difficulty": "easy",
     "key": true
+  },
+  {
+    "id": "coc-41",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una empresa necesita apoyo sobre fiscalidad y expatriación. ¿Qué bloque de servicios de la Cámara es el más directo?",
+    "options": [
+      "Asesoramiento experto",
+      "SUBCONTEX",
+      "Cuaderno ATA",
+      "PYMEXT Multilaterales"
+    ],
+    "answer": 0,
+    "explanation": "El asesoramiento experto cubre fiscalidad, expatriación, financiación, e-commerce y propiedad industrial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-42",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué diferencia un informe TARIC de un certificado de origen?",
+    "options": [
+      "El informe orienta sobre clasificación/arancel; el certificado acredita el origen declarado",
+      "Ambos acreditan origen preferencial",
+      "El informe sustituye a la declaración aduanera",
+      "No existe diferencia"
+    ],
+    "answer": 0,
+    "explanation": "Son herramientas con funciones distintas dentro de la operativa.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-43",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio sería adecuado para una empresa que necesita seleccionar personal en un mercado exterior concreto?",
+    "options": [
+      "Servicio a medida",
+      "Cuaderno ATA",
+      "Certificado de origen",
+      "INTRASTAT"
+    ],
+    "answer": 0,
+    "explanation": "La red internacional puede prestar apoyos locales específicos, incluida selección de personal.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-44",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué aporta una jornada de mercado que no necesariamente aporta una misión?",
+    "options": [
+      "Información de actualidad y recomendaciones generales sobre implantación y operativa",
+      "Agenda individual de reuniones comerciales",
+      "Compromiso de compra",
+      "Registro aduanero"
+    ],
+    "answer": 0,
+    "explanation": "Las jornadas tienen una función informativa y de preparación.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-45",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué necesidad encaja mejor con Enterprise Europe Network que con PYMEXT Multilaterales?",
+    "options": [
+      "Buscar socios de innovación o cooperación empresarial europea",
+      "Preparar una oferta al Banco Mundial",
+      "Obtener un cuaderno ATA",
+      "Clasificar una mercancía"
+    ],
+    "answer": 0,
+    "explanation": "EEN se orienta a cooperación, innovación e I+D europea.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-46",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué necesidad encaja mejor con SUBCONTEX que con EEN?",
+    "options": [
+      "Promocionar capacidades de subcontratación industrial ante compradores",
+      "Participar en un proyecto de I+D europeo",
+      "Consultar clasificación TARIC",
+      "Registrar ante FDA"
+    ],
+    "answer": 0,
+    "explanation": "SUBCONTEX es sectorial y comercial para subcontratación industrial.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-47",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué debe confirmar una empresa antes de basarse en una ayuda citada en una presentación antigua?",
+    "options": [
+      "Condiciones vigentes, periodo subvencionable y porcentaje aplicable",
+      "Solo el nombre histórico del programa",
+      "Que la cifra siga apareciendo en apuntes",
+      "Nada, las ayudas son permanentes"
+    ],
+    "answer": 0,
+    "explanation": "Las condiciones dependen del convenio y periodo.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-48",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio combina información sectorial, contactos y acompañamiento durante un desplazamiento comercial?",
+    "options": [
+      "Misión empresarial",
+      "INTRASTAT",
+      "Certificado de libre venta",
+      "REX"
+    ],
+    "answer": 0,
+    "explanation": "La misión combina preparación, agenda y acompañamiento.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-49",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué caracteriza al mapa práctico de servicios de la Cámara?",
+    "options": [
+      "Relaciona una necesidad empresarial concreta con el servicio más adecuado",
+      "Clasifica países por riesgo",
+      "Sustituye el análisis del mercado",
+      "Ordena empresas por tamaño"
+    ],
+    "answer": 0,
+    "explanation": "Es una guía de decisión para escoger el apoyo adecuado.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "coc-50",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "Una empresa quiere acreditar origen, diseñar estrategia y buscar clientes. ¿Qué conclusión se desprende del temario?",
+    "options": [
+      "Probablemente necesitará combinar varios servicios de la Cámara, no uno solo",
+      "Debe usar únicamente un cuaderno ATA",
+      "Solo necesita una misión",
+      "La Cámara no cubre necesidades diferentes"
+    ],
+    "answer": 0,
+    "explanation": "La cartera de la Cámara está diseñada para cubrir distintas fases y necesidades complementarias.",
+    "difficulty": "hard",
+    "key": true
   }
 ]
