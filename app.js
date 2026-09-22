@@ -68,9 +68,26 @@ const stems=[
   q=>"Según el temario, "+q.question.charAt(0).toLowerCase()+q.question.slice(1),
   q=>"Señala la opción correcta: "+q.question
 ];
-
-function variantFrom(base){
-  const qtext=stems[Math.floor(Math.random()*stems.length)](base);
+const icexStems=[
+  q=>"Señale la respuesta correcta: "+q.question,
+  q=>"Indique cuál de las siguientes opciones es correcta: "+q.question,
+  q=>"De acuerdo con el temario, señale la opción correcta: "+q.question
+];
+const giveaway=/\b(siempre|nunca|automáticamente|por completo|en todos los casos|sin ninguna condición|exclusivamente|únicamente)\b/i;
+function icexQuality(q){
+  const lengths=q.options.map(x=>x.length).filter(Boolean);
+  if(lengths.length!==4)return -99;
+  const ratio=Math.max(...lengths)/Math.max(1,Math.min(...lengths));
+  const giveawayCount=q.options.filter(x=>giveaway.test(x)).length;
+  let score=(q.difficulty==="hard"?5:q.difficulty==="medium"?3:0)+(q.key?2:0);
+  if(ratio<=1.8)score+=4; else if(ratio<=2.4)score+=2; else score-=2;
+  if(giveawayCount===0)score+=3; else score-=giveawayCount*2;
+  return score;
+}
+function variantFrom(base,style="general"){
+  const qtext=style==="icex"
+    ? icexStems[Math.floor(Math.random()*icexStems.length)](base)
+    : stems[Math.floor(Math.random()*stems.length)](base);
   const packed=base.options.map((text,i)=>({text,isCorrect:i===base.answer}));
   const mixed=shuffle(packed);
   return {
@@ -83,9 +100,15 @@ function variantFrom(base){
   };
 }
 
-function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null){
+function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null,style="general"){
   let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject));
   if(difficulty!=="mixed")pool=pool.filter(q=>q.difficulty===difficulty);
+  if(style==="icex"&&!forcedBases){
+    const ranked=pool.map(q=>({q,s:icexQuality(q)})).sort((a,b)=>b.s-a.s);
+    const strict=ranked.filter(x=>x.s>=5).map(x=>x.q);
+    const looser=ranked.filter(x=>x.s>=2).map(x=>x.q);
+    pool=strict.length>=Math.min(count,20)?strict:(looser.length?looser:pool);
+  }
   if(!pool.length)return [];
   const recent=new Set(recentIds());
   const scoreMistakes=mistakes();
@@ -100,7 +123,7 @@ function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBase
   while(chosen.length<count&&pool.length){
     chosen.push(pool[Math.floor(Math.random()*pool.length)]);
   }
-  const generated=shuffle(chosen.map(b=>variantFrom(b)));
+  const generated=shuffle(chosen.map(b=>variantFrom(b,style)));
   remember(generated.map(x=>x.baseId));
   return generated;
 }
@@ -110,13 +133,14 @@ $("startBtn").addEventListener("click",()=>{
   if(!selectedSubjects.length){alert("Selecciona al menos una asignatura.");return}
   const count=Math.min(Number($("count").value),999);
   const difficulty=$("difficulty").value;
+  const style=$("examStyle")?.value||"general";
   const builtins=selectedSubjects.filter(x=>!x.startsWith("local:"));
   const locals=selectedSubjects.filter(x=>x.startsWith("local:")).map(x=>x.slice(6));
   let parts=[];
   const totalSources=builtins.length+locals.length;
   if(builtins.length){
     const n=Math.max(1,Math.round(count*(builtins.length/totalSources)));
-    parts.push(...createFreshQuiz(builtins,n,difficulty,$("priority").checked));
+    parts.push(...createFreshQuiz(builtins,n,difficulty,$("priority").checked,null,style));
   }
   if(locals.length){
     const localCount=Math.max(1,count-parts.length);
@@ -174,7 +198,7 @@ $("newBtn").addEventListener("click",()=>showView("home"));
 $("retryBtn").addEventListener("click",()=>{
   const failed=[...new Map(answers.filter(a=>!a.correct&&!a.blank).map(a=>[a.item.baseId,bank.find(q=>q.id===a.item.baseId)])).values()].filter(Boolean);
   if(!failed.length){alert("No tienes preguntas falladas.");return}
-  quiz=createFreshQuiz([...new Set(failed.map(x=>x.subject))],Math.max(10,failed.length),"mixed",true,failed);
+  quiz=createFreshQuiz([...new Set(failed.map(x=>x.subject))],Math.max(10,failed.length),"mixed",true,failed,$("examStyle")?.value||"icex");
   startQuiz();
 });
 
