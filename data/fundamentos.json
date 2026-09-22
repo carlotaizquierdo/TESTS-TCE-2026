@@ -168,5 +168,515 @@
     "explanation": "PIB se fija en dónde se produce; PNB, en quién posee los factores.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "fun-11",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué existe el problema económico fundamental?",
+    "options": [
+      "Porque los recursos son escasos frente a necesidades potencialmente ilimitadas",
+      "Porque todos los bienes son públicos",
+      "Porque no existen precios",
+      "Porque toda economía tiene desempleo"
+    ],
+    "answer": 0,
+    "explanation": "La escasez obliga a elegir y genera coste de oportunidad.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-12",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En una FPP, un punto situado sobre la curva representa:",
+    "options": [
+      "Una combinación eficiente de producción con los recursos disponibles",
+      "Un nivel inalcanzable",
+      "Recursos ociosos",
+      "Una recesión obligatoria"
+    ],
+    "answer": 0,
+    "explanation": "Los puntos sobre la frontera usan plenamente los recursos dados.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-13",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En una FPP, un punto situado fuera de la curva representa:",
+    "options": [
+      "Una combinación inalcanzable con los recursos y tecnología actuales",
+      "Una combinación eficiente",
+      "Un punto de desempleo",
+      "Una situación de equilibrio de mercado"
+    ],
+    "answer": 0,
+    "explanation": "Fuera de la FPP está más allá de la capacidad productiva actual.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-14",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué puede desplazar la FPP hacia fuera?",
+    "options": [
+      "Más recursos o mejora tecnológica",
+      "Un uso ineficiente de recursos sin cambio estructural",
+      "Un simple movimiento de precios",
+      "Una reducción de población ocupada"
+    ],
+    "answer": 0,
+    "explanation": "El crecimiento de capacidad productiva desplaza la frontera.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-15",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué pregunta es típicamente microeconómica?",
+    "options": [
+      "Cómo fija precios una empresa en un mercado concreto",
+      "Por qué crece el PIB de un país",
+      "Qué causa la inflación agregada",
+      "Cómo evoluciona la deuda pública"
+    ],
+    "answer": 0,
+    "explanation": "Microeconomía analiza unidades y mercados individuales.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-16",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué pregunta es típicamente macroeconómica?",
+    "options": [
+      "Por qué aumenta el desempleo de un país",
+      "Cómo decide un consumidor entre dos marcas",
+      "Cómo fija precio una cafetería",
+      "Cómo compite una empresa en un nicho"
+    ],
+    "answer": 0,
+    "explanation": "Macroeconomía estudia agregados del conjunto de la economía.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-17",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En una economía de mercado, ¿qué mecanismo coordina gran parte de las decisiones?",
+    "options": [
+      "Los precios",
+      "Un plan central único",
+      "La ONU",
+      "El banco central de forma exclusiva"
+    ],
+    "answer": 0,
+    "explanation": "Los precios actúan como señales para asignar recursos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-18",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué interviene el Estado incluso en economías de mercado?",
+    "options": [
+      "Para corregir fallos de mercado, redistribuir y estabilizar el ciclo",
+      "Porque el mercado nunca asigna recursos",
+      "Para eliminar todos los precios",
+      "Para sustituir a todas las empresas"
+    ],
+    "answer": 0,
+    "explanation": "Bienes públicos, externalidades, monopolios e información asimétrica justifican intervención.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-19",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En el flujo circular básico, el flujo real y el monetario:",
+    "options": [
+      "Circulan en sentidos opuestos",
+      "Circulan siempre en el mismo sentido",
+      "No están relacionados",
+      "Solo existen en el sector público"
+    ],
+    "answer": 0,
+    "explanation": "Bienes/factores y dinero fluyen en direcciones contrarias.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-20",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cuál de estas es una fuga del flujo circular ampliado?",
+    "options": [
+      "Ahorro",
+      "Inversión",
+      "Gasto público",
+      "Exportaciones"
+    ],
+    "answer": 0,
+    "explanation": "Ahorro, impuestos e importaciones son fugas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-21",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cuál de estas es una inyección en el flujo circular ampliado?",
+    "options": [
+      "Inversión",
+      "Importaciones",
+      "Impuestos",
+      "Ahorro"
+    ],
+    "answer": 0,
+    "explanation": "Inversión, gasto público y exportaciones son inyecciones.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-22",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "“El desempleo es demasiado alto y habría que bajar impuestos” es una afirmación:",
+    "options": [
+      "Normativa",
+      "Positiva",
+      "Contable",
+      "Descriptiva sin juicio de valor"
+    ],
+    "answer": 0,
+    "explanation": "Incluye una valoración y una recomendación sobre lo que debería hacerse.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-23",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué el PIB solo incluye bienes y servicios finales?",
+    "options": [
+      "Para evitar doble contabilización de bienes intermedios",
+      "Porque los bienes intermedios no tienen valor",
+      "Porque solo importan los servicios",
+      "Porque los bienes intermedios siempre se importan"
+    ],
+    "answer": 0,
+    "explanation": "El valor del bien intermedio ya está incorporado en el producto final.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-24",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué significa que el PIB sea una variable flujo?",
+    "options": [
+      "Se mide durante un período de tiempo",
+      "Se mide en una fecha concreta sin dimensión temporal",
+      "Representa riqueza acumulada",
+      "Es igual al patrimonio nacional"
+    ],
+    "answer": 0,
+    "explanation": "El PIB mide producción a lo largo de un periodo.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-25",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué enfoque del PIB suma salarios, rentas, intereses y beneficios?",
+    "options": [
+      "Enfoque de la renta",
+      "Enfoque del gasto",
+      "Enfoque del valor añadido exclusivamente",
+      "Enfoque comercial"
+    ],
+    "answer": 0,
+    "explanation": "El enfoque de renta suma ingresos generados por la producción.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-26",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué enfoque del PIB suma el valor añadido de empresas y sectores?",
+    "options": [
+      "Enfoque de la producción",
+      "Enfoque del gasto",
+      "Enfoque monetario",
+      "Enfoque de balanza de pagos"
+    ],
+    "answer": 0,
+    "explanation": "La producción se mide agregando valor añadido para evitar doble conteo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-27",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué NO incluye G en la fórmula del PIB por gasto?",
+    "options": [
+      "Transferencias como pensiones",
+      "Compras públicas de bienes y servicios",
+      "Inversión pública",
+      "Salarios de empleados públicos"
+    ],
+    "answer": 0,
+    "explanation": "Las transferencias redistribuyen renta pero no son compra de producción final.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-28",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué son las exportaciones netas?",
+    "options": [
+      "X − M",
+      "C + I",
+      "G − T",
+      "PIB nominal − PIB real"
+    ],
+    "answer": 0,
+    "explanation": "El saldo exterior dentro del PIB por gasto es exportaciones menos importaciones.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-29",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cuál es una limitación del PIB per cápita?",
+    "options": [
+      "Es una media y no muestra la distribución de la renta",
+      "Mide exactamente la renta disponible de cada persona",
+      "Incluye plenamente bienestar ambiental",
+      "Refleja toda economía sumergida"
+    ],
+    "answer": 0,
+    "explanation": "El PIB per cápita no informa sobre desigualdad ni bienestar de forma completa.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-30",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué registra la balanza de pagos?",
+    "options": [
+      "Transacciones económicas entre residentes y no residentes durante un período",
+      "Solo exportaciones de bienes",
+      "Solo deuda pública",
+      "Solo movimientos de turistas"
+    ],
+    "answer": 0,
+    "explanation": "Incluye bienes, servicios, rentas, transferencias y operaciones financieras.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-31",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En balanza de pagos, “residente” significa:",
+    "options": [
+      "Centro de interés económico en el país, no necesariamente nacionalidad",
+      "Ciudadano con pasaporte nacional",
+      "Persona que lleva más de un mes en el país",
+      "Solo empresas registradas"
+    ],
+    "answer": 0,
+    "explanation": "Residencia económica y nacionalidad son conceptos distintos.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-32",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué cuenta de la balanza de pagos incluye bienes, servicios y rentas?",
+    "options": [
+      "Cuenta corriente",
+      "Cuenta financiera exclusivamente",
+      "Cuenta de capital únicamente",
+      "Reservas monetarias"
+    ],
+    "answer": 0,
+    "explanation": "La cuenta corriente recoge operaciones reales y rentas/transferencias corrientes.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-33",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cómo se calcula la tasa de paro?",
+    "options": [
+      "Parados / población activa × 100",
+      "Parados / población total × 100",
+      "Inactivos / ocupados × 100",
+      "Ocupados / población activa × 100"
+    ],
+    "answer": 0,
+    "explanation": "El denominador correcto es la población activa.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-34",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué diferencia la EPA del paro registrado?",
+    "options": [
+      "La EPA es una encuesta con criterios internacionales; el paro registrado cuenta inscritos en oficinas de empleo",
+      "Son exactamente la misma medida",
+      "La EPA solo mide empleo público",
+      "El paro registrado incluye toda la población activa"
+    ],
+    "answer": 0,
+    "explanation": "Son fuentes y metodologías distintas y pueden arrojar cifras diferentes.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-35",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué tipo de desempleo surge por desajuste entre cualificaciones y puestos disponibles?",
+    "options": [
+      "Estructural",
+      "Friccional",
+      "Estacional",
+      "Cíclico"
+    ],
+    "answer": 0,
+    "explanation": "El desempleo estructural refleja desajustes persistentes de habilidades, ubicación o estructura sectorial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-36",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué es desinflación?",
+    "options": [
+      "Los precios siguen subiendo, pero a una tasa cada vez menor",
+      "Caída generalizada y sostenida de precios",
+      "Inflación con recesión y paro alto",
+      "Aumento brusco de salarios"
+    ],
+    "answer": 0,
+    "explanation": "Desinflación es desaceleración de la inflación, no inflación negativa.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-37",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué es estanflación?",
+    "options": [
+      "Inflación alta combinada con estancamiento y desempleo elevado",
+      "Deflación con crecimiento",
+      "Crecimiento alto con precios estables",
+      "Superávit comercial con paro bajo"
+    ],
+    "answer": 0,
+    "explanation": "La combinación de inflación y debilidad económica es especialmente difícil de gestionar.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-38",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "Si el precio está por encima del equilibrio de mercado, normalmente aparece:",
+    "options": [
+      "Exceso de oferta",
+      "Exceso de demanda",
+      "Equilibrio perfecto",
+      "Escasez"
+    ],
+    "answer": 0,
+    "explanation": "A un precio demasiado alto se ofrece más de lo que se demanda.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-39",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué diferencia una zona de libre comercio de una unión aduanera?",
+    "options": [
+      "La unión aduanera añade un arancel exterior común frente a terceros",
+      "La zona de libre comercio tiene moneda única",
+      "La unión aduanera elimina toda frontera interior de personas",
+      "No existe diferencia"
+    ],
+    "answer": 0,
+    "explanation": "El arancel exterior común es el rasgo distintivo clave.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-40",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué establece el principio de Nación Más Favorecida de la OMC, en términos generales?",
+    "options": [
+      "Una ventaja comercial concedida a un miembro debe extenderse a los demás miembros, salvo excepciones previstas",
+      "Los productos nacionales deben pagar más impuestos",
+      "Cada país puede discriminar libremente entre socios",
+      "Solo se aplica a servicios públicos"
+    ],
+    "answer": 0,
+    "explanation": "NMF busca no discriminar entre socios extranjeros miembros, con las excepciones del sistema.",
+    "difficulty": "hard",
+    "key": false
   }
 ]
