@@ -678,5 +678,175 @@
     "explanation": "Es una cifra estructural destacada en los apuntes.",
     "difficulty": "easy",
     "key": false
+  },
+  {
+    "id": "org-41",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué distingue la precalificación de la evaluación de sobres?",
+    "options": [
+      "La precalificación decide quién puede competir; los sobres regulan cómo se presenta y abre la oferta",
+      "Son exactamente lo mismo",
+      "La precalificación decide el precio ganador",
+      "Los sobres sustituyen cualquier requisito de capacidad"
+    ],
+    "answer": 0,
+    "explanation": "Son mecanismos distintos dentro del procedimiento.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-42",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En consultoría, ¿qué secuencia es típica para formar la lista de candidatos?",
+    "options": [
+      "Expresión de interés → lista corta",
+      "Oferta económica → precalificación",
+      "Donación → licitación",
+      "ATA → adjudicación"
+    ],
+    "answer": 0,
+    "explanation": "La EoI sirve para seleccionar consultores que pasarán a lista corta.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-43",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿En qué tipo de contratos es más habitual una precalificación como criba previa?",
+    "options": [
+      "Bienes, obras y servicios no consultivos cuando el pliego la prevé",
+      "Consultoría exclusivamente",
+      "Solo subvenciones",
+      "Solo contratos privados"
+    ],
+    "answer": 0,
+    "explanation": "En consultoría la figura típica es EoI/lista corta; en otros contratos puede usarse PQ.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-44",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En una etapa y un sobre, ¿qué se presenta conjuntamente?",
+    "options": [
+      "Documentación administrativa/cualificación, oferta técnica y oferta económica",
+      "Solo precio",
+      "Solo oferta técnica",
+      "EoI y garantía soberana"
+    ],
+    "answer": 0,
+    "explanation": "Todo se entrega en un único sobre/propuesta según el esquema.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-45",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En una etapa y dos sobres, ¿qué contiene el primer sobre?",
+    "options": [
+      "Cualificación/administrativa y propuesta técnica",
+      "Solo precio",
+      "Solo garantía bancaria",
+      "Solo referencias comerciales"
+    ],
+    "answer": 0,
+    "explanation": "El precio queda separado hasta concluir la evaluación técnica.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-46",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Por qué el segundo sobre económico permanece cerrado inicialmente?",
+    "options": [
+      "Para evitar que el precio influya antes de terminar la evaluación técnica",
+      "Porque se abre solo tras ejecutar el contrato",
+      "Porque nunca se evalúa",
+      "Porque contiene documentación confidencial del banco"
+    ],
+    "answer": 0,
+    "explanation": "La secuencia protege la integridad de la evaluación.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-47",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué diferencia dos etapas de dos sobres?",
+    "options": [
+      "Dos etapas permiten desarrollar/ajustar una solución antes de la oferta final; dos sobres separan técnica y precio en una misma etapa",
+      "Son sinónimos",
+      "Dos etapas solo cambia el número de copias",
+      "Dos sobres implica negociar requisitos después del precio"
+    ],
+    "answer": 0,
+    "explanation": "La diferencia es temporal y procedimental, no solo documental.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-48",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué suele publicarse en una apertura pública?",
+    "options": [
+      "Los datos exigidos por el pliego, como licitador o precio, no toda la propuesta ni secretos comerciales",
+      "Todo el contenido técnico confidencial",
+      "Solo información bancaria",
+      "Nada"
+    ],
+    "answer": 0,
+    "explanation": "Publicidad no equivale a revelar toda la oferta.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-49",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Cuáles son los tres dossiers básicos de una oferta multilateral?",
+    "options": [
+      "Administrativo, técnico y económico",
+      "Fiscal, laboral y penal",
+      "Nacional, regional y municipal",
+      "Público, privado y mixto"
+    ],
+    "answer": 0,
+    "explanation": "Es una estructura clave destacada para examen.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-50",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué criterio suele revisar una precalificación?",
+    "options": [
+      "Experiencia, capacidad financiera, personal y medios/equipos",
+      "Preferencias políticas del licitador",
+      "Precio final exclusivamente",
+      "Número de seguidores en redes"
+    ],
+    "answer": 0,
+    "explanation": "La precalificación comprueba capacidad para ejecutar antes de competir plenamente.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
