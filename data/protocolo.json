@@ -168,5 +168,515 @@
     "explanation": "Las traseras deben comprobarse desde cámara para evitar asociaciones visuales o logotipos ocultos.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "pro-11",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué significa que el protocolo esté al servicio del mensaje del anfitrión?",
+    "options": [
+      "Que colocaciones, símbolos, tiempos y precedencias deben reforzar el objetivo del acto",
+      "Que todas las reglas pueden ignorarse",
+      "Que el anfitrión siempre debe ocupar el centro",
+      "Que solo importa la decoración"
+    ],
+    "answer": 0,
+    "explanation": "El protocolo organiza el acto para comunicar de forma coherente.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-12",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué principio debe aplicarse al interpretar un gesto no verbal?",
+    "options": [
+      "Observar conjunto, contexto, cultura y conducta habitual, no un gesto aislado",
+      "Asignar siempre un significado fijo",
+      "Interpretar cualquier cruce de brazos como hostilidad",
+      "Ignorar la cultura"
+    ],
+    "answer": 0,
+    "explanation": "Un gesto aislado no prueba por sí solo una emoción.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-13",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una comparecencia pública, ¿qué práctica es más adecuada?",
+    "options": [
+      "Mirar a los interlocutores sin olvidar la cámara",
+      "Mirar únicamente a cámara",
+      "Evitar cualquier gesto",
+      "Improvisar para parecer espontáneo"
+    ],
+    "answer": 0,
+    "explanation": "La comunicación debe resultar natural y adaptada al medio.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-14",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio debe prevalecer en el saludo profesional?",
+    "options": [
+      "Rango, formalidad, relación y contexto cultural",
+      "El sexo de la persona",
+      "La costumbre personal propia",
+      "Una regla universal de dos besos"
+    ],
+    "answer": 0,
+    "explanation": "No existe una regla universal; se adapta al contexto profesional y cultural.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-15",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Cómo debe ser un apretón de manos profesional según los apuntes?",
+    "options": [
+      "Firme sin exceso, breve y sin sacudir",
+      "Muy prolongado y fuerte",
+      "Siempre con ambas manos",
+      "Evitarlo en cualquier contexto"
+    ],
+    "answer": 0,
+    "explanation": "Se recomienda firmeza moderada y duración breve.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-16",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Antes de aplicar una precedencia en un acto oficial, el primer paso es:",
+    "options": [
+      "Identificar la naturaleza del acto y la norma aplicable",
+      "Ordenar alfabéticamente a todos",
+      "Colocar al anfitrión en el centro",
+      "Preguntar solo por edad"
+    ],
+    "answer": 0,
+    "explanation": "Primero se determina si el acto es oficial y qué norma rige.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-17",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En el orden general de precedencias en Madrid, ¿quién aparece inmediatamente después del Presidente del Gobierno?",
+    "options": [
+      "Presidente del Congreso de los Diputados",
+      "Presidente del Senado",
+      "Presidente del Tribunal Constitucional",
+      "Alcalde de Madrid"
+    ],
+    "answer": 0,
+    "explanation": "El Presidente del Congreso sigue al Presidente del Gobierno en el bloque inicial citado.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "pro-18",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En un acto celebrado en una comunidad autónoma, ¿qué autoridad adquiere especial relevancia tras las altas autoridades del Estado?",
+    "options": [
+      "El presidente del Consejo de Gobierno autonómico",
+      "El decano del cuerpo diplomático",
+      "Cualquier ministro antes que la autoridad autonómica",
+      "El presidente de una empresa patrocinadora"
+    ],
+    "answer": 0,
+    "explanation": "El presidente autonómico ocupa una posición destacada en actos celebrados en su territorio.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "pro-19",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué cuatro posiciones considera especialmente fijas el material en actos territoriales?",
+    "options": [
+      "Familia Real, Presidente del Gobierno, presidente autonómico y alcalde del municipio",
+      "Presidente del Senado, rector, delegado sindical y alcalde",
+      "Embajador, ministro, gobernador y empresario",
+      "Anfitrión, patrocinador, prensa y seguridad"
+    ],
+    "answer": 0,
+    "explanation": "El documento destaca esas cuatro referencias institucionales.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "pro-20",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Si viajan tres personas en la parte trasera de un coche con chófer, ¿qué plaza ocupa el tercer rango?",
+    "options": [
+      "La central trasera",
+      "La posterior derecha",
+      "La posterior izquierda",
+      "La delantera derecha"
+    ],
+    "answer": 0,
+    "explanation": "La central trasera queda en tercer lugar.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-21",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Por qué los movimientos alrededor del coche protocolario se realizan por la parte posterior?",
+    "options": [
+      "Para respetar el orden de entrada/salida y evitar cruzarse por la zona delantera",
+      "Porque la puerta delantera está prohibida",
+      "Porque así se cambia la precedencia",
+      "Porque lo exige siempre la normativa de tráfico"
+    ],
+    "answer": 0,
+    "explanation": "Es una regla operativa de circulación alrededor del vehículo.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-22",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Respecto a regalos institucionales a cargos públicos, la regla general es:",
+    "options": [
+      "No aceptar obsequios que excedan usos sociales o puedan condicionar la función",
+      "Aceptar cualquier regalo si viene del extranjero",
+      "Aceptar solo regalos de gran valor",
+      "Rechazar incluso detalles simbólicos"
+    ],
+    "answer": 0,
+    "explanation": "La cortesía tiene límites cuando puede comprometer la imparcialidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-23",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué criterio se aplica normalmente para ordenar banderas de Estados?",
+    "options": [
+      "Orden alfabético conforme al criterio acordado",
+      "PIB del país",
+      "Antigüedad del jefe de Estado",
+      "Tamaño territorial"
+    ],
+    "answer": 0,
+    "explanation": "Se evita así crear una jerarquía política entre Estados.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "pro-24",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué error debe evitarse con la bandera de la Unión Europea?",
+    "options": [
+      "Girar el círculo de doce estrellas",
+      "Colocarla junto a otras banderas",
+      "Usarla en un acto europeo",
+      "Mantenerla vertical"
+    ],
+    "answer": 0,
+    "explanation": "Las estrellas tienen orientación fija como las horas de un reloj.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-25",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una comparecencia bilateral, ¿cómo se colocan anfitrión e invitado respecto a las banderas?",
+    "options": [
+      "Cada uno aparece frente a su propia bandera",
+      "Ambos frente a la bandera del anfitrión",
+      "Ambos frente a la bandera del invitado",
+      "Las banderas se colocan detrás del público"
+    ],
+    "answer": 0,
+    "explanation": "La disposición facilita identificación y cortesía diplomática.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-26",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una presidencia par, ¿qué puesto tiene prioridad entre los dos centrales?",
+    "options": [
+      "El de la derecha ceremonial",
+      "El de la izquierda del público",
+      "Siempre el más cercano a la salida",
+      "No existe prioridad"
+    ],
+    "answer": 0,
+    "explanation": "La presidencia par no tiene centro único; el primer central es la derecha ceremonial.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "pro-27",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué es una línea de saludo oficial?",
+    "options": [
+      "La formada por las primeras autoridades para recibir o despedir",
+      "La fila del público general",
+      "La lista de invitados confirmados",
+      "El orden de intervención en discursos"
+    ],
+    "answer": 0,
+    "explanation": "Es una disposición protocolaria para recepción/despedida de autoridades.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-28",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Cuándo conviene protocolizar especialmente a los invitados?",
+    "options": [
+      "Cuando hay autoridades, solemnidad, cobertura mediática o sensibilidades jerárquicas",
+      "Solo en bodas",
+      "Únicamente cuando hay más de 500 personas",
+      "Nunca en actos empresariales"
+    ],
+    "answer": 0,
+    "explanation": "La necesidad aumenta cuando la colocación puede tener significado institucional o relacional.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-29",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Por qué una invitación tiene valor protocolario antes de que empiece el acto?",
+    "options": [
+      "Porque es la primera manifestación visible de la imagen del organizador",
+      "Porque sustituye al programa",
+      "Porque fija automáticamente la precedencia",
+      "Porque evita cualquier confirmación posterior"
+    ],
+    "answer": 0,
+    "explanation": "Errores en nombre, tratamiento, fecha o cargo pueden dañar la relación antes del evento.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-30",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué elemento NO debe olvidarse al preparar una fotografía de familia?",
+    "options": [
+      "Listado y posición asignada a cada participante",
+      "Solo una cámara profesional",
+      "Vestuario idéntico para todos",
+      "Eliminar cualquier señalización"
+    ],
+    "answer": 0,
+    "explanation": "La organización previa evita retrasos y errores de colocación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-31",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Si comienza a sonar un himno nacional incorrecto, el material recomienda:",
+    "options": [
+      "No interrumpirlo bruscamente y gestionar después rectificación y disculpa",
+      "Cortarlo inmediatamente a mitad",
+      "Abandonar el acto",
+      "Ignorar el error sin aclararlo"
+    ],
+    "answer": 0,
+    "explanation": "La prioridad es evitar una escena mayor y reparar después el error.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "pro-32",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En Japón, ¿cómo deben tratarse las tarjetas de visita?",
+    "options": [
+      "Entregarlas y recibirlas con ambas manos y tratarlas con respeto",
+      "Escribir sobre ellas durante la reunión",
+      "Guardarlas sin mirarlas",
+      "Entregarlas con una sola mano y de espaldas"
+    ],
+    "answer": 0,
+    "explanation": "La tarjeta forma parte del ritual profesional y merece atención.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-33",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En China, ¿qué práctica protege la relación durante una negociación?",
+    "options": [
+      "Evitar que la otra parte pierda la cara públicamente",
+      "Forzar respuestas directas inmediatas",
+      "Mostrar impaciencia ante silencios",
+      "Evitar documentar avances"
+    ],
+    "answer": 0,
+    "explanation": "La preservación de la cara y la cortesía son relevantes en la interacción.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-34",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En países árabes e islámicos, ¿qué concepto describe la importancia de contactos e intermediarios?",
+    "options": [
+      "Wasta",
+      "Kanpai",
+      "Shabat",
+      "Kosher"
+    ],
+    "answer": 0,
+    "explanation": "Wasta alude al valor de relaciones y mediadores en determinados contextos árabes.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-35",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué diferencia hay entre halal y haram?",
+    "options": [
+      "Halal designa lo permitido y haram lo prohibido conforme a la ley islámica",
+      "Halal es una festividad y haram un saludo",
+      "Halal es un tipo de contrato y haram un impuesto",
+      "Son sinónimos"
+    ],
+    "answer": 0,
+    "explanation": "La distinción afecta, entre otros ámbitos, a alimentación y prácticas permitidas/prohibidas.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "pro-36",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué efecto tiene el shabat sobre una agenda de negocios en Israel?",
+    "options": [
+      "Puede condicionar reuniones y desplazamientos desde el viernes al atardecer hasta el sábado por la noche",
+      "Solo afecta a la alimentación",
+      "Solo afecta a visitantes extranjeros",
+      "No tiene impacto operativo"
+    ],
+    "answer": 0,
+    "explanation": "La planificación debe respetar horarios religiosos relevantes.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "pro-37",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una pausa durante una comida formal, los cubiertos deben:",
+    "options": [
+      "Quedar dentro del plato formando aproximadamente un ángulo de 45 grados",
+      "Volver a apoyarse sobre el mantel",
+      "Colocarse paralelos como al finalizar",
+      "Retirarse de la mesa"
+    ],
+    "answer": 0,
+    "explanation": "La posición de pausa se diferencia de la de finalización.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-38",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "Al terminar de comer, los cubiertos se colocan:",
+    "options": [
+      "Paralelos, aproximadamente a las cuatro y veinte",
+      "Cruzados sobre el plato",
+      "Uno en la mesa y otro en el plato",
+      "En ángulo de 45 grados como en pausa"
+    ],
+    "answer": 0,
+    "explanation": "La posición paralela indica finalización.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "pro-39",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "¿Qué regla rige la colocación de parejas en una comida protocolaria?",
+    "options": [
+      "Conviene evitar sentarlas juntas o enfrentadas, salvo criterio justificado",
+      "Deben ir siempre juntas",
+      "Deben ir siempre enfrentadas",
+      "No existe ninguna consideración"
+    ],
+    "answer": 0,
+    "explanation": "La distribución busca favorecer conversación y equilibrio social.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "pro-40",
+    "subject": "protocolo",
+    "subjectName": "Protocolo y Comunicación",
+    "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
+    "question": "En una comida de negociación, ¿qué práctica es adecuada?",
+    "options": [
+      "Confirmar restricciones alimentarias y elegir platos fáciles de comer",
+      "Elegir un restaurante desconocido para sorprender",
+      "Empezar obligatoriamente hablando de negocio",
+      "Pedir alcohol aunque el invitado no beba"
+    ],
+    "answer": 0,
+    "explanation": "La comodidad del invitado y la fluidez de la conversación son prioritarias.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
