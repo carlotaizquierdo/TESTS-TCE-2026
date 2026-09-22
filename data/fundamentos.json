@@ -678,5 +678,175 @@
     "explanation": "NMF busca no discriminar entre socios extranjeros miembros, con las excepciones del sistema.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "fun-41",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué es una ventaja absoluta?",
+    "options": [
+      "Producir un bien utilizando menos recursos que otro productor",
+      "Tener menor coste de oportunidad necesariamente",
+      "Tener mayor PIB",
+      "Exportar más que importar"
+    ],
+    "answer": 0,
+    "explanation": "La ventaja absoluta compara eficiencia física/productiva.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-42",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué es una ventaja comparativa?",
+    "options": [
+      "Tener menor coste de oportunidad relativo en una actividad",
+      "Ser más eficiente en todos los bienes",
+      "Tener el salario más bajo",
+      "Producir con más recursos"
+    ],
+    "answer": 0,
+    "explanation": "La ventaja comparativa explica por qué puede haber ganancias del comercio incluso si un país es más eficiente en todo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-43",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué dos países pueden beneficiarse del comercio aunque uno tenga ventaja absoluta en todos los bienes?",
+    "options": [
+      "Porque pueden especializarse según costes de oportunidad relativos distintos",
+      "Porque el país menos eficiente recibe una subvención automática",
+      "Porque los precios dejan de existir",
+      "Porque la ventaja absoluta impide especialización"
+    ],
+    "answer": 0,
+    "explanation": "La teoría ricardiana se basa en ventaja comparativa, no absoluta.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-44",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "Si el euro se aprecia, en igualdad de condiciones:",
+    "options": [
+      "Las exportaciones de la eurozona se encarecen y las importaciones se abaratan",
+      "Las exportaciones se abaratan y las importaciones se encarecen",
+      "No cambia ningún precio relativo",
+      "Solo cambia el PIB nominal"
+    ],
+    "answer": 0,
+    "explanation": "Una moneda más fuerte afecta competitividad-precio y coste de importación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-45",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "Si el euro se deprecia, en igualdad de condiciones:",
+    "options": [
+      "Las exportaciones se abaratan para el exterior y las importaciones se encarecen",
+      "Las exportaciones se encarecen y las importaciones se abaratan",
+      "No afecta al comercio",
+      "Elimina la inflación"
+    ],
+    "answer": 0,
+    "explanation": "La depreciación mejora competitividad-precio exterior pero encarece compras en otras monedas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-46",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué añade un mercado común respecto a una unión aduanera?",
+    "options": [
+      "Libre circulación de factores como trabajo y capital",
+      "Solo un arancel exterior común",
+      "Una moneda única obligatoria",
+      "Eliminación de toda regulación"
+    ],
+    "answer": 0,
+    "explanation": "La unión aduanera ya tiene AEC; el mercado común añade movilidad de factores.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-47",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué añade una unión económica y monetaria respecto a un mercado común?",
+    "options": [
+      "Mayor armonización de políticas económicas y una moneda común",
+      "Solo reglas de origen",
+      "Únicamente eliminación de aranceles interiores",
+      "Nada"
+    ],
+    "answer": 0,
+    "explanation": "Es un grado más profundo de integración.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-48",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué en una zona de libre comercio son importantes las reglas de origen?",
+    "options": [
+      "Porque cada miembro mantiene su propio arancel frente a terceros y hay que determinar qué mercancías se benefician del acuerdo",
+      "Porque existe un arancel exterior común",
+      "Porque no hay comercio con terceros",
+      "Porque sustituyen a la clasificación arancelaria"
+    ],
+    "answer": 0,
+    "explanation": "Las reglas evitan que mercancía de terceros eluda aranceles entrando por el socio con menor tarifa.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-49",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué establece el principio de Trato Nacional de la OMC, en términos generales?",
+    "options": [
+      "Una vez dentro del mercado, el producto importado no debe recibir trato fiscal/regulatorio menos favorable que el nacional comparable",
+      "Todos los países deben usar el mismo arancel",
+      "Las exportaciones deben subvencionarse",
+      "Solo se aplica a servicios públicos"
+    ],
+    "answer": 0,
+    "explanation": "El principio busca no discriminar al producto importado frente al nacional una vez superada la frontera.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "fun-50",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué idea resume la actual fragmentación geoeconómica?",
+    "options": [
+      "Empresas y gobiernos equilibran eficiencia con seguridad, diversificación y resiliencia",
+      "La globalización ha desaparecido por completo",
+      "Solo importa el coste mínimo",
+      "Las cadenas de suministro son cada vez más largas por definición"
+    ],
+    "answer": 0,
+    "explanation": "El paradigma combina integración global con regionalización y gestión de riesgos.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
