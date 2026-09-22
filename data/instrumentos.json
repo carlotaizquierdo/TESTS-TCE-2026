@@ -1,0 +1,172 @@
+[
+  {
+    "id": "ins-01",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cuál de estos NO aparece entre los seis grandes problemas económicos señalados en clase?",
+    "options": [
+      "Desempleo",
+      "Inflación",
+      "Competitividad",
+      "Número de empresas cotizadas"
+    ],
+    "answer": 3,
+    "explanation": "Los seis problemas son desempleo, inflación, déficit comercial, productividad, competitividad y endeudamiento.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-02",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "La inflación es:",
+    "options": [
+      "Una caída puntual del precio de un producto",
+      "Un crecimiento generalizado de los precios",
+      "Una reducción del PIB real",
+      "Un aumento del empleo"
+    ],
+    "answer": 1,
+    "explanation": "La inflación es una subida generalizada de precios.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-03",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "La inflación subyacente busca:",
+    "options": [
+      "Incluir más componentes volátiles",
+      "Aislar componentes muy volátiles como energía y alimentos no elaborados",
+      "Medir solo salarios",
+      "Medir únicamente importaciones"
+    ],
+    "answer": 1,
+    "explanation": "La inflación subyacente trata de mostrar la tendencia persistente de precios excluyendo componentes muy volátiles.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-04",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Por qué puede ser peligrosa una deflación persistente?",
+    "options": [
+      "Porque obliga a consumir de inmediato",
+      "Porque puede retrasar compras e inversión y reducir la demanda",
+      "Porque aumenta siempre las exportaciones",
+      "Porque elimina el ahorro"
+    ],
+    "answer": 1,
+    "explanation": "Si se esperan precios aún más bajos, hogares y empresas pueden aplazar gasto e inversión.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-05",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "Existe déficit comercial cuando:",
+    "options": [
+      "Las exportaciones superan las importaciones",
+      "Las importaciones superan las exportaciones",
+      "El gasto público supera los impuestos",
+      "El PIB nominal supera al real"
+    ],
+    "answer": 1,
+    "explanation": "Hay déficit comercial cuando M > X.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-06",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Qué agentes aparecen en el flujo circular ampliado de los apuntes?",
+    "options": [
+      "Hogares, empresas, AAPP y resto del mundo",
+      "Bancos, sindicatos, bolsas y fondos",
+      "ONU, FMI, empresas y familias",
+      "Solo familias y empresas"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes incluyen hogares, empresas, Administraciones Públicas y resto del mundo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-07",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cuál es la fórmula del PIB por el lado del gasto?",
+    "options": [
+      "C + I + G + X − M",
+      "C − I + G + M",
+      "C + G − X + M",
+      "I + G + M − X"
+    ],
+    "answer": 0,
+    "explanation": "El PIB por gasto se expresa como C + I + G + X − M.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "ins-08",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "El PIB nominal se valora a:",
+    "options": [
+      "Precios constantes",
+      "Precios corrientes",
+      "Paridad de poder adquisitivo necesariamente",
+      "Precios internacionales"
+    ],
+    "answer": 1,
+    "explanation": "El nominal usa precios corrientes; el real, constantes.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "ins-09",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Para qué sirve el deflactor del PIB?",
+    "options": [
+      "Relacionar PIB nominal y real y captar el nivel general de precios de la producción",
+      "Medir solo desempleo",
+      "Calcular únicamente exportaciones",
+      "Sustituir siempre al IPC"
+    ],
+    "answer": 0,
+    "explanation": "El deflactor relaciona nominal y real y ofrece una medida amplia de precios.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "ins-10",
+    "subject": "instrumentos",
+    "subjectName": "Instrumentos de análisis económico",
+    "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
+    "question": "¿Cuál es la idea metodológica central del análisis macro aplicado a internacionalización?",
+    "options": [
+      "Decidir a partir de una sola cifra",
+      "Relacionar indicadores y entender cómo se afectan entre sí",
+      "Usar solo PIB",
+      "Ignorar el sector"
+    ],
+    "answer": 1,
+    "explanation": "La utilidad está en interpretar relaciones y señales, no cifras aisladas.",
+    "difficulty": "hard",
+    "key": false
+  }
+]
