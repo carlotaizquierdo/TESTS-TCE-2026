@@ -168,5 +168,515 @@
     "explanation": "Los apuntes hablan de desregulación, privatización y nueva regulación, no de eliminar toda regulación.",
     "difficulty": "hard",
     "key": false
+  },
+  {
+    "id": "est-11",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En VUCA, ¿qué describe mejor la volatilidad?",
+    "options": [
+      "La rapidez e intensidad con que cambia una variable",
+      "La falta total de información sobre el futuro",
+      "El número de elementos relacionados entre sí",
+      "La existencia de varias interpretaciones posibles de una señal"
+    ],
+    "answer": 0,
+    "explanation": "La volatilidad alude a la velocidad e intensidad del cambio.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-12",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En VUCA, ¿qué describe mejor la complejidad?",
+    "options": [
+      "La rapidez con que cambia el entorno",
+      "La dificultad derivada del número de variables interrelacionadas",
+      "La imposibilidad de interpretar una señal",
+      "La ausencia de datos fiables"
+    ],
+    "answer": 1,
+    "explanation": "La complejidad surge del número de elementos y relaciones que deben analizarse.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-13",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En VUCA, ¿qué describe mejor la ambigüedad?",
+    "options": [
+      "Que una señal pueda admitir varias interpretaciones plausibles",
+      "Que el entorno cambie a gran velocidad",
+      "Que existan muchos competidores",
+      "Que no haya ningún dato disponible"
+    ],
+    "answer": 0,
+    "explanation": "La ambigüedad aparece cuando una misma señal puede interpretarse de varias formas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-14",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es la mejor traducción económica de una megatendencia para la empresa?",
+    "options": [
+      "Preguntar cómo puede afectar a ingresos, costes, margen, caja o suministro",
+      "Describirla sin relacionarla con la cuenta de resultados",
+      "Esperar a que se convierta en una obligación legal",
+      "Medir únicamente su repercusión mediática"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes insisten en traducir cada tendencia a consecuencias económicas concretas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-15",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué idea resume mejor la transición de la vieja a la nueva economía?",
+    "options": [
+      "El valor se desplaza en mayor medida hacia conocimiento, datos, software, servicio, experiencia y marca",
+      "La producción física deja de existir",
+      "La propiedad de activos es siempre imprescindible para competir",
+      "El servicio pierde relevancia frente al producto"
+    ],
+    "answer": 0,
+    "explanation": "La nueva economía no elimina lo físico, pero aumenta el peso del conocimiento y otros intangibles.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-16",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Según los apuntes, la orientación al cliente comienza por:",
+    "options": [
+      "Identificar necesidades y puntos de dolor",
+      "Reducir precios antes de estudiar el mercado",
+      "Aumentar catálogo",
+      "Elegir primero el canal y después al cliente"
+    ],
+    "answer": 0,
+    "explanation": "La orientación al cliente parte de comprender qué necesita y qué problema quiere resolver.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-17",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es una consecuencia estratégica de perder el canal comercial?",
+    "options": [
+      "Se puede perder también conocimiento directo sobre el cliente",
+      "Se elimina automáticamente el riesgo de mercado",
+      "Aumenta siempre el margen",
+      "Desaparece la necesidad de posventa"
+    ],
+    "answer": 0,
+    "explanation": "El canal transmite información; perderlo puede significar perder ventas y conocimiento del cliente.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-18",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué riesgo señala el temario respecto a adoptar tecnología sin propósito?",
+    "options": [
+      "Consumir recursos sin crear valor",
+      "Perder toda la propiedad intelectual de forma automática",
+      "Impedir cualquier automatización futura",
+      "Reducir necesariamente la productividad"
+    ],
+    "answer": 0,
+    "explanation": "Adoptar tecnología sin un objetivo claro puede generar coste sin una ventaja real.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-19",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué relación establece el temario entre demografía y estrategia?",
+    "options": [
+      "La estructura de población puede anticipar demanda, disponibilidad de trabajadores y presión sobre servicios",
+      "La demografía solo importa al sector público",
+      "La pirámide de población no tiene utilidad comercial",
+      "El envejecimiento afecta únicamente a pensiones"
+    ],
+    "answer": 0,
+    "explanation": "La demografía condiciona tanto el mercado como la organización y disponibilidad de talento.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-20",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Ante una regulación ambiental, el análisis estratégico correcto consiste en:",
+    "options": [
+      "Separar el objetivo ambiental de la calidad del diseño regulatorio y medir impacto en coste, acceso y reputación",
+      "Asumir que toda regulación mejora la competitividad",
+      "Evaluar solo la intención política",
+      "Ignorar el impacto sobre suministro y seguros"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes proponen analizar económicamente la regulación, no quedarse en su finalidad declarada.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-21",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué distingue a la innovación en el sentido utilizado en clase?",
+    "options": [
+      "Puede crear procesos, productos o modelos nuevos, no solo mejorar los existentes",
+      "Se limita a reducir costes de producción",
+      "Exige siempre una patente",
+      "Solo existe cuando hay tecnología digital"
+    ],
+    "answer": 0,
+    "explanation": "La innovación puede ser de proceso, producto o modelo y no se reduce a tecnología.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-22",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué exige una alianza bien diseñada además de un objetivo común?",
+    "options": [
+      "Gobierno, reparto de valor, propiedad intelectual y mecanismo de salida",
+      "Eliminar cualquier conflicto entre socios",
+      "Compartir necesariamente toda la información",
+      "Crear una filial conjunta en todos los casos"
+    ],
+    "answer": 0,
+    "explanation": "Cooperar no elimina el conflicto; hay que diseñar reglas de funcionamiento y salida.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-23",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué puede ser atractiva la especialización internacional?",
+    "options": [
+      "Permite competir en nichos globales realizando una tarea muy específica y valiosa",
+      "Obliga a vender todo el catálogo",
+      "Reduce la necesidad de diferenciarse",
+      "Hace irrelevante el conocimiento del cliente"
+    ],
+    "answer": 0,
+    "explanation": "La fragmentación de cadenas permite competir desde un eslabón especializado.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-24",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué trade-off aparece al comparar una cadena eficiente con una resiliente?",
+    "options": [
+      "La resiliente puede costar más en condiciones normales pero reducir el coste esperado de una interrupción",
+      "La eficiente siempre tiene menor coste total",
+      "La resiliente elimina por completo el riesgo",
+      "La eficiente exige necesariamente proveedores cercanos"
+    ],
+    "answer": 0,
+    "explanation": "La comparación debe incluir el coste esperado del riesgo, no solo el precio unitario.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-25",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué describe mejor una estrategia sin ejecución?",
+    "options": [
+      "Una intención que no produce resultados",
+      "Una ventaja competitiva sostenible",
+      "Una estructura organizativa eficiente",
+      "Una decisión táctica"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes subrayan que estrategia y gestión se necesitan mutuamente.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "est-26",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué riesgo existe si una empresa internacionaliza sin adaptar estructura, talento, financiación y procesos?",
+    "options": [
+      "La organización puede convertirse en el cuello de botella de la estrategia",
+      "La demanda exterior desaparece",
+      "El producto deja de ser exportable",
+      "La empresa queda exenta de costes fijos"
+    ],
+    "answer": 0,
+    "explanation": "Estrategia y estructura deben avanzar juntas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-27",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estas características convierte una decisión en estratégica?",
+    "options": [
+      "Es difícil de revertir y compromete recursos relevantes durante un horizonte amplio",
+      "Tiene efecto solo durante unos días",
+      "Afecta a una única tarea rutinaria",
+      "No implica renunciar a alternativas"
+    ],
+    "answer": 0,
+    "explanation": "Las decisiones estratégicas tienen impacto transversal, duradero y coste de oportunidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-28",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué recomienda el profesor empezar pronto a mirar mercados exteriores?",
+    "options": [
+      "Porque investigar, adaptar, encontrar canal, registrar marca y generar confianza lleva tiempo",
+      "Porque exportar produce ventas inmediatas",
+      "Porque elimina la necesidad de financiación",
+      "Porque permite evitar cualquier adaptación del producto"
+    ],
+    "answer": 0,
+    "explanation": "Internacionalizar exige aprendizaje y preparación; esperar a una urgencia suele ser mala estrategia.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-29",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estos elementos forma parte del diagnóstico previo a internacionalizarse?",
+    "options": [
+      "Capacidad técnica, comercial, financiera y organizativa",
+      "Solo volumen de ventas nacionales",
+      "Únicamente notoriedad de marca",
+      "Exclusivamente coste logístico"
+    ],
+    "answer": 0,
+    "explanation": "El diagnóstico es multidimensional y debe comprobar capacidad real para sostener el proyecto.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "est-30",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Una barrera percibida se diferencia de una barrera real porque:",
+    "options": [
+      "Puede proceder de creencias o inerccias internas y no de una restricción objetiva del mercado",
+      "Siempre es jurídica",
+      "Siempre aparece en el arancel",
+      "Solo afecta a empresas grandes"
+    ],
+    "answer": 0,
+    "explanation": "El diagnóstico debe distinguir restricciones objetivas de percepciones internas que frenan la salida.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "est-31",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué es una unidad estratégica de negocio en este contexto?",
+    "options": [
+      "Una actividad que puede funcionar como negocio diferenciado con clientes, competidores y recursos propios",
+      "Un departamento administrativo",
+      "Un país de destino",
+      "Un distribuidor exclusivo"
+    ],
+    "answer": 0,
+    "explanation": "Las UEN permiten decidir qué parte del catálogo o actividad tiene más sentido internacionalizar.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-32",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué los apuntes desaconsejan exportar todo el catálogo por defecto?",
+    "options": [
+      "Porque consume recursos y puede diluir la propuesta de valor",
+      "Porque la aduana prohíbe catálogos amplios",
+      "Porque los clientes exteriores solo compran un producto",
+      "Porque impide usar distribuidores"
+    ],
+    "answer": 0,
+    "explanation": "La selección de una oferta prioritaria ayuda a concentrar recursos y claridad comercial.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-33",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Existe ventaja competitiva cuando la empresa:",
+    "options": [
+      "Crea valor superior para el cliente y puede capturar parte de ese valor",
+      "Produce más unidades que cualquier rival",
+      "Tiene el precio más bajo en todos los mercados",
+      "Posee más activos físicos"
+    ],
+    "answer": 0,
+    "explanation": "La ventaja debe ser relevante para el comprador y económicamente defendible.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-34",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué condición debe cumplir una ventaja para ser estratégicamente útil?",
+    "options": [
+      "Ser significativa para el comprador y relativamente difícil de imitar o sustituir",
+      "Ser exclusivamente tecnológica",
+      "Depender de un único empleado",
+      "Ser visible para todos los competidores"
+    ],
+    "answer": 0,
+    "explanation": "Hacer algo bien no basta; debe importar al cliente y ser defendible.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "est-35",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué revela que la motivación exportadora no esté respaldada por recursos?",
+    "options": [
+      "Una incoherencia entre intención estratégica y compromiso real",
+      "Una ventaja de flexibilidad",
+      "Una estrategia de bajo riesgo",
+      "Una señal de que no hace falta organización"
+    ],
+    "answer": 0,
+    "explanation": "Querer internacionalizarse exige asignar personas, tiempo, presupuesto e investigación.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-36",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué ejemplo encaja mejor con un factor endógeno de globalización?",
+    "options": [
+      "Trasladar una actividad allí donde combina mejor coste, talento, mercado y regulación",
+      "La firma de un acuerdo comercial entre dos Estados",
+      "La reducción general de aranceles",
+      "La mejora mundial de las telecomunicaciones"
+    ],
+    "answer": 0,
+    "explanation": "La localización es una decisión interna de la empresa y por eso se considera factor endógeno.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "est-37",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué relación hay entre economías de escala e internacionalización?",
+    "options": [
+      "Al crecer el volumen, el coste fijo por unidad puede bajar y aumenta la necesidad de ampliar ventas",
+      "Las economías de escala reducen siempre la necesidad de mercados exteriores",
+      "Solo existen en servicios",
+      "Obligan a producir en un único país"
+    ],
+    "answer": 0,
+    "explanation": "Las economías de escala pueden impulsar la búsqueda de más mercado para absorber capacidad.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-38",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué significa que una tecnología madura pueda reiniciar su ciclo de vida en otro mercado?",
+    "options": [
+      "Que puede seguir siendo competitiva donde las necesidades, costes o productividad sean distintos",
+      "Que su vida útil física vuelve a cero",
+      "Que deja de requerir mantenimiento",
+      "Que el mercado de origen vuelve a crecer automáticamente"
+    ],
+    "answer": 0,
+    "explanation": "El ciclo de vida depende también del contexto de mercado, no solo de la edad del activo.",
+    "difficulty": "hard",
+    "key": false
+  },
+  {
+    "id": "est-39",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué afirmación refleja mejor el efecto de la geopolítica sobre una empresa internacional?",
+    "options": [
+      "Puede cambiar proveedores, tecnologías disponibles, mercados objetivo y formas de pago",
+      "Solo afecta a gobiernos",
+      "Solo influye en empresas energéticas",
+      "No altera decisiones de cadena de suministro"
+    ],
+    "answer": 0,
+    "explanation": "Sanciones, aranceles y tensiones tecnológicas pueden afectar decisiones empresariales muy concretas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "est-40",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué idea resume “nadie nos está esperando”?",
+    "options": [
+      "La empresa debe ser proactiva para localizar clientes, acercarse y demostrar valor",
+      "Los mercados exteriores carecen de competencia",
+      "Basta con traducir un catálogo",
+      "La demanda exterior aparece de forma espontánea"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización exige proactividad comercial y una propuesta diferenciada.",
+    "difficulty": "easy",
+    "key": true
   }
 ]
