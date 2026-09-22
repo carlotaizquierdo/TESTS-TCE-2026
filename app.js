@@ -84,11 +84,67 @@ function icexQuality(q){
   if(giveawayCount===0)score+=3; else score-=giveawayCount*2;
   return score;
 }
+function optionFrame(text,question,target,index){
+  let t=(text||"").trim().replace(/[.;]\s*$/,"");
+  if(t.length>=target*.82) return t;
+
+  const lower=t.charAt(0).toLowerCase()+t.slice(1);
+  const q=(question||"").toLowerCase();
+
+  if(/^solo\s+/i.test(t)){
+    t="Centrarse únicamente en "+t.replace(/^solo\s+/i,"")+" como criterio principal";
+  }else if(/^únicamente\s+/i.test(t)){
+    t="Considerar únicamente "+t.replace(/^únicamente\s+/i,"")+" como elemento determinante";
+  }else if(/^exclusivamente\s+/i.test(t)){
+    t="Limitar la respuesta exclusivamente a "+t.replace(/^exclusivamente\s+/i,"");
+  }else if(/^son sinónimos$/i.test(t)){
+    t="Considerar ambos conceptos equivalentes y utilizarlos como sinónimos";
+  }else if(/^no existe diferencia/i.test(t)){
+    t="Sostener que no existe una diferencia relevante entre ambas alternativas";
+  }else if(/^que\s+/i.test(t)){
+    t="La alternativa según la cual "+t.replace(/^que\s+/i,"");
+  }else if(/^porque\s+/i.test(t)){
+    t="La explicación según la cual "+t.replace(/^porque\s+/i,"");
+  }else if(/^(la|el|una|un|los|las)\s+/i.test(t)){
+    t="La alternativa que señala "+lower;
+  }else if(t.length<36 && /(herramienta|programa|servicio|institución|organismo|indicador|modelo|dimensión|concepto)/i.test(q)){
+    t=t+" como alternativa aplicable al supuesto planteado";
+  }else{
+    t="La alternativa que sostiene que "+lower;
+  }
+
+  if(t.length<target*.76){
+    const endings=[
+      ", dentro del enfoque planteado en la materia",
+      ", como explicación principal de este supuesto",
+      ", sin introducir otros elementos en el análisis",
+      ", como criterio central para resolver la cuestión"
+    ];
+    const ending=endings[index%endings.length];
+    if(t.length+ending.length<=target+10) t+=ending;
+  }
+  return t;
+}
+
+function normalizeOptionSet(base){
+  const raw=base.options.map(x=>(x||"").trim());
+  const lengths=raw.map(x=>x.length);
+  const max=Math.max(...lengths);
+  const min=Math.min(...lengths);
+
+  // Las opciones cortas de tipo nombre propio/herramienta no necesitan inflarse artificialmente.
+  if(max<46 || min>=max*.72) return raw;
+
+  const target=Math.min(115,max);
+  return raw.map((x,i)=>optionFrame(x,base.question,target,i));
+}
+
 function variantFrom(base,style="general"){
   const qtext=style==="icex"
     ? icexStems[Math.floor(Math.random()*icexStems.length)](base)
     : stems[Math.floor(Math.random()*stems.length)](base);
-  const packed=base.options.map((text,i)=>({text,isCorrect:i===base.answer}));
+  const normalized=normalizeOptionSet(base);
+  const packed=normalized.map((text,i)=>({text,isCorrect:i===base.answer}));
   const mixed=shuffle(packed);
   return {
     ...base,
