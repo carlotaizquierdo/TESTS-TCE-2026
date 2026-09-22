@@ -848,5 +848,175 @@
     "explanation": "La precalificación comprueba capacidad para ejecutar antes de competir plenamente.",
     "difficulty": "medium",
     "key": true
+  },
+  {
+    "id": "org-51",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué significa garantía soberana en la ventanilla pública?",
+    "options": [
+      "El Estado respalda la devolución de la financiación",
+      "La empresa privada garantiza al banco",
+      "El proveedor asegura el precio",
+      "La ONU cubre el riesgo comercial"
+    ],
+    "answer": 0,
+    "explanation": "La financiación pública se apoya en la responsabilidad del Estado prestatario.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-52",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué papel tiene la asistencia técnica en los bancos multilaterales de desarrollo?",
+    "options": [
+      "Acompañar financiación con conocimiento y fortalecimiento de capacidades",
+      "Sustituir todos los préstamos",
+      "Actuar solo como auditoría",
+      "Eliminar licitaciones"
+    ],
+    "answer": 0,
+    "explanation": "Los BMD combinan recursos financieros y apoyo técnico.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "org-53",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué diferencia un miembro prestatario de uno no prestatario en la ventanilla pública?",
+    "options": [
+      "El prestatario recibe fondos; el no prestatario aporta recursos",
+      "El prestatario siempre es una empresa",
+      "El no prestatario ejecuta obras",
+      "No hay diferencia"
+    ],
+    "answer": 0,
+    "explanation": "La distinción se refiere al papel financiero dentro de la institución.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-54",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué significa “best value for money” en contratación ONU?",
+    "options": [
+      "Buscar la mejor relación global entre calidad, idoneidad y coste, no solo el precio más bajo",
+      "Elegir siempre la oferta más barata",
+      "Preferir empresas grandes",
+      "Adjudicar sin competencia"
+    ],
+    "answer": 0,
+    "explanation": "La ONU no reduce necesariamente la evaluación a precio.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-55",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué función tiene el código de conducta del proveedor ONU?",
+    "options": [
+      "Fijar estándares de integridad, derechos laborales, derechos humanos, medio ambiente y cumplimiento",
+      "Sustituir el contrato",
+      "Determinar aranceles",
+      "Definir el tipo de cambio"
+    ],
+    "answer": 0,
+    "explanation": "Es una condición ética y de compliance del proveedor.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-56",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué característica distingue fondos y programas de la ONU de los órganos principales?",
+    "options": [
+      "Son entidades operativas que ejecutan proyectos con mandato y presupuesto propios",
+      "Son tribunales",
+      "Son bancos multilaterales",
+      "No realizan actividad sobre el terreno"
+    ],
+    "answer": 0,
+    "explanation": "UNICEF, PNUD o PMA son ejemplos de la capa operativa.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "org-57",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué caracteriza a las agencias especializadas del sistema ONU?",
+    "options": [
+      "Son organismos autónomos creados por tratados, con membresía y gobernanza propias",
+      "Son departamentos de la Secretaría",
+      "Son empresas privadas",
+      "No tienen presupuesto"
+    ],
+    "answer": 0,
+    "explanation": "FAO, OMS u OIT son ejemplos.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "org-58",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué diferencia fundamental hay entre una compra ONU y un préstamo de un banco multilateral?",
+    "options": [
+      "La ONU adquiere bienes/servicios para ejecutar su mandato; el banco financia a un prestatario",
+      "Son exactamente iguales",
+      "La ONU siempre exige garantía soberana",
+      "El banco compra directamente todo"
+    ],
+    "answer": 0,
+    "explanation": "La relación contractual y financiera es distinta.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-59",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué principio debe guiar la selección de oportunidades multilaterales para una pyme?",
+    "options": [
+      "Concentrarse en organismos y sectores donde tenga referencias y capacidad competitiva",
+      "Presentarse a todo concurso disponible",
+      "Competir solo por precio",
+      "Evitar especialización"
+    ],
+    "answer": 0,
+    "explanation": "La especialización mejora aprendizaje y tasa de éxito.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-60",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué ventaja puede aportar una lista corta en consultoría?",
+    "options": [
+      "Concentrar la solicitud de propuestas en candidatos previamente considerados aptos",
+      "Eliminar la evaluación técnica",
+      "Abrir el precio antes de evaluar calidad",
+      "Evitar cualquier competencia"
+    ],
+    "answer": 0,
+    "explanation": "La lista corta reduce el universo a consultores cualificados.",
+    "difficulty": "medium",
+    "key": true
   }
 ]
