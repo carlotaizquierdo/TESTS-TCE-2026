@@ -1,0 +1,172 @@
+[
+  {
+    "id": "org-01",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué dos instituciones nacen de Bretton Woods según los apuntes?",
+    "options": [
+      "OMC y OCDE",
+      "BIRF y FMI",
+      "IFC y MIGA",
+      "ONU y OIT"
+    ],
+    "answer": 1,
+    "explanation": "Bretton Woods da origen al BIRF y al FMI con mandatos iniciales distintos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-02",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué diferencia esencial señalan los apuntes entre FMI y Banco Mundial?",
+    "options": [
+      "El FMI financia solo carreteras",
+      "El FMI actúa ante desequilibrios macro/balanza de pagos; el Banco Mundial financia proyectos de desarrollo",
+      "El Banco Mundial fija tipos de cambio",
+      "No existe diferencia"
+    ],
+    "answer": 1,
+    "explanation": "El FMI se centra en estabilidad macro y balanza de pagos; el Banco Mundial en desarrollo.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-03",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Cuántas instituciones forman el Grupo Banco Mundial?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "answer": 2,
+    "explanation": "BIRF, AIF, IFC, MIGA y CIADI forman el Grupo Banco Mundial.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-04",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Qué dos instituciones son la ventanilla pública?",
+    "options": [
+      "IFC y MIGA",
+      "BIRF y AIF",
+      "MIGA y CIADI",
+      "FMI y BIRF"
+    ],
+    "answer": 1,
+    "explanation": "BIRF y AIF financian y asesoran a gobiernos.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-05",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Cuál es la diferencia central BIRF/AIF?",
+    "options": [
+      "El BIRF solo financia sector privado",
+      "BIRF presta a países solventes en condiciones próximas al mercado; AIF ofrece financiación concesional a los más pobres y puede donar",
+      "AIF solo opera en Europa",
+      "BIRF solo concede donaciones"
+    ],
+    "answer": 1,
+    "explanation": "Solvencia del país y condiciones de financiación son la diferencia clave.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-06",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Para ser elegible para AIF, según los apuntes:",
+    "options": [
+      "Hay que cumplir simultáneamente tres criterios",
+      "Basta cumplir pobreza relativa o falta de solvencia",
+      "Solo cuenta la población",
+      "Solo cuenta pertenecer a África"
+    ],
+    "answer": 1,
+    "explanation": "Los apuntes remarcan dos criterios y basta uno.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-07",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En consultoría, la secuencia habitual es:",
+    "options": [
+      "EoI → lista corta",
+      "ATA → oferta",
+      "PQ → donación",
+      "Arbitraje → licitación"
+    ],
+    "answer": 0,
+    "explanation": "La Expresión de Interés se usa para formar una lista corta.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "org-08",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En una etapa con dos sobres, el sobre 2 contiene:",
+    "options": [
+      "Cualificación",
+      "Oferta económica",
+      "EoI",
+      "Solo referencias"
+    ],
+    "answer": 1,
+    "explanation": "Sobre 1: cualificación+técnica; sobre 2: económica.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "org-09",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Una apertura pública significa que:",
+    "options": [
+      "Todo el contenido se publica",
+      "Solo se anuncian los datos que el pliego exige; no se revelan secretos comerciales",
+      "La oferta económica se abre siempre primero",
+      "La técnica deja de ser confidencial"
+    ],
+    "answer": 1,
+    "explanation": "La publicidad de la apertura no convierte todo el expediente en público.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "org-10",
+    "subject": "organismos",
+    "subjectName": "Organismos multilaterales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Cuáles son las tres partes básicas de una oferta?",
+    "options": [
+      "Administrativa, técnica y económica",
+      "Jurídica, fiscal y laboral",
+      "Pública, privada y mixta",
+      "Nacional, regional y local"
+    ],
+    "answer": 0,
+    "explanation": "Los apuntes lo destacan como pregunta de examen.",
+    "difficulty": "easy",
+    "key": true
+  }
+]
