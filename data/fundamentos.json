@@ -1,0 +1,172 @@
+[
+  {
+    "id": "fun-01",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué es el coste de oportunidad?",
+    "options": [
+      "El coste contable de producir una unidad",
+      "El valor de la mejor alternativa a la que se renuncia",
+      "La suma de impuestos",
+      "El precio de mercado"
+    ],
+    "answer": 1,
+    "explanation": "Toda elección implica renunciar a la mejor alternativa disponible.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-02",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "En una FPP, un punto por debajo de la curva indica:",
+    "options": [
+      "Eficiencia plena",
+      "Ineficiencia o recursos ociosos",
+      "Imposibilidad técnica",
+      "Crecimiento"
+    ],
+    "answer": 1,
+    "explanation": "Por debajo de la FPP existen recursos no utilizados plenamente.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-03",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "Un desplazamiento de la FPP hacia fuera suele reflejar:",
+    "options": [
+      "Menor tecnología",
+      "Crecimiento económico por más recursos o mejor tecnología",
+      "Desempleo",
+      "Inflación necesariamente"
+    ],
+    "answer": 1,
+    "explanation": "Más recursos o mejor tecnología amplían la capacidad productiva.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-04",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "La microeconomía estudia:",
+    "options": [
+      "Agregados nacionales",
+      "Mercados, empresas y hogares individuales",
+      "Solo comercio exterior",
+      "Solo política monetaria"
+    ],
+    "answer": 1,
+    "explanation": "Micro analiza unidades individuales; macro analiza el conjunto.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-05",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cuáles son los tres problemas económicos fundamentales?",
+    "options": [
+      "Qué, cómo y para quién producir",
+      "Cuándo, dónde y cuánto importar",
+      "Ahorrar, invertir y consumir",
+      "Inflación, PIB y paro"
+    ],
+    "answer": 0,
+    "explanation": "Toda economía debe decidir qué, cómo y para quién producir.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "fun-06",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "Una economía mixta:",
+    "options": [
+      "Elimina el mercado",
+      "Combina mercado e intervención pública",
+      "Es totalmente planificada",
+      "No utiliza precios"
+    ],
+    "answer": 1,
+    "explanation": "Es el modelo dominante: mercado con intervención del Estado.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-07",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "La economía positiva estudia:",
+    "options": [
+      "Lo que debería ser",
+      "Lo que es, mediante hechos y relaciones verificables",
+      "Solo políticas públicas",
+      "Juicios de valor"
+    ],
+    "answer": 1,
+    "explanation": "La positiva describe y explica; la normativa valora y recomienda.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-08",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Cuáles son los tres enfoques del PIB?",
+    "options": [
+      "Gasto, renta y producción",
+      "Importación, exportación y ahorro",
+      "Nominal, real y potencial",
+      "Público, privado y mixto"
+    ],
+    "answer": 0,
+    "explanation": "Los tres enfoques miden la misma actividad desde perspectivas distintas.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "fun-09",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Por qué se restan las importaciones en C+I+G+X−M?",
+    "options": [
+      "Porque son malas",
+      "Porque C, I y G pueden incluir producción extranjera que no forma parte del PIB nacional",
+      "Porque no generan gasto",
+      "Porque siempre son mayores que X"
+    ],
+    "answer": 1,
+    "explanation": "Se restan para excluir producción realizada fuera del territorio.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "fun-10",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economia",
+    "question": "¿Qué diferencia PIB y PNB?",
+    "options": [
+      "PIB usa criterio territorial; PNB, nacionalidad de los factores",
+      "PIB solo mide empresas",
+      "PNB excluye producción exterior nacional",
+      "No hay diferencia"
+    ],
+    "answer": 0,
+    "explanation": "PIB se fija en dónde se produce; PNB, en quién posee los factores.",
+    "difficulty": "medium",
+    "key": true
+  }
+]
