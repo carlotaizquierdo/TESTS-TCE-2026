@@ -848,5 +848,175 @@
     "explanation": "La cartera de la Cámara está diseñada para cubrir distintas fases y necesidades complementarias.",
     "difficulty": "hard",
     "key": true
+  },
+  {
+    "id": "coc-51",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué necesidad empresarial encaja con un certificado de origen?",
+    "options": [
+      "Acreditar el origen declarado de una mercancía",
+      "Facilitar temporalmente muestras de feria",
+      "Buscar compradores industriales",
+      "Diseñar una estrategia digital"
+    ],
+    "answer": 0,
+    "explanation": "El certificado responde a una necesidad documental de origen.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-52",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué necesidad empresarial encaja con un cuaderno ATA?",
+    "options": [
+      "Mover temporalmente muestras o material profesional",
+      "Acreditar origen preferencial recurrente",
+      "Declarar flujos intracomunitarios",
+      "Buscar financiación"
+    ],
+    "answer": 0,
+    "explanation": "El ATA está concebido para movimientos temporales.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-53",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué servicio sería lógico combinar con una misión empresarial antes de viajar?",
+    "options": [
+      "Información sectorial y de mercado para preparar reuniones",
+      "Solo un certificado de libre venta",
+      "Un trámite INTRASTAT sin relación",
+      "Ninguna preparación previa"
+    ],
+    "answer": 0,
+    "explanation": "La misión se beneficia de información previa y perfil empresarial claro.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-54",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué aporta la red internacional de colaboradores de la Cámara?",
+    "options": [
+      "Capacidad de prestar apoyo local específico en numerosos mercados",
+      "Sustituir embajadas",
+      "Conceder visados",
+      "Eliminar aranceles"
+    ],
+    "answer": 0,
+    "explanation": "La red permite servicios a medida en destino.",
+    "difficulty": "easy",
+    "key": false
+  },
+  {
+    "id": "coc-55",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué tipo de empresa puede beneficiarse especialmente de SUBCONTEX?",
+    "options": [
+      "Una pyme industrial que actúa como proveedor especializado de otras empresas",
+      "Una empresa que solo vende al consumidor final online",
+      "Una entidad pública",
+      "Una universidad sin actividad empresarial"
+    ],
+    "answer": 0,
+    "explanation": "SUBCONTEX está orientado a subcontratación industrial B2B.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-56",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Por qué EEN puede ser útil incluso si la empresa no busca vender inmediatamente?",
+    "options": [
+      "Porque también apoya innovación, cooperación y proyectos de I+D",
+      "Porque solo emite documentos",
+      "Porque sustituye el departamento financiero",
+      "Porque obliga a exportar"
+    ],
+    "answer": 0,
+    "explanation": "EEN tiene una función más amplia que la venta directa.",
+    "difficulty": "medium",
+    "key": false
+  },
+  {
+    "id": "coc-57",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué diferencia un servicio estándar de un servicio a medida?",
+    "options": [
+      "El segundo se adapta a una necesidad concreta que no encaja bien en un programa predefinido",
+      "El estándar siempre es de pago y el a medida gratuito",
+      "El a medida solo sirve para documentos",
+      "No existe diferencia"
+    ],
+    "answer": 0,
+    "explanation": "La personalización es la característica central.",
+    "difficulty": "easy",
+    "key": true
+  },
+  {
+    "id": "coc-58",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué criterio debería guiar la elección entre PYMEXT Internacional y una misión?",
+    "options": [
+      "Si la empresa necesita primero estrategia/diagnóstico o ya necesita contactos comerciales en destino",
+      "El color corporativo",
+      "El número de empleados exclusivamente",
+      "El país más cercano"
+    ],
+    "answer": 0,
+    "explanation": "Los servicios responden a fases diferentes del proceso.",
+    "difficulty": "hard",
+    "key": true
+  },
+  {
+    "id": "coc-59",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué riesgo existe al usar cifras de actividad o ayudas de una presentación como si fueran permanentes?",
+    "options": [
+      "Pueden haber cambiado y deben verificarse en la convocatoria o periodo vigente",
+      "Ninguno",
+      "Solo cambia el nombre de los programas",
+      "Las cifras oficiales nunca se actualizan"
+    ],
+    "answer": 0,
+    "explanation": "El material avisa expresamente sobre vigencia temporal.",
+    "difficulty": "medium",
+    "key": true
+  },
+  {
+    "id": "coc-60",
+    "subject": "cocim",
+    "subjectName": "COCIM",
+    "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
+    "question": "¿Qué idea resume mejor el apoyo de la Cámara a la internacionalización?",
+    "options": [
+      "Acompañar desde documentación y operativa hasta estrategia, contactos y cooperación",
+      "Limitarse a documentación aduanera",
+      "Actuar como banco",
+      "Gestionar únicamente ferias"
+    ],
+    "answer": 0,
+    "explanation": "La oferta cubre varias fases del proceso exterior.",
+    "difficulty": "easy",
+    "key": true
   }
 ]
