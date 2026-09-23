@@ -169,9 +169,9 @@
     "question": "¿Qué diferencia PIB y PNB?",
     "options": [
       "PIB usa criterio territorial; PNB atiende a la nacionalidad de los factores",
-      "PIB mide renta; PNB mide exclusivamente producción física",
-      "PIB excluye producción extranjera; PNB excluye producción nacional exterior",
-      "PIB se calcula por gasto; PNB solo puede calcularse por renta"
+      "PIB se centra en la renta generada; PNB en la producción física total",
+      "PIB excluye producción exterior nacional; PNB excluye producción interior extranjera",
+      "PIB se obtiene por gasto; PNB se construye únicamente a partir de rentas"
     ],
     "answer": 0,
     "explanation": "PIB se fija en dónde se produce; PNB, en quién posee los factores.",
