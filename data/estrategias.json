@@ -7,14 +7,15 @@
     "question": "¿Qué cuatro rasgos integran el entorno VUCA?",
     "options": [
       "Volatilidad, incertidumbre, complejidad y ambigüedad",
-      "Valor, utilidad, coste y adaptación",
-      "Velocidad, universalidad, competencia y apertura",
-      "Variabilidad, unidad, control y anticipación"
+      "Variabilidad, información, competitividad y adaptación",
+      "Velocidad, incertidumbre, concentración y apertura",
+      "Volatilidad, integración, coordinación y autonomía"
     ],
     "answer": 0,
     "explanation": "VUCA significa volatilidad, incertidumbre, complejidad y ambigüedad.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "Ante la incertidumbre, ¿qué respuesta estratégica recomiendan los apuntes?",
     "options": [
-      "Esperar hasta disponer de certeza completa",
-      "Mejorar información, construir escenarios, fijar umbrales y conservar flexibilidad",
-      "Eliminar todas las decisiones irreversibles",
-      "Usar solo datos del ejercicio anterior"
+      "Mejorar información, preparar escenarios, fijar umbrales y conservar flexibilidad",
+      "Reducir alternativas, cerrar un plan único y evitar revisiones durante la ejecución",
+      "Esperar a disponer de información completa antes de comprometer recursos",
+      "Aumentar inventarios y centralizar decisiones para reducir la exposición al cambio"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La incertidumbre no se elimina: se gestiona con mejor información, escenarios, umbrales y flexibilidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-03",
@@ -40,15 +42,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué afirmación diferencia mejor internacionalización y exportación?",
     "options": [
-      "Son sinónimos",
-      "Exportar es más amplio",
-      "Internacionalizar incluye exportar, pero también compras, alianzas, licencias, oficinas, filiales, inversión o producción exterior",
-      "Internacionalizar exige siempre inversión productiva"
+      "Incluye exportar y también otras formas de presencia o relación internacional",
+      "Se limita a vender bienes producidos en el país de origen a clientes exteriores",
+      "Exige establecer una filial productiva o comercial en el mercado de destino",
+      "Implica únicamente realizar inversión directa y asumir control sobre activos exteriores"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "La internacionalización engloba muchas formas de relación con mercados exteriores, no solo ventas.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál es un factor exógeno de globalización?",
     "options": [
-      "Economías de escala internas",
-      "Estrategia corporativa",
-      "Reducción de barreras comerciales",
-      "Ciclo de vida del producto"
+      "La reducción de barreras comerciales entre países",
+      "La búsqueda interna de economías de escala",
+      "La decisión corporativa de entrar en nuevos mercados",
+      "La prolongación del ciclo de vida de un producto"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "La reducción de barreras es un factor externo; economías de escala, ciclo de vida y estrategia son factores endógenos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-05",
@@ -74,15 +78,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál es un factor endógeno de globalización?",
     "options": [
-      "Integración regional",
-      "Tecnología de comunicación mundial",
-      "Logística internacional",
-      "Economías de escala"
+      "La obtención de economías de escala dentro de la empresa",
+      "La reducción internacional de barreras arancelarias",
+      "La integración económica entre varios Estados",
+      "La mejora global de comunicaciones y logística"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "Las economías de escala nacen de la lógica y recursos de la propia empresa.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-06",
@@ -91,15 +96,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué caracteriza al nearshoring?",
     "options": [
-      "Trasladar producción a cualquier país aliado, aunque esté lejos",
-      "Acercar producción o aprovisionamiento al mercado",
-      "Concentrar todo en un único proveedor",
-      "Eliminar proveedores internacionales"
+      "Acercar producción o aprovisionamiento al mercado de destino",
+      "Trasladar actividades a países políticamente aliados aunque estén lejos",
+      "Concentrar la producción en el país con menor coste unitario disponible",
+      "Sustituir proveedores extranjeros por producción íntegramente doméstica"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Nearshoring busca proximidad geográfica para mejorar continuidad y tiempos de respuesta.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-07",
@@ -109,14 +115,15 @@
     "question": "¿Qué caracteriza al friendshoring?",
     "options": [
       "Priorizar países aliados o políticamente afines en la cadena de suministro",
-      "Producir únicamente en el mercado doméstico",
-      "Acercar siempre físicamente la producción",
-      "Elegir siempre el proveedor más barato"
+      "Acercar físicamente la producción al mercado final aunque cambie el socio",
+      "Diversificar proveedores entre regiones sin atender a afinidad política",
+      "Concentrar compras en el país que ofrezca el menor coste logístico"
     ],
     "answer": 0,
     "explanation": "Friendshoring prioriza países aliados; no es sinónimo de proximidad geográfica.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál de estas decisiones es estratégicamente más relevante?",
     "options": [
-      "Cambiar el horario de una reunión",
       "Elegir un mercado y comprometer recursos durante varios años",
-      "Reordenar un archivo",
-      "Modificar el color de una presentación"
+      "Modificar la campaña comercial de un trimestre en un país concreto",
+      "Reasignar temporalmente personal entre dos departamentos operativos",
+      "Cambiar el proveedor de un servicio auxiliar sin alterar el modelo de negocio"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Las decisiones estratégicas comprometen recursos, condicionan funciones y tienen efectos de medio/largo plazo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué debe expresar una propuesta de valor?",
     "options": [
-      "Qué problema resuelve, para quién y por qué la solución es preferible",
-      "Solo el precio final",
-      "Únicamente las características técnicas",
-      "La misión corporativa completa"
+      "Qué problema resuelve, para quién y por qué la oferta resulta preferible",
+      "Qué características técnicas tiene y cómo se organiza internamente la empresa",
+      "Qué precio se cobra y qué volumen de ventas se espera alcanzar en el primer año",
+      "Qué misión corporativa existe y qué recursos productivos posee la compañía"
     ],
     "answer": 0,
     "explanation": "La propuesta de valor conecta problema, cliente y razón de preferencia.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-10",
@@ -159,15 +168,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál de las siguientes NO figura entre las megatendencias de los apuntes?",
     "options": [
-      "Orientación hacia el cliente",
-      "Especialización",
-      "Geopolítica",
-      "Eliminación total de la regulación"
+      "La eliminación completa y permanente de toda regulación económica",
+      "La orientación hacia el cliente y la experiencia de compra",
+      "La especialización y fragmentación de las cadenas de valor",
+      "La geopolítica y la reversibilidad de la apertura comercial"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "Los apuntes hablan de desregulación, privatización y nueva regulación, no de eliminar toda regulación.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-11",
@@ -176,15 +186,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "En VUCA, ¿qué describe mejor la volatilidad?",
     "options": [
-      "La rapidez e intensidad con que cambia una variable",
-      "La falta total de información sobre el futuro",
-      "El número de elementos relacionados entre sí",
-      "La existencia de varias interpretaciones posibles de una señal"
+      "La velocidad y la intensidad con que cambia una variable",
+      "El número de variables interrelacionadas que deben analizarse",
+      "La falta de información suficiente para anticipar un resultado",
+      "La posibilidad de interpretar una misma señal de formas distintas"
     ],
     "answer": 0,
     "explanation": "La volatilidad alude a la velocidad e intensidad del cambio.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "En VUCA, ¿qué describe mejor la complejidad?",
     "options": [
-      "La rapidez con que cambia el entorno",
-      "La dificultad derivada del número de variables interrelacionadas",
-      "La imposibilidad de interpretar una señal",
-      "La ausencia de datos fiables"
+      "El número de elementos relacionados y sus interdependencias",
+      "La rapidez con que cambian las condiciones del entorno",
+      "La imposibilidad de conocer por adelantado un resultado",
+      "La existencia de varias interpretaciones para una misma señal"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La complejidad surge del número de elementos y relaciones que deben analizarse.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-13",
@@ -210,15 +222,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "En VUCA, ¿qué describe mejor la ambigüedad?",
     "options": [
-      "Que una señal pueda admitir varias interpretaciones plausibles",
-      "Que el entorno cambie a gran velocidad",
-      "Que existan muchos competidores",
-      "Que no haya ningún dato disponible"
+      "La posibilidad de interpretar una misma señal de distintas maneras",
+      "La rapidez con que una variable cambia de intensidad o dirección",
+      "La cantidad de factores que interactúan dentro del entorno",
+      "La falta de datos suficientes para anticipar el resultado final"
     ],
     "answer": 0,
     "explanation": "La ambigüedad aparece cuando una misma señal puede interpretarse de varias formas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-14",
@@ -227,15 +240,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál es la mejor traducción económica de una megatendencia para la empresa?",
     "options": [
-      "Preguntar cómo puede afectar a ingresos, costes, margen, caja o suministro",
-      "Describirla sin relacionarla con la cuenta de resultados",
-      "Esperar a que se convierta en una obligación legal",
-      "Medir únicamente su repercusión mediática"
+      "Traducirla a efectos sobre ingresos, costes, margen, caja o suministro",
+      "Clasificarla según su importancia política, social o tecnológica para el país",
+      "Medir su repercusión mediática y compararla con la atención de otras tendencias",
+      "Esperar a que se convierta en una obligación legal antes de incorporarla al análisis"
     ],
     "answer": 0,
     "explanation": "Los apuntes insisten en traducir cada tendencia a consecuencias económicas concretas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-15",
@@ -244,15 +258,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué idea resume mejor la transición de la vieja a la nueva economía?",
     "options": [
-      "El valor se desplaza en mayor medida hacia conocimiento, datos, software, servicio, experiencia y marca",
-      "La producción física deja de existir",
-      "La propiedad de activos es siempre imprescindible para competir",
-      "El servicio pierde relevancia frente al producto"
+      "Aumenta el peso del conocimiento, datos, software, servicio, experiencia y marca",
+      "Desaparece la importancia de la producción física y de los activos materiales",
+      "La propiedad directa de todos los activos se vuelve imprescindible para competir",
+      "El valor vuelve a concentrarse en volumen productivo y reducción de costes"
     ],
     "answer": 0,
     "explanation": "La nueva economía no elimina lo físico, pero aumenta el peso del conocimiento y otros intangibles.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-16",
@@ -261,15 +276,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "Según los apuntes, la orientación al cliente comienza por:",
     "options": [
-      "Identificar necesidades y puntos de dolor",
-      "Reducir precios antes de estudiar el mercado",
-      "Aumentar catálogo",
-      "Elegir primero el canal y después al cliente"
+      "Identificar necesidades, problemas y puntos de dolor del cliente",
+      "Definir primero el canal de venta y después buscar segmentos compatibles",
+      "Reducir el precio hasta situarlo por debajo de todos los competidores",
+      "Aumentar el catálogo para cubrir el mayor número posible de preferencias"
     ],
     "answer": 0,
     "explanation": "La orientación al cliente parte de comprender qué necesita y qué problema quiere resolver.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-17",
@@ -278,15 +294,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál es una consecuencia estratégica de perder el canal comercial?",
     "options": [
-      "Se puede perder también conocimiento directo sobre el cliente",
-      "Se elimina automáticamente el riesgo de mercado",
-      "Aumenta siempre el margen",
-      "Desaparece la necesidad de posventa"
+      "Perder información directa sobre necesidades y comportamiento del cliente",
+      "Reducir la dependencia de intermediarios y mejorar el control de la experiencia",
+      "Aumentar la capacidad para adaptar rápidamente la oferta a cada comprador",
+      "Disponer de más datos propios sobre uso, satisfacción y repetición de compra"
     ],
     "answer": 0,
     "explanation": "El canal transmite información; perderlo puede significar perder ventas y conocimiento del cliente.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-18",
@@ -295,15 +312,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué riesgo señala el temario respecto a adoptar tecnología sin propósito?",
     "options": [
-      "Consumir recursos sin crear valor",
-      "Perder toda la propiedad intelectual de forma automática",
-      "Impedir cualquier automatización futura",
-      "Reducir necesariamente la productividad"
+      "Consumir recursos sin crear una ventaja o valor claro para el negocio",
+      "Aumentar necesariamente el coste laboral aunque mejore la productividad",
+      "Reducir la capacidad de automatización porque obliga a mantener procesos manuales",
+      "Perder toda la propiedad intelectual asociada a la innovación tecnológica"
     ],
     "answer": 0,
     "explanation": "Adoptar tecnología sin un objetivo claro puede generar coste sin una ventaja real.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué relación establece el temario entre demografía y estrategia?",
     "options": [
-      "La estructura de población puede anticipar demanda, disponibilidad de trabajadores y presión sobre servicios",
-      "La demografía solo importa al sector público",
-      "La pirámide de población no tiene utilidad comercial",
-      "El envejecimiento afecta únicamente a pensiones"
+      "Puede cambiar demanda, disponibilidad de talento y presión sobre servicios",
+      "Solo altera el gasto público, pero no la estructura de clientes o trabajadores",
+      "Afecta a pensiones y sanidad, pero no a decisiones empresariales de mercado",
+      "Modifica la población, aunque no ofrece información útil para segmentar demanda"
     ],
     "answer": 0,
     "explanation": "La demografía condiciona tanto el mercado como la organización y disponibilidad de talento.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-20",
@@ -329,15 +348,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "Ante una regulación ambiental, el análisis estratégico correcto consiste en:",
     "options": [
-      "Separar el objetivo ambiental de la calidad del diseño regulatorio y medir impacto en coste, acceso y reputación",
-      "Asumir que toda regulación mejora la competitividad",
-      "Evaluar solo la intención política",
-      "Ignorar el impacto sobre suministro y seguros"
+      "Separar el objetivo ambiental del diseño regulatorio y medir sus efectos económicos",
+      "Valorar la norma solo por su finalidad ambiental y asumir que mejorará competitividad",
+      "Calcular únicamente el coste de cumplimiento y omitir reputación o acceso al mercado",
+      "Esperar a que la regulación esté plenamente implantada antes de estimar consecuencias"
     ],
     "answer": 0,
     "explanation": "Los apuntes proponen analizar económicamente la regulación, no quedarse en su finalidad declarada.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-21",
@@ -347,14 +367,15 @@
     "question": "¿Qué distingue a la innovación en el sentido utilizado en clase?",
     "options": [
       "Puede crear procesos, productos o modelos nuevos, no solo mejorar los existentes",
-      "Se limita a reducir costes de producción",
-      "Exige siempre una patente",
-      "Solo existe cuando hay tecnología digital"
+      "Consiste en incorporar tecnología digital a cualquier actividad de la empresa",
+      "Se limita a reducir costes dentro de procesos que ya funcionan correctamente",
+      "Exige una patente o una protección formal para poder considerarse innovación"
     ],
     "answer": 0,
     "explanation": "La innovación puede ser de proceso, producto o modelo y no se reduce a tecnología.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-22",
@@ -363,15 +384,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué exige una alianza bien diseñada además de un objetivo común?",
     "options": [
-      "Gobierno, reparto de valor, propiedad intelectual y mecanismo de salida",
-      "Eliminar cualquier conflicto entre socios",
-      "Compartir necesariamente toda la información",
-      "Crear una filial conjunta en todos los casos"
+      "Reglas de gobierno, reparto de valor, propiedad intelectual y salida",
+      "Un reparto idéntico de recursos, riesgos y beneficios entre todos los socios",
+      "La integración completa de equipos para evitar diferencias de objetivos",
+      "Un compromiso indefinido que elimine la posibilidad de abandonar la alianza"
     ],
     "answer": 0,
     "explanation": "Cooperar no elimina el conflicto; hay que diseñar reglas de funcionamiento y salida.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-23",
@@ -380,15 +402,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Por qué puede ser atractiva la especialización internacional?",
     "options": [
-      "Permite competir en nichos globales realizando una tarea muy específica y valiosa",
-      "Obliga a vender todo el catálogo",
-      "Reduce la necesidad de diferenciarse",
-      "Hace irrelevante el conocimiento del cliente"
+      "Permite competir en nichos globales dominando una tarea concreta y valiosa",
+      "Obliga a reducir la variedad de clientes hasta depender de un solo comprador",
+      "Elimina la necesidad de diferenciarse porque disminuye el número de competidores",
+      "Hace posible competir solo por precio al concentrarse en una fase muy estrecha"
     ],
     "answer": 0,
     "explanation": "La fragmentación de cadenas permite competir desde un eslabón especializado.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-24",
@@ -397,15 +420,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué trade-off aparece al comparar una cadena eficiente con una resiliente?",
     "options": [
-      "La resiliente puede costar más en condiciones normales pero reducir el coste esperado de una interrupción",
-      "La eficiente siempre tiene menor coste total",
-      "La resiliente elimina por completo el riesgo",
-      "La eficiente exige necesariamente proveedores cercanos"
+      "Puede costar más en condiciones normales pero reducir pérdidas ante interrupciones",
+      "Siempre reduce costes porque utiliza proveedores más cercanos al mercado final",
+      "Elimina la necesidad de inventarios al diversificar proveedores y rutas logísticas",
+      "Aumenta eficiencia operativa porque concentra compras en un único proveedor estable"
     ],
     "answer": 0,
     "explanation": "La comparación debe incluir el coste esperado del riesgo, no solo el precio unitario.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Qué describe mejor una estrategia sin ejecución?",
     "options": [
-      "Una intención que no produce resultados",
-      "Una ventaja competitiva sostenible",
-      "Una estructura organizativa eficiente",
-      "Una decisión táctica"
+      "Una intención que no genera resultados si no se traduce en ejecución",
+      "Una gestión eficiente que asegura resultados aunque no exista una dirección clara",
+      "Una estructura organizativa capaz de sustituir las decisiones estratégicas",
+      "Un plan operativo de corto plazo que no necesita objetivos ni prioridades"
     ],
     "answer": 0,
     "explanation": "Los apuntes subrayan que estrategia y gestión se necesitan mutuamente.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-26",
@@ -432,14 +457,15 @@
     "question": "¿Qué riesgo existe si una empresa internacionaliza sin adaptar estructura, talento, financiación y procesos?",
     "options": [
       "La organización puede convertirse en el cuello de botella de la estrategia",
-      "La demanda exterior desaparece",
-      "El producto deja de ser exportable",
-      "La empresa queda exenta de costes fijos"
+      "La empresa puede crecer demasiado rápido aunque mantenga procesos y talento sin cambios",
+      "El mercado exterior puede absorber recursos sin exigir adaptación interna relevante",
+      "La estrategia puede ejecutarse igual si la empresa conserva su estructura doméstica"
     ],
     "answer": 0,
     "explanation": "Estrategia y estructura deben avanzar juntas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-27",
@@ -448,15 +474,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál de estas características convierte una decisión en estratégica?",
     "options": [
-      "Es difícil de revertir y compromete recursos relevantes durante un horizonte amplio",
-      "Tiene efecto solo durante unos días",
-      "Afecta a una única tarea rutinaria",
-      "No implica renunciar a alternativas"
+      "Compromete recursos relevantes, afecta varias funciones y es difícil de revertir",
+      "Se limita a una función concreta y produce efectos rápidos y fácilmente reversibles",
+      "Persigue mejorar una tarea rutinaria sin alterar la posición competitiva de la empresa",
+      "Resuelve una necesidad operativa inmediata sin implicar coste de oportunidad significativo"
     ],
     "answer": 0,
     "explanation": "Las decisiones estratégicas tienen impacto transversal, duradero y coste de oportunidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Por qué recomienda el profesor empezar pronto a mirar mercados exteriores?",
     "options": [
-      "Porque investigar, adaptar, encontrar canal, registrar marca y generar confianza lleva tiempo",
-      "Porque exportar produce ventas inmediatas",
-      "Porque elimina la necesidad de financiación",
-      "Porque permite evitar cualquier adaptación del producto"
+      "Porque investigar, adaptar, encontrar canal y generar confianza requiere tiempo",
+      "Porque las ventas exteriores aparecen de forma inmediata una vez elegido el país",
+      "Porque internacionalizar pronto evita tener que adaptar producto, precio o comunicación",
+      "Porque entrar antes garantiza una posición dominante frente a competidores locales"
     ],
     "answer": 0,
     "explanation": "Internacionalizar exige aprendizaje y preparación; esperar a una urgencia suele ser mala estrategia.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-29",
@@ -482,15 +510,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "¿Cuál de estos elementos forma parte del diagnóstico previo a internacionalizarse?",
     "options": [
-      "Capacidad técnica, comercial, financiera y organizativa",
-      "Solo volumen de ventas nacionales",
-      "Únicamente notoriedad de marca",
-      "Exclusivamente coste logístico"
+      "Capacidad técnica, comercial, financiera y organizativa para sostener el proyecto",
+      "Solo volumen de ventas nacionales y cuota de mercado alcanzada en el país de origen",
+      "Principalmente notoriedad de marca y número de distribuidores existentes en España",
+      "Exclusivamente capacidad productiva y coste unitario de fabricación de la empresa"
     ],
     "answer": 0,
     "explanation": "El diagnóstico es multidimensional y debe comprobar capacidad real para sostener el proyecto.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "est-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
     "question": "Una barrera percibida se diferencia de una barrera real porque:",
     "options": [
-      "Puede proceder de creencias o inerccias internas y no de una restricción objetiva del mercado",
-      "Siempre es jurídica",
-      "Siempre aparece en el arancel",
-      "Solo afecta a empresas grandes"
+      "Puede proceder de creencias internas y no de una restricción objetiva del mercado",
+      "Se deriva siempre de una norma jurídica o administrativa del país de destino",
+      "Aparece únicamente cuando existe un coste arancelario o logístico cuantificable",
+      "Solo afecta a empresas sin experiencia previa y desaparece tras la primera exportación"
     ],
     "answer": 0,
     "explanation": "El diagnóstico debe distinguir restricciones objetivas de percepciones internas que frenan la salida.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "est-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "Las UEN permiten decidir qué parte del catálogo o actividad tiene más sentido internacionalizar.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "La selección de una oferta prioritaria ayuda a concentrar recursos y claridad comercial.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La ventaja debe ser relevante para el comprador y económicamente defendible.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "Hacer algo bien no basta; debe importar al cliente y ser defendible.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "Querer internacionalizarse exige asignar personas, tiempo, presupuesto e investigación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "La localización es una decisión interna de la empresa y por eso se considera factor endógeno.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "Las economías de escala pueden impulsar la búsqueda de más mercado para absorber capacidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "El ciclo de vida depende también del contexto de mercado, no solo de la edad del activo.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "Sanciones, aranceles y tensiones tecnológicas pueden afectar decisiones empresariales muy concretas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "La internacionalización exige proactividad comercial y una propuesta diferenciada.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "La unidad de análisis depende del producto, regulación, canal y competencia.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "La orientación al cliente exige entender qué valora realmente quien compra.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La fragmentación de cadenas permite a pymes ocupar eslabones concretos con alcance global.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "Comprar o aliarse puede acelerar acceso, aunque mantiene riesgos de integración y gobierno.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "Toda elección tiene coste de oportunidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "Internacionalizar bajo urgencia extrema deja poco margen para aprender y adaptar.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "No toda empresa debe salir; lo importante es decidir con criterio.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "La nueva economía permite modelos de empresa extendida y coordinación de recursos externos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "El análisis útil vincula tendencia, indicador y efecto económico.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "El temario propone cuestionar los supuestos que explican los resultados insuficientes.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "Una sin la otra produce ejecución sin dirección o intención sin resultados.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "La turbulencia exige revisión periódica y flexibilidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "La empresa extendida coordina capacidades internas y externas.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "No adoptar también puede ser un riesgo estratégico.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "La demografía afecta tanto a clientes como a talento y servicios.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "La estrategia exige traducir tendencias en efectos económicos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La diversificación mejora resiliencia aunque pueda aumentar complejidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La analogía de la Champions subraya que competir fuera puede elevar capacidades.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "est-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "Una máquina amortizada no es automáticamente competitiva o adecuada.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "est-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La coherencia entre intención, capacidades y recursos es esencial.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
