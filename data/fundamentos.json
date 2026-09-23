@@ -6,15 +6,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué es el coste de oportunidad?",
     "options": [
-      "El coste contable de producir una unidad",
       "El valor de la mejor alternativa a la que se renuncia",
-      "La suma de impuestos",
-      "El precio de mercado"
+      "El coste monetario directo de producir una unidad adicional",
+      "La diferencia entre precio de venta y coste de producción",
+      "El gasto necesario para sustituir un recurso escaso"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Toda elección implica renunciar a la mejor alternativa disponible.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-02",
@@ -23,15 +24,16 @@
     "source": "Fundamentos de Economia",
     "question": "En una FPP, un punto por debajo de la curva indica:",
     "options": [
-      "Eficiencia plena",
       "Ineficiencia o recursos ociosos",
-      "Imposibilidad técnica",
-      "Crecimiento"
+      "Eficiencia productiva plena",
+      "Una combinación actualmente inalcanzable",
+      "Crecimiento de la capacidad productiva"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Por debajo de la FPP existen recursos no utilizados plenamente.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-03",
@@ -40,15 +42,16 @@
     "source": "Fundamentos de Economia",
     "question": "Un desplazamiento de la FPP hacia fuera suele reflejar:",
     "options": [
-      "Menor tecnología",
-      "Crecimiento económico por más recursos o mejor tecnología",
-      "Desempleo",
-      "Inflación necesariamente"
+      "Más recursos disponibles o mejora tecnológica",
+      "Un aumento general de precios sin cambios productivos",
+      "Una caída de demanda dentro de la misma capacidad",
+      "Un movimiento entre dos puntos eficientes de la frontera"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Más recursos o mejor tecnología amplían la capacidad productiva.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-04",
@@ -57,15 +60,16 @@
     "source": "Fundamentos de Economia",
     "question": "La microeconomía estudia:",
     "options": [
-      "Agregados nacionales",
       "Mercados, empresas y hogares individuales",
-      "Solo comercio exterior",
-      "Solo política monetaria"
+      "PIB, inflación y desempleo agregados",
+      "Política monetaria y deuda pública",
+      "Crecimiento, balanza de pagos y tipos de interés"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Micro analiza unidades individuales; macro analiza el conjunto.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-05",
@@ -74,15 +78,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Cuáles son los tres problemas económicos fundamentales?",
     "options": [
-      "Qué, cómo y para quién producir",
-      "Cuándo, dónde y cuánto importar",
-      "Ahorrar, invertir y consumir",
-      "Inflación, PIB y paro"
+      "Qué producir, cómo producir y para quién producir",
+      "Cuánto ahorrar, cuánto invertir y cuánto consumir",
+      "Qué exportar, qué importar y qué financiar",
+      "Cómo crecer, cómo estabilizar y cómo redistribuir"
     ],
     "answer": 0,
     "explanation": "Toda economía debe decidir qué, cómo y para quién producir.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-06",
@@ -91,15 +96,16 @@
     "source": "Fundamentos de Economia",
     "question": "Una economía mixta:",
     "options": [
-      "Elimina el mercado",
-      "Combina mercado e intervención pública",
-      "Es totalmente planificada",
-      "No utiliza precios"
+      "Combina mercado con intervención pública",
+      "Asigna todos los recursos mediante planificación central",
+      "Deja todas las decisiones a precios y agentes privados",
+      "Sustituye los mercados por empresas públicas"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Es el modelo dominante: mercado con intervención del Estado.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-07",
@@ -108,15 +114,16 @@
     "source": "Fundamentos de Economia",
     "question": "La economía positiva estudia:",
     "options": [
-      "Lo que debería ser",
       "Lo que es, mediante hechos y relaciones verificables",
-      "Solo políticas públicas",
-      "Juicios de valor"
+      "Lo que debería ser según determinados objetivos sociales",
+      "Las medidas que aplica el Estado para modificar la economía",
+      "Las preferencias políticas sobre distribución y bienestar"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La positiva describe y explica; la normativa valora y recomienda.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-08",
@@ -126,14 +133,15 @@
     "question": "¿Cuáles son los tres enfoques del PIB?",
     "options": [
       "Gasto, renta y producción",
-      "Importación, exportación y ahorro",
+      "Consumo, inversión y ahorro",
       "Nominal, real y potencial",
-      "Público, privado y mixto"
+      "Público, privado y exterior"
     ],
     "answer": 0,
     "explanation": "Los tres enfoques miden la misma actividad desde perspectivas distintas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-09",
@@ -142,15 +150,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Por qué se restan las importaciones en C+I+G+X−M?",
     "options": [
-      "Porque son malas",
-      "Porque C, I y G pueden incluir producción extranjera que no forma parte del PIB nacional",
-      "Porque no generan gasto",
-      "Porque siempre son mayores que X"
+      "Porque C, I y G pueden incluir producción extranjera que debe excluirse",
+      "Porque las importaciones reducen siempre el bienestar del país",
+      "Porque toda importación representa una salida de capital financiero",
+      "Porque el gasto en importaciones ya se contabiliza dentro de exportaciones"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Se restan para excluir producción realizada fuera del territorio.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-10",
@@ -159,15 +168,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué diferencia PIB y PNB?",
     "options": [
-      "PIB usa criterio territorial; PNB, nacionalidad de los factores",
-      "PIB solo mide empresas",
-      "PNB excluye producción exterior nacional",
-      "No hay diferencia"
+      "PIB usa criterio territorial; PNB atiende a la nacionalidad de los factores",
+      "PIB mide renta; PNB mide exclusivamente producción física",
+      "PIB excluye producción extranjera; PNB excluye producción nacional exterior",
+      "PIB se calcula por gasto; PNB solo puede calcularse por renta"
     ],
     "answer": 0,
     "explanation": "PIB se fija en dónde se produce; PNB, en quién posee los factores.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-11",
@@ -176,15 +186,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Por qué existe el problema económico fundamental?",
     "options": [
-      "Porque los recursos son escasos frente a necesidades potencialmente ilimitadas",
-      "Porque todos los bienes son públicos",
-      "Porque no existen precios",
-      "Porque toda economía tiene desempleo"
+      "Porque los recursos son escasos frente a necesidades potencialmente amplias",
+      "Porque todos los bienes deben distribuirse mediante precios de mercado",
+      "Porque las empresas disponen de información incompleta sobre los consumidores",
+      "Porque el Estado no puede producir todos los bienes demandados"
     ],
     "answer": 0,
     "explanation": "La escasez obliga a elegir y genera coste de oportunidad.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-12",
@@ -193,15 +204,16 @@
     "source": "Fundamentos de Economia",
     "question": "En una FPP, un punto situado sobre la curva representa:",
     "options": [
-      "Una combinación eficiente de producción con los recursos disponibles",
-      "Un nivel inalcanzable",
-      "Recursos ociosos",
-      "Una recesión obligatoria"
+      "Una combinación eficiente con los recursos y tecnología disponibles",
+      "Una combinación ineficiente por uso parcial de recursos",
+      "Una combinación inalcanzable con la capacidad actual",
+      "Una situación de crecimiento que desplaza la frontera"
     ],
     "answer": 0,
     "explanation": "Los puntos sobre la frontera usan plenamente los recursos dados.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-13",
@@ -210,15 +222,16 @@
     "source": "Fundamentos de Economia",
     "question": "En una FPP, un punto situado fuera de la curva representa:",
     "options": [
-      "Una combinación inalcanzable con los recursos y tecnología actuales",
-      "Una combinación eficiente",
-      "Un punto de desempleo",
-      "Una situación de equilibrio de mercado"
+      "Una combinación inalcanzable con recursos y tecnología actuales",
+      "Una combinación eficiente que utiliza plenamente los recursos",
+      "Una combinación ineficiente con capacidad productiva ociosa",
+      "Una combinación posible tras reducir el coste de oportunidad"
     ],
     "answer": 0,
     "explanation": "Fuera de la FPP está más allá de la capacidad productiva actual.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-14",
@@ -227,15 +240,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué puede desplazar la FPP hacia fuera?",
     "options": [
-      "Más recursos o mejora tecnológica",
-      "Un uso ineficiente de recursos sin cambio estructural",
-      "Un simple movimiento de precios",
-      "Una reducción de población ocupada"
+      "Un aumento de recursos o una mejora tecnológica",
+      "Un cambio de precios relativos entre dos bienes",
+      "Un movimiento desde un punto ineficiente a uno eficiente",
+      "Una variación de preferencias de los consumidores"
     ],
     "answer": 0,
     "explanation": "El crecimiento de capacidad productiva desplaza la frontera.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-15",
@@ -245,14 +259,15 @@
     "question": "¿Qué pregunta es típicamente microeconómica?",
     "options": [
       "Cómo fija precios una empresa en un mercado concreto",
-      "Por qué crece el PIB de un país",
-      "Qué causa la inflación agregada",
-      "Cómo evoluciona la deuda pública"
+      "Por qué aumenta el desempleo agregado de un país",
+      "Cómo evoluciona la inflación general de una economía",
+      "Qué efecto tiene la política monetaria sobre el PIB"
     ],
     "answer": 0,
     "explanation": "Microeconomía analiza unidades y mercados individuales.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-16",
@@ -261,15 +276,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué pregunta es típicamente macroeconómica?",
     "options": [
-      "Por qué aumenta el desempleo de un país",
-      "Cómo decide un consumidor entre dos marcas",
-      "Cómo fija precio una cafetería",
-      "Cómo compite una empresa en un nicho"
+      "Por qué aumenta el desempleo agregado de un país",
+      "Cómo decide una empresa cuánto producir",
+      "Cómo elige un consumidor entre dos productos",
+      "Cómo se forma el precio en un mercado concreto"
     ],
     "answer": 0,
     "explanation": "Macroeconomía estudia agregados del conjunto de la economía.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-17",
@@ -278,15 +294,16 @@
     "source": "Fundamentos de Economia",
     "question": "En una economía de mercado, ¿qué mecanismo coordina gran parte de las decisiones?",
     "options": [
-      "Los precios",
-      "Un plan central único",
-      "La ONU",
-      "El banco central de forma exclusiva"
+      "Los precios como señales para coordinar decisiones",
+      "Un plan estatal que asigna cantidades y recursos",
+      "La negociación bilateral entre empresas y consumidores",
+      "El banco central mediante tipos de interés y liquidez"
     ],
     "answer": 0,
     "explanation": "Los precios actúan como señales para asignar recursos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-18",
@@ -296,14 +313,15 @@
     "question": "¿Por qué interviene el Estado incluso en economías de mercado?",
     "options": [
       "Para corregir fallos de mercado, redistribuir y estabilizar el ciclo",
-      "Porque el mercado nunca asigna recursos",
-      "Para eliminar todos los precios",
-      "Para sustituir a todas las empresas"
+      "Para sustituir el mecanismo de precios en todos los mercados",
+      "Para impedir que existan beneficios privados en sectores estratégicos",
+      "Para fijar directamente producción y consumo de cada agente"
     ],
     "answer": 0,
     "explanation": "Bienes públicos, externalidades, monopolios e información asimétrica justifican intervención.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-19",
@@ -313,14 +331,15 @@
     "question": "En el flujo circular básico, el flujo real y el monetario:",
     "options": [
       "Circulan en sentidos opuestos",
-      "Circulan siempre en el mismo sentido",
-      "No están relacionados",
-      "Solo existen en el sector público"
+      "Circulan en el mismo sentido",
+      "Solo el flujo real circula entre empresas y familias",
+      "Solo el flujo monetario conecta ambos mercados"
     ],
     "answer": 0,
     "explanation": "Bienes/factores y dinero fluyen en direcciones contrarias.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-20",
@@ -329,15 +348,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Cuál de estas es una fuga del flujo circular ampliado?",
     "options": [
-      "Ahorro",
-      "Inversión",
-      "Gasto público",
-      "Exportaciones"
+      "El ahorro",
+      "La inversión",
+      "El gasto público",
+      "Las exportaciones"
     ],
     "answer": 0,
     "explanation": "Ahorro, impuestos e importaciones son fugas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-21",
@@ -346,15 +366,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Cuál de estas es una inyección en el flujo circular ampliado?",
     "options": [
-      "Inversión",
-      "Importaciones",
-      "Impuestos",
-      "Ahorro"
+      "La inversión",
+      "El ahorro",
+      "Los impuestos",
+      "Las importaciones"
     ],
     "answer": 0,
     "explanation": "Inversión, gasto público y exportaciones son inyecciones.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-22",
@@ -365,13 +386,14 @@
     "options": [
       "Normativa",
       "Positiva",
-      "Contable",
-      "Descriptiva sin juicio de valor"
+      "Descriptiva",
+      "Contable"
     ],
     "answer": 0,
     "explanation": "Incluye una valoración y una recomendación sobre lo que debería hacerse.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-23",
@@ -380,15 +402,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Por qué el PIB solo incluye bienes y servicios finales?",
     "options": [
-      "Para evitar doble contabilización de bienes intermedios",
-      "Porque los bienes intermedios no tienen valor",
-      "Porque solo importan los servicios",
-      "Porque los bienes intermedios siempre se importan"
+      "Para evitar contar dos veces el valor de los bienes intermedios",
+      "Porque los bienes intermedios no tienen valor económico propio",
+      "Porque solo los bienes finales generan renta para los productores",
+      "Porque los bienes intermedios se registran siempre como importaciones"
     ],
     "answer": 0,
     "explanation": "El valor del bien intermedio ya está incorporado en el producto final.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-24",
@@ -397,15 +420,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué significa que el PIB sea una variable flujo?",
     "options": [
-      "Se mide durante un período de tiempo",
-      "Se mide en una fecha concreta sin dimensión temporal",
-      "Representa riqueza acumulada",
-      "Es igual al patrimonio nacional"
+      "Se mide durante un periodo de tiempo",
+      "Se mide en una fecha concreta como un stock",
+      "Representa la riqueza acumulada de una economía",
+      "Equivale al patrimonio neto de residentes y empresas"
     ],
     "answer": 0,
     "explanation": "El PIB mide producción a lo largo de un periodo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-25",
@@ -414,15 +438,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué enfoque del PIB suma salarios, rentas, intereses y beneficios?",
     "options": [
-      "Enfoque de la renta",
-      "Enfoque del gasto",
-      "Enfoque del valor añadido exclusivamente",
-      "Enfoque comercial"
+      "El enfoque de la renta",
+      "El enfoque del gasto",
+      "El enfoque de la producción",
+      "El enfoque del sector exterior"
     ],
     "answer": 0,
     "explanation": "El enfoque de renta suma ingresos generados por la producción.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-26",
@@ -431,15 +456,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué enfoque del PIB suma el valor añadido de empresas y sectores?",
     "options": [
-      "Enfoque de la producción",
-      "Enfoque del gasto",
-      "Enfoque monetario",
-      "Enfoque de balanza de pagos"
+      "El enfoque de la producción",
+      "El enfoque del gasto",
+      "El enfoque de la renta",
+      "El enfoque financiero"
     ],
     "answer": 0,
     "explanation": "La producción se mide agregando valor añadido para evitar doble conteo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-27",
@@ -448,15 +474,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué NO incluye G en la fórmula del PIB por gasto?",
     "options": [
-      "Transferencias como pensiones",
+      "Transferencias como pensiones o prestaciones",
       "Compras públicas de bienes y servicios",
-      "Inversión pública",
+      "Inversión pública en infraestructuras",
       "Salarios de empleados públicos"
     ],
     "answer": 0,
     "explanation": "Las transferencias redistribuyen renta pero no son compra de producción final.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-28",
@@ -465,15 +492,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué son las exportaciones netas?",
     "options": [
-      "X − M",
-      "C + I",
-      "G − T",
-      "PIB nominal − PIB real"
+      "Exportaciones menos importaciones",
+      "Consumo más inversión",
+      "Ingresos públicos menos gasto público",
+      "PIB nominal menos PIB real"
     ],
     "answer": 0,
     "explanation": "El saldo exterior dentro del PIB por gasto es exportaciones menos importaciones.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-29",
@@ -482,15 +510,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Cuál es una limitación del PIB per cápita?",
     "options": [
-      "Es una media y no muestra la distribución de la renta",
-      "Mide exactamente la renta disponible de cada persona",
-      "Incluye plenamente bienestar ambiental",
-      "Refleja toda economía sumergida"
+      "Es una media y no muestra cómo se distribuye la renta",
+      "Mide exactamente la renta disponible de cada habitante",
+      "Incluye de forma completa bienestar y calidad ambiental",
+      "Refleja toda la economía sumergida y el trabajo no remunerado"
     ],
     "answer": 0,
     "explanation": "El PIB per cápita no informa sobre desigualdad ni bienestar de forma completa.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-30",
@@ -499,15 +528,16 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué registra la balanza de pagos?",
     "options": [
-      "Transacciones económicas entre residentes y no residentes durante un período",
-      "Solo exportaciones de bienes",
-      "Solo deuda pública",
-      "Solo movimientos de turistas"
+      "Transacciones económicas entre residentes y no residentes durante un periodo",
+      "Solo exportaciones e importaciones de mercancías",
+      "Únicamente movimientos de capital y deuda exterior",
+      "Solo operaciones realizadas por empresas con el extranjero"
     ],
     "answer": 0,
     "explanation": "Incluye bienes, servicios, rentas, transferencias y operaciones financieras.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "fun-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "Residencia económica y nacionalidad son conceptos distintos.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "La cuenta corriente recoge operaciones reales y rentas/transferencias corrientes.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "El denominador correcto es la población activa.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "Son fuentes y metodologías distintas y pueden arrojar cifras diferentes.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "El desempleo estructural refleja desajustes persistentes de habilidades, ubicación o estructura sectorial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "Desinflación es desaceleración de la inflación, no inflación negativa.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "La combinación de inflación y debilidad económica es especialmente difícil de gestionar.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "A un precio demasiado alto se ofrece más de lo que se demanda.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "El arancel exterior común es el rasgo distintivo clave.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "NMF busca no discriminar entre socios extranjeros miembros, con las excepciones del sistema.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "fun-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "La ventaja absoluta compara eficiencia física/productiva.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "La ventaja comparativa explica por qué puede haber ganancias del comercio incluso si un país es más eficiente en todo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La teoría ricardiana se basa en ventaja comparativa, no absoluta.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "Una moneda más fuerte afecta competitividad-precio y coste de importación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "La depreciación mejora competitividad-precio exterior pero encarece compras en otras monedas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "La unión aduanera ya tiene AEC; el mercado común añade movilidad de factores.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "Es un grado más profundo de integración.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "Las reglas evitan que mercancía de terceros eluda aranceles entrando por el socio con menor tarifa.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "El principio busca no discriminar al producto importado frente al nacional una vez superada la frontera.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "fun-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "El paradigma combina integración global con regionalización y gestión de riesgos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "La ley de demanda establece una relación inversa precio-cantidad demandada.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "La ley de oferta establece una relación directa.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "Es una distinción básica de oferta y demanda.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "Los costes, tecnología y número de productores desplazan la curva de oferta.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "Los bienes necesarios suelen mostrar menor sensibilidad al precio.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "Es un diferencial de rendimiento asociado al riesgo percibido.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "Mayor riesgo percibido exige mayor rentabilidad.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La elasticidad mide sensibilidad de cantidades ante cambios de precio.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "Una inflación comparativamente alta puede encarecer la producción nacional.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "fun-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "El escenario actual combina interdependencia con reconfiguración de cadenas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
