@@ -6,15 +6,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Cuál de estos NO aparece entre los seis grandes problemas económicos señalados en clase?",
     "options": [
-      "Desempleo",
-      "Inflación",
-      "Competitividad",
-      "Número de empresas cotizadas"
+      "El número de empresas cotizadas",
+      "El desempleo",
+      "La inflación",
+      "El endeudamiento"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "Los seis problemas son desempleo, inflación, déficit comercial, productividad, competitividad y endeudamiento.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "La inflación es:",
     "options": [
-      "Una caída puntual del precio de un producto",
-      "Un crecimiento generalizado de los precios",
-      "Una reducción del PIB real",
-      "Un aumento del empleo"
+      "Un aumento generalizado y sostenido del nivel de precios",
+      "Una subida puntual del precio de un producto concreto",
+      "Una caída persistente del nivel general de precios",
+      "Una reducción del poder adquisitivo sin variación de precios"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La inflación es una subida generalizada de precios.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-03",
@@ -40,15 +42,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "La inflación subyacente busca:",
     "options": [
-      "Incluir más componentes volátiles",
-      "Aislar componentes muy volátiles como energía y alimentos no elaborados",
-      "Medir solo salarios",
-      "Medir únicamente importaciones"
+      "Aislar componentes muy volátiles para observar la tendencia de fondo",
+      "Medir únicamente energía y alimentos no elaborados",
+      "Sustituir el IPC por una medida exclusivamente salarial",
+      "Eliminar cualquier componente importado del índice de precios"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La inflación subyacente trata de mostrar la tendencia persistente de precios excluyendo componentes muy volátiles.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Por qué puede ser peligrosa una deflación persistente?",
     "options": [
-      "Porque obliga a consumir de inmediato",
-      "Porque puede retrasar compras e inversión y reducir la demanda",
-      "Porque aumenta siempre las exportaciones",
-      "Porque elimina el ahorro"
+      "Puede retrasar consumo e inversión si se esperan precios aún más bajos",
+      "Reduce siempre el coste de la deuda y acelera automáticamente el consumo",
+      "Mejora necesariamente los márgenes empresariales al abaratar los factores",
+      "Aumenta la recaudación pública aunque se contraiga la actividad"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Si se esperan precios aún más bajos, hogares y empresas pueden aplazar gasto e inversión.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-05",
@@ -74,15 +78,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "Existe déficit comercial cuando:",
     "options": [
-      "Las exportaciones superan las importaciones",
-      "Las importaciones superan las exportaciones",
-      "El gasto público supera los impuestos",
-      "El PIB nominal supera al real"
+      "Las importaciones superan a las exportaciones",
+      "Las exportaciones superan a las importaciones",
+      "El gasto público supera a los ingresos públicos",
+      "La deuda externa supera a la deuda interna"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Hay déficit comercial cuando M > X.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-06",
@@ -92,14 +97,15 @@
     "question": "¿Qué agentes aparecen en el flujo circular ampliado de los apuntes?",
     "options": [
       "Hogares, empresas, AAPP y resto del mundo",
-      "Bancos, sindicatos, bolsas y fondos",
-      "ONU, FMI, empresas y familias",
-      "Solo familias y empresas"
+      "Hogares, bancos, sindicatos y bolsas de valores",
+      "Empresas, bancos centrales, mercados y consumidores",
+      "AAPP, empresas públicas, fondos de inversión y hogares"
     ],
     "answer": 0,
     "explanation": "Los apuntes incluyen hogares, empresas, Administraciones Públicas y resto del mundo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-07",
@@ -109,14 +115,15 @@
     "question": "¿Cuál es la fórmula del PIB por el lado del gasto?",
     "options": [
       "C + I + G + X − M",
-      "C − I + G + M",
-      "C + G − X + M",
-      "I + G + M − X"
+      "C + I + G + M − X",
+      "C − I + G + X − M",
+      "C + G − I + X + M"
     ],
     "answer": 0,
     "explanation": "El PIB por gasto se expresa como C + I + G + X − M.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "El PIB nominal se valora a:",
     "options": [
-      "Precios constantes",
-      "Precios corrientes",
-      "Paridad de poder adquisitivo necesariamente",
-      "Precios internacionales"
+      "Precios corrientes del propio periodo",
+      "Precios constantes de un año base",
+      "Precios internacionales expresados en una moneda común",
+      "Precios corregidos por inflación de todos los países"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El nominal usa precios corrientes; el real, constantes.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Para qué sirve el deflactor del PIB?",
     "options": [
-      "Relacionar PIB nominal y real y captar el nivel general de precios de la producción",
-      "Medir solo desempleo",
-      "Calcular únicamente exportaciones",
-      "Sustituir siempre al IPC"
+      "Relacionar PIB nominal y real para aproximar la variación general de precios",
+      "Medir exclusivamente la evolución del precio de la cesta de consumo",
+      "Calcular la tasa de desempleo compatible con el crecimiento del PIB",
+      "Estimar el saldo exterior descontando exportaciones e importaciones"
     ],
     "answer": 0,
     "explanation": "El deflactor relaciona nominal y real y ofrece una medida amplia de precios.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-10",
@@ -159,15 +168,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Cuál es la idea metodológica central del análisis macro aplicado a internacionalización?",
     "options": [
-      "Decidir a partir de una sola cifra",
-      "Relacionar indicadores y entender cómo se afectan entre sí",
-      "Usar solo PIB",
-      "Ignorar el sector"
+      "Relacionar indicadores y entender sus efectos conjuntos",
+      "Elegir el indicador más reciente y tomarlo como señal principal",
+      "Priorizar el PIB y utilizar el resto solo como información complementaria",
+      "Analizar cada variable por separado para evitar mezclar causas distintas"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La utilidad está en interpretar relaciones y señales, no cifras aisladas.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "ins-11",
@@ -176,15 +186,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Por qué es útil el análisis macroeconómico antes de entrar en un mercado?",
     "options": [
-      "Porque ayuda a evaluar si el entorno favorece o dificulta ventas, costes, financiación y estabilidad",
-      "Porque sustituye al análisis del producto",
-      "Porque permite ignorar el sector",
-      "Porque garantiza la demanda"
+      "Porque el entorno macro puede afectar demanda, costes, financiación y riesgo",
+      "Porque permite sustituir el análisis del sector y de la empresa",
+      "Porque determina con precisión las ventas futuras del producto",
+      "Porque elimina la necesidad de analizar barreras y canales de entrada"
     ],
     "answer": 0,
     "explanation": "El atractivo de un mercado depende también del entorno macroeconómico.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué error debe evitarse al leer indicadores macroeconómicos?",
     "options": [
-      "Analizarlos de forma aislada sin relacionar causas y efectos",
-      "Compararlos a lo largo del tiempo",
-      "Examinar su impacto sobre la empresa",
-      "Buscar señales adelantadas"
+      "Interpretar una cifra aislada sin relacionarla con otras variables",
+      "Comparar la evolución temporal de un indicador con periodos anteriores",
+      "Relacionar inflación con tipos de interés y capacidad de compra",
+      "Contrastar señales de consumo con confianza e inversión empresarial"
     ],
     "answer": 0,
     "explanation": "La asignatura insiste en relacionar indicadores y no quedarse con una cifra suelta.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-13",
@@ -211,14 +223,15 @@
     "question": "¿Qué aportan los hogares a las empresas en el flujo circular?",
     "options": [
       "Trabajo y capital",
-      "Aranceles y subvenciones",
-      "Solo bienes finales",
-      "Reservas de divisas"
+      "Bienes finales y servicios públicos",
+      "Impuestos y transferencias",
+      "Exportaciones e importaciones"
     ],
     "answer": 0,
     "explanation": "Los hogares aportan factores productivos y reciben rentas a cambio.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "ins-14",
@@ -227,15 +240,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué reciben los hogares a cambio de aportar factores productivos?",
     "options": [
-      "Salarios, intereses, dividendos u otras rentas",
-      "Solo impuestos",
-      "Únicamente subvenciones",
-      "Exportaciones netas"
+      "Salarios, intereses, dividendos y otras rentas",
+      "Impuestos, aranceles, tasas y cotizaciones",
+      "Exportaciones, importaciones y transferencias públicas",
+      "Subvenciones, gasto público y deuda soberana"
     ],
     "answer": 0,
     "explanation": "Las rentas permiten posteriormente demandar bienes y servicios.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "ins-15",
@@ -244,15 +258,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Cómo entra el resto del mundo en el flujo circular?",
     "options": [
-      "Mediante exportaciones e importaciones",
-      "Mediante impuestos municipales",
-      "Solo mediante deuda pública",
-      "Únicamente mediante salarios"
+      "A través de exportaciones e importaciones",
+      "A través de impuestos y cotizaciones sociales",
+      "A través de salarios y dividendos domésticos",
+      "A través de gasto público y transferencias"
     ],
     "answer": 0,
     "explanation": "El sector exterior conecta la economía doméstica con otros países.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-16",
@@ -262,14 +277,15 @@
     "question": "¿Qué efecto puede tener un desempleo persistentemente elevado?",
     "options": [
       "Deteriorar expectativas y reducir compras importantes de los hogares",
-      "Aumentar automáticamente la inversión",
-      "Elevar necesariamente las exportaciones",
-      "Reducir siempre la deuda pública"
+      "Aumentar automáticamente la inversión empresarial por menor coste laboral",
+      "Elevar de forma inmediata las exportaciones por caída del consumo interno",
+      "Reducir necesariamente la inflación aunque la oferta permanezca constante"
     ],
     "answer": 0,
     "explanation": "El deterioro de empleo puede debilitar consumo y confianza.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-17",
@@ -278,15 +294,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué diferencia a productividad de competitividad?",
     "options": [
-      "Productividad se centra en eficiencia de uso de recursos; competitividad en capacidad de vender frente a otros oferentes",
-      "Son exactamente lo mismo",
-      "Competitividad mide solo costes laborales",
-      "Productividad depende solo del precio"
+      "Productividad es eficiencia; competitividad es capacidad de vender frente a rivales",
+      "Productividad es precio; competitividad es volumen producido por trabajador",
+      "Productividad es cuota de mercado; competitividad es coste unitario",
+      "Productividad es innovación; competitividad es nivel salarial"
     ],
     "answer": 0,
     "explanation": "La competitividad incorpora precio, calidad, innovación, regulación, marketing y otros factores.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-18",
@@ -296,14 +313,15 @@
     "question": "¿Qué puede mejorar la productividad según los apuntes?",
     "options": [
       "Formación, tecnología, innovación y mejora de procesos",
-      "Solo bajar salarios",
-      "Aumentar aranceles",
-      "Reducir siempre inversión"
+      "Reducción de salarios, aranceles y gasto público",
+      "Aumento de deuda, consumo y transferencias",
+      "Devaluación, inflación y reducción de impuestos"
     ],
     "answer": 0,
     "explanation": "La productividad se eleva mejorando capacidades y eficiencia.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Por qué una deuda elevada puede limitar la política económica futura?",
     "options": [
-      "Porque obliga a atender intereses y vencimientos y reduce margen de actuación",
-      "Porque elimina todos los ingresos fiscales",
-      "Porque impide cualquier exportación",
-      "Porque reduce automáticamente la inflación"
+      "Porque exige intereses y vencimientos que reducen margen de actuación futuro",
+      "Porque impide emitir nueva deuda aunque el país mantenga solvencia",
+      "Porque elimina la capacidad de recaudar impuestos durante varios ejercicios",
+      "Porque obliga a reducir exportaciones para equilibrar la balanza de pagos"
     ],
     "answer": 0,
     "explanation": "El endeudamiento genera compromisos financieros futuros.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-20",
@@ -330,14 +349,15 @@
     "question": "¿Qué cinco grandes tipos de política económica organiza la clase?",
     "options": [
       "Monetaria, presupuestaria, de oferta, cambiaria y exterior",
-      "Laboral, sanitaria, educativa, militar y judicial",
-      "Fiscal, aduanera, salarial, social y energética exclusivamente",
-      "Monetaria, demográfica, tecnológica, cultural y comercial"
+      "Monetaria, laboral, industrial, social y demográfica",
+      "Fiscal, salarial, tecnológica, bancaria y exterior",
+      "Presupuestaria, comercial, sectorial, financiera y empresarial"
     ],
     "answer": 0,
     "explanation": "Es la clasificación utilizada en el temario.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-21",
@@ -347,14 +367,15 @@
     "question": "¿Quién tiene la competencia principal sobre política monetaria en el esquema explicado?",
     "options": [
       "El banco central",
-      "El parlamento exclusivamente",
-      "Las empresas",
-      "Los hogares"
+      "El gobierno mediante el presupuesto",
+      "El parlamento mediante leyes tributarias",
+      "Las entidades financieras mediante el mercado interbancario"
     ],
     "answer": 0,
     "explanation": "La política monetaria se presenta como responsabilidad del banco central.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-22",
@@ -363,15 +384,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Cuál es el objetivo central de la política monetaria destacado en clase?",
     "options": [
-      "Estabilidad de precios",
-      "Maximizar exportaciones a cualquier coste",
-      "Eliminar el desempleo por completo",
-      "Fijar todos los salarios"
+      "La estabilidad de precios",
+      "El pleno empleo por encima de cualquier otro objetivo",
+      "El equilibrio presupuestario de las administraciones",
+      "El aumento sostenido del tipo de cambio"
     ],
     "answer": 0,
     "explanation": "La estabilidad de precios aparece como objetivo central.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-23",
@@ -380,15 +402,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué dos instrumentos básicos de política monetaria se destacan?",
     "options": [
-      "Liquidez/dinero en circulación y tipo de interés oficial",
-      "Aranceles y contingentes",
+      "Liquidez del sistema y tipo de interés oficial",
+      "Aranceles y contingentes de importación",
       "Impuestos y gasto público",
-      "Subvenciones e I+D"
+      "Subvenciones e incentivos a la inversión"
     ],
     "answer": 0,
     "explanation": "El banco central influye a través de liquidez y tipos oficiales.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-24",
@@ -397,15 +420,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Por qué los tipos interbancarios a plazos largos incorporan expectativas?",
     "options": [
-      "Porque reflejan lo que el mercado espera que haga el banco central en el futuro",
-      "Porque son fijados por los consumidores",
-      "Porque dependen solo de impuestos",
-      "Porque no están relacionados con política monetaria"
+      "Porque incorporan expectativas sobre decisiones futuras del banco central",
+      "Porque se fijan únicamente según el tipo oficial vigente en ese momento",
+      "Porque dependen de la inflación pasada y no de expectativas",
+      "Porque reflejan solo la liquidez diaria disponible entre bancos"
     ],
     "answer": 0,
     "explanation": "La curva de tipos contiene información sobre expectativas futuras.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué es el Euríbor en el enfoque de la clase?",
     "options": [
-      "Una referencia derivada de tipos del mercado interbancario usada en préstamos variables",
-      "El tipo oficial del BCE exactamente",
-      "Un impuesto bancario",
-      "Un índice de inflación"
+      "Una referencia del mercado interbancario usada en préstamos variables",
+      "El tipo oficial fijado directamente por el banco central",
+      "Una prima de riesgo soberana calculada para la eurozona",
+      "Un índice de inflación utilizado para actualizar préstamos"
     ],
     "answer": 0,
     "explanation": "El Euríbor es una referencia de mercado, no el tipo oficial mismo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-26",
@@ -431,15 +456,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué riesgo aparece al financiarse en una moneda con tipos bajos para invertir en otra con tipos altos?",
     "options": [
-      "El riesgo de tipo de cambio puede borrar el diferencial de intereses",
-      "No existe riesgo adicional",
-      "Solo riesgo fiscal",
-      "Solo riesgo de desempleo"
+      "El tipo de cambio puede anular el beneficio del diferencial de intereses",
+      "El riesgo se limita a que el tipo de interés de destino baje ligeramente",
+      "La operación queda cubierta porque ambas monedas generan rendimientos",
+      "El diferencial de tipos garantiza beneficio mientras la deuda sea a corto plazo"
     ],
     "answer": 0,
     "explanation": "Un movimiento adverso de la moneda de la deuda puede generar pérdidas.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-27",
@@ -450,13 +476,14 @@
     "options": [
       "El gasto público supera a los ingresos públicos",
       "Las importaciones superan a las exportaciones",
-      "La deuda baja",
-      "El PIB real supera al nominal"
+      "La deuda pública supera al PIB",
+      "Los impuestos directos superan a los indirectos"
     ],
     "answer": 0,
     "explanation": "Déficit público es un flujo anual de ingresos menos gastos del sector público.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué diferencia déficit público y deuda pública?",
     "options": [
-      "El déficit es un flujo del periodo; la deuda es el stock acumulado pendiente de devolver",
-      "Son sinónimos",
-      "La deuda es anual y el déficit acumulado",
-      "El déficit solo existe fuera de la eurozona"
+      "El déficit es un flujo del periodo; la deuda es un stock acumulado",
+      "El déficit es un stock acumulado; la deuda es un flujo anual",
+      "Ambos miden exactamente la misma magnitud en momentos distintos",
+      "La deuda solo aparece si existe déficit comercial"
     ],
     "answer": 0,
     "explanation": "La deuda se acumula a partir de déficits y otras operaciones a lo largo del tiempo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-29",
@@ -482,15 +510,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Cómo puede financiarse un Estado cuando incurre en déficit?",
     "options": [
-      "Emitiendo letras, bonos u obligaciones del Tesoro, entre otras vías",
-      "Creando exportaciones automáticamente",
-      "Aumentando necesariamente el PIB real",
-      "Reduciendo siempre impuestos"
+      "Emitiendo letras, bonos u obligaciones del Tesoro",
+      "Aumentando las exportaciones públicas",
+      "Reduciendo automáticamente el tipo oficial",
+      "Convirtiendo el déficit en inflación contable"
     ],
     "answer": 0,
     "explanation": "La emisión de deuda permite cubrir necesidades de financiación.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "ins-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_completos_Instrumentos_analisis_economico_17-09-2026.docx",
     "question": "¿Qué diferencia depreciación y devaluación?",
     "options": [
-      "La depreciación responde al mercado; la devaluación es una decisión de la autoridad en un régimen que permite fijar el tipo",
-      "Son exactamente iguales",
-      "La devaluación ocurre solo con inflación cero",
-      "La depreciación es una medida fiscal"
+      "Depreciación es un movimiento de mercado; devaluación es una decisión de autoridad",
+      "Depreciación y devaluación son sinónimos en cualquier régimen cambiario",
+      "Devaluación es un movimiento de mercado; depreciación es una decisión política",
+      "Depreciación afecta a monedas flexibles y devaluación solo a monedas apreciadas"
     ],
     "answer": 0,
     "explanation": "El mecanismo que origina el cambio distingue ambos conceptos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "ins-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "Una moneda más fuerte eleva el precio relativo de sus bienes para quien paga en otra divisa.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "En cambio flexible, el mercado cambiario puede contribuir al ajuste externo.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La política de oferta actúa sobre la capacidad productiva de la economía.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "La política comercial modifica directamente condiciones de intercambio con el exterior.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "La formación bruta de capital incluye esas partidas productivas y residenciales.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "El destino del bien determina su clasificación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "Al incorporarse a la estructura productiva se considera inversión.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "La cautela suele aparecer primero en decisiones fácilmente aplazables.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "El deterioro de confianza puede preceder una reducción del consumo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "Una caída de confianza empresarial puede anticipar menor inversión y actividad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "El PIB per cápita aproxima producción media por habitante.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "Restarlas evita atribuir producción extranjera al PIB doméstico.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La comparación separa cambios de cantidades y precios.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "El nominal puede aumentar solo por inflación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "El deflactor capta la evolución general de precios implícita en el PIB.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "Usan horizontes de comparación distintos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "La debilidad de demanda doméstica reduce compras externas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "Sin política cambiaria propia, el ajuste competitivo debe venir por otras vías.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "El temario incluye riesgos cambiarios, tipos, materias primas, impago y acceso a crédito.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "La asignatura busca lectura integrada de coyuntura.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "Los bienes duraderos pueden actuar como señal adelantada de cautela.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "Las expectativas de gerentes condicionan decisiones de inversión.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "La política fiscal actúa sobre ingresos y gastos públicos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "ins-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "Es la orientación opuesta a una política expansiva.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "ins-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "Precios relativos más altos pueden dificultar competir.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "Los tipos influyen en préstamos, inversión y consumo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La curva incorpora expectativas, no certezas.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "El tipo de cambio puede modificar el margen final.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "Actúan sobre mecanismos económicos distintos.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "ins-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "Los tres indicadores adelantados pueden deteriorarse antes que el PIB agregado.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
