@@ -187,9 +187,9 @@
     "question": "¿Qué error metodológico se comete al elegir primero una herramienta y después el objetivo?",
     "options": [
       "La búsqueda se vuelve desordenada porque la herramienta condiciona la pregunta",
-      "Se gana precisión porque cada herramienta define automáticamente el mejor criterio",
-      "Se reduce el sesgo porque se limita la investigación a una fuente especializada",
-      "Se acelera la selección porque desaparece la necesidad de formular un objetivo previo"
+      "La selección puede sesgarse porque el método queda definido antes que el objetivo",
+      "La investigación puede concentrarse en datos disponibles aunque no sean los relevantes",
+      "El análisis puede perder coherencia al adaptar la pregunta a lo que ofrece la herramienta"
     ],
     "answer": 0,
     "explanation": "El proceso debe partir de la pregunta de negocio y no de la herramienta disponible.",
