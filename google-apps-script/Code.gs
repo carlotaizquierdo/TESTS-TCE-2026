@@ -40,25 +40,29 @@ function configMap_(ss) {
   if (!sh) throw new Error('No existe la hoja "Config".');
   const last = sh.getLastRow();
   const values = last >= 2 ? sh.getRange(2, 1, last - 1, 4).getValues() : [];
-  const map = {};
+  const byKey = {}, byTitle = {};
   values.forEach(r => {
     const key = String(r[0] || "").trim();
-    if (!key) return;
-    map[key] = {
-      title: String(r[1] || "").trim(),
+    const title = String(r[1] || "").trim();
+    if (!key || !title) return;
+    const item = {
+      key,
+      title,
       planTitles: [r[2], r[3]].map(x => String(x || "").trim()).filter(Boolean)
     };
+    byKey[key] = item;
+    byTitle[title.toLowerCase()] = item;
   });
-  return map;
+  return { byKey, byTitle };
 }
 
-function markPlanTests_(ss, config, keys) {
+function markPlanTests_(ss, configByKey, keys) {
   const sh = ss.getSheetByName(TCE_SHEETS.plan);
   if (!sh || sh.getLastRow() < 7) return;
   const startRow = 7;
   const names = sh.getRange(startRow, 3, sh.getLastRow() - startRow + 1, 1).getDisplayValues().flat();
   keys.forEach(key => {
-    const item = config[key];
+    const item = configByKey[key];
     if (!item) return;
     item.planTitles.forEach(title => {
       const idx = names.indexOf(title);
@@ -102,8 +106,12 @@ function doPost(e) {
     const keysToMark = [];
 
     subjects.forEach(s => {
-      const key = String(s.key || "").trim();
-      if (!key || !config[key]) return;
+      const incomingKey = String(s.key || "").trim();
+      const incomingName = String(s.name || "").trim();
+      const item = config.byKey[incomingKey] || config.byTitle[incomingName.toLowerCase()];
+      if (!item) return;
+
+      const key = item.key;
       const unique = testId + "|" + key;
       keysToMark.push(key);
       if (seen.has(unique)) return;
@@ -112,7 +120,7 @@ function doPost(e) {
         when,
         testId,
         key,
-        config[key].title || String(s.name || key),
+        item.title,
         Number(s.questions || 0),
         Number(s.ok || 0),
         Number(s.bad || 0),
@@ -126,7 +134,7 @@ function doPost(e) {
     if (rows.length) {
       history.getRange(history.getLastRow() + 1, 1, rows.length, rows[0].length).setValues(rows);
     }
-    markPlanTests_(ss, config, [...new Set(keysToMark)]);
+    markPlanTests_(ss, config.byKey, [...new Set(keysToMark)]);
 
     return json_({ ok: true, inserted: rows.length });
   } catch (err) {
