@@ -24,10 +24,10 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Para qué sirve principalmente un cuaderno ATA?",
     "options": [
-      "Facilitar movimientos temporales de muestras, material profesional o bienes de feria",
-      "Acreditar de forma recurrente el origen preferencial de una mercancía",
-      "Declarar estadísticamente determinadas operaciones intracomunitarias",
-      "Obtener una clasificación arancelaria vinculante para un producto"
+      "Facilitar exportaciones temporales de muestras, material profesional o bienes de feria",
+      "Acreditar de forma recurrente el origen preferencial de mercancías exportadas",
+      "Declarar estadísticamente determinados movimientos intracomunitarios de bienes",
+      "Obtener apoyo para clasificar arancelariamente productos destinados a exportación"
     ],
     "answer": 0,
     "explanation": "El ATA facilita movimientos temporales sin seguir el esquema de una exportación definitiva en cada frontera participante.",
@@ -133,9 +133,9 @@
     "question": "La Enterprise Europe Network apoya principalmente:",
     "options": [
       "Internacionalización, innovación, cooperación empresarial y programas europeos de I+D",
-      "Subcontratación industrial, ferias sectoriales y demandas de compradores",
-      "Licitaciones de organismos multilaterales y estrategia de concursos",
-      "Tramitación documental, certificados de origen y cuadernos ATA"
+      "Subcontratación industrial, promoción exterior y conexión con compradores internacionales",
+      "Licitaciones de organismos multilaterales, requisitos de acceso y estrategia de concursos",
+      "Documentación de origen, exportaciones temporales y facilitaciones aduaneras"
     ],
     "answer": 0,
     "explanation": "EEN presta apoyo a pymes con proyección internacional, innovación y cooperación.",
@@ -456,10 +456,10 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Cuándo tiene especial sentido utilizar un servicio a medida?",
     "options": [
-      "Cuando hace falta una actuación concreta que no encaja en un programa estándar",
-      "Cuando se necesita cualquier certificado de origen o cuaderno ATA",
-      "Cuando se quiere acceder a un programa europeo de innovación",
-      "Cuando se pretende licitar únicamente con el Banco Mundial"
+      "Cuando se necesita una actuación concreta que no encaja bien en un programa estándar",
+      "Cuando se requiere apoyo documental periódico para operaciones habituales de exportación",
+      "Cuando se busca cooperación empresarial o participación en programas europeos de innovación",
+      "Cuando se prepara una estrategia específica para licitaciones de organismos multilaterales"
     ],
     "answer": 0,
     "explanation": "Los servicios a medida cubren necesidades específicas en mercados concretos.",
@@ -528,10 +528,10 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué papel cumple el Directorio de la Subcontratación Española dentro de SUBCONTEX?",
     "options": [
-      "Dar visibilidad sectorial a proveedores ante potenciales compradores industriales",
-      "Sustituir el registro mercantil de las empresas participantes",
-      "Emitir certificados de origen para empresas de subcontratación",
-      "Publicar aranceles y requisitos regulatorios de cada mercado"
+      "Dar visibilidad sectorial a proveedores y facilitar su contacto con compradores industriales",
+      "Centralizar información mercantil y administrativa de las empresas de subcontratación",
+      "Gestionar documentación de origen para operaciones internacionales del sector industrial",
+      "Publicar información arancelaria y requisitos regulatorios de los mercados prioritarios"
     ],
     "answer": 0,
     "explanation": "Formar parte del directorio es una vía de promoción comercial sectorial.",
