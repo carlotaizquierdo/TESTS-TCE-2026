@@ -84,127 +84,11 @@ function icexQuality(q){
   if(giveawayCount===0)score+=3; else score-=giveawayCount*2;
   return score;
 }
-function optionFrame(text,question,target,index){
-  let t=(text||"").trim().replace(/[.;]\s*$/,"");
-  if(t.length>=target*.82) return t;
-
-  const lower=t.charAt(0).toLowerCase()+t.slice(1);
-  const q=(question||"").toLowerCase();
-
-  if(/^solo\s+/i.test(t)){
-    const rest=t.replace(/^solo\s+/i,"");
-    if(/^(el|la|los|las|un|una|unos|unas)\s+/i.test(rest)){
-      t="Centrarse únicamente en "+rest+" como criterio principal";
-    }else{
-      t="Considerar que "+rest+" de forma exclusiva";
-    }
-  }else if(/^únicamente\s+/i.test(t)){
-    t="Considerar únicamente "+t.replace(/^únicamente\s+/i,"")+" como elemento determinante";
-  }else if(/^exclusivamente\s+/i.test(t)){
-    t="Limitar la respuesta exclusivamente a "+t.replace(/^exclusivamente\s+/i,"");
-  }else if(/^son sinónimos$/i.test(t)){
-    t="Considerar ambos conceptos equivalentes y utilizarlos como sinónimos";
-  }else if(/^no existe diferencia/i.test(t)){
-    t="Sostener que no existe una diferencia relevante entre ambas alternativas";
-  }else if(/^que\s+/i.test(t)){
-    t="La alternativa según la cual "+t.replace(/^que\s+/i,"");
-  }else if(/^porque\s+/i.test(t)){
-    t="La explicación según la cual "+t.replace(/^porque\s+/i,"");
-  }else if(/^(la|el|una|un|los|las)\s+/i.test(t)){
-    if(/\b(es|son|puede|pueden|debe|deben|incluye|incluyen|importa|afecta|elimina|aumenta|reduce|tiene|tienen|exige|exigen|permite|permiten|representa|representan|se)\b/i.test(t)){
-      t="La alternativa según la cual "+lower;
-    }else{
-      t="La alternativa que señala "+lower;
-    }
-  }else if(/^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+(?:ar|er|ir)\b/i.test(t)){
-    t="La opción basada en "+lower;
-  }else if(t.length<36 && /(herramienta|programa|servicio|institución|organismo|indicador|modelo|dimensión|concepto)/i.test(q)){
-    t=t+" como alternativa aplicable al supuesto planteado";
-  }else{
-    t="La alternativa que sostiene que "+lower;
-  }
-
-  if(t.length<target*.76){
-    const endings=[
-      ", dentro del enfoque planteado en la materia",
-      ", como explicación principal de este supuesto",
-      ", sin introducir otros elementos en el análisis",
-      ", como criterio central para resolver la cuestión"
-    ];
-    const ending=endings[index%endings.length];
-    if(t.length+ending.length<=target+10) t+=ending;
-  }
-  return t;
-}
-
-function lengthenDecoy(text,question,target,index){
-  let t=(text||"").trim().replace(/[.;]\s*$/,"");
-  const q=(question||"").toLowerCase();
-  const lower=t.charAt(0).toLowerCase()+t.slice(1);
-
-  if(t.length<target*.70){
-    if(/(herramienta|programa|servicio|institución|organismo|indicador|modelo|dimensión|concepto)/i.test(q)){
-      t=t+" como alternativa aplicable al supuesto planteado";
-    }else if(/^porque\s+/i.test(t)){
-      t="La explicación según la cual "+t.replace(/^porque\s+/i,"");
-    }else if(/^que\s+/i.test(t)){
-      t="La interpretación según la cual "+t.replace(/^que\s+/i,"");
-    }else if(/^(la|el|una|un|los|las)\s+/i.test(t)){
-      t="La alternativa según la cual "+lower;
-    }else if(/^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+(?:ar|er|ir)\b/i.test(t)){
-      t="La opción basada en "+lower;
-    }else{
-      t="La alternativa que sostiene que "+lower;
-    }
-  }
-
-  const tails=[
-    ", según esta interpretación del contenido",
-    ", dentro del supuesto planteado en la pregunta",
-    ", como criterio principal para resolver el caso",
-    ", de acuerdo con esta lectura del temario"
-  ];
-  let k=0;
-  while(t.length<target && k<tails.length){
-    const tail=tails[(index+k)%tails.length];
-    if(!t.includes(tail.trim()) && t.length+tail.length<=target+14) t+=tail;
-    k++;
-  }
-  return t;
-}
-
-function normalizeOptionSet(base){
-  const raw=base.options.map(x=>(x||"").trim());
-  const lengths=raw.map(x=>x.length);
-  const max=Math.max(...lengths);
-  const min=Math.min(...lengths);
-
-  let out=[...raw];
-  if(min<max*.78){
-    const target=Math.max(44,Math.min(115,max));
-    out=raw.map((x,i)=>optionFrame(x,base.question,target,i));
-  }
-
-  // Si la correcta sigue destacando por ser la más larga, alargamos
-  // una alternativa incorrecta sin cambiar su significado.
-  const lens=out.map(x=>x.length);
-  const correctLen=lens[base.answer];
-  const wrongIdx=lens.map((_,i)=>i).filter(i=>i!==base.answer);
-  const maxWrong=Math.max(...wrongIdx.map(i=>lens[i]));
-  if(correctLen>maxWrong+5){
-    const candidates=wrongIdx.sort((a,b)=>lens[b]-lens[a]);
-    const chosen=candidates[Math.floor(Math.random()*Math.min(2,candidates.length))];
-    out[chosen]=lengthenDecoy(out[chosen],base.question,correctLen+Math.floor(Math.random()*7)+2,chosen);
-  }
-  return out;
-}
-
 function variantFrom(base,style="general"){
   const qtext=style==="icex"
     ? icexStems[Math.floor(Math.random()*icexStems.length)](base)
     : stems[Math.floor(Math.random()*stems.length)](base);
-  const normalized=normalizeOptionSet(base);
-  const packed=normalized.map((text,i)=>({text,isCorrect:i===base.answer}));
+  const packed=base.options.map((text,i)=>({text,isCorrect:i===base.answer}));
   const mixed=shuffle(packed);
   return {
     ...base,
@@ -220,6 +104,10 @@ function variantFrom(base,style="general"){
 function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null,style="general"){
   let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject));
   if(difficulty!=="mixed")pool=pool.filter(q=>q.difficulty===difficulty);
+  if(!forcedBases){
+    const coherent=pool.filter(q=>icexQuality(q)>=4);
+    if(coherent.length>=Math.min(count,20)) pool=coherent;
+  }
   if(style==="icex"&&!forcedBases){
     const ranked=pool.map(q=>({q,s:icexQuality(q)})).sort((a,b)=>b.s-a.s);
     const strict=ranked.filter(x=>x.s>=5).map(x=>x.q);
