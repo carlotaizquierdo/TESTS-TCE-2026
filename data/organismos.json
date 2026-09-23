@@ -403,9 +403,9 @@
     "question": "¿Cuál es una fuente importante de financiación del BIRF?",
     "options": [
       "Emisión de bonos en mercados internacionales de capital",
-      "Cuotas pagadas por proveedores registrados en UNGM",
-      "Ingresos arancelarios de los países prestatarios",
-      "Transferencias procedentes exclusivamente del FMI"
+      "Cuotas pagadas por proveedores registrados en plataformas multilaterales",
+      "Ingresos procedentes de los países prestatarios mediante contribuciones fiscales",
+      "Transferencias financieras recibidas de otras instituciones internacionales"
     ],
     "answer": 0,
     "explanation": "El BIRF se financia, entre otras vías, emitiendo bonos en mercados de capital.",
@@ -493,9 +493,9 @@
     "question": "¿Qué tipo de financiación caracteriza a la AIF?",
     "options": [
       "Muy concesional, con plazos largos y posibles donaciones",
-      "Cercana a mercado, sin periodos de gracia y sin donaciones",
-      "Exclusivamente inversión en capital de empresas privadas",
-      "Garantías frente a riesgo político sin financiación directa"
+      "Cercana a mercado, con plazos ordinarios y sin componente concesional",
+      "Inversión en capital de empresas privadas mediante participaciones directas",
+      "Garantías frente a riesgo político para operaciones de inversión exterior"
     ],
     "answer": 0,
     "explanation": "AIF atiende a países con menor capacidad financiera.",
