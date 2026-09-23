@@ -528,10 +528,10 @@
     "source": "Fundamentos de Economia",
     "question": "¿Qué registra la balanza de pagos?",
     "options": [
-      "Transacciones económicas entre residentes y no residentes durante un periodo",
-      "Solo exportaciones e importaciones de mercancías",
-      "Únicamente movimientos de capital y deuda exterior",
-      "Solo operaciones realizadas por empresas con el extranjero"
+      "Registra transacciones económicas entre residentes y no residentes durante un periodo",
+      "Registra únicamente compraventas internacionales de bienes y servicios finales",
+      "Registra solo movimientos financieros, inversión exterior y variaciones de reservas",
+      "Registra operaciones exteriores realizadas por empresas, excluyendo a hogares y Estado"
     ],
     "answer": 0,
     "explanation": "Incluye bienes, servicios, rentas, transferencias y operaciones financieras.",
