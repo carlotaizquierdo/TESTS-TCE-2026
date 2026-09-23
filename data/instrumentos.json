@@ -43,9 +43,9 @@
     "question": "La inflación subyacente busca:",
     "options": [
       "Aislar componentes muy volátiles para observar la tendencia de fondo",
-      "Medir únicamente energía y alimentos no elaborados",
-      "Sustituir el IPC por una medida exclusivamente salarial",
-      "Eliminar cualquier componente importado del índice de precios"
+      "Medir energía y alimentos no elaborados como núcleo del índice",
+      "Sustituir el IPC por una medida centrada en la evolución salarial",
+      "Eliminar componentes importados para observar precios internos"
     ],
     "answer": 0,
     "explanation": "La inflación subyacente trata de mostrar la tendencia persistente de precios excluyendo componentes muy volátiles.",
@@ -151,7 +151,7 @@
     "question": "¿Para qué sirve el deflactor del PIB?",
     "options": [
       "Relacionar PIB nominal y real para aproximar la variación general de precios",
-      "Medir exclusivamente la evolución del precio de la cesta de consumo",
+      "Medir la evolución del precio de la cesta de consumo de los hogares",
       "Calcular la tasa de desempleo compatible con el crecimiento del PIB",
       "Estimar el saldo exterior descontando exportaciones e importaciones"
     ],
