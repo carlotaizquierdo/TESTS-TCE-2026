@@ -2,13 +2,13 @@ const BANK_FILES=[
   "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos"
 ];
 const LABELS={
-  estrategias:"Estrategias de Negocios Internacionales",
+  estrategias:"Estrategias de Negocios Internacionales (I y II)",
   cross:"Cross Cultural",
-  cocim:"COCIM",
-  internet:"Internet como fuente de información",
-  protocolo:"Protocolo y Comunicación",
-  instrumentos:"Instrumentos de análisis económico",
-  organismos:"Organismos multilaterales",
+  cocim:"COCIM (Presentación)",
+  internet:"Internet como Fuente de Información de Comercio Internacional (I y II)",
+  protocolo:"Protocolo (I y II)",
+  instrumentos:"Instrumentos de Análisis Económicos",
+  organismos:"Instituciones Multilaterales / Taller de Multilaterales (I y II)",
   fundamentos:"Fundamentos de Economía"
 };
 
@@ -210,6 +210,7 @@ function variantFrom(base,style="general"){
     ...base,
     id:base.id+"-"+Date.now()+"-"+Math.random().toString(36).slice(2,8),
     baseId:base.id,
+    subjectName:LABELS[base.subject]||base.subjectName,
     question:qtext,
     options:mixed.map(x=>x.text),
     answer:mixed.findIndex(x=>x.isCorrect)
@@ -299,16 +300,60 @@ function commitAnswer(blank=false){
 }
 $("blankBtn").addEventListener("click",()=>commitAnswer(true));
 $("nextBtn").addEventListener("click",()=>{if(selected!==null)commitAnswer(false)});
+function summarizeSubjects(){
+  const grouped={};
+  answers.forEach(a=>{
+    const key=a.item.subject;
+    if(!LABELS[key])return;
+    grouped[key]??={key,name:LABELS[key],questions:0,ok:0,bad:0,blank:0};
+    const g=grouped[key];g.questions++;
+    if(a.blank)g.blank++; else if(a.correct)g.ok++; else g.bad++;
+  });
+  return Object.values(grouped).map(g=>{
+    const raw=g.ok-g.bad*.33;
+    return {...g,grade:g.questions?raw/g.questions*10:0};
+  });
+}
+function sheetsEndpoint(){return (localStorage.getItem("tce_sheets_endpoint")||"").trim()}
+function refreshSheetsUi(){
+  const input=$("sheetsEndpoint"),state=$("sheetsSyncState");
+  if(input)input.value=sheetsEndpoint();
+  if(state)state.textContent=sheetsEndpoint()?"Conexión guardada en este dispositivo. Los próximos tests se enviarán a Google Sheets.":"Todavía no está conectado. Pega la URL /exec del Web App de Google Apps Script.";
+}
+async function syncQuizToSheets(testId,perSubject){
+  const endpoint=sheetsEndpoint();
+  const status=$("syncResult");
+  if(!endpoint){
+    if(status)status.textContent="Google Sheets no está conectado todavía.";
+    return;
+  }
+  if(!perSubject.length){
+    if(status)status.textContent="Este test no contiene asignaturas vinculadas al seguimiento.";
+    return;
+  }
+  if(status)status.textContent="Sincronizando con Google Sheets…";
+  const payload={action:"quiz_completed",testId,date:new Date().toISOString(),origin:"Tests TCE · GitHub Pages",subjects:perSubject};
+  try{
+    await fetch(endpoint,{method:"POST",mode:"no-cors",body:JSON.stringify(payload)});
+    if(status)status.textContent="Enviado a Google Sheets. El panel se actualizará automáticamente.";
+  }catch(err){
+    console.error(err);
+    if(status)status.textContent="No se ha podido enviar a Google Sheets. El resultado sigue guardado en este dispositivo.";
+  }
+}
 function finishQuiz(){
   $("quiz").classList.remove("active");$("results").classList.add("active");
   const ok=answers.filter(a=>a.correct).length,bad=answers.filter(a=>!a.correct&&!a.blank).length,blank=answers.filter(a=>a.blank).length;
   const raw=ok-bad*.33,grade=raw/answers.length*10;
+  const perSubject=summarizeSubjects();
+  const testId="tce-"+Date.now()+"-"+Math.random().toString(36).slice(2,8);
   $("grade").textContent=grade.toFixed(2).replace(".",",");
   $("summary").innerHTML=`<div class="metric"><span>Aciertos</span><strong>${ok}</strong></div><div class="metric"><span>Fallos</span><strong>${bad}</strong></div><div class="metric"><span>Blanco</span><strong>${blank}</strong></div>`;
   $("formula").textContent=`${ok} × 1 − ${bad} × 0,33 = ${raw.toFixed(2).replace(".",",")} puntos. Nota: ${grade.toFixed(2).replace(".",",")}/10.`;
   $("review").innerHTML=answers.map((a,i)=>`<article class="review-card"><strong>${i+1}. ${esc(a.item.question)}</strong><p class="${a.correct?"right":"wrong"}">Tu respuesta: ${a.blank?"En blanco":esc(a.item.options[a.choice])}</p><p class="right">Correcta: ${esc(a.item.options[a.item.answer])}</p><p class="muted">${esc(a.item.explanation)}</p><small class="source">Fuente: ${esc(a.item.source)}</small></article>`).join("");
-  saveHistory({date:new Date().toISOString(),subjects:[...new Set(answers.map(a=>a.item.subject))],ok,bad,blank,grade});
+  saveHistory({date:new Date().toISOString(),testId,subjects:[...new Set(answers.map(a=>a.item.subject))],ok,bad,blank,grade,perSubject});
   saveMistakes(answers);
+  syncQuizToSheets(testId,perSubject);
 }
 $("newBtn").addEventListener("click",()=>showView("home"));
 $("retryBtn").addEventListener("click",()=>{
@@ -320,14 +365,28 @@ $("retryBtn").addEventListener("click",()=>{
 
 function renderStats(){
   const h=history(),m=mistakes();
-  if(!h.length){$("statsBody").innerHTML='<p class="muted">Todavía no hay intentos guardados.</p>';return}
   const per={};
-  h.forEach(x=>x.subjects.forEach(s=>{per[s]??={n:0,sum:0};per[s].n++;per[s].sum+=x.grade}));
+  h.forEach(x=>{
+    if(Array.isArray(x.perSubject)&&x.perSubject.length){
+      x.perSubject.forEach(p=>{per[p.key]??={n:0,sum:0};per[p.key].n++;per[p.key].sum+=p.grade});
+    }else{
+      (x.subjects||[]).forEach(s=>{per[s]??={n:0,sum:0};per[s].n++;per[s].sum+=x.grade});
+    }
+  });
   const worst=Object.entries(m).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([id,n])=>({q:bank.find(x=>x.id===id),n})).filter(x=>x.q);
-  $("statsBody").innerHTML='<h3>Por asignatura</h3>'+Object.entries(per).map(([s,v])=>`<div class="stat-row"><span>${LABELS[s]}</span><strong>${(v.sum/v.n).toFixed(2).replace(".",",")}/10</strong></div>`).join("")+
-  '<h3>Preguntas que más fallo</h3>'+(worst.length?worst.map(x=>`<div class="stat-row"><span>${esc(x.q.question)}</span><strong>${Math.round(x.n)} fallos</strong></div>`).join(""):'<p class="muted">Sin fallos acumulados.</p>');
+  $("statsBody").innerHTML=Object.keys(per).length
+    ?'<h3>Por asignatura</h3>'+Object.entries(per).map(([s,v])=>`<div class="stat-row"><span>${LABELS[s]||s}</span><strong>${(v.sum/v.n).toFixed(2).replace(".",",")}/10</strong></div>`).join("")+'<h3>Preguntas que más fallo</h3>'+(worst.length?worst.map(x=>`<div class="stat-row"><span>${esc(x.q.question)}</span><strong>${Math.round(x.n)} fallos</strong></div>`).join(""):'<p class="muted">Sin fallos acumulados.</p>')
+    :'<p class="muted">Todavía no hay intentos guardados.</p>';
+  refreshSheetsUi();
 }
 $("resetBtn").addEventListener("click",()=>{if(confirm("¿Borrar estadísticas e historial local?")){["tce_history","tce_mistakes","tce_recent"].forEach(k=>localStorage.removeItem(k));renderStats()}});
+$("saveSheetsBtn").addEventListener("click",()=>{
+  const url=$("sheetsEndpoint").value.trim();
+  if(url&&!/^https:\/\/script\.google\.com\/macros\/s\/.+\/exec(?:\?.*)?$/.test(url)){alert("Pega la URL del Web App de Apps Script que termina en /exec.");return}
+  if(url)localStorage.setItem("tce_sheets_endpoint",url);else localStorage.removeItem("tce_sheets_endpoint");
+  refreshSheetsUi();
+});
+$("clearSheetsBtn").addEventListener("click",()=>{localStorage.removeItem("tce_sheets_endpoint");refreshSheetsUi()});
 
 // IndexedDB: guarda los documentos solo en este dispositivo.
 function openLocalDB(){
@@ -454,4 +513,5 @@ let deferredPrompt=null;
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredPrompt=e;$("installBtn").classList.remove("hidden")});
 $("installBtn").addEventListener("click",async()=>{if(deferredPrompt){deferredPrompt.prompt();deferredPrompt=null}else alert("En iPad: Safari → Compartir → Añadir a pantalla de inicio.")});
 if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");
+refreshSheetsUi();
 loadBanks();
