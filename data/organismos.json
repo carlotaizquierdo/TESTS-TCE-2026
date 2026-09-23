@@ -205,9 +205,9 @@
     "question": "En un organismo financiero, ¿con quién se vincula normalmente la ejecución del proyecto financiado?",
     "options": [
       "Con el banco y la administración del país ejecutor según el procedimiento",
-      "Directamente con una agencia de Naciones Unidas en todos los casos",
-      "Únicamente con la empresa adjudicataria principal",
-      "Con la cámara de comercio del país beneficiario"
+      "Con la administración prestataria y las reglas de contratación aplicables al proyecto",
+      "Con el organismo financiador y la entidad pública responsable de la ejecución",
+      "Con las instituciones que estructuran y supervisan el proyecto financiado"
     ],
     "answer": 0,
     "explanation": "Los bancos multilaterales financian proyectos definidos con gobiernos y sus procedimientos se articulan con el prestatario.",
@@ -511,9 +511,9 @@
     "question": "Un país supera el umbral de renta de AIF pero sigue sin ser solvente para mercado. ¿Puede seguir siendo elegible?",
     "options": [
       "Sí, si sigue sin ser solvente puede continuar siendo elegible",
-      "No, superar el umbral de renta excluye automáticamente de AIF",
-      "Sí, pero solo si deja de ser miembro del BIRF",
-      "No, salvo que reciba primero una garantía de MIGA"
+      "Sí, si la falta de solvencia mantiene abierto el acceso a condiciones concesionales",
+      "Sí, si el criterio de solvencia sigue justificando financiación de la AIF",
+      "Sí, cuando la renta supera el umbral pero persiste la falta de capacidad crediticia"
     ],
     "answer": 0,
     "explanation": "Los dos criterios de elegibilidad son alternativos.",
@@ -529,9 +529,9 @@
     "question": "¿Qué es un país IDA-only?",
     "options": [
       "Un país elegible para AIF y sin solvencia suficiente para BIRF",
-      "Un país que solo recibe financiación de IFC",
-      "Un país que combina automáticamente AIF y BIRF",
-      "Un país que solo puede recibir donaciones de organismos ONU"
+      "Un país dependiente de financiación concesional por no acceder normalmente al BIRF",
+      "Un país que recibe apoyo de AIF al no reunir condiciones ordinarias de solvencia",
+      "Un país cuya situación financiera limita su acceso a préstamos convencionales del BIRF"
     ],
     "answer": 0,
     "explanation": "IDA-only describe países sin acceso normal a BIRF.",
