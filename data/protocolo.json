@@ -7,14 +7,15 @@
     "question": "¿Cuál es la finalidad operativa del protocolo?",
     "options": [
       "Organizar actos al servicio de lo que el anfitrión quiere transmitir",
-      "Aplicar ceremonial solo en actos de Estado",
-      "Determinar únicamente el vestuario",
-      "Sustituir la comunicación institucional"
+      "Aplicar ceremonial únicamente en actos oficiales de especial solemnidad",
+      "Ordenar exclusivamente precedencias y tratamientos entre autoridades",
+      "Definir la imagen visual del acto sin intervenir en tiempos ni mensajes"
     ],
     "answer": 0,
     "explanation": "El protocolo organiza actos, precedencias, símbolos y tiempos para transmitir coherentemente el mensaje del anfitrión.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué determina la precedencia?",
     "options": [
-      "La superioridad personal",
       "La primacía funcional a efectos de lugar, asiento, intervención y honores",
-      "El salario",
-      "La edad de cualquier asistente"
+      "La superioridad personal derivada del rango o cargo de una persona",
+      "La antigüedad profesional de cada asistente dentro de la institución",
+      "El orden de llegada de las autoridades al lugar de celebración"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La precedencia ordena funcionalmente el acto; no implica superioridad personal.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-03",
@@ -40,15 +42,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En un automóvil con chófer, ¿cuál es el puesto de honor?",
     "options": [
-      "Posterior derecha",
-      "Posterior izquierda",
-      "Delantera derecha",
-      "Posterior central"
+      "La plaza posterior derecha",
+      "La plaza posterior izquierda",
+      "La plaza posterior central",
+      "La plaza delantera derecha"
     ],
     "answer": 0,
     "explanation": "La plaza posterior derecha es el puesto de honor.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En ese mismo automóvil, la segunda plaza es:",
     "options": [
-      "Delantera derecha",
-      "Posterior izquierda",
-      "Posterior central",
-      "Delantera izquierda"
+      "La plaza posterior izquierda",
+      "La plaza posterior derecha",
+      "La plaza posterior central",
+      "La plaza delantera derecha"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La segunda plaza es la posterior izquierda.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-05",
@@ -74,15 +78,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En un avión, la persona de mayor rango normalmente:",
     "options": [
-      "Embarca primera y desembarca última",
-      "Embarca última y desembarca primera",
-      "Embarca tercera y desembarca segunda",
-      "No sigue regla alguna"
+      "Embarca la última y desembarca la primera",
+      "Embarca la primera y desembarca la última",
+      "Embarca y desembarca la primera",
+      "Embarca y desembarca la última"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La pauta recogida es embarcar la última y desembarcar la primera.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-06",
@@ -91,15 +96,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En una presidencia impar:",
     "options": [
-      "No existe centro",
       "Existe un centro único y los demás puestos alternan derecha e izquierda",
-      "Los puestos se ordenan alfabéticamente",
-      "El anfitrión nunca ocupa el centro"
+      "No existe centro material y los dos puestos centrales tienen igual rango",
+      "El anfitrión ocupa siempre el extremo derecho de la presidencia",
+      "Las posiciones se asignan por orden alfabético a partir del centro"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La presidencia impar tiene un centro único.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-07",
@@ -108,15 +114,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué significa “derecha ceremonial”?",
     "options": [
-      "La derecha del público",
       "La derecha de quien preside",
-      "La puerta derecha",
-      "El lado de la bandera nacional"
+      "La derecha del público que mira de frente",
+      "La derecha de la entrada principal",
+      "La derecha de la bandera nacional"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La referencia es la derecha de quien preside, no la del público.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "Respecto a la bandera de España:",
     "options": [
-      "Puede ser menor que las demás",
-      "Debe ocupar lugar destacado, visible y de honor",
-      "Debe ir siempre en un extremo",
-      "Puede omitirse si hay bandera UE"
+      "Debe ocupar un lugar destacado y las demás no pueden ser mayores",
+      "Debe situarse siempre en el extremo izquierdo del conjunto",
+      "Puede ser de menor tamaño si comparte espacio con la bandera europea",
+      "Solo ocupa lugar de honor cuando el acto está organizado por el Estado"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Debe ocupar un lugar destacado y las demás no pueden tener mayor tamaño.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Cuál es una función del anfitrión?",
     "options": [
-      "Invitar, recibir, despedir y definir el tono del acto",
-      "Limitarse a cerrar discursos",
-      "Delegar siempre las presentaciones",
-      "No intervenir en la presidencia"
+      "Invitar, recibir, despedir y definir objetivo, tono y mensaje",
+      "Limitarse a cerrar los discursos y agradecer la asistencia",
+      "Delegar presentaciones y recepción para no alterar la precedencia",
+      "Ocupar siempre el puesto central aunque exista invitado de honor"
     ],
     "answer": 0,
     "explanation": "El anfitrión organiza la recepción y define objetivo, tono y mensaje.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-10",
@@ -160,14 +169,15 @@
     "question": "¿Qué práctica ayuda a evitar errores visuales en una comparecencia?",
     "options": [
       "Comprobar traseras y fondos desde el punto exacto de cámara",
-      "Elegir siempre fondos muy recargados",
-      "Colocar objetos altos detrás de los ponentes",
-      "Evitar pruebas de cámara"
+      "Elegir fondos con muchos elementos para reforzar la identidad institucional",
+      "Colocar logotipos a la altura de la cabeza para mejorar su visibilidad",
+      "Evitar pruebas de cámara porque pueden condicionar la naturalidad del acto"
     ],
     "answer": 0,
     "explanation": "Las traseras deben comprobarse desde cámara para evitar asociaciones visuales o logotipos ocultos.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-11",
@@ -176,15 +186,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué significa que el protocolo esté al servicio del mensaje del anfitrión?",
     "options": [
-      "Que colocaciones, símbolos, tiempos y precedencias deben reforzar el objetivo del acto",
-      "Que todas las reglas pueden ignorarse",
-      "Que el anfitrión siempre debe ocupar el centro",
-      "Que solo importa la decoración"
+      "Que colocaciones, símbolos, tiempos y precedencias deben reforzar el mensaje",
+      "Que el anfitrión puede ignorar cualquier regla si el acto es privado",
+      "Que todas las decisiones protocolarias deben favorecer siempre al invitado",
+      "Que la decoración visual prevalece sobre precedencia y funcionalidad"
     ],
     "answer": 0,
     "explanation": "El protocolo organiza el acto para comunicar de forma coherente.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué principio debe aplicarse al interpretar un gesto no verbal?",
     "options": [
-      "Observar conjunto, contexto, cultura y conducta habitual, no un gesto aislado",
-      "Asignar siempre un significado fijo",
-      "Interpretar cualquier cruce de brazos como hostilidad",
-      "Ignorar la cultura"
+      "Observar conjunto, contexto, cultura y conducta habitual antes de interpretar",
+      "Asignar a cada gesto un significado estable para poder reaccionar con rapidez",
+      "Dar prioridad a la expresión facial aunque contradiga el resto de señales",
+      "Interpretar cualquier gesto defensivo como prueba suficiente de rechazo"
     ],
     "answer": 0,
     "explanation": "Un gesto aislado no prueba por sí solo una emoción.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-13",
@@ -211,14 +223,15 @@
     "question": "En una comparecencia pública, ¿qué práctica es más adecuada?",
     "options": [
       "Mirar a los interlocutores sin olvidar la cámara",
-      "Mirar únicamente a cámara",
-      "Evitar cualquier gesto",
-      "Improvisar para parecer espontáneo"
+      "Mirar únicamente a cámara para mantener contacto con la audiencia",
+      "Reducir al mínimo los gestos para evitar transmitir nerviosismo",
+      "Improvisar la intervención para proyectar mayor espontaneidad"
     ],
     "answer": 0,
     "explanation": "La comunicación debe resultar natural y adaptada al medio.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-14",
@@ -228,14 +241,15 @@
     "question": "¿Qué criterio debe prevalecer en el saludo profesional?",
     "options": [
       "Rango, formalidad, relación y contexto cultural",
-      "El sexo de la persona",
-      "La costumbre personal propia",
-      "Una regla universal de dos besos"
+      "Sexo, edad y nacionalidad como criterios principales",
+      "Preferencia personal de quien inicia el saludo",
+      "Costumbre del país de origen del anfitrión por encima del contexto"
     ],
     "answer": 0,
     "explanation": "No existe una regla universal; se adapta al contexto profesional y cultural.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-15",
@@ -245,14 +259,15 @@
     "question": "¿Cómo debe ser un apretón de manos profesional según los apuntes?",
     "options": [
       "Firme sin exceso, breve y sin sacudir",
-      "Muy prolongado y fuerte",
-      "Siempre con ambas manos",
-      "Evitarlo en cualquier contexto"
+      "Muy firme, prolongado y acompañado de varios movimientos",
+      "Suave y largo para transmitir cercanía y cortesía",
+      "Breve pero realizado siempre con ambas manos"
     ],
     "answer": 0,
     "explanation": "Se recomienda firmeza moderada y duración breve.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-16",
@@ -262,14 +277,15 @@
     "question": "Antes de aplicar una precedencia en un acto oficial, el primer paso es:",
     "options": [
       "Identificar la naturaleza del acto y la norma aplicable",
-      "Ordenar alfabéticamente a todos",
-      "Colocar al anfitrión en el centro",
-      "Preguntar solo por edad"
+      "Ordenar a los asistentes alfabéticamente y ajustar después excepciones",
+      "Colocar primero al anfitrión y completar el resto por rango interno",
+      "Preguntar la edad de las autoridades para resolver los posibles empates"
     ],
     "answer": 0,
     "explanation": "Primero se determina si el acto es oficial y qué norma rige.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-17",
@@ -278,15 +294,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En el orden general de precedencias en Madrid, ¿quién aparece inmediatamente después del Presidente del Gobierno?",
     "options": [
-      "Presidente del Congreso de los Diputados",
-      "Presidente del Senado",
-      "Presidente del Tribunal Constitucional",
-      "Alcalde de Madrid"
+      "El Presidente del Congreso de los Diputados",
+      "El Presidente del Senado",
+      "El Presidente del Tribunal Constitucional",
+      "El Presidente del Consejo General del Poder Judicial"
     ],
     "answer": 0,
     "explanation": "El Presidente del Congreso sigue al Presidente del Gobierno en el bloque inicial citado.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-18",
@@ -296,14 +313,15 @@
     "question": "En un acto celebrado en una comunidad autónoma, ¿qué autoridad adquiere especial relevancia tras las altas autoridades del Estado?",
     "options": [
       "El presidente del Consejo de Gobierno autonómico",
-      "El decano del cuerpo diplomático",
-      "Cualquier ministro antes que la autoridad autonómica",
-      "El presidente de una empresa patrocinadora"
+      "El delegado del Gobierno en la comunidad autónoma",
+      "El presidente de la asamblea legislativa autonómica",
+      "El alcalde del municipio donde se celebra el acto"
     ],
     "answer": 0,
     "explanation": "El presidente autonómico ocupa una posición destacada en actos celebrados en su territorio.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué cuatro posiciones considera especialmente fijas el material en actos territoriales?",
     "options": [
-      "Familia Real, Presidente del Gobierno, presidente autonómico y alcalde del municipio",
-      "Presidente del Senado, rector, delegado sindical y alcalde",
-      "Embajador, ministro, gobernador y empresario",
-      "Anfitrión, patrocinador, prensa y seguridad"
+      "Familia Real, Presidente del Gobierno, presidente autonómico y alcalde",
+      "Familia Real, ministros, delegado del Gobierno y rector universitario",
+      "Presidente del Gobierno, presidente del Senado, alcalde y embajador",
+      "Presidente autonómico, delegado del Gobierno, ministro y jefe de oposición"
     ],
     "answer": 0,
     "explanation": "El documento destaca esas cuatro referencias institucionales.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-20",
@@ -329,15 +348,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "Si viajan tres personas en la parte trasera de un coche con chófer, ¿qué plaza ocupa el tercer rango?",
     "options": [
-      "La central trasera",
-      "La posterior derecha",
-      "La posterior izquierda",
-      "La delantera derecha"
+      "La plaza posterior central",
+      "La plaza posterior derecha",
+      "La plaza posterior izquierda",
+      "La plaza delantera derecha"
     ],
     "answer": 0,
     "explanation": "La central trasera queda en tercer lugar.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-21",
@@ -346,15 +366,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Por qué los movimientos alrededor del coche protocolario se realizan por la parte posterior?",
     "options": [
-      "Para respetar el orden de entrada/salida y evitar cruzarse por la zona delantera",
-      "Porque la puerta delantera está prohibida",
-      "Porque así se cambia la precedencia",
-      "Porque lo exige siempre la normativa de tráfico"
+      "Para respetar el orden operativo de entrada y salida y evitar cruces",
+      "Porque la parte delantera está reservada exclusivamente al personal de seguridad",
+      "Porque así la persona de mayor rango puede abandonar primero el vehículo",
+      "Porque el ceremonial exige no circular nunca por el lado derecho del automóvil"
     ],
     "answer": 0,
     "explanation": "Es una regla operativa de circulación alrededor del vehículo.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-22",
@@ -363,15 +384,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "Respecto a regalos institucionales a cargos públicos, la regla general es:",
     "options": [
-      "No aceptar obsequios que excedan usos sociales o puedan condicionar la función",
-      "Aceptar cualquier regalo si viene del extranjero",
-      "Aceptar solo regalos de gran valor",
-      "Rechazar incluso detalles simbólicos"
+      "No aceptar obsequios que excedan los usos sociales o puedan condicionar la función",
+      "Aceptar cualquier regalo institucional siempre que proceda de una autoridad extranjera",
+      "Aceptar únicamente obsequios de valor elevado cuando tengan carácter representativo",
+      "Rechazar incluso detalles simbólicos para evitar cualquier apariencia de influencia"
     ],
     "answer": 0,
     "explanation": "La cortesía tiene límites cuando puede comprometer la imparcialidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-23",
@@ -380,15 +402,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué criterio se aplica normalmente para ordenar banderas de Estados?",
     "options": [
-      "Orden alfabético conforme al criterio acordado",
-      "PIB del país",
-      "Antigüedad del jefe de Estado",
-      "Tamaño territorial"
+      "Orden alfabético conforme al criterio previamente acordado",
+      "Orden por población de cada Estado representado",
+      "Orden por antigüedad diplomática del jefe de Estado",
+      "Orden por importancia política o económica del país"
     ],
     "answer": 0,
     "explanation": "Se evita así crear una jerarquía política entre Estados.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-24",
@@ -397,15 +420,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué error debe evitarse con la bandera de la Unión Europea?",
     "options": [
-      "Girar el círculo de doce estrellas",
-      "Colocarla junto a otras banderas",
-      "Usarla en un acto europeo",
-      "Mantenerla vertical"
+      "Girar el círculo de estrellas respecto a su posición vertical correcta",
+      "Colocarla junto a banderas nacionales en un mismo acto",
+      "Usarla en una comparecencia institucional de ámbito europeo",
+      "Situarla en un mástil de igual altura que los demás"
     ],
     "answer": 0,
     "explanation": "Las estrellas tienen orientación fija como las horas de un reloj.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En una comparecencia bilateral, ¿cómo se colocan anfitrión e invitado respecto a las banderas?",
     "options": [
-      "Cada uno aparece frente a su propia bandera",
-      "Ambos frente a la bandera del anfitrión",
-      "Ambos frente a la bandera del invitado",
-      "Las banderas se colocan detrás del público"
+      "Cada participante se sitúa frente a su propia bandera",
+      "Ambos se sitúan frente a la bandera del anfitrión",
+      "Ambos se sitúan frente a la bandera del invitado",
+      "Las banderas se colocan juntas en un lateral sin relación con cada participante"
     ],
     "answer": 0,
     "explanation": "La disposición facilita identificación y cortesía diplomática.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-26",
@@ -431,15 +456,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "En una presidencia par, ¿qué puesto tiene prioridad entre los dos centrales?",
     "options": [
-      "El de la derecha ceremonial",
-      "El de la izquierda del público",
-      "Siempre el más cercano a la salida",
-      "No existe prioridad"
+      "El puesto situado a la derecha ceremonial entre los dos centrales",
+      "El puesto situado a la izquierda del público entre los dos centrales",
+      "El puesto más próximo a la entrada principal del salón",
+      "No existe ninguna prioridad entre los dos puestos centrales"
     ],
     "answer": 0,
     "explanation": "La presidencia par no tiene centro único; el primer central es la derecha ceremonial.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-27",
@@ -449,14 +475,15 @@
     "question": "¿Qué es una línea de saludo oficial?",
     "options": [
       "La formada por las primeras autoridades para recibir o despedir",
-      "La fila del público general",
-      "La lista de invitados confirmados",
-      "El orden de intervención en discursos"
+      "La fila general de invitados esperando acceso al recinto",
+      "El orden de intervención previsto para los discursos oficiales",
+      "La relación escrita de asistentes que ocupan puestos de presidencia"
     ],
     "answer": 0,
     "explanation": "Es una disposición protocolaria para recepción/despedida de autoridades.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Cuándo conviene protocolizar especialmente a los invitados?",
     "options": [
-      "Cuando hay autoridades, solemnidad, cobertura mediática o sensibilidades jerárquicas",
-      "Solo en bodas",
-      "Únicamente cuando hay más de 500 personas",
-      "Nunca en actos empresariales"
+      "Cuando hay autoridades, solemnidad, medios o sensibilidades jerárquicas",
+      "Solo cuando el acto supera un determinado número de asistentes",
+      "Únicamente cuando existe representación de la Casa Real",
+      "Siempre que el evento se celebre en una sede institucional"
     ],
     "answer": 0,
     "explanation": "La necesidad aumenta cuando la colocación puede tener significado institucional o relacional.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-29",
@@ -483,14 +511,15 @@
     "question": "¿Por qué una invitación tiene valor protocolario antes de que empiece el acto?",
     "options": [
       "Porque es la primera manifestación visible de la imagen del organizador",
-      "Porque sustituye al programa",
-      "Porque fija automáticamente la precedencia",
-      "Porque evita cualquier confirmación posterior"
+      "Porque fija definitivamente la precedencia sin necesidad de otras decisiones",
+      "Porque sustituye al programa y al resto de comunicaciones previas",
+      "Porque determina por sí sola el tono de todos los discursos del acto"
     ],
     "answer": 0,
     "explanation": "Errores en nombre, tratamiento, fecha o cargo pueden dañar la relación antes del evento.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "pro-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_detallados_Protocolo_y_Comunicacion.docx",
     "question": "¿Qué elemento NO debe olvidarse al preparar una fotografía de familia?",
     "options": [
-      "Listado y posición asignada a cada participante",
-      "Solo una cámara profesional",
-      "Vestuario idéntico para todos",
-      "Eliminar cualquier señalización"
+      "Listado, posición asignada, señalización y ensayo previo",
+      "Una cámara profesional y un fondo institucional uniforme",
+      "Vestuario coordinado y distancia idéntica entre participantes",
+      "Eliminación de marcas en el suelo para no condicionar la colocación"
     ],
     "answer": 0,
     "explanation": "La organización previa evita retrasos y errores de colocación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "pro-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "La prioridad es evitar una escena mayor y reparar después el error.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "La tarjeta forma parte del ritual profesional y merece atención.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La preservación de la cara y la cortesía son relevantes en la interacción.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "Wasta alude al valor de relaciones y mediadores en determinados contextos árabes.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "La distinción afecta, entre otros ámbitos, a alimentación y prácticas permitidas/prohibidas.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "La planificación debe respetar horarios religiosos relevantes.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "La posición de pausa se diferencia de la de finalización.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "La posición paralela indica finalización.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "La distribución busca favorecer conversación y equilibrio social.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "La comodidad del invitado y la fluidez de la conversación son prioritarias.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "La credibilidad mejora cuando contenido, voz y conducta corporal son coherentes.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "El sentido de un símbolo depende del contexto.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La colocación es una forma de reconocimiento institucional.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "La gestión relacional de la excepción es parte del protocolo.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "El fondo debe revisarse desde el encuadre real para evitar errores visuales.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "El valor, momento y forma de entrega dependen del contexto.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "La comunicación negativa puede ser indirecta.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "Las pautas culturales deben observarse sin convertir preferencias propias en norma universal.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "La anticipación evita incidentes y comunica consideración.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "El cierre debe mantener cortesía y discreción.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "El anfitrión marca el tono inicial y contextualiza el acto.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "La preparación debe ser precisa y coherente con la lista final.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "En igualdad de rango, la cortesía puede favorecer al visitante extranjero.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "La distribución debe favorecer interacción y comodidad.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "El temario distingue claramente ambas operaciones.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "Sujetarla por el tallo evita transferir calor al vino.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La progresión evita que sabores intensos anulen los siguientes.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "pro-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La comodidad y seguridad del comensal forman parte del protocolo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "El diseño debe ser funcional y seguro.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "pro-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La minuta informa al comensal del menú previsto.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   }
 ]
