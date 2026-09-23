@@ -7,14 +7,15 @@
     "question": "¿Qué acredita un certificado de origen?",
     "options": [
       "El origen declarado de la mercancía",
-      "La temporalidad de una exportación",
-      "La solvencia del comprador",
-      "El pago del arancel"
+      "El carácter temporal de una exportación",
+      "El cumplimiento de obligaciones INTRASTAT",
+      "La inscripción del exportador en el sistema REX"
     ],
     "answer": 0,
     "explanation": "El certificado de origen acredita el origen declarado de la mercancía.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Para qué sirve principalmente un cuaderno ATA?",
     "options": [
-      "Acreditar origen preferencial",
-      "Facilitar exportaciones temporales de muestras, material profesional o bienes para ferias",
-      "Registrar una filial",
-      "Solicitar financiación"
+      "Facilitar movimientos temporales de muestras, material profesional o bienes de feria",
+      "Acreditar de forma recurrente el origen preferencial de una mercancía",
+      "Declarar estadísticamente determinadas operaciones intracomunitarias",
+      "Obtener una clasificación arancelaria vinculante para un producto"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El ATA facilita movimientos temporales sin seguir el esquema de una exportación definitiva en cada frontera participante.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-03",
@@ -40,15 +42,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué programa PYMEXT encaja con una pyme que quiere licitar con el Banco Mundial?",
     "options": [
-      "PYMEXT E-Commerce",
-      "PYMEXT Internacional",
       "PYMEXT Multilaterales",
-      "SUBCONTEX"
+      "PYMEXT Internacional",
+      "PYMEXT E-Commerce",
+      "Enterprise Europe Network"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "PYMEXT Multilaterales está orientado a licitaciones de organismos de desarrollo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "PYMEXT E-Commerce se centra en:",
     "options": [
-      "Internacionalización online",
-      "Expedición de certificados de origen",
-      "Licitaciones multilaterales",
-      "Registro de patentes"
+      "Definir la estrategia de internacionalización a través de canales digitales",
+      "Preparar la participación en licitaciones de organismos multilaterales",
+      "Diseñar un plan general de presencia comercial en mercados exteriores",
+      "Gestionar documentación de origen y facilitaciones aduaneras"
     ],
     "answer": 0,
     "explanation": "El programa analiza demanda digital, marketplaces, canales y prioridades online.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-05",
@@ -74,15 +78,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué servicio permite conocer clasificación TARIC u origen?",
     "options": [
-      "Informes a medida",
-      "Cuaderno ATA",
-      "Misión empresarial",
-      "EEN únicamente"
+      "Un informe a medida arancelario, de origen o de clasificación TARIC",
+      "Una misión empresarial con agenda comercial en destino",
+      "Un servicio de Enterprise Europe Network para cooperación empresarial",
+      "Un plan PYMEXT orientado a estrategia de mercado"
     ],
     "answer": 0,
     "explanation": "La Cámara ofrece informes arancelarios, de origen y clasificación TARIC.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-06",
@@ -91,15 +96,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "Una misión empresarial aporta principalmente:",
     "options": [
-      "Agenda adaptada de clientes o socios y acompañamiento",
-      "Eliminación automática de aranceles",
-      "Garantía de ventas",
-      "Registro FDA"
+      "Agenda de contactos, información de mercado y acompañamiento comercial",
+      "Diagnóstico digital, selección de marketplaces y plan de e-commerce",
+      "Clasificación TARIC, análisis arancelario y acreditación de origen",
+      "Asesoramiento para programas de I+D y cooperación tecnológica europea"
     ],
     "answer": 0,
     "explanation": "Las misiones incluyen agenda, información de mercado, acompañamiento y contactos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-07",
@@ -108,15 +114,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué es SUBCONTEX?",
     "options": [
-      "Un programa de financiación",
-      "Un servicio para conectar subcontratación industrial con compradores internacionales",
-      "Un certificado aduanero",
-      "Una red de arbitraje"
+      "Un servicio de promoción de la subcontratación industrial ante compradores",
+      "Un programa para preparar licitaciones financiadas por bancos multilaterales",
+      "Una red europea para innovación, cooperación e internacionalización de pymes",
+      "Un sistema de certificación documental para exportaciones temporales"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "SUBCONTEX promueve a empresas de subcontratación industrial ante compradores internacionales.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "La Enterprise Europe Network apoya principalmente:",
     "options": [
-      "Internacionalización, innovación y cooperación empresarial",
-      "Solo visados",
-      "Solo fiscalidad",
-      "Únicamente exportaciones temporales"
+      "Internacionalización, innovación, cooperación empresarial y programas europeos de I+D",
+      "Subcontratación industrial, ferias sectoriales y demandas de compradores",
+      "Licitaciones de organismos multilaterales y estrategia de concursos",
+      "Tramitación documental, certificados de origen y cuadernos ATA"
     ],
     "answer": 0,
     "explanation": "EEN presta apoyo a pymes con proyección internacional, innovación y cooperación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "Exportador Autorizado y REX se relacionan con:",
     "options": [
-      "Facilitaciones aduaneras y acreditación de origen preferencial según el régimen",
-      "Financiación bancaria",
-      "Seguro de transporte",
-      "Protocolo institucional"
+      "La acreditación recurrente de origen preferencial según el régimen aplicable",
+      "La exportación temporal de muestras y material profesional",
+      "La declaración estadística de determinados movimientos intracomunitarios",
+      "La clasificación arancelaria y determinación del código TARIC"
     ],
     "answer": 0,
     "explanation": "Son mecanismos utilizados en la operativa de origen preferencial según el régimen aplicable.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-10",
@@ -159,15 +168,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué tienen en común los tres programas PYMEXT?",
     "options": [
-      "Parten de diagnóstico, seleccionan oportunidades y convierten el análisis en hoja de ruta",
-      "Todos se centran en e-commerce",
-      "Todos financian el 100 % sin condiciones",
-      "Todos expiden documentos aduaneros"
+      "Parten de diagnóstico, priorizan oportunidades y terminan en una hoja de ruta",
+      "Se centran exclusivamente en financiación y subvenciones a la exportación",
+      "Incluyen siempre una agenda comercial presencial en el mercado de destino",
+      "Tienen como finalidad principal emitir documentos aduaneros y certificados"
     ],
     "answer": 0,
     "explanation": "La lógica común es diagnóstico, selección de oportunidades y hoja de ruta priorizada.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-11",
@@ -178,13 +188,14 @@
     "options": [
       "Cuaderno ATA",
       "Certificado de origen",
-      "REX",
-      "INTRASTAT"
+      "Sistema REX",
+      "Declaración INTRASTAT"
     ],
     "answer": 0,
     "explanation": "El cuaderno ATA se utiliza para exportaciones temporales como muestras o material de feria.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué diferencia operativa hay entre certificado de origen y cuaderno ATA?",
     "options": [
-      "El primero acredita origen; el segundo facilita movimientos temporales",
-      "El primero sirve solo en la UE; el segundo solo fuera de la UE",
-      "El primero es voluntario y el segundo sustituye a toda declaración aduanera",
-      "No existe diferencia funcional"
+      "El certificado acredita origen; el ATA facilita movimientos temporales",
+      "El certificado acredita exportación temporal; el ATA acredita origen",
+      "Ambos acreditan origen, pero el ATA solo se usa dentro de la UE",
+      "Ambos facilitan exportaciones temporales, pero con distinto formato"
     ],
     "answer": 0,
     "explanation": "Los documentos responden a necesidades distintas y no son intercambiables.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-13",
@@ -210,15 +222,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué ventaja aporta la tramitación digital mediante E-trámites?",
     "options": [
-      "Reducir desplazamientos y agilizar el procedimiento",
-      "Eliminar la necesidad de documentación justificativa",
-      "Sustituir cualquier control aduanero",
-      "Conceder origen preferencial automáticamente"
+      "Agilizar el procedimiento y reducir desplazamientos sin cambiar los requisitos",
+      "Eliminar la documentación justificativa que antes exigía el trámite presencial",
+      "Sustituir los controles aduaneros mediante validación electrónica de la Cámara",
+      "Conceder automáticamente origen preferencial a las mercancías tramitadas"
     ],
     "answer": 0,
     "explanation": "La digitalización facilita la gestión, pero no cambia los requisitos sustantivos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-14",
@@ -229,13 +242,14 @@
     "options": [
       "Gestor personalizado",
       "Misión empresarial",
-      "SUBCONTEX",
-      "Campaña Madrid 7 Estrellas"
+      "Servicio a medida en destino",
+      "Enterprise Europe Network"
     ],
     "answer": 0,
     "explanation": "El gestor personalizado es un servicio anual para consultas de gestión operativa internacional.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-15",
@@ -245,14 +259,15 @@
     "question": "¿Qué combinación corresponde a los informes a medida de la Cámara?",
     "options": [
       "Arancelario, origen y clasificación TARIC",
-      "Solo riesgo país y rating",
-      "Solo fiscalidad y financiación",
-      "Únicamente estadísticas de comercio"
+      "Fiscalidad, expatriación y financiación",
+      "Mercados, ferias y misiones empresariales",
+      "Innovación, cooperación e I+D europea"
     ],
     "answer": 0,
     "explanation": "Los apuntes citan expresamente esos tres tipos de informe.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-16",
@@ -261,15 +276,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Cuál es la finalidad principal de las facilitaciones aduaneras citadas en el temario?",
     "options": [
-      "Gestionar mecanismos como Exportador Autorizado y REX",
-      "Emitir cuadernos ATA exclusivamente",
-      "Crear filiales exteriores",
-      "Organizar misiones empresariales"
+      "Gestionar figuras como Exportador Autorizado y REX",
+      "Emitir cuadernos ATA y certificados de origen",
+      "Preparar agendas comerciales y misiones en destino",
+      "Diseñar planes de e-commerce y marketplaces"
     ],
     "answer": 0,
     "explanation": "Las facilitaciones aduaneras incluyen la gestión de Exportador Autorizado y REX.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-17",
@@ -279,14 +295,15 @@
     "question": "INTRASTAT resulta relevante para:",
     "options": [
       "Empresas obligadas a declarar determinados flujos intracomunitarios",
-      "Cualquier exportación temporal",
-      "Solicitar un registro FDA",
-      "Obtener un certificado de libre venta"
+      "Empresas que realizan exportaciones temporales de muestras",
+      "Empresas que necesitan acreditar origen preferencial recurrente",
+      "Empresas que quieren registrar productos ante la FDA"
     ],
     "answer": 0,
     "explanation": "INTRASTAT se refiere a determinados movimientos intracomunitarios sujetos a obligación estadística.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-18",
@@ -295,15 +312,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Para qué puede solicitarse un certificado de libre venta?",
     "options": [
-      "Como documento de apoyo exigido por determinados mercados de exportación",
-      "Para acreditar origen preferencial",
-      "Para sustituir una factura comercial",
-      "Para acceder a PYMEXT"
+      "Como documento de acompañamiento exigido por ciertos mercados de exportación",
+      "Como prueba del origen preferencial de una mercancía en cualquier acuerdo comercial",
+      "Como sustituto de la factura comercial en operaciones internacionales",
+      "Como autorización general para vender productos en la Unión Europea"
     ],
     "answer": 0,
     "explanation": "Algunos mercados exigen este documento como acompañamiento de la exportación.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "El apoyo de la Cámara al registro FDA se relaciona con:",
     "options": [
-      "Registros obligatorios en Estados Unidos para sectores como alimentación, cosmética, OTC o equipos médicos",
-      "Registro de marcas en cualquier país",
-      "Declaraciones INTRASTAT",
-      "Obtención de un cuaderno ATA"
+      "Apoyo a registros obligatorios en EE. UU. para determinados sectores",
+      "Gestión de marcas y patentes internacionales ante cualquier oficina nacional",
+      "Declaración estadística de operaciones intracomunitarias de bienes",
+      "Acreditación del origen preferencial mediante REX o Exportador Autorizado"
     ],
     "answer": 0,
     "explanation": "El temario cita expresamente apoyo para registros FDA en esos ámbitos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-20",
@@ -329,15 +348,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué distingue PYMEXT Internacional de PYMEXT E-Commerce?",
     "options": [
-      "El primero diseña/refuerza presencia exterior general; el segundo se centra en internacionalización online",
-      "El primero es solo para licitaciones; el segundo para ferias",
-      "El primero solo sirve a grandes empresas",
-      "No existe diferencia"
+      "Internacional se centra en presencia exterior general; E-Commerce en canales online",
+      "Internacional se centra en licitaciones; E-Commerce en misiones empresariales",
+      "Internacional gestiona documentación; E-Commerce gestiona facilitaciones aduaneras",
+      "Internacional trabaja innovación; E-Commerce trabaja cooperación tecnológica"
     ],
     "answer": 0,
     "explanation": "Cada programa comparte metodología de diagnóstico, pero tiene un foco distinto.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-21",
@@ -347,14 +367,15 @@
     "question": "¿Qué analiza específicamente PYMEXT E-Commerce?",
     "options": [
       "Demanda digital, marketplaces, canales y prioridades online",
-      "Solo aranceles y reglas de origen",
-      "Únicamente financiación bancaria",
-      "Exclusivamente concursos multilaterales"
+      "Licitaciones, organismos financiadores, concursos y requisitos",
+      "Capacidad productiva, mercados presenciales y red de distribuidores",
+      "Aranceles, clasificación TARIC y documentación de origen"
     ],
     "answer": 0,
     "explanation": "Su objeto es definir la estrategia de internacionalización digital.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-22",
@@ -364,14 +385,15 @@
     "question": "¿Qué analiza específicamente PYMEXT Multilaterales?",
     "options": [
       "Oportunidades, organismos, requisitos, concursos y estrategia de acceso",
-      "Marketplaces y SEO",
-      "Exportación temporal",
-      "Solo aranceles"
+      "Demanda digital, marketplaces, canales y posicionamiento online",
+      "Ferias industriales, subcontratación y demandas concretas de compradores",
+      "Cooperación tecnológica, innovación y programas europeos de I+D"
     ],
     "answer": 0,
     "explanation": "El programa está orientado a concursos de organismos de desarrollo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-23",
@@ -380,15 +402,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Cuál es la lógica común de los tres planes PYMEXT?",
     "options": [
-      "Diagnóstico → selección de oportunidades → hoja de ruta priorizada",
-      "Financiación → feria → certificado ATA",
-      "Registro → importación → devolución",
-      "Contacto → subvención → franquicia"
+      "Diagnóstico, selección de oportunidades y hoja de ruta priorizada",
+      "Financiación, subvención y agenda comercial obligatoria en destino",
+      "Certificación, legalización y tramitación aduanera de la operación",
+      "Promoción, feria y contratación de un distribuidor en cada mercado"
     ],
     "answer": 0,
     "explanation": "Los tres parten de diagnóstico y terminan en una hoja de ruta priorizada.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-24",
@@ -397,15 +420,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué diferencia una misión empresarial de una jornada sobre mercados?",
     "options": [
-      "La misión busca reuniones y contactos adaptados a la empresa; la jornada se centra en información y recomendaciones generales",
-      "La jornada incluye siempre reuniones individuales y la misión no",
-      "La misión solo es formativa",
-      "La jornada sustituye a una agenda comercial"
+      "La misión genera contactos y reuniones adaptadas; la jornada aporta información general",
+      "La jornada genera reuniones individuales; la misión se limita a información sectorial",
+      "La misión se centra en formación; la jornada acompaña comercialmente en destino",
+      "La jornada sustituye la prospección; la misión sustituye el análisis previo de mercado"
     ],
     "answer": 0,
     "explanation": "Las misiones son más operativas y personalizadas; las jornadas son principalmente informativas.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué elemento es propio de una misión empresarial?",
     "options": [
-      "Agenda de potenciales clientes o socios adaptada a la empresa",
-      "Concesión automática de subvención",
-      "Clasificación TARIC obligatoria",
-      "Registro FDA gratuito"
+      "Una agenda adaptada de potenciales clientes o socios",
+      "Un informe vinculante sobre clasificación TARIC",
+      "Un registro de proveedor ante organismos multilaterales",
+      "Una declaración INTRASTAT preparada por la Cámara"
     ],
     "answer": 0,
     "explanation": "La agenda personalizada es uno de los elementos centrales de la misión.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-26",
@@ -431,15 +456,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Cuándo tiene especial sentido utilizar un servicio a medida?",
     "options": [
-      "Cuando la empresa necesita una actuación concreta que no encaja en un programa estándar",
-      "Cuando quiere cualquier certificado de origen",
-      "Solo cuando desea vender online",
-      "Únicamente para licitaciones del Banco Mundial"
+      "Cuando hace falta una actuación concreta que no encaja en un programa estándar",
+      "Cuando se necesita cualquier certificado de origen o cuaderno ATA",
+      "Cuando se quiere acceder a un programa europeo de innovación",
+      "Cuando se pretende licitar únicamente con el Banco Mundial"
     ],
     "answer": 0,
     "explanation": "Los servicios a medida cubren necesidades específicas en mercados concretos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-27",
@@ -449,14 +475,15 @@
     "question": "¿Cuál de estas necesidades encaja mejor en un servicio a medida?",
     "options": [
       "Constitución, contactos, agenda, selección de personal o apoyo local",
-      "Emitir un cuaderno ATA",
-      "Declarar INTRASTAT",
-      "Obtener un certificado de origen"
+      "Clasificación TARIC, aranceles, reglas de origen y legalizaciones",
+      "Registro FDA, certificados de libre venta y declaraciones INTRASTAT",
+      "Innovación, cooperación empresarial y proyectos europeos de I+D"
     ],
     "answer": 0,
     "explanation": "Son ejemplos expresos del uso de servicios personalizados en destino.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué ofrece SUBCONTEX a una empresa industrial?",
     "options": [
-      "Conexión con compradores internacionales y oportunidades de subcontratación",
-      "Solo financiación bancaria",
-      "Solo formación lingüística",
-      "Únicamente servicios jurídicos"
+      "Conexión con compradores y promoción internacional de capacidades industriales",
+      "Preparación de concursos financiados por organismos multilaterales",
+      "Asesoramiento en innovación y cooperación empresarial europea",
+      "Gestión documental para acreditar origen y exportaciones temporales"
     ],
     "answer": 0,
     "explanation": "SUBCONTEX está orientado a la promoción de la subcontratación industrial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "coc-29",
@@ -482,15 +510,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Cuál de estas actuaciones corresponde a SUBCONTEX?",
     "options": [
-      "Participación en ferias industriales y recepción de demandas concretas de compradores",
-      "Registro FDA",
-      "Expedición de ATA",
-      "Gestión del REX"
+      "Participación en ferias industriales y recepción de demandas de compradores",
+      "Diseño de una estrategia digital basada en marketplaces internacionales",
+      "Gestión de Exportador Autorizado y acreditaciones REX",
+      "Preparación de propuestas para licitaciones del Banco Mundial"
     ],
     "answer": 0,
     "explanation": "SUBCONTEX combina promoción, ferias y conexión con demanda internacional.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_COCIM_Camara_de_Madrid.pdf",
     "question": "¿Qué papel cumple el Directorio de la Subcontratación Española dentro de SUBCONTEX?",
     "options": [
-      "Dar visibilidad a empresas del sector ante potenciales compradores",
-      "Sustituir el registro mercantil",
-      "Emitir certificados de origen",
-      "Publicar aranceles"
+      "Dar visibilidad sectorial a proveedores ante potenciales compradores industriales",
+      "Sustituir el registro mercantil de las empresas participantes",
+      "Emitir certificados de origen para empresas de subcontratación",
+      "Publicar aranceles y requisitos regulatorios de cada mercado"
     ],
     "answer": 0,
     "explanation": "Formar parte del directorio es una vía de promoción comercial sectorial.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "coc-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "EEN combina apoyo empresarial, innovación y cooperación en una red internacional.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "EEN facilita cooperación e innovación, incluida participación en programas europeos de I+D.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La misión está diseñada para generar una agenda adaptada con contactos en destino.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "El foco es la internacionalización digital y selección de canales online.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "PYMEXT Internacional analiza capacidad, mercados, producto, oportunidades y prioridades.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "El propio material advierte que porcentajes y periodos deben confirmarse antes de solicitar apoyo.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "Los apuntes relacionan esos mecanismos con la acreditación recurrente de origen preferencial.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "Los informes a medida incluyen arancel y clasificación TARIC.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "La agenda comercial personalizada es propia de una misión o servicio a medida.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "La Cámara ofrece una cartera amplia que cubre desde operativa hasta estrategia y promoción.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "El asesoramiento experto cubre fiscalidad, expatriación, financiación, e-commerce y propiedad industrial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "Son herramientas con funciones distintas dentro de la operativa.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La red internacional puede prestar apoyos locales específicos, incluida selección de personal.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "Las jornadas tienen una función informativa y de preparación.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "EEN se orienta a cooperación, innovación e I+D europea.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "SUBCONTEX es sectorial y comercial para subcontratación industrial.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "Las condiciones dependen del convenio y periodo.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "La misión combina preparación, agenda y acompañamiento.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "Es una guía de decisión para escoger el apoyo adecuado.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "La cartera de la Cámara está diseñada para cubrir distintas fases y necesidades complementarias.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "El certificado responde a una necesidad documental de origen.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "El ATA está concebido para movimientos temporales.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "La misión se beneficia de información previa y perfil empresarial claro.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "La red permite servicios a medida en destino.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "SUBCONTEX está orientado a subcontratación industrial B2B.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "EEN tiene una función más amplia que la venta directa.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "coc-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La personalización es la característica central.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "Los servicios responden a fases diferentes del proceso.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "El material avisa expresamente sobre vigencia temporal.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "coc-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La oferta cubre varias fases del proceso exterior.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
