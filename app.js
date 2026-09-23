@@ -303,9 +303,10 @@ $("nextBtn").addEventListener("click",()=>{if(selected!==null)commitAnswer(false
 function summarizeSubjects(){
   const grouped={};
   answers.forEach(a=>{
-    const key=a.item.subject;
-    if(!LABELS[key])return;
-    grouped[key]??={key,name:LABELS[key],questions:0,ok:0,bad:0,blank:0};
+    const baseKey=a.item.subject;
+    const name=LABELS[baseKey]||a.item.subjectName||baseKey;
+    const key=LABELS[baseKey]?baseKey:"custom:"+name.toLowerCase().replace(/[^a-z0-9áéíóúüñ]+/gi,"-").replace(/^-|-$/g,"");
+    grouped[key]??={key,name,questions:0,ok:0,bad:0,blank:0};
     const g=grouped[key];g.questions++;
     if(a.blank)g.blank++; else if(a.correct)g.ok++; else g.bad++;
   });
@@ -368,14 +369,14 @@ function renderStats(){
   const per={};
   h.forEach(x=>{
     if(Array.isArray(x.perSubject)&&x.perSubject.length){
-      x.perSubject.forEach(p=>{per[p.key]??={n:0,sum:0};per[p.key].n++;per[p.key].sum+=p.grade});
+      x.perSubject.forEach(p=>{per[p.key]??={n:0,sum:0,name:p.name||LABELS[p.key]||p.key};per[p.key].n++;per[p.key].sum+=p.grade});
     }else{
-      (x.subjects||[]).forEach(s=>{per[s]??={n:0,sum:0};per[s].n++;per[s].sum+=x.grade});
+      (x.subjects||[]).forEach(s=>{per[s]??={n:0,sum:0,name:LABELS[s]||s};per[s].n++;per[s].sum+=x.grade});
     }
   });
   const worst=Object.entries(m).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([id,n])=>({q:bank.find(x=>x.id===id),n})).filter(x=>x.q);
   $("statsBody").innerHTML=Object.keys(per).length
-    ?'<h3>Por asignatura</h3>'+Object.entries(per).map(([s,v])=>`<div class="stat-row"><span>${LABELS[s]||s}</span><strong>${(v.sum/v.n).toFixed(2).replace(".",",")}/10</strong></div>`).join("")+'<h3>Preguntas que más fallo</h3>'+(worst.length?worst.map(x=>`<div class="stat-row"><span>${esc(x.q.question)}</span><strong>${Math.round(x.n)} fallos</strong></div>`).join(""):'<p class="muted">Sin fallos acumulados.</p>')
+    ?'<h3>Por asignatura</h3>'+Object.entries(per).map(([s,v])=>`<div class="stat-row"><span>${esc(v.name||LABELS[s]||s)}</span><strong>${(v.sum/v.n).toFixed(2).replace(".",",")}/10</strong></div>`).join("")+'<h3>Preguntas que más fallo</h3>'+(worst.length?worst.map(x=>`<div class="stat-row"><span>${esc(x.q.question)}</span><strong>${Math.round(x.n)} fallos</strong></div>`).join(""):'<p class="muted">Sin fallos acumulados.</p>')
     :'<p class="muted">Todavía no hay intentos guardados.</p>';
   refreshSheetsUi();
 }
