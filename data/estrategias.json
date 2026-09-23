@@ -511,9 +511,9 @@
     "question": "¿Cuál de estos elementos forma parte del diagnóstico previo a internacionalizarse?",
     "options": [
       "Capacidad técnica, comercial, financiera y organizativa para sostener el proyecto",
-      "Solo volumen de ventas nacionales y cuota de mercado alcanzada en el país de origen",
-      "Principalmente notoriedad de marca y número de distribuidores existentes en España",
-      "Exclusivamente capacidad productiva y coste unitario de fabricación de la empresa"
+      "Volumen de ventas nacionales y cuota de mercado alcanzada en el país de origen",
+      "Notoriedad de marca y número de distribuidores existentes en el mercado doméstico",
+      "Capacidad productiva y coste unitario de fabricación como base principal del análisis"
     ],
     "answer": 0,
     "explanation": "El diagnóstico es multidimensional y debe comprobar capacidad real para sostener el proyecto.",
