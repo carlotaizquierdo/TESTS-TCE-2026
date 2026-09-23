@@ -25,9 +25,9 @@
     "question": "Una fortaleza de un buscador frente a un modelo conversacional es:",
     "options": [
       "Permite localizar y abrir la fuente original con mayor facilidad",
-      "Permite sintetizar varias fuentes sin necesidad de comprobarlas",
-      "Reduce el riesgo de alucinación al interpretar contenidos automáticamente",
-      "Ofrece respuestas adaptadas al contexto empresarial sin formular una consulta precisa"
+      "Permite sintetizar varias fuentes y adaptar el resultado a la consulta",
+      "Reduce la carga de lectura al presentar directamente una respuesta redactada",
+      "Facilita comparar información procedente de páginas y formatos distintos"
     ],
     "answer": 0,
     "explanation": "El buscador facilita localizar la fuente original; el modelo conversacional destaca en síntesis.",
