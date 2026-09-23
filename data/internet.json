@@ -223,9 +223,9 @@
     "question": "¿Qué ventaja principal tiene un modelo conversacional frente a un buscador?",
     "options": [
       "Relacionar, resumir, comparar y reformular información",
-      "Localizar siempre la fuente primaria con menor riesgo de error",
-      "Ordenar páginas por relevancia y autoridad documental",
-      "Garantizar que todas las referencias citadas existen y son verificables"
+      "Localizar y ordenar fuentes originales según una consulta concreta",
+      "Rastrear páginas oficiales y bases de datos mediante palabras clave",
+      "Acceder a documentos primarios sin necesidad de interpretar su contenido"
     ],
     "answer": 0,
     "explanation": "El modelo conversacional destaca en síntesis y estructuración, pero requiere verificación.",
