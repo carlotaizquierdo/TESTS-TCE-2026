@@ -102,16 +102,6 @@ function variantFrom(base,style="general"){
 function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null,style="general"){
   let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject)&&q.approved===true);
   if(difficulty!=="mixed")pool=pool.filter(q=>q.difficulty===difficulty);
-  if(!forcedBases){
-    const coherent=pool.filter(q=>icexQuality(q)>=4);
-    if(coherent.length>=Math.min(count,20)) pool=coherent;
-  }
-  if(style==="icex"&&!forcedBases){
-    const ranked=pool.map(q=>({q,s:icexQuality(q)})).sort((a,b)=>b.s-a.s);
-    const strict=ranked.filter(x=>x.s>=5).map(x=>x.q);
-    const looser=ranked.filter(x=>x.s>=2).map(x=>x.q);
-    pool=strict.length>=Math.min(count,20)?strict:(looser.length?looser:pool);
-  }
   if(!pool.length)return [];
   const recent=new Set(recentIds());
   const scoreMistakes=mistakes();
