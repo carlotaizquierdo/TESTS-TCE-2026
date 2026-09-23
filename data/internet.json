@@ -7,14 +7,15 @@
     "question": "¿Cuál es la secuencia correcta del proceso exportador señalada en clase?",
     "options": [
       "Investigar → seleccionar → promocionar → contactar → convertir",
-      "Promocionar → investigar → contactar → seleccionar → convertir",
-      "Contactar → vender → investigar → promocionar → seleccionar",
-      "Seleccionar → convertir → investigar → contactar → promocionar"
+      "Seleccionar → investigar → promocionar → convertir → contactar",
+      "Investigar → promocionar → seleccionar → contactar → convertir",
+      "Promocionar → seleccionar → investigar → contactar → convertir"
     ],
     "answer": 0,
     "explanation": "La secuencia correcta es investigar, seleccionar, promocionar, contactar y convertir.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "Una fortaleza de un buscador frente a un modelo conversacional es:",
     "options": [
-      "Relacionar mejor conceptos",
-      "Localizar y abrir la fuente original",
-      "Eliminar por completo el SEO",
-      "No requerir verificación"
+      "Permite localizar y abrir la fuente original con mayor facilidad",
+      "Permite sintetizar varias fuentes sin necesidad de comprobarlas",
+      "Reduce el riesgo de alucinación al interpretar contenidos automáticamente",
+      "Ofrece respuestas adaptadas al contexto empresarial sin formular una consulta precisa"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El buscador facilita localizar la fuente original; el modelo conversacional destaca en síntesis.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-03",
@@ -41,14 +43,15 @@
     "question": "¿Qué herramienta sirve para analizar importaciones, crecimiento y proveedores?",
     "options": [
       "Trade Map",
-      "MACMAP",
-      "International Data Base",
-      "LinkedIn"
+      "Market Access Map",
+      "Export Potential Map",
+      "Atlas of Economic Complexity"
     ],
     "answer": 0,
     "explanation": "Trade Map permite analizar comercio por producto y mercado.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué herramienta se utiliza para consultar aranceles de acceso?",
     "options": [
-      "Export Potential Map",
       "Market Access Map (MACMAP)",
-      "COFACE",
-      "Atlas of Economic Complexity"
+      "Trade Map",
+      "Export Potential Map",
+      "International Data Base"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "MACMAP está orientada a aranceles y acceso a mercado.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-05",
@@ -75,14 +79,15 @@
     "question": "¿Qué herramienta ayuda a estimar potencial exportador no realizado?",
     "options": [
       "Export Potential Map",
-      "CESCE",
-      "LinkedIn",
-      "International Data Base"
+      "Trade Map",
+      "Atlas of Economic Complexity",
+      "COFACE"
     ],
     "answer": 0,
     "explanation": "Export Potential Map estima oportunidades y exportaciones potenciales no realizadas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-06",
@@ -91,15 +96,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "COFACE y CESCE se utilizan para analizar:",
     "options": [
-      "Riesgo país y de pago",
-      "Demografía",
-      "Clasificación arancelaria",
-      "Redes sociales"
+      "Riesgo político, económico y de pago",
+      "Estructura demográfica y evolución poblacional",
+      "Aranceles y barreras de acceso al mercado",
+      "Importaciones, proveedores y concentración comercial"
     ],
     "answer": 0,
     "explanation": "Ambas se utilizan como referencias de riesgo político, económico y de pago.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-07",
@@ -108,15 +114,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál de estos elementos forma parte de un buen prompt?",
     "options": [
-      "Contexto/rol, acción, datos, tono/formato e iteración",
-      "Solo el idioma",
-      "Solo enlaces",
-      "Una instrucción sin objetivo"
+      "Contexto, acción, datos, formato e iteración",
+      "Objetivo, arancel, canal, precio y logística",
+      "Mercado, cliente, contrato, riesgo y financiación",
+      "Rol, país, moneda, proveedor y plazo de entrega"
     ],
     "answer": 0,
     "explanation": "El esquema de clase contiene cinco elementos: contexto, acción, datos, formato y revisión/iteración.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cómo se reduce el riesgo de alucinaciones?",
     "options": [
-      "Pidiendo una respuesta más larga",
-      "Abriendo fuentes, verificando autor/fecha y comprobando que sostienen la afirmación",
-      "Confiando en cualquier enlace generado",
-      "Evitando fuentes primarias"
+      "Abrir las fuentes y comprobar autor, fecha y respaldo de la afirmación",
+      "Pedir una respuesta más detallada y con mayor número de referencias",
+      "Aceptar enlaces oficiales aunque no contengan la afirmación concreta",
+      "Comparar varias respuestas de IA sin consultar las fuentes originales"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La verificación exige comprobar que la referencia existe y respalda realmente la conclusión.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "En un corpus cerrado la instrucción correcta es:",
     "options": [
-      "Completar huecos con conocimiento general",
-      "Responder solo con documentos aportados e indicar cuando algo no aparece",
-      "Usar siempre Wikipedia",
-      "Ignorar las fuentes"
+      "Responder solo con los documentos aportados e indicar las lagunas",
+      "Usar primero los documentos y completar después con conocimiento general",
+      "Priorizar fuentes externas cuando el corpus no permita una respuesta completa",
+      "Resumir el corpus y añadir recomendaciones basadas en información pública"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Un corpus cerrado exige limitarse al material aportado y no inventar lagunas.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-10",
@@ -159,15 +168,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "En B2B técnico, ¿por qué no basta con un único mensaje comercial?",
     "options": [
-      "Porque quien investiga o prescribe puede no ser quien aprueba el gasto",
-      "Porque siempre hay cuatro decisores",
-      "Porque LinkedIn no sirve para B2B",
-      "Porque la web técnica no aporta confianza"
+      "Porque prescriptor técnico y decisor económico pueden necesitar argumentos distintos",
+      "Porque el mismo mensaje debe repetirse en todos los canales para reforzar notoriedad",
+      "Porque el comprador técnico suele tomar también la decisión presupuestaria final",
+      "Porque en B2B técnico el precio suele pesar más que la evidencia y las referencias"
     ],
     "answer": 0,
     "explanation": "El contenido debe dar evidencia técnica al prescriptor y seguridad empresarial al decisor final.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "int-11",
@@ -176,15 +186,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué error metodológico se comete al elegir primero una herramienta y después el objetivo?",
     "options": [
-      "Se generan búsquedas desordenadas y conclusiones débiles",
-      "Se mejora automáticamente la precisión",
-      "Se reduce el riesgo de sesgo",
-      "Se garantiza una fuente primaria"
+      "La búsqueda se vuelve desordenada porque la herramienta condiciona la pregunta",
+      "Se gana precisión porque cada herramienta define automáticamente el mejor criterio",
+      "Se reduce el sesgo porque se limita la investigación a una fuente especializada",
+      "Se acelera la selección porque desaparece la necesidad de formular un objetivo previo"
     ],
     "answer": 0,
     "explanation": "El proceso debe partir de la pregunta de negocio y no de la herramienta disponible.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "En el proceso exportador, la función de información responde principalmente a:",
     "options": [
-      "Dónde existe una oportunidad real",
-      "Cómo cerrar una venta ya negociada",
-      "Cómo emitir una factura",
-      "Cómo fijar el tipo de cambio"
+      "Dónde existe una oportunidad real y qué tan accesible resulta",
+      "Cómo cerrar una venta con un comprador ya identificado",
+      "Cómo emitir la documentación de una operación ya acordada",
+      "Cómo definir la estructura interna del departamento de exportación"
     ],
     "answer": 0,
     "explanation": "La información sirve para identificar y evaluar oportunidades.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-13",
@@ -211,14 +223,15 @@
     "question": "¿Qué ventaja principal tiene un modelo conversacional frente a un buscador?",
     "options": [
       "Relacionar, resumir, comparar y reformular información",
-      "Garantizar que todas sus fuentes existen",
-      "Mostrar siempre la fuente primaria",
-      "Eliminar el riesgo de alucinación"
+      "Localizar siempre la fuente primaria con menor riesgo de error",
+      "Ordenar páginas por relevancia y autoridad documental",
+      "Garantizar que todas las referencias citadas existen y son verificables"
     ],
     "answer": 0,
     "explanation": "El modelo conversacional destaca en síntesis y estructuración, pero requiere verificación.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-14",
@@ -227,15 +240,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál es un riesgo específico de los buscadores citado en los apuntes?",
     "options": [
-      "SEO, saturación y resultados poco relevantes",
-      "Inventar siempre fuentes",
-      "No permitir abrir páginas",
-      "No ordenar resultados"
+      "SEO, saturación y resultados poco relevantes para la pregunta",
+      "Alucinaciones y referencias inexistentes generadas durante la respuesta",
+      "Mezcla automática de hechos, inferencias y recomendaciones",
+      "Imposibilidad de acceder directamente a la fuente original"
     ],
     "answer": 0,
     "explanation": "El buscador puede priorizar contenido optimizado o poco útil para la necesidad real.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "int-15",
@@ -244,15 +258,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál es un riesgo específico de los modelos conversacionales?",
     "options": [
-      "Alucinaciones o mezcla de hechos e inferencias",
-      "No poder comparar información",
-      "No poder resumir",
-      "No poder adaptar el tono"
+      "Alucinaciones o mezcla de hechos e inferencias no verificadas",
+      "Resultados condicionados por SEO y posicionamiento de páginas",
+      "Exceso de enlaces sin síntesis ni adaptación a la consulta",
+      "Dificultad para localizar páginas oficiales mediante palabras clave"
     ],
     "answer": 0,
     "explanation": "Una respuesta plausible puede ser falsa o no estar sustentada.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-16",
@@ -261,15 +276,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Por qué debe analizarse la demografía antes de seleccionar un mercado?",
     "options": [
-      "Porque ayuda a estimar tamaño, evolución y segmentos de demanda",
-      "Porque determina el arancel",
-      "Porque sustituye al análisis de renta",
-      "Porque define automáticamente el canal"
+      "Ayuda a estimar tamaño, evolución y segmentos potenciales de demanda",
+      "Determina de forma directa el arancel aplicable a cada producto",
+      "Sustituye el análisis de renta porque población y consumo evolucionan igual",
+      "Permite definir por sí sola el canal de entrada más adecuado al mercado"
     ],
     "answer": 0,
     "explanation": "Población, edades, crecimiento, renta y gasto ayudan a valorar el mercado potencial.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-17",
@@ -279,14 +295,15 @@
     "question": "¿Qué variable se relaciona directamente con precio final, margen y necesidad de cobertura?",
     "options": [
       "Tipo de cambio",
-      "Población total",
-      "Número de ferias",
-      "Número de seguidores en LinkedIn"
+      "Crecimiento demográfico",
+      "Concentración de proveedores",
+      "Número de canales de distribución"
     ],
     "answer": 0,
     "explanation": "La volatilidad de la divisa puede alterar ingresos, costes y margen.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-18",
@@ -295,15 +312,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué aportan los acuerdos comerciales al análisis de mercado?",
     "options": [
-      "Preferencias, reglas de origen y condiciones documentales",
-      "Solo información demográfica",
-      "Únicamente estadísticas de LinkedIn",
-      "La lista de expositores de ferias"
+      "Preferencias arancelarias, reglas de origen y condiciones documentales",
+      "Solo información sobre tamaño de mercado y evolución de la demanda",
+      "Únicamente datos de riesgo político y estabilidad institucional",
+      "Información sobre distribuidores, márgenes y poder negociador del canal"
     ],
     "answer": 0,
     "explanation": "Los acuerdos pueden reducir aranceles, pero exigen cumplir condiciones de origen y documentación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál de estos es un ejemplo de barrera no arancelaria?",
     "options": [
-      "Un requisito obligatorio de homologación",
-      "Un derecho arancelario del 8 %",
-      "Un tipo de cambio desfavorable",
-      "Un coste de transporte elevado"
+      "Un requisito obligatorio de homologación o etiquetado",
+      "Un derecho arancelario aplicado al valor de importación",
+      "Una variación desfavorable del tipo de cambio",
+      "Un incremento del coste internacional de transporte"
     ],
     "answer": 0,
     "explanation": "Los reglamentos técnicos y homologaciones son barreras no arancelarias.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-20",
@@ -329,15 +348,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué ejemplo corresponde a una medida sanitaria o fitosanitaria?",
     "options": [
-      "Una condición de entrada aplicable a alimentos, animales o vegetales",
-      "Un arancel ad valorem",
-      "Un cupo de crédito bancario",
-      "Una comisión de marketplace"
+      "Una condición aplicable a alimentos, animales o vegetales importados",
+      "Un arancel específico aplicado por unidad física importada",
+      "Un contingente cuantitativo para limitar volumen de importación",
+      "Una obligación general de contenido local en la producción"
     ],
     "answer": 0,
     "explanation": "Las medidas SPS afectan productos alimentarios, animales, vegetales y relacionados.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-21",
@@ -346,15 +366,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Por qué un mercado grande puede no ser atractivo?",
     "options": [
-      "Porque puede presentar barreras, riesgo, saturación o canales poco accesibles",
-      "Porque tamaño y atractivo siempre son equivalentes",
-      "Porque los mercados grandes no importan",
-      "Porque un arancel bajo garantiza acceso"
+      "Porque puede tener barreras, riesgo, saturación o canales poco accesibles",
+      "Porque un mercado grande suele presentar necesariamente aranceles más elevados",
+      "Porque el tamaño impide segmentar y obliga a competir en todo el mercado",
+      "Porque un alto volumen de importaciones implica baja rentabilidad para nuevos entrantes"
     ],
     "answer": 0,
     "explanation": "El tamaño es solo uno de varios criterios de selección.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-22",
@@ -363,15 +384,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué enseña la idea de que la proximidad no es solo geográfica?",
     "options": [
-      "Países lejanos pueden tener estructuras productivas, gustos o redes comerciales compatibles",
-      "La distancia física nunca importa",
-      "Los países vecinos siempre son los mejores mercados",
-      "Solo cuenta el idioma"
+      "Países lejanos pueden tener estructuras productivas o comerciales compatibles",
+      "La distancia física deja de influir por completo en costes y logística internacional",
+      "Los países vecinos ofrecen siempre mayor afinidad comercial que los mercados lejanos",
+      "La proximidad cultural sustituye al análisis de demanda y acceso al mercado"
     ],
     "answer": 0,
     "explanation": "La proximidad relevante puede ser productiva, comercial o de consumo.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "int-23",
@@ -380,15 +402,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál es el primer paso del método recomendado de selección de países?",
     "options": [
-      "Definir el producto con precisión y confirmar su clasificación arancelaria",
-      "Elegir directamente el país con más PIB",
-      "Contactar distribuidores",
-      "Diseñar anuncios en redes sociales"
+      "Definir bien el producto y confirmar su clasificación arancelaria",
+      "Elegir el país con mayor volumen total de importaciones",
+      "Calcular primero el riesgo país y después definir el producto",
+      "Contactar distribuidores antes de analizar demanda y barreras"
     ],
     "answer": 0,
     "explanation": "Sin definir bien el producto y su clasificación, los datos de comercio y acceso pueden ser erróneos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-24",
@@ -398,14 +421,15 @@
     "question": "Después de comparar importaciones y crecimiento, ¿qué debe añadirse al análisis?",
     "options": [
       "Aranceles, barreras no arancelarias, riesgo, divisa y canales",
-      "Solo población",
-      "Solo ferias",
-      "Solo redes sociales"
+      "Solo población, renta y crecimiento demográfico",
+      "Únicamente competencia local y precios de venta",
+      "Solo costes logísticos y tiempo medio de transporte"
     ],
     "answer": 0,
     "explanation": "La selección debe combinar demanda con acceso y riesgo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Por qué conviene asignar pesos a los criterios de selección?",
     "options": [
-      "Para hacer explícitas las prioridades y justificar la preselección",
-      "Para evitar usar fuentes primarias",
-      "Para convertir cualquier resultado en objetivo",
-      "Para sustituir el juicio profesional"
+      "Hacer explícitas las prioridades y justificar la preselección",
+      "Sustituir la necesidad de validar los mercados con fuentes primarias",
+      "Convertir criterios cualitativos en resultados objetivos sin juicio profesional",
+      "Evitar que las características de la empresa influyan en la decisión final"
     ],
     "answer": 0,
     "explanation": "Ponderar obliga a explicitar qué factores importan más para ese producto y empresa.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "int-26",
@@ -431,15 +456,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Cuál es el último paso recomendado antes de decidir un mercado prioritario?",
     "options": [
-      "Validar con fuentes primarias y entrevistas",
-      "Elegir el país con menor arancel",
-      "Usar solo una respuesta de IA",
-      "Basarse exclusivamente en importaciones"
+      "Validar los mejores mercados con fuentes primarias y entrevistas",
+      "Elegir el país con menor arancel entre los preseleccionados",
+      "Seleccionar el mercado con mayor crecimiento de importaciones",
+      "Confirmar la decisión mediante una única herramienta estadística"
     ],
     "answer": 0,
     "explanation": "La preselección cuantitativa debe contrastarse con evidencia directa y cualitativa.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-27",
@@ -448,15 +474,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué información NO debería incluirse alegremente en un sistema de IA?",
     "options": [
-      "Secretos empresariales o datos personales innecesarios sin garantías adecuadas",
-      "Objetivos generales del proyecto",
-      "El país que se está estudiando",
-      "Un formato de salida"
+      "Secretos empresariales o datos personales innecesarios sin garantías",
+      "Objetivos generales del estudio y criterios de selección del mercado",
+      "Descripción del producto y países que se están analizando",
+      "Formato de salida deseado y nivel técnico de la respuesta"
     ],
     "answer": 0,
     "explanation": "La protección de datos y confidencialidad forma parte del uso profesional de IA.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Por qué es importante dar contexto empresarial a una IA?",
     "options": [
-      "Reduce respuestas genéricas y ayuda a adaptar el análisis a empresa, producto y mercado",
-      "Evita por completo cualquier error",
-      "Sustituye la verificación de fuentes",
-      "Elimina la necesidad de definir una tarea"
+      "Reduce respuestas genéricas y adapta el análisis a empresa, producto y mercado",
+      "Evita por completo errores si se proporciona suficiente información inicial",
+      "Sustituye la necesidad de verificar fuentes cuando el contexto es detallado",
+      "Permite omitir una tarea concreta porque el sistema la deduce del contexto"
     ],
     "answer": 0,
     "explanation": "El contexto hace la respuesta más pertinente, pero no elimina la necesidad de comprobarla.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-29",
@@ -482,15 +510,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué significa separar hechos, interpretación y recomendación?",
     "options": [
-      "Distinguir qué está respaldado por una fuente, qué inferimos y qué proponemos hacer",
-      "Tratar toda conclusión como un hecho",
-      "Eliminar las recomendaciones",
-      "Evitar citar fuentes"
+      "Distinguir evidencia, inferencia y acción recomendada",
+      "Tratar cualquier conclusión lógica como un hecho verificado",
+      "Separar las fuentes oficiales de todas las fuentes privadas",
+      "Presentar hechos y recomendaciones juntas para facilitar la lectura"
     ],
     "answer": 0,
     "explanation": "Separar niveles reduce confusión entre evidencia y juicio.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "Pedir fuentes a una IA:",
     "options": [
-      "Reduce el riesgo, pero no garantiza que existan ni que respalden la afirmación",
-      "Garantiza exactitud total",
-      "Hace innecesario abrir los enlaces",
-      "Convierte cualquier respuesta en fuente primaria"
+      "Reduce el riesgo, pero las referencias siguen necesitando comprobación",
+      "Garantiza que las referencias existen y respaldan la afirmación",
+      "Hace innecesario abrir los enlaces cuando proceden de organismos oficiales",
+      "Permite aceptar una conclusión si varias referencias apuntan en la misma dirección"
     ],
     "answer": 0,
     "explanation": "Las referencias deben abrirse y comprobarse.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "int-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "La investigación profunda es adecuada para preguntas amplias que requieren búsqueda y contraste.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "int-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "El corpus cerrado restringe la respuesta al material definido.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "Una empresa listada no es automáticamente un cliente adecuado.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "El objetivo condiciona qué feria merece la pena y cómo se prepara.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "El catálogo permite analizar quién participa, cómo se posiciona y qué relaciones pueden interesar.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "El prescriptor técnico necesita evidencia técnica para evaluar la solución.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "El decisor final suele valorar seguridad empresarial y riesgo además de lo técnico.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "Una correlación o patrón no implica causalidad automáticamente.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "El segundo grado ofrece una vía de contacto más cálida que un completo desconocido.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "Los apuntes estructuran LinkedIn en esas cinco fases.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "International Data Base se utiliza para estructura y evolución demográfica.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "El Atlas permite analizar productos, relaciones y estructura productiva/comercial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La triangulación reduce decisiones basadas en un único indicador.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "La idea es no depender de una única cifra o fuente.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "La lista estadística requiere validación comercial.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "Comprender la estructura de los datos precede a la interpretación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "El comportamiento digital varía por mercado y tipo de compra.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "La auditoría del perfil busca claridad de posicionamiento y llamada a la acción.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "int-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "Son organismos de apoyo, no sustitutos de la estrategia empresarial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "La IA apoya el juicio profesional; no sustituye verificación ni responsabilidad.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "El bloque económico ayuda a estimar capacidad de compra y estabilidad.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "La continuidad de contratos, pagos e inversión puede depender del entorno institucional.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "La estructura de distribución condiciona modelo de entrada y margen.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "El acceso depende de barreras arancelarias y no arancelarias.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "Una referencia verificable necesita identificación suficiente.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "No rellenar lagunas es parte de la disciplina de corpus cerrado.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La evaluación debe conectarse con objetivos comerciales concretos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "int-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La feria rinde más cuando se prepara comercialmente antes.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "int-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "El contenido técnico debe demostrar funcionamiento y fiabilidad.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "int-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La IA puede detectar patrones, pero la interpretación requiere validación.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
