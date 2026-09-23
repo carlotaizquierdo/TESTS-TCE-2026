@@ -60,10 +60,10 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué herramienta se utiliza para consultar aranceles de acceso?",
     "options": [
-      "Market Access Map (MACMAP)",
-      "Trade Map",
-      "Export Potential Map",
-      "International Data Base"
+      "Market Access Map (MACMAP), centrado en aranceles de acceso",
+      "Trade Map, centrado en flujos comerciales e importaciones",
+      "Export Potential Map, centrado en potencial exportador no realizado",
+      "International Data Base, centrado en estructura y evolución demográfica"
     ],
     "answer": 0,
     "explanation": "MACMAP está orientada a aranceles y acceso a mercado.",
@@ -78,10 +78,10 @@
     "source": "Apuntes_Internet_como_fuente_de_informacion.pdf",
     "question": "¿Qué herramienta ayuda a estimar potencial exportador no realizado?",
     "options": [
-      "Export Potential Map",
-      "Trade Map",
-      "Atlas of Economic Complexity",
-      "COFACE"
+      "Export Potential Map, para estimar exportaciones potenciales no realizadas",
+      "Trade Map, para analizar importaciones, crecimiento y proveedores",
+      "Atlas of Economic Complexity, para comparar estructuras productivas y comerciales",
+      "COFACE/CESCE, para valorar riesgo político, económico y de pago"
     ],
     "answer": 0,
     "explanation": "Export Potential Map estima oportunidades y exportaciones potenciales no realizadas.",
