@@ -421,9 +421,9 @@
     "question": "¿Qué trade-off aparece al comparar una cadena eficiente con una resiliente?",
     "options": [
       "Puede costar más en condiciones normales pero reducir pérdidas ante interrupciones",
-      "Siempre reduce costes porque utiliza proveedores más cercanos al mercado final",
-      "Elimina la necesidad de inventarios al diversificar proveedores y rutas logísticas",
-      "Aumenta eficiencia operativa porque concentra compras en un único proveedor estable"
+      "Reduce costes operativos al acercar proveedores y simplificar todas las rutas logísticas",
+      "Disminuye inventarios porque la diversificación sustituye la necesidad de existencias",
+      "Mejora eficiencia al concentrar compras en pocos proveedores con relaciones estables"
     ],
     "answer": 0,
     "explanation": "La comparación debe incluir el coste esperado del riesgo, no solo el precio unitario.",
