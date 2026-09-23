@@ -83,6 +83,7 @@
         <div class="grade"><span id="grade">0,00</span><small>/10</small></div>
         <div id="summary" class="metrics"></div>
         <p id="formula" class="muted"></p>
+        <p id="syncResult" class="note"></p>
         <div class="row">
           <button id="retryBtn" class="primary">Repetir falladas</button>
           <button id="newBtn" class="ghost">Nuevo test</button>
@@ -96,6 +97,18 @@
         <h2>Estadísticas</h2>
         <div id="statsBody"></div>
         <button id="resetBtn" class="danger">Reiniciar estadísticas</button>
+      </div>
+      <div class="card">
+        <h2>Google Sheets</h2>
+        <p class="muted">Conecta una vez este iPad con tu hoja de seguimiento. La URL se guarda solo en este dispositivo y no se publica en GitHub.</p>
+        <label>URL del Web App de Apps Script
+          <input id="sheetsEndpoint" type="url" inputmode="url" autocomplete="off" placeholder="https://script.google.com/macros/s/.../exec">
+        </label>
+        <div class="row">
+          <button id="saveSheetsBtn" class="primary">Guardar conexión</button>
+          <button id="clearSheetsBtn" class="ghost">Desconectar</button>
+        </div>
+        <p id="sheetsSyncState" class="note"></p>
       </div>
     </section>
 
