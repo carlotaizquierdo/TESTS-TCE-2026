@@ -223,9 +223,9 @@
     "question": "¿Qué ventaja aporta la tramitación digital mediante E-trámites?",
     "options": [
       "Agilizar el procedimiento y reducir desplazamientos sin cambiar los requisitos",
-      "Eliminar la documentación justificativa que antes exigía el trámite presencial",
-      "Sustituir los controles aduaneros mediante validación electrónica de la Cámara",
-      "Conceder automáticamente origen preferencial a las mercancías tramitadas"
+      "Reducir la documentación física manteniendo los mismos requisitos sustantivos",
+      "Centralizar controles y validaciones para simplificar la tramitación empresarial",
+      "Facilitar la presentación telemática y acelerar la gestión administrativa"
     ],
     "answer": 0,
     "explanation": "La digitalización facilita la gestión, pero no cambia los requisitos sustantivos.",
