@@ -85,9 +85,7 @@ function icexQuality(q){
   return score;
 }
 function variantFrom(base,style="general"){
-  const qtext=style==="icex"
-    ? icexStems[Math.floor(Math.random()*icexStems.length)](base)
-    : stems[Math.floor(Math.random()*stems.length)](base);
+  const qtext=base.question;
   const packed=base.options.map((text,i)=>({text,isCorrect:i===base.answer}));
   const mixed=shuffle(packed);
   return {
@@ -102,7 +100,7 @@ function variantFrom(base,style="general"){
 }
 
 function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null,style="general"){
-  let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject));
+  let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject)&&q.approved===true);
   if(difficulty!=="mixed")pool=pool.filter(q=>q.difficulty===difficulty);
   if(!forcedBases){
     const coherent=pool.filter(q=>icexQuality(q)>=4);
@@ -124,10 +122,6 @@ function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBase
   const unique=[];
   for(const c of candidates){if(!unique.some(x=>x.q.id===c.q.id))unique.push(c)}
   const chosen=unique.slice(0,Math.min(count,unique.length)).map(x=>x.q);
-  // If user requests more than base concepts, recycle concepts with different variants.
-  while(chosen.length<count&&pool.length){
-    chosen.push(pool[Math.floor(Math.random()*pool.length)]);
-  }
   const generated=shuffle(chosen.map(b=>variantFrom(b,style)));
   remember(generated.map(x=>x.baseId));
   return generated;
