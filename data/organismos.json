@@ -6,15 +6,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué dos instituciones nacen de Bretton Woods según los apuntes?",
     "options": [
-      "OMC y OCDE",
       "BIRF y FMI",
+      "AIF y FMI",
       "IFC y MIGA",
-      "ONU y OIT"
+      "BIRF y CIADI"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Bretton Woods da origen al BIRF y al FMI con mandatos iniciales distintos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-02",
@@ -23,15 +24,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué diferencia esencial señalan los apuntes entre FMI y Banco Mundial?",
     "options": [
-      "El FMI financia solo carreteras",
-      "El FMI actúa ante desequilibrios macro/balanza de pagos; el Banco Mundial financia proyectos de desarrollo",
-      "El Banco Mundial fija tipos de cambio",
-      "No existe diferencia"
+      "El FMI aborda desequilibrios macro; el Banco Mundial financia desarrollo",
+      "El FMI financia proyectos; el Banco Mundial estabiliza tipos de cambio",
+      "El FMI opera con empresas; el Banco Mundial solo con bancos centrales",
+      "El FMI concede donaciones; el Banco Mundial solo asistencia técnica"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El FMI se centra en estabilidad macro y balanza de pagos; el Banco Mundial en desarrollo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-03",
@@ -40,15 +42,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuántas instituciones forman el Grupo Banco Mundial?",
     "options": [
-      "Tres",
-      "Cuatro",
       "Cinco",
-      "Seis"
+      "Cuatro",
+      "Seis",
+      "Tres"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "BIRF, AIF, IFC, MIGA y CIADI forman el Grupo Banco Mundial.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-04",
@@ -57,15 +60,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué dos instituciones son la ventanilla pública?",
     "options": [
-      "IFC y MIGA",
       "BIRF y AIF",
-      "MIGA y CIADI",
-      "FMI y BIRF"
+      "IFC y MIGA",
+      "BIRF e IFC",
+      "AIF y MIGA"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "BIRF y AIF financian y asesoran a gobiernos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-05",
@@ -74,15 +78,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuál es la diferencia central BIRF/AIF?",
     "options": [
-      "El BIRF solo financia sector privado",
-      "BIRF presta a países solventes en condiciones próximas al mercado; AIF ofrece financiación concesional a los más pobres y puede donar",
-      "AIF solo opera en Europa",
-      "BIRF solo concede donaciones"
+      "BIRF presta a países solventes; AIF ofrece financiación concesional a los más pobres",
+      "BIRF concede donaciones; AIF presta a condiciones cercanas al mercado",
+      "BIRF opera con empresas privadas; AIF resuelve disputas de inversión",
+      "BIRF atiende países pobres sin solvencia; AIF países de ingreso medio solventes"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Solvencia del país y condiciones de financiación son la diferencia clave.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-06",
@@ -91,15 +96,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "Para ser elegible para AIF, según los apuntes:",
     "options": [
-      "Hay que cumplir simultáneamente tres criterios",
       "Basta cumplir pobreza relativa o falta de solvencia",
-      "Solo cuenta la población",
-      "Solo cuenta pertenecer a África"
+      "Deben cumplirse simultáneamente pobreza y falta de solvencia",
+      "Solo cuenta el nivel de renta per cápita",
+      "Solo cuenta la imposibilidad de acceder a mercados de capital"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Los apuntes remarcan dos criterios y basta uno.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-07",
@@ -108,15 +114,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "En consultoría, la secuencia habitual es:",
     "options": [
-      "EoI → lista corta",
-      "ATA → oferta",
-      "PQ → donación",
-      "Arbitraje → licitación"
+      "Expresión de interés → lista corta",
+      "Precalificación → adjudicación directa",
+      "Oferta económica → lista corta",
+      "Registro general → negociación de precio"
     ],
     "answer": 0,
     "explanation": "La Expresión de Interés se usa para formar una lista corta.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-08",
@@ -125,15 +132,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "En una etapa con dos sobres, el sobre 2 contiene:",
     "options": [
-      "Cualificación",
-      "Oferta económica",
-      "EoI",
-      "Solo referencias"
+      "La oferta económica",
+      "La cualificación administrativa",
+      "La propuesta técnica",
+      "La expresión de interés"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Sobre 1: cualificación+técnica; sobre 2: económica.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-09",
@@ -142,15 +150,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "Una apertura pública significa que:",
     "options": [
-      "Todo el contenido se publica",
-      "Solo se anuncian los datos que el pliego exige; no se revelan secretos comerciales",
-      "La oferta económica se abre siempre primero",
-      "La técnica deja de ser confidencial"
+      "Se publican los datos exigidos por el pliego, no toda la propuesta",
+      "Se publica toda la oferta técnica y económica de cada licitador",
+      "Solo se hace público el nombre del adjudicatario final",
+      "La oferta económica permanece confidencial incluso tras su apertura"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La publicidad de la apertura no convierte todo el expediente en público.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-10",
@@ -159,15 +168,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuáles son las tres partes básicas de una oferta?",
     "options": [
-      "Administrativa, técnica y económica",
-      "Jurídica, fiscal y laboral",
-      "Pública, privada y mixta",
-      "Nacional, regional y local"
+      "Administrativo, técnico y económico",
+      "Jurídico, financiero y comercial",
+      "Institucional, operativo y presupuestario",
+      "Precalificación, técnica y contractual"
     ],
     "answer": 0,
     "explanation": "Los apuntes lo destacan como pregunta de examen.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-11",
@@ -176,15 +186,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuál es la diferencia esencial entre organismos multilaterales financieros y no financieros?",
     "options": [
-      "Los financieros prestan/financian proyectos; los no financieros ejecutan directamente programas y adquisiciones",
-      "Los financieros solo trabajan con empresas y los no financieros solo con gobiernos",
-      "Los no financieros conceden siempre préstamos concesionales",
-      "No existe diferencia operativa"
+      "Los financieros prestan/financian; los no financieros ejecutan y adquieren",
+      "Los financieros ejecutan proyectos; los no financieros conceden préstamos soberanos",
+      "Los financieros contratan solo empresas; los no financieros solo gobiernos",
+      "Los financieros actúan en desarrollo; los no financieros solo en emergencias"
     ],
     "answer": 0,
     "explanation": "La forma de intervención y contratación es distinta en ambos grupos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-12",
@@ -193,15 +204,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "En un organismo financiero, ¿con quién se vincula normalmente la ejecución del proyecto financiado?",
     "options": [
-      "Con el banco y/o la administración del país ejecutor según el procedimiento",
-      "Solo con una agencia de la ONU",
-      "Siempre directamente con la empresa privada",
-      "Con una cámara de comercio"
+      "Con el banco y la administración del país ejecutor según el procedimiento",
+      "Directamente con una agencia de Naciones Unidas en todos los casos",
+      "Únicamente con la empresa adjudicataria principal",
+      "Con la cámara de comercio del país beneficiario"
     ],
     "answer": 0,
     "explanation": "Los bancos multilaterales financian proyectos definidos con gobiernos y sus procedimientos se articulan con el prestatario.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-13",
@@ -211,14 +223,15 @@
     "question": "En un organismo no financiero como una agencia ONU, la empresa normalmente:",
     "options": [
       "Se registra como proveedor y contrata con el propio organismo",
-      "Solicita un préstamo soberano",
-      "Necesita garantía soberana",
-      "Accede mediante BIRF"
+      "Solicita financiación soberana con garantía del Estado",
+      "Presenta una propuesta al BIRF para que financie el proyecto",
+      "Accede mediante un préstamo del FMI vinculado a balanza de pagos"
     ],
     "answer": 0,
     "explanation": "Las agencias ONU adquieren bienes y servicios y contratan directamente con proveedores.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-14",
@@ -228,14 +241,15 @@
     "question": "¿Qué persiguen los organismos multilaterales de desarrollo?",
     "options": [
       "Promover desarrollo sostenible, reducir pobreza y fortalecer capacidades",
-      "Maximizar beneficios privados",
-      "Sustituir los gobiernos nacionales",
-      "Eliminar toda competencia en licitaciones"
+      "Maximizar rentabilidad de los proyectos financiados",
+      "Sustituir administraciones nacionales en la ejecución de políticas",
+      "Limitar la participación empresarial a proveedores de países donantes"
     ],
     "answer": 0,
     "explanation": "Su finalidad es de desarrollo y cooperación internacional.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "org-15",
@@ -244,15 +258,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué ventaja puede tener para una pyme especializarse en pocos organismos multilaterales?",
     "options": [
-      "Aprender procedimientos, sectores y oportunidades concretas con mayor profundidad",
-      "Evitar cualquier requisito técnico",
-      "Acceder sin competir",
-      "Recibir financiación automática"
+      "Aprender procedimientos y concentrarse en sectores donde tiene referencias",
+      "Presentarse al mayor número posible de concursos para diversificar riesgo",
+      "Competir principalmente por precio aunque no tenga experiencia sectorial",
+      "Evitar especialización para poder responder a cualquier tipo de licitación"
     ],
     "answer": 0,
     "explanation": "Los apuntes recomiendan concentrar esfuerzos en un número limitado de organismos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-16",
@@ -262,14 +277,15 @@
     "question": "¿Cuál fue el mandato inicial del BIRF tras Bretton Woods?",
     "options": [
       "Reconstrucción de posguerra y fomento del desarrollo",
-      "Estabilidad monetaria mundial exclusivamente",
-      "Compra directa de bienes para la ONU",
-      "Arbitraje de inversiones"
+      "Estabilidad monetaria y mantenimiento de tipos de cambio",
+      "Garantía de inversiones privadas frente a riesgo político",
+      "Arbitraje de controversias entre inversores y Estados"
     ],
     "answer": 0,
     "explanation": "El BIRF nació con una doble misión de reconstrucción y desarrollo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-17",
@@ -279,14 +295,15 @@
     "question": "¿Cuál fue el mandato inicial del FMI?",
     "options": [
       "Mantener estabilidad monetaria y de tipos de cambio",
-      "Financiar infraestructuras concretas",
-      "Conceder donaciones a países pobres",
-      "Garantizar inversiones privadas"
+      "Financiar infraestructuras concretas de desarrollo",
+      "Garantizar inversiones privadas internacionales",
+      "Resolver disputas de inversión entre Estados y empresas"
     ],
     "answer": 0,
     "explanation": "El FMI se creó con un mandato monetario y macroeconómico.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-18",
@@ -295,15 +312,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuál de estas es una función del FMI?",
     "options": [
-      "Supervisión de políticas económicas mediante consultas del Artículo IV",
-      "Financiar directamente una autopista con licitación pública",
-      "Garantizar inversión privada frente a riesgo político",
-      "Resolver arbitrajes de inversión"
+      "Supervisar políticas económicas mediante consultas del Artículo IV",
+      "Financiar directamente carreteras mediante licitaciones públicas",
+      "Garantizar proyectos privados frente a expropiación",
+      "Resolver arbitrajes relativos a inversiones"
     ],
     "answer": 0,
     "explanation": "La supervisión macroeconómica es una función central del FMI.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-19",
@@ -313,14 +331,15 @@
     "question": "¿Qué instrumento utiliza el FMI ante problemas de balanza de pagos?",
     "options": [
       "Préstamos y programas condicionados",
-      "Cuadernos ATA",
-      "Bonos municipales",
-      "Subvenciones a exportadores"
+      "Donaciones para proyectos de infraestructura",
+      "Garantías de inversión privada",
+      "Arbitraje de controversias internacionales"
     ],
     "answer": 0,
     "explanation": "El FMI presta a países con dificultades macro y de balanza de pagos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-20",
@@ -330,14 +349,15 @@
     "question": "¿Qué son los DEG en el contexto del FMI?",
     "options": [
       "Derechos Especiales de Giro",
-      "Depósitos Europeos Garantizados",
-      "Deuda Externa Gubernamental",
-      "Derechos Económicos Generales"
+      "Depósitos Estatales Garantizados",
+      "Derechos Económicos Generales",
+      "Deuda Exterior Gestionada"
     ],
     "answer": 0,
     "explanation": "Los DEG son un activo de reserva internacional creado por el FMI.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "org-21",
@@ -346,15 +366,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cómo funciona la gobernanza del FMI en términos generales?",
     "options": [
-      "Incluye Junta de Gobernadores, Junta Ejecutiva y un sistema de votación basado en cuotas",
-      "Cada país tiene exactamente el mismo voto sin cuotas",
-      "Lo gobierna el Banco Mundial",
-      "Solo votan países prestatarios"
+      "Junta de Gobernadores, Junta Ejecutiva y voto basado en cuotas",
+      "Asamblea General, Consejo de Seguridad y voto igualitario",
+      "Consejo de Administración y voto según población",
+      "Directorio de bancos centrales con un voto por país"
     ],
     "answer": 0,
     "explanation": "La representación y voto dependen de las cuotas.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "org-22",
@@ -363,15 +384,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué caracteriza a los bancos multilaterales de desarrollo?",
     "options": [
-      "Son propiedad de gobiernos miembros y movilizan financiación a largo plazo y asistencia técnica",
-      "Son empresas privadas sin participación estatal",
-      "Solo conceden ayudas humanitarias",
-      "No acceden a mercados de capital"
+      "Gobiernos miembros, financiación a largo plazo y asistencia técnica",
+      "Empresas privadas, financiación a corto plazo y capital riesgo",
+      "Agencias humanitarias, donaciones y ejecución directa",
+      "Bancos centrales, política monetaria y supervisión financiera"
     ],
     "answer": 0,
     "explanation": "Actúan como intermediarios financieros especializados de desarrollo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-23",
@@ -380,15 +402,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Cuál es una fuente importante de financiación del BIRF?",
     "options": [
-      "Emisión de bonos de alta calidad en mercados internacionales de capital",
-      "Cuotas de proveedores ONU",
-      "Aranceles aduaneros",
-      "Ingresos por turismo"
+      "Emisión de bonos en mercados internacionales de capital",
+      "Cuotas pagadas por proveedores registrados en UNGM",
+      "Ingresos arancelarios de los países prestatarios",
+      "Transferencias procedentes exclusivamente del FMI"
     ],
     "answer": 0,
     "explanation": "El BIRF se financia, entre otras vías, emitiendo bonos en mercados de capital.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-24",
@@ -398,14 +421,15 @@
     "question": "¿Qué institución del Grupo Banco Mundial opera directamente con el sector privado?",
     "options": [
       "IFC/CFI",
-      "AIF/IDA",
       "BIRF",
+      "AIF/IDA",
       "CIADI"
     ],
     "answer": 0,
     "explanation": "IFC financia e invierte en operaciones privadas.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-25",
@@ -415,14 +439,15 @@
     "question": "¿Qué institución del Grupo Banco Mundial ofrece garantías frente a determinados riesgos de inversión?",
     "options": [
       "MIGA/OMGI",
-      "AIF",
+      "IFC/CFI",
       "CIADI",
-      "FMI"
+      "AIF/IDA"
     ],
     "answer": 0,
     "explanation": "MIGA es la agencia multilateral de garantía de inversiones.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-26",
@@ -432,14 +457,15 @@
     "question": "¿Qué institución se ocupa de controversias relativas a inversiones?",
     "options": [
       "CIADI/ICSID",
-      "IFC",
-      "AIF",
-      "MIGA"
+      "MIGA/OMGI",
+      "IFC/CFI",
+      "BIRF"
     ],
     "answer": 0,
     "explanation": "CIADI es el Centro Internacional de Arreglo de Diferencias relativas a Inversiones.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-27",
@@ -448,15 +474,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué significa que el BIRF no haga donaciones?",
     "options": [
-      "Sus instrumentos principales son préstamos, garantías y asesoramiento, no grants",
-      "Nunca presta a gobiernos",
-      "Solo trabaja con empresas privadas",
-      "No puede emitir bonos"
+      "Que utiliza préstamos, garantías y asesoramiento, no grants",
+      "Que solo puede financiar empresas privadas",
+      "Que no puede operar con garantía soberana",
+      "Que presta únicamente a países de renta alta"
     ],
     "answer": 0,
     "explanation": "La distinción con AIF es especialmente relevante en examen.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-28",
@@ -465,15 +492,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué tipo de financiación caracteriza a la AIF?",
     "options": [
-      "Muy concesional, con intereses bajos o nulos, plazos largos y posibles donaciones",
-      "Préstamos exclusivamente a precio de mercado",
-      "Solo inversión en capital privado",
-      "Solo garantías de riesgo político"
+      "Muy concesional, con plazos largos y posibles donaciones",
+      "Cercana a mercado, sin periodos de gracia y sin donaciones",
+      "Exclusivamente inversión en capital de empresas privadas",
+      "Garantías frente a riesgo político sin financiación directa"
     ],
     "answer": 0,
     "explanation": "AIF atiende a países con menor capacidad financiera.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-29",
@@ -482,15 +510,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "Un país supera el umbral de renta de AIF pero sigue sin ser solvente para mercado. ¿Puede seguir siendo elegible?",
     "options": [
-      "Sí, la falta de solvencia puede bastar aunque supere el umbral de pobreza",
-      "No, nunca",
-      "Solo si pertenece a Europa",
-      "Solo si tiene superávit fiscal"
+      "Sí, si sigue sin ser solvente puede continuar siendo elegible",
+      "No, superar el umbral de renta excluye automáticamente de AIF",
+      "Sí, pero solo si deja de ser miembro del BIRF",
+      "No, salvo que reciba primero una garantía de MIGA"
     ],
     "answer": 0,
     "explanation": "Los dos criterios de elegibilidad son alternativos.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-30",
@@ -499,15 +528,16 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué es un país IDA-only?",
     "options": [
-      "Un país elegible para AIF y no solvente para préstamos BIRF",
-      "Un país que solo puede recibir financiación privada",
-      "Un país que pertenece solo al FMI",
-      "Un país que solo recibe garantías MIGA"
+      "Un país elegible para AIF y sin solvencia suficiente para BIRF",
+      "Un país que solo recibe financiación de IFC",
+      "Un país que combina automáticamente AIF y BIRF",
+      "Un país que solo puede recibir donaciones de organismos ONU"
     ],
     "answer": 0,
     "explanation": "IDA-only describe países sin acceso normal a BIRF.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "org-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "Los blend combinan acceso a ambas ventanillas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "Es una distinción clave del temario.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La empresa responde a una necesidad y procedimiento ya estructurados.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "La ONU licita/adquiere, no presta como un banco de desarrollo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "United Nations Global Marketplace centraliza registro y muchas oportunidades de compra ONU.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "La ONU combina imparcialidad, transparencia, competencia y best value for money.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "El código de conducta cubre integridad, derechos laborales, derechos humanos y medio ambiente.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "Es la secuencia operativa descrita en los apuntes.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "Los ODS amplían alcance, universalidad y ambición.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "org-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "Es una cifra estructural destacada en los apuntes.",
     "difficulty": "easy",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "org-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "Son mecanismos distintos dentro del procedimiento.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "La EoI sirve para seleccionar consultores que pasarán a lista corta.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "En consultoría la figura típica es EoI/lista corta; en otros contratos puede usarse PQ.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "Todo se entrega en un único sobre/propuesta según el esquema.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "El precio queda separado hasta concluir la evaluación técnica.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "La secuencia protege la integridad de la evaluación.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "La diferencia es temporal y procedimental, no solo documental.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "Publicidad no equivale a revelar toda la oferta.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "Es una estructura clave destacada para examen.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "La precalificación comprueba capacidad para ejecutar antes de competir plenamente.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "La financiación pública se apoya en la responsabilidad del Estado prestatario.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "Los BMD combinan recursos financieros y apoyo técnico.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "org-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "La distinción se refiere al papel financiero dentro de la institución.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "La ONU no reduce necesariamente la evaluación a precio.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "Es una condición ética y de compliance del proveedor.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "UNICEF, PNUD o PMA son ejemplos de la capa operativa.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "org-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "FAO, OMS u OIT son ejemplos.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "org-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La relación contractual y financiera es distinta.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "La especialización mejora aprendizaje y tasa de éxito.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "org-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La lista corta reduce el universo a consultores cualificados.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
