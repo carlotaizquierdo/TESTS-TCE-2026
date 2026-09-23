@@ -403,9 +403,9 @@
     "question": "En Hofstede, UAI mide:",
     "options": [
       "La aversión a la incertidumbre",
-      "La distancia del poder",
-      "El individualismo",
-      "La indulgencia"
+      "La distancia respecto al poder",
+      "La orientación temporal a largo plazo",
+      "La indulgencia frente a la restricción"
     ],
     "answer": 0,
     "explanation": "UAI es Uncertainty Avoidance Index.",
