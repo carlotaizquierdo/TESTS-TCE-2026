@@ -438,10 +438,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué institución del Grupo Banco Mundial ofrece garantías frente a determinados riesgos de inversión?",
     "options": [
-      "MIGA/OMGI",
-      "IFC/CFI",
-      "CIADI",
-      "AIF/IDA"
+      "MIGA/OMGI — Organismo Multilateral de Garantía de Inversiones",
+      "IFC/CFI — Corporación Financiera Internacional",
+      "CIADI — Centro de Arreglo de Diferencias relativas a Inversiones",
+      "AIF/IDA — Asociación Internacional de Fomento"
     ],
     "answer": 0,
     "explanation": "MIGA es la agencia multilateral de garantía de inversiones.",
@@ -456,10 +456,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué institución se ocupa de controversias relativas a inversiones?",
     "options": [
-      "CIADI/ICSID",
-      "MIGA/OMGI",
-      "IFC/CFI",
-      "BIRF"
+      "CIADI/ICSID — Centro de Arreglo de Diferencias relativas a Inversiones",
+      "MIGA/OMGI — Organismo Multilateral de Garantía de Inversiones",
+      "IFC/CFI — Corporación Financiera Internacional",
+      "BIRF — Banco Internacional de Reconstrucción y Fomento"
     ],
     "answer": 0,
     "explanation": "CIADI es el Centro Internacional de Arreglo de Diferencias relativas a Inversiones.",
@@ -474,10 +474,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf",
     "question": "¿Qué significa que el BIRF no haga donaciones?",
     "options": [
-      "Que utiliza préstamos, garantías y asesoramiento, no grants",
-      "Que solo puede financiar empresas privadas",
-      "Que no puede operar con garantía soberana",
-      "Que presta únicamente a países de renta alta"
+      "Que utiliza préstamos, garantías y asesoramiento como instrumentos principales",
+      "Que opera principalmente mediante inversión directa en empresas privadas",
+      "Que exige una garantía soberana para cualquier operación que realiza",
+      "Que presta únicamente a países con niveles elevados de renta y solvencia"
     ],
     "answer": 0,
     "explanation": "La distinción con AIF es especialmente relevante en examen.",
