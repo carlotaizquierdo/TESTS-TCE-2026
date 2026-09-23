@@ -493,9 +493,9 @@
     "question": "¿Por qué es importante dar contexto empresarial a una IA?",
     "options": [
       "Reduce respuestas genéricas y adapta el análisis a empresa, producto y mercado",
-      "Evita por completo errores si se proporciona suficiente información inicial",
-      "Sustituye la necesidad de verificar fuentes cuando el contexto es detallado",
-      "Permite omitir una tarea concreta porque el sistema la deduce del contexto"
+      "Mejora la pertinencia de la respuesta al acotar sector, objetivo y destinatario",
+      "Ayuda a distinguir qué información es relevante para la decisión planteada",
+      "Permite orientar el análisis hacia el problema empresarial que se quiere resolver"
     ],
     "answer": 0,
     "explanation": "El contexto hace la respuesta más pertinente, pero no elimina la necesidad de comprobarla.",
