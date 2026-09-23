@@ -151,9 +151,9 @@
     "question": "¿Por qué se restan las importaciones en C+I+G+X−M?",
     "options": [
       "Porque C, I y G pueden incluir producción extranjera que debe excluirse",
-      "Porque las importaciones reducen siempre el bienestar del país",
-      "Porque toda importación representa una salida de capital financiero",
-      "Porque el gasto en importaciones ya se contabiliza dentro de exportaciones"
+      "Porque parte del gasto interno puede corresponder a bienes producidos fuera del país",
+      "Porque el PIB debe retirar del gasto la producción que no se generó dentro del territorio",
+      "Porque las importaciones pueden estar incluidas en la demanda interna pero no en la producción nacional"
     ],
     "answer": 0,
     "explanation": "Se restan para excluir producción realizada fuera del territorio.",
@@ -403,9 +403,9 @@
     "question": "¿Por qué el PIB solo incluye bienes y servicios finales?",
     "options": [
       "Para evitar contar dos veces el valor de los bienes intermedios",
-      "Porque los bienes intermedios no tienen valor económico propio",
-      "Porque solo los bienes finales generan renta para los productores",
-      "Porque los bienes intermedios se registran siempre como importaciones"
+      "Para impedir que el valor de un insumo y el del producto final se contabilicen por separado",
+      "Para registrar únicamente el valor final generado por la producción de bienes y servicios",
+      "Para evitar que una misma producción aparezca incorporada varias veces dentro del cálculo del PIB"
     ],
     "answer": 0,
     "explanation": "El valor del bien intermedio ya está incorporado en el producto final.",
