@@ -6,15 +6,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "En la metáfora del “software de la mente”, la cultura es principalmente:",
     "options": [
-      "Una característica genética",
-      "Un sistema aprendido de categorías y significados",
-      "Una norma jurídica internacional",
-      "Una técnica de venta"
+      "Un sistema aprendido de categorías, significados y pautas de conducta",
+      "Un conjunto de rasgos innatos determinados principalmente por herencia genética",
+      "Una colección de normas jurídicas que regulan el comportamiento social",
+      "Un repertorio individual de preferencias sin influencia del entorno social"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La cultura se aprende a través de familia, escuela, trabajo, medios e instituciones.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-02",
@@ -23,15 +24,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué implica “conducta observable ≠ intención”?",
     "options": [
-      "Que la conducta nunca puede interpretarse",
-      "Que entre la conducta y la intención existe un código cultural que debe validarse",
-      "Que toda conducta intercultural es falsa",
-      "Que la intención no importa"
+      "La conducta necesita contexto porque puede tener significados distintos",
+      "La intención puede deducirse directamente observando una conducta aislada",
+      "La conducta visible carece de valor para comprender una interacción intercultural",
+      "La intención solo puede conocerse mediante normas culturales del país de origen"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La misma conducta puede tener significados distintos según el marco cultural.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-03",
@@ -40,15 +42,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Cómo deben utilizarse los perfiles nacionales?",
     "options": [
-      "Como diagnóstico definitivo de cada individuo",
-      "Como mapas iniciales que orientan hipótesis",
-      "Como sustitutos del análisis de empresa",
-      "Como reglas jurídicas"
+      "Como mapas iniciales para formular hipótesis que luego deben validarse",
+      "Como predicciones fiables del comportamiento de cada individuo de un país",
+      "Como sustitutos del análisis de empresa, profesión y situación concreta",
+      "Como reglas estables que permiten clasificar personas sin necesidad de observarlas"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Los promedios culturales sirven para formular hipótesis, no para etiquetar personas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-04",
@@ -57,15 +60,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "El relativismo metodológico permite:",
     "options": [
-      "Justificar cualquier práctica cultural",
-      "Suspender el juicio inicial para comprender, sin legitimar daño o discriminación",
-      "Ignorar la legislación local",
-      "Eliminar los límites personales"
+      "Comprender una práctica sin asumir que por ello debe aceptarse éticamente",
+      "Aceptar cualquier práctica si es habitual dentro de una cultura determinada",
+      "Suspender de forma permanente cualquier criterio legal o ético propio",
+      "Evitar formular juicios incluso cuando exista daño, coacción o discriminación"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Comprender una práctica no obliga a considerarla aceptable.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-05",
@@ -74,15 +78,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Según las capas de Trompenaars, ¿qué elemento es más profundo?",
     "options": [
-      "Comportamientos visibles",
-      "Actitudes",
-      "Normas",
-      "Valores"
+      "Los valores",
+      "Las normas",
+      "Las actitudes",
+      "Los comportamientos visibles"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "Los valores ocupan una capa profunda; los comportamientos son más externos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-06",
@@ -91,15 +96,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Una cultura con alta distancia del poder suele esperar:",
     "options": [
-      "Jerarquía visible y respeto por el rango",
-      "Ausencia de cadena de mando",
-      "Cuestionamiento constante del superior",
-      "Decisiones siempre por consenso"
+      "Jerarquías visibles y mayor reconocimiento de rango y autoridad",
+      "Relaciones muy horizontales y cuestionamiento frecuente de la autoridad formal",
+      "Desaparición de diferencias de estatus dentro de la organización",
+      "Preferencia general por decisiones colectivas sin liderazgo claramente definido"
     ],
     "answer": 0,
     "explanation": "Alta PDI implica mayor aceptación de una distribución desigual de autoridad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-07",
@@ -108,15 +114,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Una alta aversión a la incertidumbre suele asociarse con:",
     "options": [
-      "Menos necesidad de estructura",
-      "Más reglas, planificación e informes",
-      "Mayor tolerancia automática al riesgo financiero",
-      "Menos especialistas"
+      "Más reglas, planificación y búsqueda de previsibilidad",
+      "Mayor comodidad ante situaciones ambiguas y menos necesidad de procedimientos",
+      "Menor uso de expertos y menor formalización de decisiones",
+      "Mayor disposición financiera al riesgo en inversiones empresariales"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "UAI alta suele llevar a buscar estructura, procedimientos y previsibilidad.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-08",
@@ -125,15 +132,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Cuál fue un error de Baker en el caso Baker/Rennalls?",
     "options": [
-      "Pedir demasiados datos objetivos",
-      "Presentar su interpretación como hecho sin verificarla",
-      "Separar sucesión y feedback",
-      "Reconocer la asimetría de poder"
+      "Atribuir intenciones sin verificar cómo Rennalls interpretaba la situación",
+      "Describir conductas concretas antes de expresar cualquier valoración personal",
+      "Separar el proceso de sucesión de la conversación sobre feedback difícil",
+      "Reconocer de forma explícita la asimetría de poder existente entre ambos"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Baker diagnosticó y atribuyó intenciones antes de escuchar la perspectiva de Rennalls.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-09",
@@ -142,15 +150,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Antes de un contacto intercultural conviene:",
     "options": [
-      "Usar modelos culturales como certezas",
-      "Investigar contexto, empresa e interlocutores y preparar protocolo/comunicación",
-      "Evitar revisar límites legales",
-      "Improvisar para parecer natural"
+      "Investigar contexto, empresa e interlocutores y preparar protocolo y comunicación",
+      "Memorizar el perfil nacional y aplicarlo sin cambios a cada persona",
+      "Centrarse solo en normas de saludo y dejar el resto para la improvisación",
+      "Evitar revisar límites legales para no interferir en la adaptación cultural"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "La preparación combina contexto, empresa, hipótesis culturales, protocolo, comunicación y límites legales.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-10",
@@ -159,15 +168,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Después de una interacción intercultural, una buena práctica es:",
     "options": [
-      "Convertir la experiencia en regla general del país",
-      "Separar hechos observables de interpretaciones y contrastar la lectura",
-      "Eliminar cualquier registro",
-      "Asumir que el silencio equivale a acuerdo"
+      "Separar hechos de interpretaciones y validar la lectura antes de generalizar",
+      "Convertir la experiencia en una regla sobre el país para futuras reuniones",
+      "Mantener la primera interpretación aunque aparezcan datos que la contradigan",
+      "Registrar únicamente los errores ajenos para ajustar la siguiente negociación"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Los apuntes recomiendan registrar hechos, contrastar y actualizar hipótesis sin generalizar.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "cc-11",
@@ -176,15 +186,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué significa que la cultura sea aprendida?",
     "options": [
-      "Que se adquiere a través de familia, escuela, instituciones, empresa y otros entornos sociales",
-      "Que depende exclusivamente de la nacionalidad",
-      "Que viene determinada genéticamente",
-      "Que no cambia a lo largo de la vida"
+      "Que se adquiere mediante socialización en familia, escuela, trabajo e instituciones",
+      "Que depende casi por completo de rasgos biológicos compartidos por una población",
+      "Que permanece estable desde la infancia y apenas cambia con nuevas experiencias",
+      "Que solo se aprende en la empresa y no en otros entornos sociales"
     ],
     "answer": 0,
     "explanation": "La cultura se aprende y se refuerza mediante múltiples agentes de socialización.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-12",
@@ -193,15 +204,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Por qué una persona puede pertenecer simultáneamente a varias culturas?",
     "options": [
-      "Porque combina referencias nacionales, profesionales, generacionales, regionales, corporativas y otras",
-      "Porque las culturas nacionales han desaparecido",
-      "Porque la identidad profesional sustituye a todas las demás",
-      "Porque solo cuenta la cultura de la empresa"
+      "Porque una persona combina identidades nacionales, profesionales, regionales y otras",
+      "Porque las culturas nacionales han dejado de influir en el comportamiento individual",
+      "Porque la cultura profesional sustituye por completo a la familiar y nacional",
+      "Porque cada persona selecciona libremente una única cultura según la situación"
     ],
     "answer": 0,
     "explanation": "Los apuntes presentan la cultura como dinámica y formada por múltiples pertenencias.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-13",
@@ -210,15 +222,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué pregunta intercultural debe hacerse además de “cómo interpreto yo al otro”?",
     "options": [
-      "Cómo puede estar interpretándome la otra persona a mí",
-      "Qué estereotipo nacional le corresponde",
-      "Qué modelo cultural es siempre correcto",
-      "Qué comportamiento debo imitar sin preguntar"
+      "Cómo puede estar interpretando la otra persona mi propio comportamiento",
+      "Qué dimensión cultural nacional explica por completo su conducta",
+      "Qué estereotipo encaja mejor con la nacionalidad del interlocutor",
+      "Qué conducta debo copiar para parecer miembro de su cultura"
     ],
     "answer": 0,
     "explanation": "La doble perspectiva reduce errores de atribución y ayuda a adaptar la interacción.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-14",
@@ -227,15 +240,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "En Trompenaars, ¿qué distingue universalismo y particularismo?",
     "options": [
-      "Si las reglas generales deben aplicarse de forma uniforme o adaptarse según relación y contexto",
-      "Si la comunicación es emocional o neutra",
-      "Si el estatus se obtiene por mérito o posición",
-      "Si el tiempo se concibe de forma lineal o simultánea"
+      "Aplicar reglas generales de forma uniforme o adaptarlas a relación y contexto",
+      "Expresar emociones abiertamente o mantener una comunicación más contenida",
+      "Obtener estatus por resultados o por posición, edad y títulos",
+      "Organizar el tiempo de forma lineal o manejar varias actividades simultáneas"
     ],
     "answer": 0,
     "explanation": "Universalismo/particularismo contrapone regla general y adaptación al contexto o relación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-15",
@@ -244,15 +258,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "En Trompenaars, individualismo frente a comunitarismo se refiere a:",
     "options": [
-      "La prioridad relativa del individuo o del grupo",
-      "La expresión visible de emociones",
-      "La relación con el tiempo",
-      "La importancia del estatus heredado"
+      "La prioridad relativa del individuo frente al grupo o comunidad",
+      "La expresión abierta o contenida de emociones durante una interacción",
+      "La separación entre vida personal y esfera profesional",
+      "La manera de obtener y reconocer estatus dentro de una organización"
     ],
     "answer": 0,
     "explanation": "La dimensión analiza si se privilegia más la autonomía individual o la pertenencia grupal.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-16",
@@ -261,15 +276,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "La dimensión neutral frente a afectiva de Trompenaars analiza:",
     "options": [
-      "Hasta qué punto se muestran abiertamente las emociones",
-      "Cómo se distribuye el poder",
-      "Cómo se interpreta la puntualidad",
-      "Cómo se adquiere estatus"
+      "El grado en que se expresan abiertamente las emociones",
+      "El nivel de aceptación de jerarquías y diferencias de autoridad",
+      "La prioridad del grupo frente a los objetivos individuales",
+      "La forma en que se estructura el tiempo y se organizan tareas"
     ],
     "answer": 0,
     "explanation": "Neutral/afectiva trata sobre la expresión emocional en la interacción.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-17",
@@ -278,15 +294,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "La dimensión específica frente a difusa de Trompenaars ayuda a analizar:",
     "options": [
-      "Hasta qué punto se separan o se solapan las esferas personal y profesional",
-      "La preferencia por reglas universales",
-      "La orientación a largo plazo",
-      "La tolerancia a la incertidumbre"
+      "El grado de separación entre esfera profesional y relaciones personales",
+      "El grado de expresión emocional en conversaciones y negociaciones",
+      "La fuente de estatus, ya sea logro o posición social",
+      "La preferencia por reglas generales frente a relaciones particulares"
     ],
     "answer": 0,
     "explanation": "Específico/difuso se refiere al grado de separación entre ámbitos y relaciones.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-18",
@@ -295,15 +312,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Logro frente a adscripción en Trompenaars se refiere principalmente a:",
     "options": [
-      "Si el estatus deriva de resultados/competencia o de posición, edad, título u otros atributos",
-      "Si se siguen reglas o relaciones",
-      "Si se expresan emociones",
-      "Si el tiempo es secuencial"
+      "Si el estatus se obtiene por logros o se atribuye por posición y atributos",
+      "Si las reglas se aplican igual o se adaptan según la relación personal",
+      "Si el tiempo se organiza de forma secuencial o simultánea",
+      "Si las emociones se expresan de manera abierta o contenida"
     ],
     "answer": 0,
     "explanation": "Achievement/ascription analiza la base sobre la que se reconoce estatus.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-19",
@@ -312,15 +330,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Tiempo secuencial frente a sincrónico describe:",
     "options": [
-      "Si las actividades se organizan de forma lineal y una a una o con mayor simultaneidad",
-      "Si se respeta la jerarquía",
-      "Si prima el grupo",
-      "Si se expresan emociones"
+      "Cómo se organiza el tiempo: linealmente o con actividades simultáneas",
+      "Cómo se legitima el poder dentro de una estructura jerárquica",
+      "Cómo se expresa emocionalmente una persona en público",
+      "Cómo se determina el estatus dentro de una organización"
     ],
     "answer": 0,
     "explanation": "La dimensión se refiere a cómo se organiza y percibe el tiempo.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-20",
@@ -329,15 +348,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Control interno frente a externo se refiere a:",
     "options": [
-      "Si se entiende que las personas controlan el entorno o deben adaptarse más a fuerzas externas",
-      "Si la autoridad está centralizada",
-      "Si las reglas son universales",
-      "Si existe comunicación directa"
+      "Si se percibe que las personas controlan el entorno o se adaptan a él",
+      "Si las relaciones personales deben separarse de las profesionales",
+      "Si las reglas generales prevalecen sobre las relaciones particulares",
+      "Si el estatus depende del mérito individual o de la posición ocupada"
     ],
     "answer": 0,
     "explanation": "La dimensión analiza la relación percibida entre individuo/organización y entorno.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": true
   },
   {
     "id": "cc-21",
@@ -347,14 +367,15 @@
     "question": "En Hofstede, PDI mide:",
     "options": [
       "La distancia del poder",
+      "La aversión a la incertidumbre",
       "La orientación a largo plazo",
-      "La indulgencia",
-      "La masculinidad"
+      "La indulgencia frente a restricción"
     ],
     "answer": 0,
     "explanation": "PDI es Power Distance Index.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-22",
@@ -364,14 +385,15 @@
     "question": "En Hofstede, IDV se relaciona con:",
     "options": [
       "Individualismo frente a colectivismo",
-      "Aversión a la incertidumbre",
-      "Jerarquía formal",
-      "Orientación temporal"
+      "Masculinidad frente a feminidad",
+      "Orientación a largo plazo",
+      "Aversión a la incertidumbre"
     ],
     "answer": 0,
     "explanation": "IDV mide el grado de individualismo/colectivismo.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-23",
@@ -382,13 +404,14 @@
     "options": [
       "La aversión a la incertidumbre",
       "La distancia del poder",
-      "La indulgencia",
-      "La orientación a largo plazo"
+      "El individualismo",
+      "La indulgencia"
     ],
     "answer": 0,
     "explanation": "UAI es Uncertainty Avoidance Index.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-24",
@@ -397,15 +420,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué error conceptual debe evitarse al interpretar una alta UAI?",
     "options": [
-      "Confundir necesidad de estructura ante la ambigüedad con aversión financiera al riesgo",
-      "Relacionarla con uso de reglas",
-      "Relacionarla con planificación",
-      "Relacionarla con deseo de previsibilidad"
+      "Confundir necesidad de estructura ante ambigüedad con aversión financiera al riesgo",
+      "Interpretar mayor planificación como una forma de buscar previsibilidad",
+      "Relacionar procedimientos formales con menor tolerancia a la incertidumbre",
+      "Reconocer que UAI describe una tendencia cultural agregada y no individual"
     ],
     "answer": 0,
     "explanation": "UAI no mide directamente la disposición a asumir riesgo financiero.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-25",
@@ -414,15 +438,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué práctica es más adecuada al trabajar con una cultura de alta PDI?",
     "options": [
-      "Reconocer que el rango y la autoridad pueden hacerse más visibles en la interacción",
-      "Presuponer que nadie acepta jerarquías",
-      "Eliminar cualquier protocolo",
-      "Tratar siempre al interlocutor junior como decisor final"
+      "Reconocer que rango, títulos y autoridad pueden ser más visibles en la interacción",
+      "Reducir deliberadamente toda señal de jerarquía para evitar crear distancia",
+      "Suponer que el interlocutor junior dispone del mismo poder de decisión que el superior",
+      "Evitar tratamientos formales porque la horizontalidad suele ser la norma"
     ],
     "answer": 0,
     "explanation": "En contextos de alta PDI suele haber mayor aceptación de jerarquías visibles.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-26",
@@ -431,15 +456,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué significa usar Hofstede o Trompenaars como hipótesis y no como diagnóstico?",
     "options": [
-      "Utilizar el modelo para preparar preguntas y observar, pero validar con la persona y el contexto real",
-      "Aplicar el promedio nacional directamente a cada individuo",
-      "Descartar cualquier observación que contradiga el modelo",
-      "Usar el modelo como regla jurídica"
+      "Usarlos para preparar preguntas y luego contrastarlos con la persona y el contexto",
+      "Aplicar el promedio nacional directamente a cada individuo como predicción fiable",
+      "Descartar cualquier observación que no coincida con el perfil cultural previsto",
+      "Utilizar una dimensión cultural como explicación suficiente de toda conducta"
     ],
     "answer": 0,
     "explanation": "Los modelos orientan; no determinan el comportamiento individual.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-27",
@@ -448,15 +474,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Cuál fue un problema de la técnica de feedback utilizada por Baker?",
     "options": [
-      "La aplicó como fórmula universal sin comprobar si funcionaba en ese contexto",
-      "Fue demasiado específica y basada en hechos",
-      "Separó correctamente sucesión y feedback",
-      "Pidió primero la perspectiva de Rennalls"
+      "Aplicar la técnica de feedback como si funcionara igual en cualquier contexto",
+      "Describir primero comportamientos concretos antes de interpretar intenciones",
+      "Pedir la perspectiva de Rennalls antes de formular conclusiones definitivas",
+      "Separar el feedback difícil de la cuestión de sucesión profesional"
     ],
     "answer": 0,
     "explanation": "El caso muestra el riesgo de universalizar una técnica sin adaptación cultural.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-28",
@@ -465,15 +492,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué aspecto histórico/político ignoró Baker en el caso?",
     "options": [
-      "El peso de la relación colonial y la asimetría de poder",
-      "La legislación aduanera",
-      "La estructura de precios",
-      "La política monetaria"
+      "El peso de la historia colonial y la asimetría de poder entre ambos",
+      "La legislación laboral aplicable a la empresa en el país",
+      "La estructura de costes y salarios del mercado local",
+      "La estrategia de precios utilizada por la filial en sus productos"
     ],
     "answer": 0,
     "explanation": "El contexto histórico podía cambiar completamente cómo se interpretaba su mensaje.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-29",
@@ -482,15 +510,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "¿Qué significa confundir intención e impacto?",
     "options": [
-      "Suponer que una buena intención garantiza que el mensaje será recibido como se pretendía",
-      "Distinguir hechos de interpretaciones",
-      "Preguntar cómo se recibió un comentario",
-      "Adaptar el mensaje al interlocutor"
+      "Suponer que una buena intención garantiza que el mensaje será recibido igual",
+      "Distinguir lo que se quiso comunicar de cómo se recibió realmente",
+      "Preguntar al interlocutor cómo interpretó una observación difícil",
+      "Revisar el impacto producido aunque la intención original fuera positiva"
     ],
     "answer": 0,
     "explanation": "La intención del emisor no determina por sí sola el efecto en el receptor.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-30",
@@ -499,15 +528,16 @@
     "source": "Apuntes_Cross_Cultural.pdf",
     "question": "Una mejor alternativa al enfoque de Baker habría sido:",
     "options": [
-      "Describir conductas concretas, pedir la perspectiva de Rennalls y acordar comportamientos verificables",
-      "Comparar culturas en términos de superioridad",
-      "Dar feedback delante de terceros",
-      "Evitar cualquier seguimiento"
+      "Describir hechos, pedir la perspectiva de Rennalls y acordar conductas futuras",
+      "Comparar culturas para explicar por qué una forma de actuar es superior a otra",
+      "Dar feedback delante de terceros para reforzar la claridad del mensaje",
+      "Cerrar la conversación tras exponer la crítica sin establecer seguimiento posterior"
     ],
     "answer": 0,
     "explanation": "El enfoque recomendado combina observación concreta, escucha, reconocimiento de poder y seguimiento.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": true
   },
   {
     "id": "cc-31",
@@ -524,7 +554,8 @@
     "answer": 0,
     "explanation": "Separar cuestiones limita ambigüedad y reduce amenaza relacional.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-32",
@@ -541,7 +572,8 @@
     "answer": 0,
     "explanation": "La preparación cultural es amplia y contextual, no una lista de estereotipos.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-33",
@@ -558,7 +590,8 @@
     "answer": 0,
     "explanation": "La adaptación debe basarse en observación y validación, no en suposiciones.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-34",
@@ -575,7 +608,8 @@
     "answer": 0,
     "explanation": "Separar hechos de interpretación facilita revisar sesgos y aprender.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-35",
@@ -592,7 +626,8 @@
     "answer": 0,
     "explanation": "Una persona conocedora del contexto puede ayudar a validar hipótesis sin convertirlas en certezas.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-36",
@@ -609,7 +644,8 @@
     "answer": 0,
     "explanation": "Comprender no equivale a legitimar prácticas incompatibles con límites legales o éticos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-37",
@@ -626,7 +662,8 @@
     "answer": 0,
     "explanation": "Porter es una herramienta estratégica, no uno de los modelos interculturales citados en ese bloque.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-38",
@@ -643,7 +680,8 @@
     "answer": 0,
     "explanation": "CQ se centra en la capacidad de adaptación intercultural, no en etiquetar países.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-39",
@@ -660,7 +698,8 @@
     "answer": 0,
     "explanation": "Los perfiles nacionales son promedios y no permiten predecir a una persona concreta con certeza.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-40",
@@ -677,7 +716,8 @@
     "answer": 0,
     "explanation": "El aprendizaje útil es específico de la persona/contexto y evita generalizaciones.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-41",
@@ -694,7 +734,8 @@
     "answer": 0,
     "explanation": "Adaptarse no significa imitar mecánicamente.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-42",
@@ -711,7 +752,8 @@
     "answer": 0,
     "explanation": "El error es convertir promedios nacionales en predicciones individuales.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-43",
@@ -728,7 +770,8 @@
     "answer": 0,
     "explanation": "La conducta debe interpretarse dentro de su contexto comunicativo.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-44",
@@ -745,7 +788,8 @@
     "answer": 0,
     "explanation": "Reconocer la asimetría puede hacer la conversación más segura y precisa.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-45",
@@ -762,7 +806,8 @@
     "answer": 0,
     "explanation": "La reparación reconstruye confianza tras un malentendido.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-46",
@@ -779,7 +824,8 @@
     "answer": 0,
     "explanation": "Los acuerdos concretos permiten seguimiento y reducen interpretaciones vagas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-47",
@@ -796,7 +842,8 @@
     "answer": 0,
     "explanation": "Las capas externas son más visibles y flexibles que los valores profundos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-48",
@@ -813,7 +860,8 @@
     "answer": 0,
     "explanation": "Los modelos son complementarios y parciales.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-49",
@@ -830,7 +878,8 @@
     "answer": 0,
     "explanation": "El relativismo metodológico no elimina límites legales y éticos.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-50",
@@ -847,7 +896,8 @@
     "answer": 0,
     "explanation": "Prepararse sirve para observar mejor y reducir errores, no para prejuzgar.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-51",
@@ -864,7 +914,8 @@
     "answer": 0,
     "explanation": "Las capas profundas influyen sobre comportamientos y expectativas visibles.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-52",
@@ -881,7 +932,8 @@
     "answer": 0,
     "explanation": "Una conducta aislada requiere interpretación y validación.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-53",
@@ -898,7 +950,8 @@
     "answer": 0,
     "explanation": "Separar observación e interpretación es una herramienta central.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-54",
@@ -915,7 +968,8 @@
     "answer": 0,
     "explanation": "El individuo real pesa más que un promedio nacional.",
     "difficulty": "easy",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-55",
@@ -932,7 +986,8 @@
     "answer": 0,
     "explanation": "Las comparaciones civilizatorias fueron parte del problema en el caso Baker/Rennalls.",
     "difficulty": "hard",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-56",
@@ -949,7 +1004,8 @@
     "answer": 0,
     "explanation": "La preparación debe cubrir los elementos que pueden afectar la interacción.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-57",
@@ -966,7 +1022,8 @@
     "answer": 0,
     "explanation": "La validación local es apoyo contextual, no sustituto del juicio.",
     "difficulty": "hard",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-58",
@@ -983,7 +1040,8 @@
     "answer": 0,
     "explanation": "La reparación temprana puede preservar confianza.",
     "difficulty": "medium",
-    "key": false
+    "key": false,
+    "approved": false
   },
   {
     "id": "cc-59",
@@ -1000,7 +1058,8 @@
     "answer": 0,
     "explanation": "La competencia intercultural es práctica y reflexiva, no una colección de etiquetas.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   },
   {
     "id": "cc-60",
@@ -1017,6 +1076,7 @@
     "answer": 0,
     "explanation": "La doble perspectiva obliga a revisar el propio marco cultural.",
     "difficulty": "medium",
-    "key": true
+    "key": true,
+    "approved": false
   }
 ]
