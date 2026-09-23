@@ -61,9 +61,9 @@
     "question": "¿Por qué puede ser peligrosa una deflación persistente?",
     "options": [
       "Puede retrasar consumo e inversión si se esperan precios aún más bajos",
-      "Reduce siempre el coste de la deuda y acelera automáticamente el consumo",
-      "Mejora necesariamente los márgenes empresariales al abaratar los factores",
-      "Aumenta la recaudación pública aunque se contraiga la actividad"
+      "Puede debilitar la demanda al aumentar los incentivos para posponer decisiones de gasto",
+      "Puede reducir ingresos empresariales si familias y empresas aplazan compras e inversión",
+      "Puede reforzar una dinámica contractiva al caer demanda, actividad y expectativas"
     ],
     "answer": 0,
     "explanation": "Si se esperan precios aún más bajos, hogares y empresas pueden aplazar gasto e inversión.",
@@ -277,9 +277,9 @@
     "question": "¿Qué efecto puede tener un desempleo persistentemente elevado?",
     "options": [
       "Deteriorar expectativas y reducir compras importantes de los hogares",
-      "Aumentar automáticamente la inversión empresarial por menor coste laboral",
-      "Elevar de forma inmediata las exportaciones por caída del consumo interno",
-      "Reducir necesariamente la inflación aunque la oferta permanezca constante"
+      "Reducir confianza de los consumidores y aumentar su cautela ante grandes gastos",
+      "Debilitar el consumo privado si empeoran las perspectivas de renta y empleo",
+      "Aplazar decisiones de compra cuando las familias perciben mayor inseguridad económica"
     ],
     "answer": 0,
     "explanation": "El deterioro de empleo puede debilitar consumo y confianza.",
@@ -511,9 +511,9 @@
     "question": "¿Cómo puede financiarse un Estado cuando incurre en déficit?",
     "options": [
       "Emitiendo letras, bonos u obligaciones del Tesoro",
-      "Aumentando las exportaciones públicas",
-      "Reduciendo automáticamente el tipo oficial",
-      "Convirtiendo el déficit en inflación contable"
+      "Colocando deuda pública con distintos vencimientos entre inversores",
+      "Obteniendo financiación mediante instrumentos emitidos por el Tesoro",
+      "Cubriendo la necesidad de fondos mediante nuevas emisiones de deuda pública"
     ],
     "answer": 0,
     "explanation": "La emisión de deuda permite cubrir necesidades de financiación.",
