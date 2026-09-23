@@ -97,9 +97,9 @@
     "question": "En una presidencia impar:",
     "options": [
       "Existe un centro único y los demás puestos alternan derecha e izquierda",
-      "No existe centro material y los dos puestos centrales tienen igual rango",
-      "El anfitrión ocupa siempre el extremo derecho de la presidencia",
-      "Las posiciones se asignan por orden alfabético a partir del centro"
+      "Los dos puestos centrales comparten protagonismo y el resto se distribuye alrededor",
+      "La presidencia se organiza desde un extremo y avanza según precedencia",
+      "La colocación parte del anfitrión y continúa según el orden institucional del acto"
     ],
     "answer": 0,
     "explanation": "La presidencia impar tiene un centro único.",
@@ -133,9 +133,9 @@
     "question": "Respecto a la bandera de España:",
     "options": [
       "Debe ocupar un lugar destacado y las demás no pueden ser mayores",
-      "Debe situarse siempre en el extremo izquierdo del conjunto",
-      "Puede ser de menor tamaño si comparte espacio con la bandera europea",
-      "Solo ocupa lugar de honor cuando el acto está organizado por el Estado"
+      "Debe situarse en posición de honor respecto al conjunto de banderas presentes",
+      "Debe mantener visibilidad y tamaño acorde con su condición de bandera nacional",
+      "Debe colocarse conforme al criterio protocolario aplicable al acto y al espacio"
     ],
     "answer": 0,
     "explanation": "Debe ocupar un lugar destacado y las demás no pueden tener mayor tamaño.",
@@ -151,9 +151,9 @@
     "question": "¿Cuál es una función del anfitrión?",
     "options": [
       "Invitar, recibir, despedir y definir objetivo, tono y mensaje",
-      "Limitarse a cerrar los discursos y agradecer la asistencia",
-      "Delegar presentaciones y recepción para no alterar la precedencia",
-      "Ocupar siempre el puesto central aunque exista invitado de honor"
+      "Coordinar la recepción, facilitar presentaciones y marcar el tono institucional",
+      "Organizar la acogida de asistentes y contextualizar el motivo del acto",
+      "Abrir la comunicación del evento y orientar el desarrollo general del encuentro"
     ],
     "answer": 0,
     "explanation": "El anfitrión organiza la recepción y define objetivo, tono y mensaje.",
@@ -187,9 +187,9 @@
     "question": "¿Qué significa que el protocolo esté al servicio del mensaje del anfitrión?",
     "options": [
       "Que colocaciones, símbolos, tiempos y precedencias deben reforzar el mensaje",
-      "Que el anfitrión puede ignorar cualquier regla si el acto es privado",
-      "Que todas las decisiones protocolarias deben favorecer siempre al invitado",
-      "Que la decoración visual prevalece sobre precedencia y funcionalidad"
+      "Que cada decisión organizativa debe ser coherente con el objetivo institucional",
+      "Que el diseño del acto debe apoyar lo que la organización pretende comunicar",
+      "Que la puesta en escena debe mantener coherencia entre forma, contenido y contexto"
     ],
     "answer": 0,
     "explanation": "El protocolo organiza el acto para comunicar de forma coherente.",
@@ -259,9 +259,9 @@
     "question": "¿Cómo debe ser un apretón de manos profesional según los apuntes?",
     "options": [
       "Firme sin exceso, breve y sin sacudir",
-      "Muy firme, prolongado y acompañado de varios movimientos",
-      "Suave y largo para transmitir cercanía y cortesía",
-      "Breve pero realizado siempre con ambas manos"
+      "Firme y moderado, con una duración corta y controlada",
+      "Breve y seguro, evitando fuerza excesiva o movimientos repetidos",
+      "Correcto y contenido, adaptado al contexto y a la relación profesional"
     ],
     "answer": 0,
     "explanation": "Se recomienda firmeza moderada y duración breve.",
@@ -367,9 +367,9 @@
     "question": "¿Por qué los movimientos alrededor del coche protocolario se realizan por la parte posterior?",
     "options": [
       "Para respetar el orden operativo de entrada y salida y evitar cruces",
-      "Porque la parte delantera está reservada exclusivamente al personal de seguridad",
-      "Porque así la persona de mayor rango puede abandonar primero el vehículo",
-      "Porque el ceremonial exige no circular nunca por el lado derecho del automóvil"
+      "Para facilitar desplazamientos alrededor del vehículo sin interferir con ocupantes",
+      "Para mantener una circulación ordenada cuando entran y salen personas de distinto rango",
+      "Para coordinar aperturas y movimientos sin alterar la secuencia protocolaria prevista"
     ],
     "answer": 0,
     "explanation": "Es una regla operativa de circulación alrededor del vehículo.",
@@ -385,9 +385,9 @@
     "question": "Respecto a regalos institucionales a cargos públicos, la regla general es:",
     "options": [
       "No aceptar obsequios que excedan los usos sociales o puedan condicionar la función",
-      "Aceptar cualquier regalo institucional siempre que proceda de una autoridad extranjera",
-      "Aceptar únicamente obsequios de valor elevado cuando tengan carácter representativo",
-      "Rechazar incluso detalles simbólicos para evitar cualquier apariencia de influencia"
+      "Aceptar detalles de cortesía que no comprometan imparcialidad ni generen obligación",
+      "Admitir obsequios de valor moderado cuando sean compatibles con las normas aplicables",
+      "Incorporar al patrimonio institucional los regalos de especial relevancia representativa"
     ],
     "answer": 0,
     "explanation": "La cortesía tiene límites cuando puede comprometer la imparcialidad.",
@@ -493,9 +493,9 @@
     "question": "¿Cuándo conviene protocolizar especialmente a los invitados?",
     "options": [
       "Cuando hay autoridades, solemnidad, medios o sensibilidades jerárquicas",
-      "Solo cuando el acto supera un determinado número de asistentes",
-      "Únicamente cuando existe representación de la Casa Real",
-      "Siempre que el evento se celebre en una sede institucional"
+      "Cuando la colocación puede tener significado institucional o afectar al reconocimiento",
+      "Cuando concurren perfiles de distinto rango y conviene ordenar accesos y visibilidad",
+      "Cuando el formato del acto exige decidir de antemano posiciones y precedencias"
     ],
     "answer": 0,
     "explanation": "La necesidad aumenta cuando la colocación puede tener significado institucional o relacional.",
