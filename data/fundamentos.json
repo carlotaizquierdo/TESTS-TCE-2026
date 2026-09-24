@@ -1078,5 +1078,2255 @@
     "difficulty": "medium",
     "key": true,
     "approved": false
+  },
+  {
+    "id": "fun-061",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué condición convierte una salida exterior en una decisión meditada?",
+    "options": [
+      "Recursos, demanda, acceso y riesgo",
+      "Recibir una consulta aislada desde otro país",
+      "Elegir el mercado con mayor población",
+      "Imitar el destino de un competidor"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización consciente combina capacidad interna y atractivo real del mercado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-062",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué el análisis debe formularse como producto-región?",
+    "options": [
+      "Porque toda región aplica una moneda distinta",
+      "Porque el promedio oculta diferencias regionales",
+      "Porque el país deja de tener normativa propia",
+      "Porque los aranceles se calculan por ciudad"
+    ],
+    "answer": 1,
+    "explanation": "La demanda, los canales y la infraestructura pueden concentrarse territorialmente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-063",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué pregunta pertenece al análisis de demanda efectiva?",
+    "options": [
+      "Si existe embajada española en destino",
+      "Si el país aparece en un ranking general",
+      "Si el segmento compra y a qué precio",
+      "Si el puerto utiliza una marca concreta"
+    ],
+    "answer": 2,
+    "explanation": "La demanda exige compradores, capacidad y disposición de pago.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-064",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué elemento pertenece al análisis de acceso al mercado?",
+    "options": [
+      "PIB nominal, población y superficie",
+      "Salarios, beneficios y dividendos",
+      "Consumo, ahorro y gasto público",
+      "Aranceles, licencias y normas"
+    ],
+    "answer": 3,
+    "explanation": "El acceso depende de barreras arancelarias y no arancelarias.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-065",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué variable ayuda a valorar la capacidad de pago del mercado?",
+    "options": [
+      "Renta, crédito y estabilidad",
+      "Número de ministerios y regiones",
+      "Extensión geográfica y huso horario",
+      "Cantidad de empresas registradas"
+    ],
+    "answer": 0,
+    "explanation": "La solvencia comercial se relaciona con renta, financiación e inflación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-066",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué comprobación pertenece al encaje interno de la empresa?",
+    "options": [
+      "Tasa de actividad del país de destino",
+      "Capacidad, personal y financiación",
+      "Saldo corriente del bloque regional",
+      "Número de tratados multilaterales"
+    ],
+    "answer": 1,
+    "explanation": "La oportunidad solo es viable si la empresa posee recursos para ejecutarla.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-067",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un país crece con fuerza, pero el producto carece de compradores. ¿Qué conclusión procede?",
+    "options": [
+      "El crecimiento garantiza ventas futuras",
+      "La empresa debe entrar antes que sus rivales",
+      "El dato macro no sustituye al sectorial",
+      "El PIB convierte el producto en necesario"
+    ],
+    "answer": 2,
+    "explanation": "La macroeconomía favorable no crea por sí sola demanda específica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-068",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Cuál es una pregunta microeconómica para un exportador?",
+    "options": [
+      "Cómo evoluciona el PIB nacional",
+      "Cuál es la tasa de paro agregada",
+      "Qué saldo tiene la cuenta corriente",
+      "El precio aceptado por el cliente"
+    ],
+    "answer": 3,
+    "explanation": "La microeconomía analiza consumidores, empresas y mercados concretos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-069",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Cuál es una pregunta macroeconómica para un exportador?",
+    "options": [
+      "Efecto de inflación y tipos en consumo",
+      "Qué canal prefiere un distribuidor",
+      "Qué atributo valora un cliente",
+      "Qué margen aplica un competidor"
+    ],
+    "answer": 0,
+    "explanation": "Inflación y tipos son variables agregadas con efectos sobre demanda y financiación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-070",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El coste de oportunidad de elegir un mercado es:",
+    "options": [
+      "La suma de todos los gastos contables",
+      "La mejor alternativa descartada",
+      "El arancel aplicado a la mercancía",
+      "La comisión pagada al distribuidor"
+    ],
+    "answer": 1,
+    "explanation": "El coste de oportunidad refleja la renuncia relevante, aunque no implique un pago.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-071",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una subvención a la inversión actúa como:",
+    "options": [
+      "Un recurso ilimitado de la economía",
+      "Una medida directa del bienestar",
+      "Un incentivo sobre costes esperados",
+      "Un componente de la cuenta corriente"
+    ],
+    "answer": 2,
+    "explanation": "Los incentivos modifican beneficios relativos y decisiones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-072",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué mide la productividad laboral?",
+    "options": [
+      "Salario nominal pagado por trabajador",
+      "Número total de personas desempleadas",
+      "Variación anual del nivel de precios",
+      "Producción por unidad de trabajo"
+    ],
+    "answer": 3,
+    "explanation": "La productividad relaciona resultado y recurso utilizado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-073",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La pregunta «cómo producir» incluye decidir sobre:",
+    "options": [
+      "Tecnología, factores y organización",
+      "Distribución final de la renta",
+      "Cantidad demandada a cada precio",
+      "Saldo financiero con el exterior"
+    ],
+    "answer": 0,
+    "explanation": "Cómo producir se refiere a la combinación de recursos y técnicas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-074",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En una economía centralizada, predomina:",
+    "options": [
+      "La coordinación exclusiva mediante precios",
+      "Planificación pública de la producción",
+      "La ausencia completa de propiedad pública",
+      "La libre movilidad de factores internacionales"
+    ],
+    "answer": 1,
+    "explanation": "El Estado adopta una parte dominante de las decisiones económicas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-075",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué las economías actuales suelen calificarse como mixtas?",
+    "options": [
+      "Carecen de empresas de propiedad privada",
+      "Fijan centralmente todos los precios",
+      "Mercado, regulación y gasto público",
+      "Comparten una misma política monetaria"
+    ],
+    "answer": 2,
+    "explanation": "La asignación descentralizada convive con intervención pública.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-076",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En el flujo circular, los hogares ofrecen a las empresas:",
+    "options": [
+      "Bienes finales y gasto público",
+      "Aranceles y reservas exteriores",
+      "Licencias y política monetaria",
+      "Trabajo y capital productivos"
+    ],
+    "answer": 3,
+    "explanation": "Los hogares aportan factores y reciben rentas a cambio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-077",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En el flujo circular, las empresas pagan a los hogares:",
+    "options": [
+      "Salarios, intereses y beneficios",
+      "Impuestos, aranceles y cotizaciones",
+      "Exportaciones, reservas y transferencias",
+      "Multas, subvenciones y licencias"
+    ],
+    "answer": 0,
+    "explanation": "Las rentas remuneran los factores productivos aportados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-078",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué papel desempeña el sector público en el flujo ampliado?",
+    "options": [
+      "Solo consume bienes importados",
+      "Recauda, gasta, transfiere y regula",
+      "Solo presta servicios financieros",
+      "Sustituye todos los mercados privados"
+    ],
+    "answer": 1,
+    "explanation": "El Estado conecta impuestos, gasto, transferencias y regulación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-079",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La apertura al resto del mundo añade al flujo circular:",
+    "options": [
+      "Únicamente consumo de los hogares",
+      "Solo impuestos sobre la renta",
+      "Comercio y flujos financieros",
+      "Exclusivamente inversión pública"
+    ],
+    "answer": 2,
+    "explanation": "Una economía abierta registra exportaciones, importaciones y financiación exterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-080",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué relación existe entre ahorro e inversión?",
+    "options": [
+      "Ambos conceptos son idénticos por definición",
+      "La inversión elimina cualquier necesidad de ahorro",
+      "El ahorro solo puede financiar gasto público",
+      "Canaliza ahorro hacia inversión"
+    ],
+    "answer": 3,
+    "explanation": "La intermediación conecta unidades con excedente y necesidad de fondos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-081",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El PIB mide producción realizada:",
+    "options": [
+      "Dentro del territorio durante un período",
+      "Por nacionales en cualquier país y sin período",
+      "Dentro del territorio en una fecha concreta",
+      "Por consumidores finales fuera del país"
+    ],
+    "answer": 0,
+    "explanation": "El criterio del PIB es territorial y temporal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-082",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué el PIB considera bienes y servicios finales?",
+    "options": [
+      "Para excluir toda producción empresarial",
+      "Para no duplicar el valor de los insumos",
+      "Para medir únicamente las exportaciones",
+      "Para valorar solo las compras públicas"
+    ],
+    "answer": 1,
+    "explanation": "Los bienes intermedios ya se incorporan al valor del producto final.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-083",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué diferencia principal existe entre PIB nominal y real?",
+    "options": [
+      "El nominal excluye servicios públicos",
+      "El real solo contabiliza exportaciones",
+      "El real descuenta la variación de precios",
+      "El nominal divide siempre entre población"
+    ],
+    "answer": 2,
+    "explanation": "El PIB real permite comparar volumen de producción.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-084",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si el PIB nominal sube por inflación, pero la producción no cambia:",
+    "options": [
+      "El PIB real debe aumentar en igual medida",
+      "El PIB per cápita se vuelve necesariamente cero",
+      "Las exportaciones netas deben ser positivas",
+      "El PIB real puede permanecer estable"
+    ],
+    "answer": 3,
+    "explanation": "El aumento de precios eleva valores corrientes sin más volumen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-085",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué expresa la tasa de crecimiento del PIB real?",
+    "options": [
+      "El cambio porcentual del volumen",
+      "La suma de precios de la cesta de consumo",
+      "El diferencial de deuda frente a Alemania",
+      "La proporción de parados sobre activos"
+    ],
+    "answer": 0,
+    "explanation": "El crecimiento real mide expansión o contracción productiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-086",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué limitación tiene el PIB per cápita?",
+    "options": [
+      "No permite comparar años distintos",
+      "Es una media sin distribución",
+      "Solo incluye la producción industrial",
+      "Depende exclusivamente de exportaciones"
+    ],
+    "answer": 1,
+    "explanation": "Una media puede coexistir con fuerte desigualdad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-087",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Para qué resulta útil ajustar el PIB por PPA?",
+    "options": [
+      "Calcular el arancel exterior común",
+      "Medir la tasa de empleo registrada",
+      "Comparar capacidad real de compra",
+      "Determinar el origen de una mercancía"
+    ],
+    "answer": 2,
+    "explanation": "La paridad de poder adquisitivo corrige diferencias de niveles de precios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-088",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En PIB = C + I + G + X - M, C representa:",
+    "options": [
+      "Capital financiero adquirido fuera",
+      "Costes laborales de las empresas",
+      "Cuenta corriente de la balanza de pagos",
+      "Consumo privado de bienes y servicios"
+    ],
+    "answer": 3,
+    "explanation": "C recoge el gasto de consumo de los hogares.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-089",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En el enfoque del gasto, la inversión incluye:",
+    "options": [
+      "Capital fijo y variación de existencias",
+      "Compra de acciones ya emitidas",
+      "Pago de pensiones públicas",
+      "Adquisición de bienes importados para consumo"
+    ],
+    "answer": 0,
+    "explanation": "La inversión del PIB se refiere a capital productivo, no a simples activos financieros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-090",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué operación no forma parte directamente de G en el PIB?",
+    "options": [
+      "La compra pública de material",
+      "Una transferencia sin contraprestación",
+      "La construcción de una carretera",
+      "El salario de un empleado público"
+    ],
+    "answer": 1,
+    "explanation": "Las transferencias redistribuyen renta, pero no compran producción corriente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-091",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué representan las exportaciones netas?",
+    "options": [
+      "Exportaciones más inversión extranjera",
+      "Importaciones menos gasto público",
+      "Exportaciones menos importaciones",
+      "Cuenta corriente más cuenta financiera"
+    ],
+    "answer": 2,
+    "explanation": "X - M mide la contribución neta del comercio exterior de bienes y servicios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-092",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué se restan las importaciones al calcular el PIB?",
+    "options": [
+      "Porque carecen de valor para los consumidores",
+      "Porque siempre generan un déficit comercial",
+      "Porque se registran fuera de la balanza de pagos",
+      "Porque son gasto, pero no producción interna"
+    ],
+    "answer": 3,
+    "explanation": "Pueden estar incluidas en C, I o G, pero se produjeron en el exterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-093",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué requisito distingue inflación de una subida aislada?",
+    "options": [
+      "Sube sostenidamente el nivel general",
+      "Se concentra en un único producto energético",
+      "Se produce durante una sola semana",
+      "Coincide con un aumento del PIB nominal"
+    ],
+    "answer": 0,
+    "explanation": "La inflación se refiere al conjunto de precios y a un período.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-094",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué indicador permite comparar inflación entre países de la UE?",
+    "options": [
+      "El producto interior bruto nominal",
+      "El índice armonizado de precios",
+      "La tasa de actividad laboral",
+      "La balanza comercial aduanera"
+    ],
+    "answer": 1,
+    "explanation": "El IPCA aplica criterios comparables en el ámbito europeo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-095",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La inflación subyacente pretende aproximar:",
+    "options": [
+      "El precio exacto de todos los alimentos",
+      "La variación mensual del PIB real",
+      "Las presiones persistentes de precios",
+      "El saldo acumulado de deuda pública"
+    ],
+    "answer": 2,
+    "explanation": "Excluye determinados componentes especialmente volátiles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-096",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué compara una tasa de inflación interanual?",
+    "options": [
+      "El mes actual con el inmediatamente anterior",
+      "El promedio nacional con una región",
+      "El precio corriente con el PIB real",
+      "El mes actual frente al mismo mes previo"
+    ],
+    "answer": 3,
+    "explanation": "La referencia interanual evita parte de la estacionalidad mensual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-097",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué define correctamente la desinflación?",
+    "options": [
+      "La inflación continúa positiva pero se desacelera",
+      "El nivel general de precios cae de forma sostenida",
+      "Los precios dejan de existir como señal",
+      "La inflación subyacente supera a la general"
+    ],
+    "answer": 0,
+    "explanation": "Desinflación es menor ritmo de subida, no descenso de precios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-098",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué define correctamente la deflación?",
+    "options": [
+      "Una reducción puntual del precio del petróleo",
+      "Una caída sostenida del nivel general",
+      "Una inflación positiva inferior a la prevista",
+      "Una caída trimestral del PIB nominal"
+    ],
+    "answer": 1,
+    "explanation": "La deflación afecta al nivel general durante un período prolongado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-099",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué efecto puede producir una inflación elevada?",
+    "options": [
+      "Reducir automáticamente todos los tipos de interés",
+      "Aumentar siempre las exportaciones reales",
+      "Menor poder adquisitivo e incertidumbre",
+      "Eliminar el riesgo de tipo de cambio"
+    ],
+    "answer": 2,
+    "explanation": "La inflación altera costes, demanda real y decisiones financieras.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-100",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una empresa puede proteger mejor su margen ante inflación si:",
+    "options": [
+      "Ignora el comportamiento de la competencia",
+      "Fija precios indefinidamente sin revisar",
+      "Elimina toda referencia al tipo de cambio",
+      "Evalúa costes y traslado a precios"
+    ],
+    "answer": 3,
+    "explanation": "El efecto depende de costes, elasticidad y poder de mercado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-101",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Cuál es el denominador de la tasa de desempleo?",
+    "options": [
+      "La población activa",
+      "La población total",
+      "La población ocupada",
+      "Las personas inscritas"
+    ],
+    "answer": 0,
+    "explanation": "La población activa suma ocupados y desempleados que buscan y están disponibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-102",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Quién forma parte de la población activa?",
+    "options": [
+      "Toda persona en edad laboral",
+      "Ocupados y desempleados disponibles",
+      "Solo quienes tienen contrato",
+      "Ocupados y población inactiva"
+    ],
+    "answer": 1,
+    "explanation": "La actividad exige trabajar o participar en la búsqueda disponible.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-103",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La tasa de actividad relaciona:",
+    "options": [
+      "Desempleados con población activa",
+      "Ocupados con desempleados",
+      "Activos sobre población de referencia",
+      "Salarios con productividad total"
+    ],
+    "answer": 2,
+    "explanation": "Mide participación en el mercado laboral.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-104",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La tasa de empleo relaciona:",
+    "options": [
+      "Desempleados con población activa",
+      "Inscritos con población total",
+      "Activos con puestos vacantes",
+      "Ocupados sobre población de referencia"
+    ],
+    "answer": 3,
+    "explanation": "Mide qué proporción de la población de referencia trabaja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-105",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué capta el subempleo?",
+    "options": [
+      "Trabajo insuficiente para la disponibilidad",
+      "Solo ausencia total de trabajo",
+      "Únicamente empleo público temporal",
+      "Exclusivamente desempleo registrado"
+    ],
+    "answer": 0,
+    "explanation": "Puede revelar infrautilización no visible en la tasa de paro.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-106",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué la EPA no equivale al paro registrado?",
+    "options": [
+      "Solo mide trabajadores extranjeros",
+      "Usa encuesta y criterios de actividad",
+      "Excluye a todas las personas ocupadas",
+      "Se calcula mediante el padrón municipal"
+    ],
+    "answer": 1,
+    "explanation": "La EPA clasifica empleo, paro e inactividad con criterios homogéneos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-107",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un desempleo elevado puede afectar a un exportador mediante:",
+    "options": [
+      "Mayor productividad en cualquier sector",
+      "Eliminación de competidores locales",
+      "Menor renta y más sensibilidad al precio",
+      "Reducción necesaria de todas las barreras"
+    ],
+    "answer": 2,
+    "explanation": "El efecto principal puede transmitirse por consumo y composición de demanda.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-108",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La demanda de mercado expresa:",
+    "options": [
+      "La producción máxima técnicamente posible",
+      "El gasto público previsto en presupuesto",
+      "El stock existente al final del año",
+      "Compras deseadas y posibles a cada precio"
+    ],
+    "answer": 3,
+    "explanation": "La demanda combina voluntad y capacidad de compra.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-109",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La oferta de mercado expresa:",
+    "options": [
+      "Ventas deseadas y posibles a cada precio",
+      "La necesidad total de los consumidores",
+      "La renta disponible de los hogares",
+      "La inversión financiera del exterior"
+    ],
+    "answer": 0,
+    "explanation": "La oferta vincula precio y cantidad ofrecida, ceteris paribus.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-110",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una subida del precio propio provoca normalmente:",
+    "options": [
+      "Un desplazamiento completo de la demanda",
+      "Un movimiento sobre la curva de oferta",
+      "Un giro automático de la curva de oferta",
+      "Una reducción de todos los costes"
+    ],
+    "answer": 1,
+    "explanation": "El precio propio cambia la cantidad ofrecida, no la oferta como curva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-111",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una bajada del precio propio provoca normalmente:",
+    "options": [
+      "Una contracción de la curva de demanda",
+      "Un desplazamiento de la oferta",
+      "Un aumento de cantidad demandada",
+      "Una caída necesaria de la renta"
+    ],
+    "answer": 2,
+    "explanation": "La ley de demanda describe un movimiento sobre la curva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-112",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si aumenta la renta para un bien normal, suele:",
+    "options": [
+      "Moverse la oferta sobre su curva",
+      "Desplazarse la demanda hacia la izquierda",
+      "Permanecer siempre igual la cantidad",
+      "Desplazarse la demanda hacia la derecha"
+    ],
+    "answer": 3,
+    "explanation": "La renta es un determinante distinto del precio propio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-113",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si sube el precio de un sustituto, normalmente:",
+    "options": [
+      "Aumenta la demanda del bien analizado",
+      "Disminuye la oferta del bien analizado",
+      "Cae la demanda del bien analizado",
+      "Aumenta el coste fijo del productor"
+    ],
+    "answer": 0,
+    "explanation": "Los consumidores pueden cambiar hacia el bien relativamente más barato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-114",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si sube el precio de un complemento, normalmente:",
+    "options": [
+      "Aumenta su oferta de forma necesaria",
+      "Cae la demanda del bien relacionado",
+      "Crece la demanda del bien relacionado",
+      "No cambia ninguna decisión de consumo"
+    ],
+    "answer": 1,
+    "explanation": "El mayor coste conjunto reduce el atractivo del paquete.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-115",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un aumento del coste de materias primas suele:",
+    "options": [
+      "Desplazar la demanda hacia la derecha",
+      "Aumentar la cantidad ofrecida al mismo coste",
+      "Desplazar la oferta hacia la izquierda",
+      "Reducir la elasticidad de la demanda a cero"
+    ],
+    "answer": 2,
+    "explanation": "A cada precio resulta menos rentable ofrecer la misma cantidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-116",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una mejora tecnológica que reduce costes suele:",
+    "options": [
+      "Desplazar la demanda hacia la izquierda",
+      "Elevar el precio mínimo de equilibrio",
+      "Eliminar cualquier escasez posible",
+      "Desplazar la oferta hacia la derecha"
+    ],
+    "answer": 3,
+    "explanation": "La productividad permite ofrecer más a cada precio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-117",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si el precio está por debajo del equilibrio, aparece:",
+    "options": [
+      "Exceso de demanda o escasez",
+      "Exceso de oferta o excedente",
+      "Equilibrio con inventarios constantes",
+      "Desplazamiento simultáneo de curvas"
+    ],
+    "answer": 0,
+    "explanation": "La cantidad demandada supera a la ofrecida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-118",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Si el precio está por encima del equilibrio, aparece:",
+    "options": [
+      "Exceso de demanda o escasez",
+      "Exceso de oferta o excedente",
+      "Equilibrio sin ajuste posible",
+      "Aumento automático de la demanda"
+    ],
+    "answer": 1,
+    "explanation": "La cantidad ofrecida supera a la demandada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-119",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una demanda elástica implica que:",
+    "options": [
+      "La cantidad no cambia ante ningún precio",
+      "La oferta determina siempre el consumo",
+      "La cantidad varía más que el precio",
+      "El ingreso total permanece constante"
+    ],
+    "answer": 2,
+    "explanation": "La elasticidad absoluta es superior a uno.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-120",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una demanda inelástica implica que:",
+    "options": [
+      "La cantidad aumenta más que el precio",
+      "La curva se desplaza con cualquier cambio",
+      "El bien carece de consumidores",
+      "La cantidad varía menos que el precio"
+    ],
+    "answer": 3,
+    "explanation": "La elasticidad absoluta es inferior a uno.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-121",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué factor suele aumentar la elasticidad de demanda?",
+    "options": [
+      "La presencia de sustitutos próximos",
+      "La ausencia de alternativas",
+      "El carácter imprescindible del bien",
+      "Un período de ajuste muy corto"
+    ],
+    "answer": 0,
+    "explanation": "Más alternativas facilitan cambiar ante una subida de precio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-122",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Para estimar ventas de una importación debe considerarse:",
+    "options": [
+      "Solo el precio de fábrica nacional",
+      "Precio final con costes de importación",
+      "Únicamente el PIB total del país",
+      "Exclusivamente el tamaño de la población"
+    ],
+    "answer": 1,
+    "explanation": "La demanda reacciona al precio puesto y a las alternativas disponibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-123",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La balanza de pagos es:",
+    "options": [
+      "El presupuesto anual del sector público",
+      "El inventario de dinero del banco central",
+      "Registro de operaciones con no residentes",
+      "La suma de exportaciones de mercancías"
+    ],
+    "answer": 2,
+    "explanation": "Registra operaciones económicas exteriores durante un período.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-124",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En balanza de pagos, residencia se determina principalmente por:",
+    "options": [
+      "La nacionalidad del pasaporte",
+      "El lugar de nacimiento de la persona",
+      "La moneda utilizada en la operación",
+      "El centro de interés económico"
+    ],
+    "answer": 3,
+    "explanation": "Residencia económica no equivale necesariamente a nacionalidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-125",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué integra la cuenta corriente?",
+    "options": [
+      "Bienes, servicios y rentas corrientes",
+      "Solo mercancías exportadas e importadas",
+      "Inversión directa, cartera y reservas",
+      "Activos no producidos y transferencias de capital"
+    ],
+    "answer": 0,
+    "explanation": "La cuenta corriente recoge transacciones reales y rentas corrientes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-126",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un ingreso por turismo internacional se registra en:",
+    "options": [
+      "Bienes de la cuenta corriente",
+      "Servicios en cuenta corriente",
+      "Cuenta financiera de cartera",
+      "Cuenta de capital pública"
+    ],
+    "answer": 1,
+    "explanation": "El turismo es exportación o importación de servicios según el sentido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-127",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Los intereses cobrados del exterior pertenecen a:",
+    "options": [
+      "Transferencias de capital",
+      "Bienes de la balanza comercial",
+      "Renta primaria corriente",
+      "Reservas del banco central"
+    ],
+    "answer": 2,
+    "explanation": "La renta primaria remunera trabajo y capital.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-128",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una remesa corriente enviada al exterior se registra como:",
+    "options": [
+      "Inversión directa extranjera",
+      "Exportación de mercancías",
+      "Adquisición de reservas",
+      "Renta secundaria corriente"
+    ],
+    "answer": 3,
+    "explanation": "Las transferencias corrientes no tienen contraprestación directa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-129",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué recoge la cuenta de capital?",
+    "options": [
+      "Transferencias y activos no producidos",
+      "Consumo e inversión interna",
+      "Bienes, servicios y rentas",
+      "Depósitos, préstamos y acciones"
+    ],
+    "answer": 0,
+    "explanation": "Su contenido es distinto de la inversión productiva de la cuenta financiera.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-130",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué recoge la cuenta financiera?",
+    "options": [
+      "Impuestos, gasto y transferencias públicas",
+      "Inversión, cartera y reservas",
+      "Bienes, servicios y remuneración laboral",
+      "Producción, precios y desempleo"
+    ],
+    "answer": 1,
+    "explanation": "Muestra adquisición neta de activos y pasivos financieros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-131",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué distingue normalmente la inversión directa?",
+    "options": [
+      "Se limita a comprar deuda a corto plazo",
+      "Nunca implica participación empresarial",
+      "Busca influencia duradera en la entidad",
+      "Se registra como exportación de servicios"
+    ],
+    "answer": 2,
+    "explanation": "La inversión directa refleja una relación estable y capacidad de influencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-132",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una compra de bonos extranjeros sin control empresarial es:",
+    "options": [
+      "Inversión directa",
+      "Transferencia corriente",
+      "Exportación de capital físico",
+      "Inversión de cartera"
+    ],
+    "answer": 3,
+    "explanation": "La cartera incluye valores negociables sin relación de control duradera.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-133",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Las reservas internacionales son activos gestionados por:",
+    "options": [
+      "La autoridad monetaria",
+      "Cualquier empresa exportadora",
+      "Los hogares consumidores",
+      "La administración municipal"
+    ],
+    "answer": 0,
+    "explanation": "Sirven para necesidades de balanza de pagos y política cambiaria.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-134",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La partida de errores y omisiones refleja:",
+    "options": [
+      "Gasto secreto del gobierno",
+      "Diferencias estadísticas de registro",
+      "Pérdidas empresariales no declaradas",
+      "Una cuenta de libre disposición"
+    ],
+    "answer": 1,
+    "explanation": "Ajusta desfases de cobertura, valoración y momento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-135",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un superávit corriente significa, en conjunto, que el país:",
+    "options": [
+      "Carece de importaciones",
+      "Tiene presupuesto público equilibrado",
+      "Presta recursos netos al exterior",
+      "Mantiene siempre moneda apreciada"
+    ],
+    "answer": 2,
+    "explanation": "El ahorro nacional supera a la inversión interna en términos agregados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-136",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un déficit corriente implica, en conjunto:",
+    "options": [
+      "Ausencia total de exportaciones",
+      "Insolvencia inmediata del Estado",
+      "Caída obligatoria del PIB real",
+      "Necesidad de financiación exterior"
+    ],
+    "answer": 3,
+    "explanation": "Debe financiarse con entradas de capital o reducción de activos externos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-137",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué un déficit corriente no es automáticamente negativo?",
+    "options": [
+      "Importan uso y sostenibilidad",
+      "Siempre se compensa con inflación",
+      "Elimina por sí mismo la deuda pública",
+      "Garantiza inversión productiva futura"
+    ],
+    "answer": 0,
+    "explanation": "Puede financiar inversión productiva o reflejar desequilibrios vulnerables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-138",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La balanza comercial calcula:",
+    "options": [
+      "Servicios menos transferencias corrientes",
+      "Exportaciones menos importaciones",
+      "Inversión directa menos cartera",
+      "Ingresos públicos menos gasto"
+    ],
+    "answer": 1,
+    "explanation": "Se limita a mercancías, no a toda la cuenta corriente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-139",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En valoración estadística, FOB aproxima:",
+    "options": [
+      "Valor con seguro y flete hasta destino",
+      "Precio minorista pagado por el consumidor",
+      "Valor hasta el punto de salida",
+      "Coste total después de impuestos internos"
+    ],
+    "answer": 2,
+    "explanation": "FOB excluye el transporte y seguro internacional posterior a salida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-140",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En valoración estadística, CIF añade al FOB:",
+    "options": [
+      "Arancel e IVA de importación",
+      "Margen minorista y publicidad",
+      "Costes laborales del comprador",
+      "Seguro y flete al destino"
+    ],
+    "answer": 3,
+    "explanation": "CIF incorpora coste, seguro y flete internacional hasta el punto convenido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-141",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "En la balanza de pagos, los bienes se valoran normalmente:",
+    "options": [
+      "De forma coherente a precios FOB",
+      "Siempre a precios CIF de importación",
+      "Al precio minorista final",
+      "A coste de producción sin margen"
+    ],
+    "answer": 0,
+    "explanation": "El seguro y transporte internacional se reclasifican como servicios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-142",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Que una estadística use valor FOB significa que:",
+    "options": [
+      "Toda venta se contrató bajo FOB",
+      "No acredita el Incoterm pactado",
+      "El comprador asumió siempre el transporte",
+      "La mercancía viajó necesariamente por mar"
+    ],
+    "answer": 1,
+    "explanation": "La base estadística es una convención de valoración agregada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-143",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué estudia la economía mundial?",
+    "options": [
+      "Solo la producción agrícola nacional",
+      "Únicamente las decisiones de hogares",
+      "Relaciones económicas entre países",
+      "Exclusivamente los presupuestos públicos"
+    ],
+    "answer": 2,
+    "explanation": "Incluye comercio, inversión, energía, tecnología y tipos de cambio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-144",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La fragmentación geoeconómica describe:",
+    "options": [
+      "Desaparición completa del comercio internacional",
+      "Un mercado mundial sin barreras políticas",
+      "La convergencia automática de todas las normas",
+      "Seguridad y alianzas condicionan decisiones"
+    ],
+    "answer": 3,
+    "explanation": "La eficiencia convive con resiliencia, diversificación y rivalidad estratégica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-145",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un shock energético puede transmitirse mediante:",
+    "options": [
+      "Costes, precios y términos de intercambio",
+      "Solo cambios en población activa",
+      "Únicamente normas de origen",
+      "Exclusivamente gasto educativo"
+    ],
+    "answer": 0,
+    "explanation": "La energía afecta producción, transporte, precios y saldo exterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-146",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una subida de tipos de interés suele afectar a:",
+    "options": [
+      "Clasificación arancelaria de mercancías",
+      "Crédito, inversión y bienes duraderos",
+      "Reglas de origen preferencial",
+      "Definición estadística de residencia"
+    ],
+    "answer": 1,
+    "explanation": "El mayor coste financiero reduce proyectos y consumo financiado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-147",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La inversión vinculada a inteligencia artificial puede apoyar:",
+    "options": [
+      "Eliminación automática del desempleo",
+      "Supresión de la política comercial",
+      "Productividad e inversión tecnológica",
+      "Equilibrio necesario de la cuenta corriente"
+    ],
+    "answer": 2,
+    "explanation": "La IA puede elevar inversión y eficiencia, con efectos desiguales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-148",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un riesgo geopolítico afecta directamente a:",
+    "options": [
+      "Fórmula de la tasa de actividad",
+      "Definición del PIB nominal",
+      "Cálculo del valor añadido interno",
+      "Rutas, confianza y diversificación"
+    ],
+    "answer": 3,
+    "explanation": "Conflictos y sanciones alteran cadenas, seguros y acceso.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-149",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una disrupción logística puede aumentar:",
+    "options": [
+      "Plazos, inventarios y circulante",
+      "PIB real por definición contable",
+      "Población activa automáticamente",
+      "Preferencias arancelarias concedidas"
+    ],
+    "answer": 0,
+    "explanation": "Más tiempo en tránsito inmoviliza recursos y reduce fiabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-150",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un sector concentrado exige analizar:",
+    "options": [
+      "Solo el tamaño total de población",
+      "Poder de mercado y barreras",
+      "Únicamente la tasa de inflación",
+      "Exclusivamente la deuda pública"
+    ],
+    "answer": 1,
+    "explanation": "La concentración condiciona entrada, precio y negociación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-151",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Cuándo un nicho constituye una oportunidad real?",
+    "options": [
+      "Cuando carece de cualquier competidor",
+      "Cuando el país tiene el PIB más alto",
+      "Con demanda accesible y ventaja defendible",
+      "Cuando aparece en una noticia sectorial"
+    ],
+    "answer": 2,
+    "explanation": "Un espacio no cubierto debe ser alcanzable y rentable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-152",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un acuerdo preferencial concede normalmente:",
+    "options": [
+      "Libre circulación mundial de factores",
+      "Moneda común entre todos los miembros",
+      "Eliminación de cualquier norma técnica",
+      "Ventajas para productos y socios cubiertos"
+    ],
+    "answer": 3,
+    "explanation": "Su alcance depende de listas, calendario y condiciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-153",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una zona de libre comercio se caracteriza por:",
+    "options": [
+      "Libre comercio interno y política externa propia",
+      "Aplicar necesariamente una moneda única",
+      "Compartir siempre presupuesto y fiscalidad",
+      "Eliminar todas las fronteras regulatorias"
+    ],
+    "answer": 0,
+    "explanation": "Cada miembro conserva su arancel frente a terceros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-154",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una unión aduanera añade a la zona de libre comercio:",
+    "options": [
+      "Una política monetaria única",
+      "Un arancel exterior común",
+      "Libre circulación mundial de trabajadores",
+      "Un impuesto sobre la renta común"
+    ],
+    "answer": 1,
+    "explanation": "La política arancelaria exterior se coordina entre miembros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-155",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un mercado común añade normalmente:",
+    "options": [
+      "Un arancel distinto en cada región",
+      "Prohibición de inversión extranjera",
+      "Movilidad de factores y armonización",
+      "Solo preferencias para bienes agrícolas"
+    ],
+    "answer": 2,
+    "explanation": "Profundiza la integración más allá de mercancías.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-156",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una unión económica implica:",
+    "options": [
+      "Ausencia completa de instituciones comunes",
+      "Solo eliminación de cuotas de importación",
+      "Separación obligatoria de mercados laborales",
+      "Coordinación de políticas y regulación"
+    ],
+    "answer": 3,
+    "explanation": "La integración alcanza políticas económicas y marcos regulatorios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-157",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una unión monetaria se caracteriza por:",
+    "options": [
+      "Moneda y política monetaria comunes",
+      "Arancel exterior diferente por miembro",
+      "Tipos de cambio internos variables",
+      "Reglas de origen entre provincias"
+    ],
+    "answer": 0,
+    "explanation": "Elimina el tipo de cambio entre participantes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-158",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué una zona de libre comercio necesita reglas de origen?",
+    "options": [
+      "Para calcular la tasa de desempleo",
+      "Para evitar desvíos desde terceros países",
+      "Para distribuir el gasto público",
+      "Para medir la inflación subyacente"
+    ],
+    "answer": 1,
+    "explanation": "Determinan qué mercancías obtienen la preferencia interna.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-159",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El marco de la OMC aporta principalmente:",
+    "options": [
+      "Una moneda de reserva internacional",
+      "Un arancel único para todos los países",
+      "Reglas y solución de diferencias",
+      "Licencias automáticas para cada producto"
+    ],
+    "answer": 2,
+    "explanation": "La OMC estructura previsibilidad multilateral, no acceso irrestricto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-160",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un tratado de libre comercio no garantiza:",
+    "options": [
+      "Preferencias para productos cubiertos",
+      "Reglas de origen específicas",
+      "Calendarios de liberalización",
+      "Eliminar requisitos y trámites"
+    ],
+    "answer": 3,
+    "explanation": "La liberalización arancelaria puede coexistir con regulación interna.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-161",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El reconocimiento mutuo permite:",
+    "options": [
+      "Aceptar controles equivalentes en un ámbito",
+      "Eliminar cualquier impuesto de importación",
+      "Crear una unión monetaria entre partes",
+      "Sustituir toda normativa del producto"
+    ],
+    "answer": 0,
+    "explanation": "Su efecto depende del acuerdo y del alcance reconocido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-162",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La condición de operador económico autorizado acredita:",
+    "options": [
+      "Origen preferencial de todas las mercancías",
+      "Fiabilidad aduanera y de seguridad",
+      "Exención general de impuestos indirectos",
+      "Derecho automático a vender cualquier producto"
+    ],
+    "answer": 1,
+    "explanation": "El OEA facilita gestión de riesgo, pero no sustituye otras obligaciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-163",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El reconocimiento mutuo OEA puede producir:",
+    "options": [
+      "Supresión de toda declaración aduanera",
+      "Cambio automático de clasificación arancelaria",
+      "Uso de la autorización en análisis de riesgo",
+      "Conversión del operador en autoridad pública"
+    ],
+    "answer": 2,
+    "explanation": "Los beneficios concretos dependen del acuerdo entre administraciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-164",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué límite mantiene el reconocimiento mutuo OEA?",
+    "options": [
+      "Impide usar procedimientos simplificados",
+      "Prohíbe operar fuera del país de origen",
+      "Convierte toda mercancía en originaria",
+      "Mantiene obligaciones documentales y fiscales"
+    ],
+    "answer": 3,
+    "explanation": "La confianza reduce controles en ciertos términos, no borra la normativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-165",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Por qué deben fecharse las previsiones económicas?",
+    "options": [
+      "Porque cambian datos y supuestos",
+      "Porque dejan de ser estadísticas al publicarse",
+      "Porque solo sirven durante un día",
+      "Porque sustituyen a los datos observados"
+    ],
+    "answer": 0,
+    "explanation": "Una previsión es una estimación condicionada a una edición concreta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-166",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Dos organismos publican previsiones distintas. ¿Qué debe comprobarse?",
+    "options": [
+      "Cuál utiliza el número más alto",
+      "Fecha de cierre, metodología y supuestos",
+      "Cuál tiene el gráfico más atractivo",
+      "Cuál coincide con la intuición del analista"
+    ],
+    "answer": 1,
+    "explanation": "La divergencia puede ser coherente con información y modelos diferentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-167",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El saldo comercial español del material se obtiene como:",
+    "options": [
+      "233.914,6 menos 201.133,6 millones",
+      "201.133,6 más 233.914,6 millones",
+      "201.133,6 menos 233.914,6 millones",
+      "233.914,6 dividido entre 201.133,6"
+    ],
+    "answer": 2,
+    "explanation": "Exportaciones menos importaciones produce -32.780,9 millones de euros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-168",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué error supone elegir un mercado solo por PIB total?",
+    "options": [
+      "Utilizar una variable de producción agregada",
+      "Comparar países con una misma moneda",
+      "Emplear una fuente estadística oficial",
+      "Ignorar demanda, acceso y riesgo"
+    ],
+    "answer": 3,
+    "explanation": "El PIB total es una pieza, no una decisión suficiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-169",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Cuál es el orden analítico más sólido?",
+    "options": [
+      "Demanda, acceso, competencia y recursos",
+      "PIB, bandera, idioma, distancia y población",
+      "Publicidad, viaje, contrato, factura y cobro",
+      "Precio, logotipo, feria, visita y catálogo"
+    ],
+    "answer": 0,
+    "explanation": "El filtro combina atractivo, viabilidad y capacidad interna.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-170",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una matriz ponderada de mercados debe:",
+    "options": [
+      "Convertir cualquier dato en una certeza",
+      "Explicitar criterios, pesos y escenarios",
+      "Eliminar el juicio profesional del análisis",
+      "Usar el mismo peso para todo producto"
+    ],
+    "answer": 1,
+    "explanation": "La herramienta ordena la decisión, pero depende de supuestos transparentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-171",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "¿Qué práctica mejora la calidad de un indicador?",
+    "options": [
+      "Redondearlo sin explicar la unidad",
+      "Elegir el valor más reciente sin fuente",
+      "Citar fuente, período y definición",
+      "Compararlo con datos de otra definición"
+    ],
+    "answer": 2,
+    "explanation": "La trazabilidad permite interpretar y actualizar correctamente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-172",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un país tiene PIB alto y renta muy desigual. Para un producto masivo conviene:",
+    "options": [
+      "Suponer que todos poseen renta media",
+      "Descartar cualquier dato de consumo",
+      "Usar solo la población total como demanda",
+      "Analizar el segmento accesible"
+    ],
+    "answer": 3,
+    "explanation": "La media per cápita no representa la capacidad de todos los hogares.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-173",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un país presenta inflación elevada y moneda volátil. El exportador debería:",
+    "options": [
+      "Evaluar precio, cobertura y riesgo de cobro",
+      "Mantener cualquier precio por tiempo indefinido",
+      "Ignorar la moneda si el PIB crece",
+      "Suponer que el cliente absorberá todos los costes"
+    ],
+    "answer": 0,
+    "explanation": "Inflación y tipo de cambio pueden erosionar margen y solvencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-174",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un déficit corriente financiado con inversión productiva estable:",
+    "options": [
+      "Implica insolvencia inmediata",
+      "Analizar rendimiento y sostenibilidad",
+      "Garantiza crecimiento sin riesgo",
+      "Equivale a déficit presupuestario"
+    ],
+    "answer": 1,
+    "explanation": "La composición de la financiación cambia la lectura del saldo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-175",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una mercancía circula dentro de una unión aduanera. ¿Qué rasgo la diferencia de una zona de libre comercio?",
+    "options": [
+      "Existe necesariamente una moneda común",
+      "No se aplican normas de producto",
+      "Existe un arancel exterior común",
+      "No se exige ningún control interno"
+    ],
+    "answer": 2,
+    "explanation": "La unión aduanera coordina la política arancelaria frente a terceros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-176",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un producto no cumple las reglas de origen del acuerdo. ¿Qué sucede normalmente?",
+    "options": [
+      "Queda prohibido en todos los casos",
+      "Adquiere origen por pagar el transporte",
+      "Recibe preferencia por salir del socio",
+      "No obtiene la preferencia arancelaria"
+    ],
+    "answer": 3,
+    "explanation": "La procedencia física no basta para acreditar origen preferencial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-177",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una empresa OEA exporta un producto regulado. ¿Qué conclusión es correcta?",
+    "options": [
+      "Debe cumplir igualmente la normativa del producto",
+      "La autorización sustituye la certificación técnica",
+      "El OEA concede origen preferencial automático",
+      "La empresa queda exenta de impuestos"
+    ],
+    "answer": 0,
+    "explanation": "La facilitación aduanera no reemplaza requisitos sectoriales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-178",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Las importaciones se publican CIF y las exportaciones FOB. Antes de comparar debe:",
+    "options": [
+      "Asumir que el saldo ya usa idéntica valoración",
+      "Reconocer valoraciones diferentes",
+      "Añadir aranceles a las exportaciones",
+      "Restar el PIB nominal a las importaciones"
+    ],
+    "answer": 1,
+    "explanation": "CIF incorpora seguro y flete que FOB no incluye.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-179",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una persona está inscrita como demandante, pero no cumple criterios EPA. ¿Qué demuestra?",
+    "options": [
+      "La tasa de paro usa población total",
+      "La EPA solo cuenta contratos indefinidos",
+      "Paro registrado y EPA no equivalen",
+      "La inscripción determina automáticamente actividad"
+    ],
+    "answer": 2,
+    "explanation": "Las fuentes administrativas y la encuesta responden a definiciones distintas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-180",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "El PIB per cápita aumenta mientras la mediana de renta no mejora. ¿Qué conclusión procede?",
+    "options": [
+      "La producción real necesariamente cayó",
+      "La inflación debe ser negativa",
+      "La población activa desapareció",
+      "La media oculta desigualdad"
+    ],
+    "answer": 3,
+    "explanation": "PIB por habitante no mide cómo se reparte la renta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-181",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Un exportador utiliza una única cifra favorable y omite el resto. ¿Qué defecto comete?",
+    "options": [
+      "Confunde indicador con diagnóstico completo",
+      "Aplica correctamente el principio de prudencia",
+      "Reduce de forma válida la incertidumbre",
+      "Elimina cualquier sesgo del análisis"
+    ],
+    "answer": 0,
+    "explanation": "Una decisión exige relaciones, tendencias y riesgos cruzados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-182",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una caída de inflación del 5 % al 3 % con precios aún crecientes es:",
+    "options": [
+      "Deflación",
+      "Desinflación",
+      "Recesión",
+      "Depreciación"
+    ],
+    "answer": 1,
+    "explanation": "La tasa baja, pero el nivel general continúa aumentando.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-183",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "La producción nominal crece un 6 % y los precios un 5 %. ¿Qué debe analizarse?",
+    "options": [
+      "El PIB real aumenta necesariamente un 11 %",
+      "La tasa de paro debe caer seis puntos",
+      "El crecimiento real puede ser reducido",
+      "La cuenta corriente pasa a superávit"
+    ],
+    "answer": 2,
+    "explanation": "El valor corriente mezcla volumen y precios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-184",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una empresa elige una filial y renuncia a un distribuidor rentable. El coste de oportunidad es:",
+    "options": [
+      "Solo el desembolso de constituir la filial",
+      "El arancel pagado en la primera operación",
+      "La depreciación contable de la maquinaria",
+      "El valor esperado del distribuidor"
+    ],
+    "answer": 3,
+    "explanation": "La mejor opción descartada define el coste económico de elegir.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fun-185",
+    "subject": "fundamentos",
+    "subjectName": "Fundamentos de Economía",
+    "source": "Fundamentos de Economía · Guillermo Rivas-Plata · Presentación y apuntes 2026",
+    "question": "Una mejora tecnológica permite producir más con los mismos recursos. Esto implica:",
+    "options": [
+      "Más productividad y oferta potencial",
+      "Caída necesaria de la demanda",
+      "Reducción automática de población activa",
+      "Déficit corriente obligatorio"
+    ],
+    "answer": 0,
+    "explanation": "Más resultado por recurso puede desplazar capacidad y oferta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
