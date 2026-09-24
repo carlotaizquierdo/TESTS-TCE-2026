@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "publico-001",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué criterio determina principalmente si una intervención pública ha sido eficaz?",
+    "options": [
+      "El efecto conseguido en una audiencia concreta",
+      "La cantidad total de información expuesta",
+      "La fidelidad literal al texto preparado",
+      "El número de diapositivas utilizadas"
+    ],
+    "answer": 0,
+    "explanation": "La eficacia se valora por la comprensión, recuerdo, confianza o acción generados en el público.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-002",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Al preparar una exposición, analizar la audiencia sirve ante todo para:",
+    "options": [
+      "Modificar los hechos para hacerlos atractivos",
+      "Seleccionar contenido, profundidad, tono y ejemplos",
+      "Reducir cualquier asunto a ideas elementales",
+      "Asegurar que nadie formule objeciones"
+    ],
+    "answer": 1,
+    "explanation": "Adaptar no altera los hechos; ajusta la forma y la selección a las necesidades del público.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-003",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué caracteriza a un portavoz fiable?",
+    "options": [
+      "Responde con seguridad aunque desconozca el dato",
+      "Evita reconocer límites ante la audiencia",
+      "Distingue hechos, estimaciones y opiniones",
+      "Promete soluciones para sostener su autoridad"
+    ],
+    "answer": 2,
+    "explanation": "La autoridad incluye prudencia y capacidad para reconocer qué debe verificarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-004",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué formulación describe mejor un mensaje eficaz?",
+    "options": [
+      "Una relación completa de todos los antecedentes",
+      "Un índice detallado de materias disponibles",
+      "Una secuencia de datos sin conclusión expresa",
+      "Una tesis clara vinculada a una acción"
+    ],
+    "answer": 3,
+    "explanation": "El mensaje debe permitir recordar una idea y comprender qué se espera después.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-005",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En el modelo de comunicación, el contexto incluye principalmente:",
+    "options": [
+      "Finalidad, momento, canal, lugar y tiempo disponible",
+      "Currículum, cargo, reputación y experiencia del portavoz",
+      "Deseos, temores, conocimientos y poder del público",
+      "Tesis, ejemplos, argumentos y llamada a la acción"
+    ],
+    "answer": 0,
+    "explanation": "El contexto reúne las circunstancias que condicionan tono, formato y extensión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-006",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante una audiencia institucional, ¿qué enfoque resulta más adecuado?",
+    "options": [
+      "Beneficio emocional, urgencia y cierre comercial inmediato",
+      "Interés general, legalidad, impacto y trazabilidad",
+      "Detalle operativo, reparto interno y control de tareas",
+      "Lenguaje coloquial, anécdotas y ausencia de fuentes"
+    ],
+    "answer": 1,
+    "explanation": "El público institucional suele exigir rigor, impacto, cumplimiento y datos verificables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-007",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante potenciales clientes, adaptar correctamente el mensaje exige:",
+    "options": [
+      "Enumerar todos los productos disponibles",
+      "Explicar primero la historia corporativa completa",
+      "Traducir características en beneficios demostrables",
+      "Evitar cualquier referencia a costes y riesgos"
+    ],
+    "answer": 2,
+    "explanation": "El cliente necesita comprender el valor, la fiabilidad y la implantación de la propuesta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-008",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante especialistas, una exposición sólida debería:",
+    "options": [
+      "Eliminar toda terminología técnica",
+      "Sustituir el análisis por una historia personal",
+      "Omitir limitaciones para transmitir confianza",
+      "Precisar método, evidencia, límites y supuestos"
+    ],
+    "answer": 3,
+    "explanation": "La audiencia experta valora precisión y transparencia metodológica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-009",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante público no especialista, simplificar bien significa:",
+    "options": [
+      "Definir términos sin deformar el contenido",
+      "Eliminar toda excepción relevante",
+      "Usar siglas para acortar la explicación",
+      "Sustituir los datos por opiniones generales"
+    ],
+    "answer": 0,
+    "explanation": "La claridad reduce complejidad expresiva, no rigor conceptual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-010",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si la audiencia muestra desconexión, la reacción más útil suele ser:",
+    "options": [
+      "Añadir más información al mismo ritmo",
+      "Resumir, reformular o introducir un ejemplo",
+      "Acelerar hasta terminar todas las diapositivas",
+      "Interpretar de inmediato que rechaza la propuesta"
+    ],
+    "answer": 1,
+    "explanation": "Las señales de cansancio aconsejan cambiar la forma, no multiplicar contenido sin diagnóstico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-011",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es la mejor fórmula para definir el objetivo antes de preparar diapositivas?",
+    "options": [
+      "Qué temas desea tratar el orador y en qué orden",
+      "Cuántos datos pueden incluirse en el tiempo asignado",
+      "Qué debe comprender la audiencia y qué debe hacer",
+      "Qué diseño visual será más atractivo para la sala"
+    ],
+    "answer": 2,
+    "explanation": "El objetivo combina resultado cognitivo y acción esperada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-012",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "El número mágico tres se aplica principalmente para:",
+    "options": [
+      "Limitar cada diapositiva a tres palabras",
+      "Utilizar tres ejemplos en toda intervención",
+      "Dividir siempre el tiempo en tres partes iguales",
+      "Organizar el núcleo en tres ideas recordables"
+    ],
+    "answer": 3,
+    "explanation": "La tríada estructura el discurso y reduce la carga mental; no es una regla mecánica para todo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-013",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué práctica mejora la concisión sin perder rigor?",
+    "options": [
+      "Separar lo esencial del detalle ampliable",
+      "Suprimir las fuentes para reducir texto",
+      "Eliminar los límites de la propuesta",
+      "Convertir cada idea en una frase abstracta"
+    ],
+    "answer": 0,
+    "explanation": "El detalle puede reservarse para preguntas, anexos o documentación posterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-014",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es la finalidad principal de la apertura?",
+    "options": [
+      "Demostrar todos los argumentos disponibles",
+      "Captar atención y establecer relevancia",
+      "Resolver por anticipado todas las objeciones",
+      "Repetir literalmente el índice de contenidos"
+    ],
+    "answer": 1,
+    "explanation": "La apertura responde por qué merece la pena escuchar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-015",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En la estructura del discurso, el mapa sirve para:",
+    "options": [
+      "Presentar las fuentes bibliográficas completas",
+      "Desarrollar el ejemplo más complejo",
+      "Anunciar la tesis y el recorrido",
+      "Formular la última llamada a la acción"
+    ],
+    "answer": 2,
+    "explanation": "El mapa anticipa qué se va a entender y cómo se ordenará.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-016",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "El desarrollo de una intervención debe concentrarse en:",
+    "options": [
+      "Añadir temas no anunciados para sorprender",
+      "Repetir la apertura con palabras distintas",
+      "Reservar toda evidencia para el turno final",
+      "Explicar y demostrar las ideas principales"
+    ],
+    "answer": 3,
+    "explanation": "El desarrollo aporta datos, razonamiento, comparación y ejemplos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-017",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Un cierre eficaz debería:",
+    "options": [
+      "Resumir, fijar la consecuencia y pedir una acción",
+      "Introducir un argumento nuevo y complejo",
+      "Repetir todas las frases del desarrollo",
+      "Terminar en cuanto aparezca la última diapositiva"
+    ],
+    "answer": 0,
+    "explanation": "El cierre consolida el recuerdo y orienta el siguiente paso.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-018",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es la apertura menos recomendable?",
+    "options": [
+      "Plantear una pregunta vinculada al problema",
+      "Disculparse por los nervios antes de empezar",
+      "Presentar un dato con fuente y consecuencia",
+      "Formular directamente la tesis ejecutiva"
+    ],
+    "answer": 1,
+    "explanation": "Anunciar inseguridad desplaza la atención hacia el orador y resta autoridad sin aportar valor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-019",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué función cumplen las transiciones?",
+    "options": [
+      "Aumentar el número de argumentos",
+      "Sustituir las conclusiones parciales",
+      "Hacer visible la relación entre bloques",
+      "Distraer de los cambios de tema"
+    ],
+    "answer": 2,
+    "explanation": "Expresiones de transición muestran la lógica y ayudan a recuperar el hilo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-020",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Por qué no debe incorporarse información nueva en el cierre?",
+    "options": [
+      "Porque toda conclusión debe durar menos de diez segundos",
+      "Porque las cifras solo pertenecen a la apertura",
+      "Porque el público no puede preguntar al terminar",
+      "Porque impide consolidar la tesis ya demostrada"
+    ],
+    "answer": 3,
+    "explanation": "El cierre fija lo ya explicado; un tema nuevo abre una cuestión sin desarrollo suficiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-021",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es la secuencia de storytelling indicada en el temario?",
+    "options": [
+      "Problema, narrativa y solución",
+      "Contexto, opinión y promesa",
+      "Dato, gráfico y conclusión",
+      "Tarea, acción y aprendizaje"
+    ],
+    "answer": 0,
+    "explanation": "La historia parte de una tensión, muestra una progresión y conduce a una solución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-022",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En una presentación profesional, el storytelling debe:",
+    "options": [
+      "Sustituir los datos por emoción",
+      "Ordenar la evidencia y hacer visible el cambio",
+      "Ocultar las limitaciones de la propuesta",
+      "Presentar cualquier anécdota llamativa"
+    ],
+    "answer": 1,
+    "explanation": "La narrativa está al servicio de una tesis verdadera y respaldada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-023",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En persuasión, ethos se refiere a:",
+    "options": [
+      "La intensidad emocional del relato",
+      "La estructura lógica de las pruebas",
+      "La credibilidad y prudencia del portavoz",
+      "La calidad gráfica de las diapositivas"
+    ],
+    "answer": 2,
+    "explanation": "Ethos se construye con competencia, honestidad, coherencia y límites claros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-024",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En persuasión, logos se construye mediante:",
+    "options": [
+      "Postura, mirada, sonrisa y distancia",
+      "Valores, emoción, identificación y tensión",
+      "Volumen, tono, ritmo y articulación",
+      "Tesis, evidencia, causalidad y comparación"
+    ],
+    "answer": 3,
+    "explanation": "Logos corresponde al razonamiento y a la calidad de las pruebas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-025",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En persuasión, pathos debería utilizarse para:",
+    "options": [
+      "Mostrar la relevancia humana de hechos correctos",
+      "Reemplazar la demostración por presión emocional",
+      "Exagerar consecuencias para provocar urgencia",
+      "Evitar la discusión de costes y limitaciones"
+    ],
+    "answer": 0,
+    "explanation": "La emoción legítima conecta hechos y consecuencias sin manipular.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-026",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuándo una historia resulta probablemente decorativa?",
+    "options": [
+      "Cuando contiene un personaje concreto",
+      "Cuando eliminarla no cambia comprensión ni decisión",
+      "Cuando dura menos de un minuto",
+      "Cuando se apoya en un dato verificable"
+    ],
+    "answer": 1,
+    "explanation": "Una historia útil cumple una función argumentativa o explicativa reconocible.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-027",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En STAR, la Situación debe incluir:",
+    "options": [
+      "La lista completa de personas implicadas",
+      "El resultado medible de la intervención",
+      "El contexto indispensable para entender el caso",
+      "La valoración final del entrevistador"
+    ],
+    "answer": 2,
+    "explanation": "La Situación enmarca la dificultad sin convertirse en antecedentes interminables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-028",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En STAR, la Tarea identifica:",
+    "options": [
+      "La emoción provocada en el público",
+      "La conclusión general de la historia",
+      "El método de evaluación del discurso",
+      "El objetivo o responsabilidad que debía asumirse"
+    ],
+    "answer": 3,
+    "explanation": "La Tarea aclara qué correspondía resolver y con qué responsabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-029",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En STAR, la Acción debería explicar:",
+    "options": [
+      "Las decisiones concretas y el razonamiento seguido",
+      "Los antecedentes externos con todo detalle",
+      "El reconocimiento recibido al terminar",
+      "La descripción general del sector"
+    ],
+    "answer": 0,
+    "explanation": "La Acción demuestra la contribución y la competencia de la persona.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-030",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En STAR, el Resultado cumple la función de:",
+    "options": [
+      "Presentar una nueva dificultad sin resolver",
+      "Mostrar efecto, evidencia y aprendizaje",
+      "Describir únicamente la tarea del equipo",
+      "Justificar por qué no se actuó"
+    ],
+    "answer": 1,
+    "explanation": "El resultado prueba qué ocurrió y qué se aprendió, idealmente con evidencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-031",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En un relato STAR breve, ¿qué parte suele merecer mayor espacio?",
+    "options": [
+      "La Situación previa del sector",
+      "La Tarea general del equipo",
+      "La Acción desarrollada por la persona",
+      "La introducción del entrevistador"
+    ],
+    "answer": 2,
+    "explanation": "La Acción concentra el valor demostrativo porque revela decisiones y método.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-032",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Para adaptar STAR a una propuesta futura, conviene hablar de:",
+    "options": [
+      "Situación, emoción, opinión y promesa",
+      "Antecedente, imagen, cierre y pregunta",
+      "Contexto, biografía, producto y precio",
+      "Problema, objetivo, plan y resultado esperado"
+    ],
+    "answer": 3,
+    "explanation": "La adaptación conserva la lógica, pero distingue previsión de resultados ya demostrados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-033",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué principio guía la comunicación no verbal eficaz?",
+    "options": [
+      "La coherencia entre contenido, intención y ejecución",
+      "La reproducción exacta de gestos aprendidos",
+      "La inmovilidad para evitar distracciones",
+      "La gesticulación constante para mantener atención"
+    ],
+    "answer": 0,
+    "explanation": "El cuerpo debe acompañar el mensaje con naturalidad y congruencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-034",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué postura transmite mayor estabilidad?",
+    "options": [
+      "Peso alternado de forma continua",
+      "Base firme, tronco abierto y hombros relajados",
+      "Brazos rígidos y hombros elevados",
+      "Cuerpo encogido detrás del atril"
+    ],
+    "answer": 1,
+    "explanation": "Una base estable facilita respiración, presencia y libertad gestual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-035",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cómo debería distribuirse la mirada en una sala?",
+    "options": [
+      "Fijándola en quien parece más favorable",
+      "Dirigiéndola principalmente a la pantalla",
+      "Recorriendo personas y completando ideas",
+      "Alternándola entre techo y notas"
+    ],
+    "answer": 2,
+    "explanation": "La mirada incluye al conjunto y se mantiene el tiempo suficiente para completar unidades de sentido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-036",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué caracteriza a un gesto útil?",
+    "options": [
+      "Se repite del mismo modo en cada frase",
+      "Permanece siempre por debajo de la mesa",
+      "Aumenta aunque el contenido sea delicado",
+      "Es visible, congruente y vinculado a la idea"
+    ],
+    "answer": 3,
+    "explanation": "El gesto eficaz apoya jerarquía y significado, no compite con ellos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-037",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué ejemplo muestra incoherencia facial?",
+    "options": [
+      "Sonreír automáticamente al comunicar un problema grave",
+      "Mantener expresión atenta durante una pregunta",
+      "Relajar el rostro antes de comenzar",
+      "Asentir mientras se escucha una aclaración"
+    ],
+    "answer": 0,
+    "explanation": "La expresión debe ser compatible con el contenido y la intención.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-038",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Respecto al uso del espacio, lo más recomendable es:",
+    "options": [
+      "Caminar continuamente para parecer dinámico",
+      "Moverse con propósito y respetar la distancia",
+      "Permanecer oculto detrás de la pantalla",
+      "Acercarse al máximo a cada interlocutor"
+    ],
+    "answer": 1,
+    "explanation": "El movimiento debe marcar una función, no descargar nervios ni invadir.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-039",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es un uso incorrecto de objetos durante la exposición?",
+    "options": [
+      "Utilizar el mando de forma discreta",
+      "Consultar una tarjeta con palabras clave",
+      "Jugar repetidamente con un bolígrafo",
+      "Apoyar brevemente las notas en el atril"
+    ],
+    "answer": 2,
+    "explanation": "La manipulación repetitiva distrae y hace visible la tensión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-040",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "La regla 7-38-55 procede de estudios centrados en:",
+    "options": [
+      "Comprensión de conferencias técnicas extensas",
+      "Memorización de textos leídos en pantalla",
+      "Diseño gráfico de presentaciones empresariales",
+      "Actitudes y sentimientos expresados de forma incongruente"
+    ],
+    "answer": 3,
+    "explanation": "Los porcentajes tienen un alcance limitado y no describen toda comunicación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-041",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué interpretación de la regla 7-38-55 es correcta?",
+    "options": [
+      "Las palabras siguen siendo esenciales en contenido técnico",
+      "El contenido verbal representa siempre solo un siete por ciento",
+      "La expresión facial sustituye cualquier argumento",
+      "La voz determina por sí sola la credibilidad"
+    ],
+    "answer": 0,
+    "explanation": "La regla no permite afirmar que el contenido verbal carece de importancia general.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-042",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Cuando palabras, voz y expresión se contradicen, la audiencia suele:",
+    "options": [
+      "Ignorar cualquier indicio corporal",
+      "Confiar más en las señales no verbales",
+      "Atender solo a la literalidad del texto",
+      "Considerar equivalentes todos los canales"
+    ],
+    "answer": 1,
+    "explanation": "La incongruencia aumenta el peso percibido de las señales vocales y faciales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-043",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué dimensión de la voz expresa especialmente actitud y seguridad?",
+    "options": [
+      "La distancia respecto a la pantalla",
+      "El tamaño de la diapositiva",
+      "El tono empleado por el portavoz",
+      "La posición de las notas"
+    ],
+    "answer": 2,
+    "explanation": "El tono comunica calidez, firmeza, duda o tensión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-044",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuándo conviene reducir la velocidad al hablar?",
+    "options": [
+      "Al introducir ejemplos secundarios",
+      "Al repetir información ya conocida",
+      "Al enumerar detalles prescindibles",
+      "Al formular tesis, cifras e instrucciones"
+    ],
+    "answer": 3,
+    "explanation": "Las ideas de alta carga informativa necesitan más tiempo de procesamiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-045",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En la voz, el ritmo surge principalmente de:",
+    "options": [
+      "La variación de frases, acentos y pausas",
+      "El volumen uniforme durante toda la exposición",
+      "La lectura literal de cada diapositiva",
+      "La repetición de una misma entonación"
+    ],
+    "answer": 0,
+    "explanation": "El ritmo organiza el flujo y evita la monotonía.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-046",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cómo debe ajustarse el volumen?",
+    "options": [
+      "Manteniéndolo bajo para parecer prudente",
+      "Proyectando hacia el fondo sin gritar",
+      "Elevándolo al máximo en toda la intervención",
+      "Variándolo al azar para captar atención"
+    ],
+    "answer": 1,
+    "explanation": "El volumen debe garantizar audibilidad y presencia sin tensión excesiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-047",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué uso de la pausa aporta mayor claridad?",
+    "options": [
+      "Rellenarla siempre con una muletilla",
+      "Evitarla para no parecer inseguro",
+      "Separar y enfatizar el mensaje clave",
+      "Reservarla solo para el final"
+    ],
+    "answer": 2,
+    "explanation": "La pausa permite procesar y jerarquizar ideas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-048",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "La articulación tiene como finalidad principal:",
+    "options": [
+      "Reducir la duración total del discurso",
+      "Sustituir la variación de tono",
+      "Evitar el contacto visual con la sala",
+      "Hacer inteligibles palabras, nombres y cifras"
+    ],
+    "answer": 3,
+    "explanation": "Articular bien evita tragar finales y perder datos relevantes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-049",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué ejercicio permite detectar muletillas y velocidad?",
+    "options": [
+      "Grabar un minuto y escucharlo después",
+      "Leer mentalmente el guion varias veces",
+      "Cambiar el diseño de las diapositivas",
+      "Memorizar solo la frase de cierre"
+    ],
+    "answer": 0,
+    "explanation": "La grabación ofrece evidencia sobre hábitos que el orador no percibe al hablar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-050",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Los nervios previos deben entenderse principalmente como:",
+    "options": [
+      "Una prueba de falta de preparación",
+      "Una activación que puede regularse",
+      "Un impedimento que debe ocultarse",
+      "Una señal de que conviene cancelar"
+    ],
+    "answer": 1,
+    "explanation": "El objetivo es mantener la activación en un nivel funcional, no eliminarla por completo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-051",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué preparación resulta más útil varios días antes?",
+    "options": [
+      "Memorizar cada palabra sin variación",
+      "Elegir la ropa antes de definir el objetivo",
+      "Ensayar la estructura con tiempo real",
+      "Añadir información hasta cubrir todo el tema"
+    ],
+    "answer": 2,
+    "explanation": "El ensayo cronometrado reduce incertidumbre y permite ajustar prioridades.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-052",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Justo antes de entrar, conviene:",
+    "options": [
+      "Reescribir por completo el desarrollo",
+      "Repasar cada diapositiva a máxima velocidad",
+      "Consumir información nueva sobre el tema",
+      "Comprobar el equipo y recordar la primera frase"
+    ],
+    "answer": 3,
+    "explanation": "Una rutina breve estabiliza la ejecución y evita sobrecarga final.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-053",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Durante los primeros segundos, la conducta más recomendable es:",
+    "options": [
+      "Mirar, pausar y comenzar algo más despacio",
+      "Hablar deprisa para superar el bloqueo",
+      "Leer el título mientras se ajusta el equipo",
+      "Explicar inmediatamente que se está nervioso"
+    ],
+    "answer": 0,
+    "explanation": "La pausa inicial y una velocidad controlada establecen presencia y respiración.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-054",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si la velocidad aumenta durante la exposición, conviene:",
+    "options": [
+      "Añadir más contenido para recuperar ritmo",
+      "Pensar por bloques y hacer una pausa",
+      "Leer el texto para evitar silencios",
+      "Eliminar el cierre y continuar igual"
+    ],
+    "answer": 1,
+    "explanation": "Los bloques permiten recuperar estructura sin depender del texto literal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-055",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Después de la intervención, una evaluación útil consiste en:",
+    "options": [
+      "Decidir globalmente si todo salió bien o mal",
+      "Compararse solo con el mejor ponente",
+      "Registrar dos aciertos y una mejora concreta",
+      "Modificar todo el método para la siguiente vez"
+    ],
+    "answer": 2,
+    "explanation": "La revisión específica favorece aprendizaje sin generalizaciones emocionales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-056",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si el orador olvida el siguiente punto, debería:",
+    "options": [
+      "Inventar un argumento hasta recordar",
+      "Pedir disculpas repetidamente",
+      "Terminar de inmediato la presentación",
+      "Pausar, resumir y consultar palabras clave"
+    ],
+    "answer": 3,
+    "explanation": "Una recuperación breve preserva el hilo y suele pasar desapercibida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-057",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si se detecta un dato erróneo durante la exposición, procede:",
+    "options": [
+      "Corregirlo o comprometer una verificación posterior",
+      "Mantenerlo para no perder autoridad",
+      "Sustituirlo por una cifra aproximada",
+      "Atribuirlo a otra persona sin comprobar"
+    ],
+    "answer": 0,
+    "explanation": "La credibilidad aumenta al diferenciar lo verificado de lo pendiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-058",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante un fallo de las diapositivas, el orador debería:",
+    "options": [
+      "Suspender hasta recuperar todas las imágenes",
+      "Continuar apoyándose en la estructura verbal",
+      "Leer el archivo desde otro dispositivo",
+      "Eliminar las ideas que dependían del apoyo"
+    ],
+    "answer": 1,
+    "explanation": "Las diapositivas apoyan; el discurso debe poder sostenerse sin ellas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-059",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante una interrupción pertinente, conviene:",
+    "options": [
+      "Ignorarla para no perder el control",
+      "Responder antes de que termine la pregunta",
+      "Escuchar y decidir cuándo responder",
+      "Abrir un debate sin límite temporal"
+    ],
+    "answer": 2,
+    "explanation": "El portavoz puede responder o reservar la cuestión y después recuperar el hilo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-060",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si queda menos tiempo del previsto, la mejor decisión es:",
+    "options": [
+      "Acelerar todo el contenido pendiente",
+      "Eliminar únicamente la última diapositiva",
+      "Pedir automáticamente una ampliación",
+      "Pasar a la síntesis y la llamada a la acción"
+    ],
+    "answer": 3,
+    "explanation": "La prioridad es conservar conclusión y siguiente paso, no comprimirlo todo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-061",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Una respiración breve para regular la activación debería:",
+    "options": [
+      "Prolongar suavemente la exhalación",
+      "Forzar inspiraciones rápidas y profundas",
+      "Mantener el aire hasta notar tensión",
+      "Realizarse mientras se pronuncia la tesis"
+    ],
+    "answer": 0,
+    "explanation": "Una exhalación algo más larga ayuda a reducir la aceleración sin hiperventilar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-062",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué reencuadre ayuda a desplazar la atención de los nervios?",
+    "options": [
+      "Intentar impresionar a todas las personas",
+      "Pensar en ayudar al público a decidir",
+      "Evitar cualquier señal de vulnerabilidad",
+      "Concentrarse en no cometer ningún error"
+    ],
+    "answer": 1,
+    "explanation": "Centrarse en el servicio a la audiencia reduce la vigilancia excesiva de la propia imagen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-063",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es la función correcta de una diapositiva?",
+    "options": [
+      "Contener el discurso completo del portavoz",
+      "Servir como documento detallado proyectado",
+      "Visualizar una relación y apoyar la explicación",
+      "Evitar que el orador prepare transiciones"
+    ],
+    "answer": 2,
+    "explanation": "El apoyo visual facilita comprensión; no compite con la voz.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-064",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "El título más eficaz de una diapositiva suele:",
+    "options": [
+      "Nombrar solo el tema general",
+      "Repetir el título de la presentación",
+      "Contener todas las fuentes utilizadas",
+      "Expresar la conclusión principal"
+    ],
+    "answer": 3,
+    "explanation": "Un título conclusivo orienta la lectura y jerarquiza la información.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-065",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué criterio guía la cantidad de texto en una diapositiva?",
+    "options": [
+      "Mantener solo lo necesario para interpretar",
+      "Incluir todo lo que dirá el orador",
+      "Usar el mismo número de líneas siempre",
+      "Reducir la letra hasta encajar el contenido"
+    ],
+    "answer": 0,
+    "explanation": "El texto mínimo conserva etiquetas, cifras y palabras clave indispensables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-066",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Por qué debe aparecer la fuente de una cifra relevante?",
+    "options": [
+      "Para aumentar visualmente la densidad",
+      "Para hacerla verificable y evaluable",
+      "Para sustituir la explicación oral",
+      "Para evitar comparar su significado"
+    ],
+    "answer": 1,
+    "explanation": "La trazabilidad sostiene la credibilidad del dato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-067",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué problema produce leer de espaldas a la audiencia?",
+    "options": [
+      "Mejora la precisión de la explicación",
+      "Facilita la lectura desde el fondo",
+      "Rompe el contacto y vuelve redundante al portavoz",
+      "Aumenta la coherencia del lenguaje corporal"
+    ],
+    "answer": 2,
+    "explanation": "Si el orador reproduce el texto proyectado, deja de aportar guía y conexión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-068",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Para comunicar una cifra con sentido, la secuencia adecuada es:",
+    "options": [
+      "Consecuencia, emoción, imagen y promesa",
+      "Fuente, biografía, cifra y despedida",
+      "Pregunta, dato, anécdota y pausa",
+      "Dato, referencia, interpretación y consecuencia"
+    ],
+    "answer": 3,
+    "explanation": "La audiencia necesita contexto, significado y decisión, no el número aislado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-069",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es el objetivo principal de un elevator pitch?",
+    "options": [
+      "Abrir una conversación y generar interés",
+      "Narrar toda la trayectoria profesional",
+      "Cerrar una contratación en dos minutos",
+      "Enumerar todas las competencias disponibles"
+    ],
+    "answer": 0,
+    "explanation": "El pitch crea un motivo claro para continuar el contacto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-070",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué secuencia se adapta mejor a un pitch profesional?",
+    "options": [
+      "Biografía, estudios, aficiones, salario y despedida",
+      "Conexión, especialización, prueba, valor y cierre",
+      "Producto, precio, contrato, factura y cobro",
+      "Problema, índice, bibliografía, anexo y preguntas"
+    ],
+    "answer": 1,
+    "explanation": "La secuencia presenta relevancia, credibilidad y siguiente paso.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-071",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En una feria internacional, el primer paso más útil es:",
+    "options": [
+      "Entregar inmediatamente toda la documentación",
+      "Recitar la historia completa de la empresa",
+      "Preguntar por las prioridades del interlocutor",
+      "Explicar el catálogo sin conocer su función"
+    ],
+    "answer": 2,
+    "explanation": "Una pregunta breve permite adaptar el valor ofrecido al interés real.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-072",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Una defensa de proyecto coherente debería seguir:",
+    "options": [
+      "Título, agradecimientos, índice, anexos y cierre",
+      "Historia personal, opinión, emoción, promesa y precio",
+      "Problema, currículo, bibliografía, imágenes y preguntas",
+      "Necesidad, solución, método, viabilidad y valor"
+    ],
+    "answer": 3,
+    "explanation": "La defensa debe demostrar una cadena lógica desde el problema hasta la ejecución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-073",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Decir que un proyecto es único resulta insuficiente si:",
+    "options": [
+      "No se demuestra su diferenciación concreta",
+      "Se presenta ante un jurado especialista",
+      "Se limita la exposición a tres minutos",
+      "Se utilizan datos de fuentes oficiales"
+    ],
+    "answer": 0,
+    "explanation": "La singularidad debe derivarse de la solución o del enfoque, no del adjetivo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-074",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En una defensa de tres minutos, el cierre debería reservarse para:",
+    "options": [
+      "Añadir la metodología que se omitió",
+      "Síntesis, conclusión y apertura a preguntas",
+      "Leer todas las referencias utilizadas",
+      "Presentar un nuevo problema del sector"
+    ],
+    "answer": 1,
+    "explanation": "El tramo final consolida la propuesta y prepara el diálogo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-075",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Al responder una pregunta, la estructura más clara es:",
+    "options": [
+      "Antecedentes completos antes de responder",
+      "Otra pregunta para ganar tiempo",
+      "Conclusión primero y razón después",
+      "Opinión general sin conexión directa"
+    ],
+    "answer": 2,
+    "explanation": "La respuesta ejecutiva ofrece primero la idea que resuelve la cuestión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-076",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si una pregunta es ambigua, conviene:",
+    "options": [
+      "Elegir una interpretación sin indicarlo",
+      "Responder todas las posibilidades extensamente",
+      "Evitar la respuesta y volver al guion",
+      "Aclarar a qué dimensión se refiere"
+    ],
+    "answer": 3,
+    "explanation": "Una precisión breve evita contestar una cuestión distinta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-077",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Si se desconoce una cifra solicitada, la respuesta correcta es:",
+    "options": [
+      "Reconocerlo y comprometer una comprobación",
+      "Proponer una estimación como dato verificado",
+      "Cambiar de asunto sin mencionarlo",
+      "Afirmar que el dato no es relevante"
+    ],
+    "answer": 0,
+    "explanation": "Diferenciar conocimiento y verificación protege la credibilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-078",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante una objeción válida, el portavoz debería:",
+    "options": [
+      "Negarla para mantener seguridad",
+      "Reconocer el límite y presentar mitigación",
+      "Atacar la premisa personal del interlocutor",
+      "Responder con una anécdota no relacionada"
+    ],
+    "answer": 1,
+    "explanation": "Una objeción fundada se integra en el análisis y se gestiona con medidas concretas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-079",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Ante una intervención hostil, la conducta más profesional es:",
+    "options": [
+      "Elevar la voz para recuperar autoridad",
+      "Responder a la persona y no al argumento",
+      "Mantener tono neutro y limitar el intercambio",
+      "Permitir que absorba todo el tiempo"
+    ],
+    "answer": 2,
+    "explanation": "La neutralidad separa la cuestión sustantiva del ataque y protege al conjunto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-080",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál constituye una línea roja de la comunicación?",
+    "options": [
+      "Reconocer que falta una verificación",
+      "Resumir una explicación por falta de tiempo",
+      "Consultar una tarjeta con cifras sensibles",
+      "Inventar un dato para sostener la propuesta"
+    ],
+    "answer": 3,
+    "explanation": "Inventar información destruye credibilidad y puede comprometer a la organización.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-081",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Cuál es el orden de preparación más coherente?",
+    "options": [
+      "Objetivo, tesis, tres ideas, pruebas, estructura y ensayo",
+      "Diseño, animaciones, texto, objetivo, cierre y ensayo",
+      "Biografía, imágenes, fuentes, título, tesis y preguntas",
+      "Ensayo, improvisación, datos, público, objetivo y cierre"
+    ],
+    "answer": 0,
+    "explanation": "El proceso parte de propósito y contenido antes de diseñar apoyos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-082",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "¿Qué elemento debería estar verificado antes de salir a exponer?",
+    "options": [
+      "La ausencia total de cualquier nervio",
+      "La duración real de la versión completa",
+      "La memorización literal de cada frase",
+      "La aprobación previa de todas las preguntas"
+    ],
+    "answer": 1,
+    "explanation": "El ensayo cronometrado permite respetar el tiempo y conservar el cierre.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-083",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Un cliente pregunta por la utilidad de una solución y el portavoz enumera veinte funciones. ¿Qué debería corregir?",
+    "options": [
+      "Añadir la historia completa de la empresa",
+      "Utilizar terminología todavía más técnica",
+      "Relacionar pocas funciones con beneficios probados",
+      "Trasladar la explicación a la última diapositiva"
+    ],
+    "answer": 2,
+    "explanation": "El cliente necesita valor y evidencia, no una acumulación de características.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-084",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En una presentación institucional se usa una cifra sin fuente para crear urgencia. ¿Cuál es el problema central?",
+    "options": [
+      "Se reduce demasiado la carga emocional",
+      "Se emplea una apertura demasiado directa",
+      "Se dedica poco espacio al portavoz",
+      "Se comprometen trazabilidad y credibilidad"
+    ],
+    "answer": 3,
+    "explanation": "El contexto institucional exige datos verificables y prudencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-085",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Una ponente acelera, pierde el hilo y empieza a leer. ¿Qué recuperación es más eficaz?",
+    "options": [
+      "Pausar, respirar y volver al siguiente bloque",
+      "Leer más deprisa hasta recuperar tiempo",
+      "Explicar al público todos sus nervios",
+      "Saltar directamente a una diapositiva aleatoria"
+    ],
+    "answer": 0,
+    "explanation": "La estructura por bloques permite recuperar control sin depender del texto literal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-086",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Una candidata afirma «soy resolutiva» sin aportar ejemplos. ¿Qué recurso mejoraría la credibilidad?",
+    "options": [
+      "Una diapositiva con el adjetivo destacado",
+      "Un relato STAR con acción y resultado",
+      "Una repetición más enfática de la cualidad",
+      "Una lista de cualidades similares"
+    ],
+    "answer": 1,
+    "explanation": "STAR convierte una afirmación general en prueba observable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-087",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Un profesor afirma que el 93 % de toda conferencia es no verbal. ¿Qué respuesta es más rigurosa?",
+    "options": [
+      "La cifra se aplica a cualquier mensaje profesional",
+      "La expresión facial determina toda comprensión",
+      "La cifra solo alude a actitudes incongruentes",
+      "Las palabras solo importan en documentos escritos"
+    ],
+    "answer": 2,
+    "explanation": "Los estudios de Mehrabian no establecen una ley universal de la comunicación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-088",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Una diapositiva incluye un párrafo completo que el portavoz lee. ¿Cuál es la mejora principal?",
+    "options": [
+      "Reducir el tamaño de letra para añadir ejemplos",
+      "Mantener el texto y acelerar la lectura",
+      "Añadir una segunda diapositiva con el mismo contenido",
+      "Extraer la conclusión y los apoyos esenciales"
+    ],
+    "answer": 3,
+    "explanation": "El apoyo debe jerarquizar la idea y liberar al orador para explicar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-089",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "En un pitch de dos minutos, la persona dedica noventa segundos a su biografía. ¿Qué falta?",
+    "options": [
+      "Propuesta de valor y siguiente paso",
+      "Una descripción todavía más detallada de sus estudios",
+      "Una enumeración completa de empleos previos",
+      "Una explicación del diseño de su tarjeta"
+    ],
+    "answer": 0,
+    "explanation": "El pitch debe mostrar utilidad para el interlocutor y abrir una conversación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-090",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Un proyecto se presenta como innovador, pero no explica método ni viabilidad. ¿Qué debería añadirse?",
+    "options": [
+      "Más adjetivos que destaquen originalidad",
+      "Una cadena de solución, evidencia y ejecución",
+      "Una historia personal sin conexión",
+      "Mayor cantidad de animaciones visuales"
+    ],
+    "answer": 1,
+    "explanation": "La diferenciación exige demostrar cómo funciona y por qué puede ejecutarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-091",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Durante preguntas, el jurado plantea dos cuestiones distintas. ¿Cómo conviene responder?",
+    "options": [
+      "Responder solo la segunda por ser más reciente",
+      "Mezclarlas en una explicación general",
+      "Enumerarlas y contestarlas en el mismo orden",
+      "Pedir que se reformulen al final"
+    ],
+    "answer": 2,
+    "explanation": "Numerar las preguntas evita omisiones y hace visible la estructura de respuesta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "publico-092",
+    "subject": "hablar_publico",
+    "subjectName": "Cómo hablar en público",
+    "source": "Apuntes Cómo hablar en público · Elena Argandoña · septiembre 2026",
+    "question": "Quedan treinta segundos y aún faltan cuatro diapositivas. ¿Qué decisión protege mejor el objetivo?",
+    "options": [
+      "Leer rápidamente los cuatro títulos",
+      "Solicitar tiempo sin consultar al moderador",
+      "Omitir la conclusión para cubrir el contenido",
+      "Ir al cierre y formular la acción esperada"
+    ],
+    "answer": 3,
+    "explanation": "El cierre y el siguiente paso tienen prioridad sobre completar todas las diapositivas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
