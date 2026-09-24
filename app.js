@@ -1,5 +1,5 @@
 const BANK_FILES=[
-  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho"
+  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho","hablar_publico"
 ];
 const LABELS={
   estrategias:"Estrategias de Negocios Internacionales (I y II)",
@@ -10,7 +10,8 @@ const LABELS={
   instrumentos:"Instrumentos de Análisis Económicos",
   organismos:"Instituciones Multilaterales / Taller de Multilaterales (I y II)",
   fundamentos:"Fundamentos de Economía",
-  derecho:"Contratación Internacional Derecho"
+  derecho:"Contratación Internacional Derecho",
+  hablar_publico:"Cómo hablar en público"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
