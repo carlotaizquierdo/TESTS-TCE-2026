@@ -1,4 +1,4 @@
-const CACHE="tests-tce-v5";
+const CACHE="tests-tce-v6";
 const ASSETS=["./","./index.html","./styles.css","./app.js","./data/estrategias.json","./data/cross.json","./data/cocim.json","./data/internet.json","./data/protocolo.json","./data/instrumentos.json","./data/organismos.json","./data/fundamentos.json","./data/derecho.json","./data/hablar_publico.json"];
 self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)))});
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
