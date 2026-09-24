@@ -26,6 +26,7 @@ Aplicación de estudio para el Programa de Técnicos de Comercio Exterior 2026.
 6. Instrumentos de Análisis Económicos
 7. Instituciones Multilaterales / Taller de Multilaterales (I y II)
 8. Fundamentos de Economía
+9. Contratación Internacional Derecho
 
 ## Publicación gratuita
 Para GitHub Pages gratuito con una cuenta personal, lo más sencillo es mantener el repositorio público y después activar Pages desde Settings > Pages, rama main, carpeta /(root).
