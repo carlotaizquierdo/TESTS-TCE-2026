@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "der-001",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una empresa exportadora quiere utilizar el contrato como instrumento preventivo. ¿Qué actuación responde mejor a esa finalidad?",
+    "options": [
+      "Distribuir riesgos y prever remedios exigibles",
+      "Enumerar únicamente las obligaciones principales",
+      "Remitir cualquier incidencia a la buena fe",
+      "Reproducir íntegramente la ley nacional"
+    ],
+    "answer": 0,
+    "explanation": "La función preventiva exige identificar riesgos, distribuirlos y prever soluciones claras y exigibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-002",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué doble función atribuye el manual al contrato internacional?",
+    "options": [
+      "Probar la exportación y liquidar impuestos",
+      "Pactar reglas y permitir exigir lo debido",
+      "Elegir moneda y fijar el arancel",
+      "Uniformar legislaciones y sustituir convenios"
+    ],
+    "answer": 1,
+    "explanation": "El contrato actúa como regla pactada y como instrumento coercitivo frente al incumplimiento.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-003",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Si el precio se pacta en una divisa y su cotización varía antes del pago, el riesgo principal es:",
+    "options": [
+      "Riesgo de crédito",
+      "Riesgo de transporte",
+      "Riesgo de cambio",
+      "Riesgo de jurisdicción"
+    ],
+    "answer": 2,
+    "explanation": "La variación de la divisa altera el valor económico del precio para una o ambas partes.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-004",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una huelga portuaria imprevisible impide temporalmente la entrega. ¿Qué riesgo del manual se manifiesta de forma directa?",
+    "options": [
+      "Falta de capacidad",
+      "Vicio del consentimiento",
+      "Conflicto de calificación",
+      "Circunstancia imprevista"
+    ],
+    "answer": 3,
+    "explanation": "Las huelgas se citan como circunstancias imprevistas capaces de alterar plazo, entrega u operación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-005",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué medida contractual responde de forma más directa al riesgo de que la mercancía no cumpla la calidad esperada?",
+    "options": [
+      "Fijar calidad, inspección y reclamación",
+      "Designar la residencia del comprador",
+      "Elegir un idioma contractual",
+      "Incorporar una cláusula de arbitraje"
+    ],
+    "answer": 0,
+    "explanation": "La calidad se gestiona mediante especificaciones comprobables y un procedimiento de aceptación o reclamación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-006",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En una venta a crédito, el vendedor ya entregó y el comprador anuncia que no pagará. ¿Por qué es una posición especialmente desfavorable?",
+    "options": [
+      "Ha transmitido siempre la propiedad por efecto de la factura",
+      "Ha perdido mercancía y expectativa de cobro",
+      "Ha renunciado necesariamente a toda acción contractual",
+      "Ha convertido el contrato en un negocio gratuito"
+    ],
+    "answer": 1,
+    "explanation": "El profesor destaca que el impago tras la entrega priva al vendedor de la mercancía disponible y del cobro esperado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-007",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué instrumento mencionado en clase pretende reducir el riesgo de enviar sin garantía de cobro?",
+    "options": [
+      "Contrato de adhesión",
+      "Precontrato de opción",
+      "Crédito documentario",
+      "Principio UNIDROIT"
+    ],
+    "answer": 2,
+    "explanation": "El crédito documentario busca condicionar el pago a una presentación documental conforme y reducir el riesgo de impago.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-008",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué característica debe reunir una cláusula para ser jurídicamente útil además de clara?",
+    "options": [
+      "Ser idéntica en todos los mercados",
+      "Contener referencias a varias leyes",
+      "Excluir cualquier interpretación judicial",
+      "Ser coherente y jurídicamente ejecutable"
+    ],
+    "answer": 3,
+    "explanation": "Una cláusula clara pero incompatible con la ley aplicable o inoponible a terceros puede no proteger.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-009",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La reserva de dominio busca principalmente:",
+    "options": [
+      "Conservar la propiedad del vendedor hasta el pago",
+      "Retrasar la transmisión del riesgo hasta la llegada",
+      "Transferir al banco la titularidad de la mercancía",
+      "Convertir el precio aplazado en pago anticipado"
+    ],
+    "answer": 0,
+    "explanation": "La reserva de dominio condiciona la transmisión de propiedad al pago, sin confundirse con el riesgo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-010",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál es el primer control antes de afirmar que una reserva de dominio resulta eficaz internacionalmente?",
+    "options": [
+      "Verificar la nacionalidad del transportista",
+      "Comprobar la ley de propiedad y la oponibilidad",
+      "Confirmar que se utilizó una factura proforma",
+      "Determinar el arancel de importación"
+    ],
+    "answer": 1,
+    "explanation": "La eficacia real y frente a terceros depende del ordenamiento aplicable y de sus requisitos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-011",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una cláusula de fuerza mayor pretende gestionar principalmente:",
+    "options": [
+      "La falta de capacidad de obrar",
+      "La elección tácita del tribunal",
+      "Hechos extraordinarios que frustran la prestación",
+      "La clasificación civil del contrato"
+    ],
+    "answer": 2,
+    "explanation": "Fuerza mayor distribuye consecuencias de hechos sobrevenidos que afectan a la ejecución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-012",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un desacuerdo nace porque cada parte entendió de modo distinto una expresión técnica traducida. ¿Qué riesgo se materializa?",
+    "options": [
+      "Crediticio y financiero",
+      "Patrimonial y societario",
+      "Real y posesorio",
+      "Cultural y lingüístico"
+    ],
+    "answer": 3,
+    "explanation": "Las diferencias lingüísticas y comerciales pueden producir interpretaciones incompatibles de lo pactado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-013",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué objetivo común persiguen los Principios UNIDROIT y los Principios de Derecho Europeo de los Contratos?",
+    "options": [
+      "Aproximar soluciones y completar lagunas",
+      "Sustituir automáticamente las leyes estatales",
+      "Determinar tribunales competentes",
+      "Regular únicamente la compraventa de consumo"
+    ],
+    "answer": 0,
+    "explanation": "Ambos son instrumentos de armonización y referencia, no leyes estatales que desplacen por sí mismas el contrato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-014",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Los Principios UNIDROIT se caracterizan por:",
+    "options": [
+      "Aplicarse solo a compraventas entre Estados",
+      "Formular reglas para contratos comerciales internacionales",
+      "Ser un reglamento obligatorio de la Unión Europea",
+      "Regular exclusivamente el reconocimiento de laudos"
+    ],
+    "answer": 1,
+    "explanation": "UNIDROIT formula reglas comunes para contratos comerciales internacionales en general.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-015",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La Comisión Lando está vinculada principalmente con:",
+    "options": [
+      "La Convención de Viena de 1980",
+      "Las reglas UCP 600 de la CCI",
+      "Los Principios Europeos de los Contratos",
+      "El Convenio de Nueva York de 1958"
+    ],
+    "answer": 2,
+    "explanation": "La Comisión Lando impulsó los Principios de Derecho Europeo de los Contratos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-016",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál de las siguientes vías constituye un mecanismo de armonización jurídica internacional?",
+    "options": [
+      "Aplicación exclusiva del derecho nacional",
+      "Supresión de la autonomía contractual",
+      "Elección unilateral del exportador",
+      "Leyes modelo y codificación de usos"
+    ],
+    "answer": 3,
+    "explanation": "La armonización utiliza convenios, leyes modelo, principios y codificación de usos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-017",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La definición doctrinal de contrato destaca que se trata de:",
+    "options": [
+      "Un negocio bilateral con efecto patrimonial",
+      "Un acto unilateral que extingue cualquier deuda",
+      "Una norma estatal aplicable a todo comerciante",
+      "Un documento escrito que prueba la exportación"
+    ],
+    "answer": 0,
+    "explanation": "El contrato es un negocio bilateral que crea, modifica o extingue una relación jurídica patrimonial.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-018",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En la definición de contrato, la expresión negocio significa:",
+    "options": [
+      "Documento elevado a escritura pública",
+      "Acuerdo consciente de voluntades",
+      "Actividad habitual del empresario",
+      "Prestación valorable en dinero"
+    ],
+    "answer": 1,
+    "explanation": "Negocio se utiliza como acuerdo de voluntades dirigido a producir efectos jurídicos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-019",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Que una relación sea patrimonial implica que:",
+    "options": [
+      "Solo puede tener por objeto dinero",
+      "Debe formalizarse ante notario",
+      "Sus efectos admiten valoración económica",
+      "Exige que ambas partes sean sociedades"
+    ],
+    "answer": 2,
+    "explanation": "Lo patrimonial alude a la posibilidad de cuantificar económicamente cumplimiento o incumplimiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-020",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué expresa el artículo 1091 del Código Civil según el material?",
+    "options": [
+      "Todo contrato internacional exige forma escrita",
+      "La ley española se aplica a toda exportación",
+      "La compraventa transmite siempre la propiedad al firmar",
+      "Los contratos tienen fuerza de ley entre las partes"
+    ],
+    "answer": 3,
+    "explanation": "El artículo 1091 fundamenta la fuerza obligatoria de lo pactado entre los contratantes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-021",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La afirmación el contrato es ley entre las partes significa que:",
+    "options": [
+      "Lo pactado vincula dentro del ordenamiento",
+      "El contrato puede derogar normas imperativas",
+      "El documento sustituye cualquier ley supletoria",
+      "Las cláusulas obligan también a terceros ajenos"
+    ],
+    "answer": 0,
+    "explanation": "La autonomía contractual vincula a las partes, pero no permite vulnerar normas imperativas ni extender obligaciones a terceros sin base.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-022",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En un contrato bilateral, cada parte suele ocupar simultáneamente las posiciones de:",
+    "options": [
+      "Juez y demandante",
+      "Acreedor y deudor",
+      "Mandante y árbitro",
+      "Legislador y destinatario"
+    ],
+    "answer": 1,
+    "explanation": "Cada parte puede exigir una prestación y, a la vez, deber otra prestación recíproca.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-023",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La distinción entre contrato unilateral y bilateral atiende principalmente a:",
+    "options": [
+      "El número de documentos firmados",
+      "El número de partes físicas",
+      "La reciprocidad de las obligaciones",
+      "La nacionalidad de los contratantes"
+    ],
+    "answer": 2,
+    "explanation": "La clasificación se refiere a si nacen obligaciones para una o para ambas partes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-024",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una donación pura es el ejemplo típico de contrato:",
+    "options": [
+      "Bilateral y oneroso",
+      "Aleatorio y normado",
+      "Real y sinalagmático",
+      "Unilateral y gratuito"
+    ],
+    "answer": 3,
+    "explanation": "En la donación pura la obligación principal recae sobre el donante y el donatario recibe sin contraprestación.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-025",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La compraventa se considera onerosa porque:",
+    "options": [
+      "Cada parte obtiene una ventaja recíproca",
+      "El comprador asume siempre un riesgo aleatorio",
+      "La ley exige formalización notarial",
+      "Produce obligaciones solo para el vendedor"
+    ],
+    "answer": 0,
+    "explanation": "Precio y cosa constituyen ventajas recíprocas obtenidas a costa de la prestación propia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-026",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué distingue un contrato conmutativo de uno aleatorio?",
+    "options": [
+      "La duración temporal del vínculo",
+      "La determinación inicial de las prestaciones",
+      "El requisito formal de perfección",
+      "La condición empresarial de las partes"
+    ],
+    "answer": 1,
+    "explanation": "En el conmutativo las prestaciones están determinadas; en el aleatorio el resultado depende de un riesgo asumido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-027",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La compra de una cosecha futura no materialmente fijada se utiliza como ejemplo de contrato:",
+    "options": [
+      "Gratuito",
+      "Forzoso",
+      "Aleatorio",
+      "De adhesión"
+    ],
+    "answer": 2,
+    "explanation": "El resultado y valor efectivo quedan expuestos al riesgo de la cosecha.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-028",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato se perfecciona por el mero consentimiento. ¿Cómo se clasifica por ese criterio?",
+    "options": [
+      "Contrato real",
+      "Contrato formal",
+      "Contrato normado",
+      "Contrato consensual"
+    ],
+    "answer": 3,
+    "explanation": "El contrato consensual nace con el acuerdo, sin entrega ni solemnidad constitutiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-029",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En un contrato real, además del consentimiento se requiere:",
+    "options": [
+      "La entrega de una cosa",
+      "La intervención judicial",
+      "La elección expresa de ley",
+      "La inscripción de la empresa"
+    ],
+    "answer": 0,
+    "explanation": "La entrega forma parte de los requisitos de perfección del contrato real.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-030",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué define a un contrato formal o solemne?",
+    "options": [
+      "Las prestaciones se prolongan en el tiempo",
+      "La forma es requisito constitutivo",
+      "Una parte redacta todas las cláusulas",
+      "La ley regula solo sus efectos fiscales"
+    ],
+    "answer": 1,
+    "explanation": "Sin la forma legalmente exigida el negocio solemne no queda válidamente constituido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-031",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un suministro mensual durante cinco años es, principalmente, un contrato:",
+    "options": [
+      "De tracto único",
+      "Aleatorio puro",
+      "De tracto sucesivo",
+      "Por persona a designar"
+    ],
+    "answer": 2,
+    "explanation": "La ejecución se prolonga y repite durante un periodo, rasgo propio del tracto sucesivo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-032",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una entrega puntual de mercancía con pago inmediato se aproxima a un contrato:",
+    "options": [
+      "De tracto sucesivo",
+      "De adhesión necesario",
+      "Normado continuado",
+      "De tracto único"
+    ],
+    "answer": 3,
+    "explanation": "La prestación se ejecuta de manera puntual, sin una relación continuada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-033",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La tipicidad de un contrato depende de:",
+    "options": [
+      "La existencia de regulación legal propia",
+      "Su uso frecuente en el mercado",
+      "La forma escrita elegida por las partes",
+      "La intervención de un agente extranjero"
+    ],
+    "answer": 0,
+    "explanation": "Un contrato puede ser frecuente y seguir siendo atípico si carece de régimen legal propio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-034",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Por qué la distribución se presenta como contrato atípico en España y en el plano internacional?",
+    "options": [
+      "Porque solo puede celebrarse verbalmente",
+      "Carece de regulación general y convenio uniforme",
+      "Porque produce obligaciones para una sola parte",
+      "Porque está prohibida fuera de la Unión Europea"
+    ],
+    "answer": 1,
+    "explanation": "La distribución es habitual, pero no dispone del régimen específico general que caracteriza al contrato típico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-035",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El contrato de agencia es típico en España porque:",
+    "options": [
+      "Se perfecciona mediante la primera venta",
+      "La CCI publica un Incoterm de agencia",
+      "Existe una ley específica que lo regula",
+      "La Convención de Viena lo regula"
+    ],
+    "answer": 2,
+    "explanation": "La agencia dispone de regulación legal específica en España y de marco europeo, aunque no de convenio internacional general.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-036",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En el plano internacional general, la agencia se considera atípica en el material porque:",
+    "options": [
+      "No puede contratarse con empresarios extranjeros",
+      "Carece de obligaciones recíprocas",
+      "Solo puede durar una operación",
+      "No existe un convenio internacional general"
+    ],
+    "answer": 3,
+    "explanation": "La ausencia de un convenio internacional material general impide equipararla a la compraventa uniforme.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-037",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato forzoso se caracteriza porque:",
+    "options": [
+      "Debe celebrarse para realizar otra actuación",
+      "La ley fija todo su contenido",
+      "Una parte no puede negociar las cláusulas",
+      "Exige siempre escritura pública"
+    ],
+    "answer": 0,
+    "explanation": "La necesidad de constituir una garantía para contratar en una licitación es el ejemplo explicado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-038",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En un contrato normado:",
+    "options": [
+      "Las partes carecen de capacidad jurídica",
+      "La autonomía queda limitada por la ley",
+      "La forma escrita sustituye al consentimiento",
+      "El juez selecciona previamente al comprador"
+    ],
+    "answer": 1,
+    "explanation": "La ley restringe el contenido que las partes pueden configurar libremente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-039",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué diferencia principal existe entre precontrato y opción?",
+    "options": [
+      "El precontrato es gratuito; la opción es siempre onerosa",
+      "El precontrato es real; la opción es siempre solemne",
+      "El precontrato obliga; la opción permite decidir",
+      "El precontrato es mercantil; la opción es necesariamente civil"
+    ],
+    "answer": 2,
+    "explanation": "La opción es un tipo de precontrato en el que una parte puede decidir unilateralmente dentro del plazo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-040",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Las condiciones generales de contratación son:",
+    "options": [
+      "Usos internacionales ratificados por los Estados",
+      "Normas de conflicto propias de un sector",
+      "Condiciones negociadas individualmente en cada venta",
+      "Cláusulas predispuestas para múltiples contratos"
+    ],
+    "answer": 3,
+    "explanation": "Su rasgo es la predisposición unilateral para utilización repetida en múltiples contratos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-041",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué rasgo define con mayor precisión el contrato de adhesión?",
+    "options": [
+      "El adherente acepta o rechaza sin negociar",
+      "Se utiliza en más de una operación",
+      "La ley obliga a celebrarlo",
+      "La prestación depende de un hecho incierto"
+    ],
+    "answer": 0,
+    "explanation": "En la adhesión el margen de voluntad del destinatario se reduce a aceptar o no aceptar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-042",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Condiciones generales y contrato de adhesión:",
+    "options": [
+      "Son siempre conceptos idénticos",
+      "Pueden coincidir, pero describen fenómenos distintos",
+      "Se excluyen necesariamente entre sí",
+      "Solo existen en contratos gratuitos"
+    ],
+    "answer": 1,
+    "explanation": "Las condiciones generales describen predisposición repetida; la adhesión, ausencia de negociación efectiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-043",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En un contrato por persona a designar:",
+    "options": [
+      "La ley elige al comprador definitivo",
+      "El deudor puede cambiar unilateralmente el objeto",
+      "Una parte puede designar después a su sustituto",
+      "La prestación queda sometida a una subasta"
+    ],
+    "answer": 2,
+    "explanation": "La cláusula permite designar posteriormente a la persona que asumirá la posición contractual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-044",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una agencia estable camuflada como sucesivas comisiones puntuales debe calificarse atendiendo a:",
+    "options": [
+      "El título escrito elegido por la empresa",
+      "La nacionalidad del agente",
+      "El número de facturas emitidas",
+      "La realidad de prestaciones y duración"
+    ],
+    "answer": 3,
+    "explanation": "La calificación jurídica depende del contenido real y no solo del nombre utilizado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-045",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuáles son los cuatro elementos esenciales enumerados en el manual?",
+    "options": [
+      "Consentimiento, objeto, causa y forma",
+      "Oferta, entrega, precio y riesgo",
+      "Capacidad, domicilio, moneda y plazo",
+      "Ley, jurisdicción, idioma y firma"
+    ],
+    "answer": 0,
+    "explanation": "El manual organiza los elementos esenciales en consentimiento, objeto, causa y forma.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-046",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Para que el consentimiento sea válido se requiere:",
+    "options": [
+      "Nacionalidad común y documento público",
+      "Capacidad de obrar y voluntad no viciada",
+      "Precio determinado y entrega inmediata",
+      "Ley española y tribunal competente"
+    ],
+    "answer": 1,
+    "explanation": "La persona debe poder obligarse y decidir sin error, violencia, intimidación o dolo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-047",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué diferencia capacidad jurídica de capacidad de obrar?",
+    "options": [
+      "La primera es mercantil; la segunda solo civil",
+      "La primera exige mayoría; la segunda existe desde el nacimiento",
+      "Titularidad de derechos frente a ejercicio válido",
+      "La primera deriva del contrato; la segunda de la firma"
+    ],
+    "answer": 2,
+    "explanation": "Capacidad jurídica es titularidad potencial; capacidad de obrar es ejercicio válido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-048",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Para invalidar el consentimiento, el error debe recaer principalmente sobre:",
+    "options": [
+      "Cualquier cálculo accesorio",
+      "La ley que habría elegido un tercero",
+      "El domicilio fiscal del transportista",
+      "La condición que determinó contratar"
+    ],
+    "answer": 3,
+    "explanation": "El error relevante afecta a la sustancia o a condiciones que motivaron principalmente la contratación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-049",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El error sobre la persona invalida el contrato cuando:",
+    "options": [
+      "La identidad fue causa principal",
+      "Las partes tienen distinta nacionalidad",
+      "El contrato es de tracto sucesivo",
+      "Existe una cláusula de adhesión"
+    ],
+    "answer": 0,
+    "explanation": "La identidad solo es decisiva si la consideración de esa persona motivó esencialmente el contrato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-050",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Existe dolo contractual cuando:",
+    "options": [
+      "La prestación pierde valor por el mercado",
+      "Engaño causal para obtener el consentimiento",
+      "Ambas partes discrepan sobre la ley aplicable",
+      "El comprador retrasa la recepción por huelga"
+    ],
+    "answer": 1,
+    "explanation": "El dolo exige una conducta engañosa causal respecto de la celebración del contrato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-051",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué consecuencia atribuye el manual al dolo incidental?",
+    "options": [
+      "Nulidad automática del contrato",
+      "Conversión en contrato gratuito",
+      "Indemnización de daños y perjuicios",
+      "Aplicación de la ley del perjudicado"
+    ],
+    "answer": 2,
+    "explanation": "El dolo incidental no determina la celebración; genera responsabilidad indemnizatoria.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-052",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Para que la intimidación vicie el consentimiento, la amenaza debe ser:",
+    "options": [
+      "Económica, escrita, recíproca y pública",
+      "Futura, hipotética, lícita y accesoria",
+      "Internacional, patrimonial, formal y gratuita",
+      "Inminente, grave, causal y antijurídica"
+    ],
+    "answer": 3,
+    "explanation": "El material exige amenaza de mal inminente y grave, determinante y antijurídica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-053",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El objeto del contrato puede consistir en:",
+    "options": [
+      "Dar, hacer o no hacer",
+      "Solo entregar bienes corporales",
+      "Únicamente pagar una suma",
+      "Elegir ley y tribunal"
+    ],
+    "answer": 0,
+    "explanation": "El objeto es la conducta debida y puede ser positiva o negativa.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-054",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué requisitos debe reunir el objeto contractual?",
+    "options": [
+      "Ser oneroso, escrito y bilateral",
+      "Ser lícito, posible y determinable",
+      "Ser internacional, típico y formal",
+      "Ser patrimonial, registral y público"
+    ],
+    "answer": 1,
+    "explanation": "La licitud, posibilidad y determinación permiten identificar una prestación jurídicamente válida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-055",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En una compraventa, la causa se refiere a:",
+    "options": [
+      "El documento que acredita la entrega",
+      "La norma de conflicto competente",
+      "La finalidad práctica de las partes",
+      "La forma de transmitir el riesgo"
+    ],
+    "answer": 2,
+    "explanation": "La causa expresa el fin empírico: precio para el vendedor y mercancía para el comprador.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-056",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato ad probationem se caracteriza porque:",
+    "options": [
+      "La forma escrita es imprescindible para que exista",
+      "La entrega sustituye al consentimiento",
+      "El notario determina la ley aplicable",
+      "La forma prueba, pero no constituye"
+    ],
+    "answer": 3,
+    "explanation": "El acuerdo puede ser válido verbalmente, aunque resulte más difícil demostrar su contenido.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-057",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La donación de un inmueble se utiliza como ejemplo de contrato:",
+    "options": [
+      "Formal mediante escritura pública",
+      "Consensual sin requisito de forma",
+      "Real perfeccionado por el pago",
+      "Aleatorio sometido a condición"
+    ],
+    "answer": 0,
+    "explanation": "La forma pública es requisito constitutivo de la donación inmobiliaria.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-058",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una venta ficticia para evitar que los acreedores alcancen un bien es:",
+    "options": [
+      "Simulación relativa",
+      "Simulación absoluta",
+      "Autocontrato autorizado",
+      "Error incidental"
+    ],
+    "answer": 1,
+    "explanation": "No existe realmente la compraventa exteriorizada, por lo que la simulación es absoluta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-059",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una compraventa que en realidad encubre una donación constituye:",
+    "options": [
+      "Simulación absoluta",
+      "Contrato aleatorio",
+      "Simulación relativa",
+      "Novación objetiva"
+    ],
+    "answer": 2,
+    "explanation": "Existe un negocio aparente y otro negocio oculto distinto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-060",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Para que el negocio oculto en una simulación relativa produzca efectos:",
+    "options": [
+      "Basta la apariencia del negocio simulado",
+      "Debe ser necesariamente mercantil",
+      "Requiere siempre una ley extranjera",
+      "Cumplir sus requisitos de fondo y forma"
+    ],
+    "answer": 3,
+    "explanation": "La donación encubierta, por ejemplo, debe cumplir los requisitos propios de la donación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-061",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El autocontrato plantea principalmente un problema de:",
+    "options": [
+      "Conflicto de intereses y representación",
+      "Falta de elemento extranjero",
+      "Ausencia de prestación patrimonial",
+      "Incompatibilidad con Roma I"
+    ],
+    "answer": 0,
+    "explanation": "Una persona actúa en posiciones contrapuestas o representa a ambas partes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-062",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una persona representa simultáneamente a vendedor y comprador. Antes de validar el negocio debe comprobarse:",
+    "options": [
+      "La residencia habitual del transportista",
+      "Autorización y ausencia de conflicto prohibido",
+      "El Incoterm de la operación",
+      "La inscripción de la factura"
+    ],
+    "answer": 1,
+    "explanation": "La doble representación exige examinar poderes, autorización y conflicto de intereses.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-063",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato tiene naturaleza mercantil cuando:",
+    "options": [
+      "Una parte tiene nacionalidad extranjera",
+      "Se firma por escrito ante testigos",
+      "Ser un acto ligado a la finalidad empresarial",
+      "Incluye una cláusula arbitral"
+    ],
+    "answer": 2,
+    "explanation": "La mercantilidad se conecta con la actividad del empresario y la finalidad de la empresa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-064",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál es el primer criterio práctico en el régimen del contrato mercantil?",
+    "options": [
+      "El Código Civil",
+      "Los usos de comercio",
+      "La norma fiscal",
+      "La autonomía de la voluntad"
+    ],
+    "answer": 3,
+    "explanation": "Lo pactado por las partes ocupa el primer nivel dentro de los límites legales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-065",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Tras lo pactado, el material sitúa como fuente mercantil:",
+    "options": [
+      "Código de Comercio y legislación mercantil",
+      "Reglamento Bruselas I bis",
+      "Ley del domicilio del comprador",
+      "Cualquier práctica interna de la empresa"
+    ],
+    "answer": 0,
+    "explanation": "La regulación mercantil especial completa el contrato antes de acudir a fuentes supletorias.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-066",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Los usos de comercio son relevantes porque:",
+    "options": [
+      "Sustituyen cualquier cláusula expresa",
+      "Costumbres conocidas entre comerciantes",
+      "Solo obligan tras ratificación estatal",
+      "Determinan siempre el tribunal competente"
+    ],
+    "answer": 1,
+    "explanation": "Los usos sectoriales conocidos pueden integrar el régimen mercantil aplicable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-067",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué elemento convierte un contrato mercantil en internacional según el criterio amplio del manual?",
+    "options": [
+      "La nacionalidad distinta de todos los socios",
+      "El pago obligatorio en divisa extranjera",
+      "La presencia de un elemento extranjero",
+      "La elección de arbitraje institucional"
+    ],
+    "answer": 2,
+    "explanation": "Lugar de celebración, ejecución, mercancía, domicilio, ley o tribunal pueden aportar internacionalidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-068",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Dos sociedades españolas contratan sobre mercancía situada y entregada en Portugal. El contrato:",
+    "options": [
+      "Es necesariamente interno por la nacionalidad común",
+      "Solo es internacional si el precio está en euros",
+      "Se convierte en internacional al surgir un litigio",
+      "Sí, por la situación y ejecución en Portugal"
+    ],
+    "answer": 3,
+    "explanation": "La nacionalidad común no elimina el elemento extranjero de la mercancía y la ejecución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-069",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál de estos elementos puede aportar internacionalidad al contrato?",
+    "options": [
+      "El lugar extranjero de ejecución",
+      "La existencia de dos firmas",
+      "El carácter oneroso",
+      "La capacidad de obrar"
+    ],
+    "answer": 0,
+    "explanation": "El lugar de ejecución en otro Estado es un elemento extranjero relevante.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-070",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La definición de contrato mercantil internacional combina:",
+    "options": [
+      "Forma pública, gratuidad y aleatoriedad",
+      "Acto de empresa, patrimonio y elemento extranjero",
+      "Consumo, adhesión y nacionalidad común",
+      "Subasta, arbitraje y moneda extranjera"
+    ],
+    "answer": 1,
+    "explanation": "La definición integra mercantilidad, efecto jurídico patrimonial e internacionalidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-071",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Si el contrato contiene una cláusula válida de ley aplicable, el análisis debe comenzar por:",
+    "options": [
+      "Aplicar la residencia del vendedor",
+      "Acudir a la ley del foro sin más",
+      "Respetar la elección válida de las partes",
+      "Buscar el lugar de celebración"
+    ],
+    "answer": 2,
+    "explanation": "Roma I y el sistema de fuentes reconocen la autonomía conflictual como regla inicial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-072",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una norma de conflicto sirve para:",
+    "options": [
+      "Resolver materialmente el incumplimiento",
+      "Determinar el importe de los daños",
+      "Interpretar la calidad de la mercancía",
+      "Seleccionar la ley aplicable"
+    ],
+    "answer": 3,
+    "explanation": "La norma de conflicto señala el ordenamiento competente; no decide el fondo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-073",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Si dos ordenamientos se consideran aplicables al mismo contrato, existe un conflicto:",
+    "options": [
+      "Positivo",
+      "Negativo",
+      "Material",
+      "Probatorio"
+    ],
+    "answer": 0,
+    "explanation": "El conflicto positivo aparece cuando más de un sistema se atribuye competencia legislativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-074",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Si ninguno de los ordenamientos implicados se considera aplicable, existe un conflicto:",
+    "options": [
+      "Positivo",
+      "Negativo",
+      "Conmutativo",
+      "Sinalagmático"
+    ],
+    "answer": 1,
+    "explanation": "El conflicto negativo describe la ausencia de atribución por las normas en presencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-075",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El artículo 10.5 del Código Civil citado en el manual utilizaba, en último término:",
+    "options": [
+      "La residencia del comprador",
+      "El lugar de la subasta",
+      "El lugar de celebración del contrato",
+      "La nacionalidad del transportista"
+    ],
+    "answer": 2,
+    "explanation": "Tras elección, nacionalidad común y residencia común, se acudía al lugar de celebración.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-076",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "En España, el artículo 10.5 del Código Civil ha sido desplazado principalmente por:",
+    "options": [
+      "La Convención de Nueva York de 1958",
+      "Las reglas uniformes UCP 600 de la CCI",
+      "El Reglamento Bruselas I bis",
+      "Roma I dentro de su ámbito material"
+    ],
+    "answer": 3,
+    "explanation": "Roma I es la norma de conflicto europea para obligaciones contractuales en su ámbito.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-077",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué instrumento antecedió al Reglamento Roma I?",
+    "options": [
+      "Convenio de Roma de 1980",
+      "Convenio de Ginebra de 1961",
+      "Convención de Viena de 1980",
+      "Convenio de Nueva York de 1958"
+    ],
+    "answer": 0,
+    "explanation": "El Convenio de Roma coordinó previamente la ley aplicable a las obligaciones contractuales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-078",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Roma I determina principalmente:",
+    "options": [
+      "El tribunal competente en materia civil",
+      "La ley de las obligaciones contractuales",
+      "El reconocimiento de laudos extranjeros",
+      "La transmisión física de mercancías"
+    ],
+    "answer": 1,
+    "explanation": "Roma I es una norma de conflicto para obligaciones contractuales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-079",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué implica la aplicación universal de Roma I?",
+    "options": [
+      "Solo puede elegir leyes de la Unión",
+      "Se aplica únicamente si ambas partes son europeas",
+      "Puede designar la ley de un tercer Estado",
+      "Deroga cualquier elección contractual"
+    ],
+    "answer": 2,
+    "explanation": "El tribunal participante aplica Roma I aunque la conexión conduzca a una ley no europea.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-080",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál es la posición de Dinamarca respecto de Roma I según el material?",
+    "options": [
+      "Aplica Roma I solo a compraventas",
+      "Aplica Roma I si el vendedor es europeo",
+      "Queda sometida a la ley del comprador",
+      "No aplica Roma I y mantiene el Convenio de Roma"
+    ],
+    "answer": 3,
+    "explanation": "Dinamarca es la excepción destacada y mantiene el instrumento convencional anterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-081",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una empresa española y otra alemana no eligieron ley. ¿Cuál es la respuesta metodológicamente correcta?",
+    "options": [
+      "La ley resultante de aplicar Roma I",
+      "Siempre la ley española por ser exportador",
+      "Siempre la ley alemana por ser comprador",
+      "La ley determinada por Bruselas I bis"
+    ],
+    "answer": 0,
+    "explanation": "Primero se aplica Roma I; solo después puede concluirse qué ley concreta resulta designada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-082",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "A falta de elección, una compraventa se rige en principio por la ley de la residencia habitual del:",
+    "options": [
+      "Comprador",
+      "Vendedor",
+      "Transportista",
+      "Asegurador"
+    ],
+    "answer": 1,
+    "explanation": "El artículo 4 conecta la compraventa con la residencia habitual del vendedor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-083",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "A falta de elección, un contrato de servicios se rige en principio por la residencia habitual del:",
+    "options": [
+      "Cliente del servicio",
+      "Financiador del servicio",
+      "Prestador del servicio",
+      "Beneficiario final"
+    ],
+    "answer": 2,
+    "explanation": "La conexión específica se sitúa en la residencia del prestador.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-084",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "A falta de elección, un contrato de distribución se rige en principio por la residencia habitual del:",
+    "options": [
+      "Fabricante",
+      "Cliente final",
+      "Agente de aduanas",
+      "Distribuidor"
+    ],
+    "answer": 3,
+    "explanation": "Roma I conecta la distribución con la residencia habitual del distribuidor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-085",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "A falta de elección, un contrato de franquicia se rige en principio por la residencia habitual del:",
+    "options": [
+      "Franquiciado",
+      "Franquiciador",
+      "Proveedor principal",
+      "Titular del inmueble"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 4 conecta la franquicia con la residencia habitual del franquiciado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-086",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una venta se realiza mediante subasta identificable. Roma I conecta, en principio, con:",
+    "options": [
+      "La residencia del adjudicatario",
+      "El país donde tiene lugar la subasta",
+      "La sede del banco pagador",
+      "El país de fabricación del bien"
+    ],
+    "answer": 1,
+    "explanation": "La subasta dispone de una conexión específica al lugar donde se celebra.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-087",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato no encaja en los tipos del artículo 4. El siguiente criterio es:",
+    "options": [
+      "La residencia de quien paga el precio",
+      "El lugar de firma del último anexo",
+      "Residencia de quien realiza la prestación característica",
+      "La nacionalidad común de los socios"
+    ],
+    "answer": 2,
+    "explanation": "Para contratos no tipificados o mixtos se recurre a la prestación característica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-088",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Si no puede determinarse la prestación característica, debe acudirse a:",
+    "options": [
+      "La ley del comprador",
+      "El lugar de expedición",
+      "La nacionalidad del juez",
+      "El país con vínculos más estrechos"
+    ],
+    "answer": 3,
+    "explanation": "La conexión residual es el país que presente los vínculos más estrechos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-089",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La cláusula de excepción de Roma I permite:",
+    "options": [
+      "Aplicar el país con vínculos manifiestamente más estrechos",
+      "Ignorar toda elección válida de las partes",
+      "Elegir el tribunal con mayor proximidad",
+      "Convertir el contrato en atípico"
+    ],
+    "answer": 0,
+    "explanation": "La cláusula corrige la conexión objetiva cuando el conjunto del caso apunta claramente a otro país.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-090",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una cláusula válida elige la ley tailandesa para un contrato entre empresas española y francesa. En principio:",
+    "options": [
+      "Se sustituye por la ley española",
+      "Se respeta la elección conforme a Roma I",
+      "Se aplica la ley francesa por proximidad",
+      "Se ignora por ser una ley extracomunitaria"
+    ],
+    "answer": 1,
+    "explanation": "La aplicación universal permite elegir la ley de un tercer Estado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-091",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Empresa española vende a empresa mexicana sin elegir ley y el litigio llega a un tribunal español. Ese tribunal determinará la ley mediante:",
+    "options": [
+      "La norma de conflicto mexicana",
+      "Bruselas I bis como norma material",
+      "Roma I como norma de conflicto española",
+      "La UCP 600 aunque no se pactó"
+    ],
+    "answer": 2,
+    "explanation": "El tribunal español utiliza su sistema conflictual, en este caso Roma I dentro de su ámbito.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-092",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Por qué puede persistir un conflicto con México aunque España aplique Roma I?",
+    "options": [
+      "Roma I solo regula contratos gratuitos",
+      "La Convención de Viena prohíbe elegir ley",
+      "Dinamarca participa en la relación",
+      "México puede usar otra norma de conflicto"
+    ],
+    "answer": 3,
+    "explanation": "Fuera del espacio coordinado, el otro Estado puede seleccionar la ley mediante conexiones diferentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-093",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una convención internacional ratificada y publicada en España:",
+    "options": [
+      "Forma parte del ordenamiento interno",
+      "Sigue siendo una recomendación externa",
+      "Solo obliga si se copia al contrato",
+      "Desplaza automáticamente la Constitución"
+    ],
+    "answer": 0,
+    "explanation": "El artículo 96.1 de la Constitución integra los tratados válidamente celebrados y publicados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-094",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué regula la Convención de Viena de 1980 citada?",
+    "options": [
+      "Competencia judicial europea",
+      "Compraventa internacional de mercaderías",
+      "Reconocimiento de laudos arbitrales",
+      "Contratos internacionales de agencia"
+    ],
+    "answer": 1,
+    "explanation": "La Convención establece un régimen uniforme para compraventa internacional de mercaderías.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-095",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué materia se asocia al Convenio de Nueva York de 1958?",
+    "options": [
+      "Ley aplicable a obligaciones contractuales",
+      "Compraventa internacional de mercaderías",
+      "Reconocimiento y ejecución de laudos extranjeros",
+      "Protección de diseños industriales"
+    ],
+    "answer": 2,
+    "explanation": "Nueva York facilita el reconocimiento y ejecución internacional de laudos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-096",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El Convenio de Ginebra de 1961 citado se refiere a:",
+    "options": [
+      "Créditos documentarios",
+      "Contratos de distribución",
+      "Transmisión de propiedad",
+      "Arbitraje comercial internacional"
+    ],
+    "answer": 3,
+    "explanation": "El manual lo identifica como convenio europeo sobre arbitraje comercial internacional.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-097",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La Convención de Viena no resuelve por sí sola:",
+    "options": [
+      "La transmisión de la propiedad de la mercancía",
+      "Las obligaciones básicas de comprador y vendedor",
+      "La formación de la compraventa en su ámbito",
+      "Determinados remedios por incumplimiento"
+    ],
+    "answer": 0,
+    "explanation": "La propiedad queda fuera de su regulación y exige acudir a la ley aplicable correspondiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-098",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Por qué es incorrecto afirmar que la Convención de Viena constituye un ordenamiento separado?",
+    "options": [
+      "Porque solo contiene usos privados",
+      "Se integra en el derecho de los Estados vinculados",
+      "Porque fue sustituida por Roma I",
+      "Porque carece de normas materiales"
+    ],
+    "answer": 1,
+    "explanation": "La Convención opera como parte del derecho interno del Estado contratante, no como sistema aislado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-099",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La reserva estadounidense comentada en clase se basa en:",
+    "options": [
+      "La residencia habitual del comprador",
+      "La elección exclusiva de ley federal",
+      "La reciprocidad entre Estados contratantes",
+      "La celebración ante notario"
+    ],
+    "answer": 2,
+    "explanation": "El ejemplo exige que la contraparte pertenezca también a un Estado contratante para la aplicación directa bajo esa reserva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-100",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El artículo 9 de la Convención de Viena reconoce que las partes quedan vinculadas por:",
+    "options": [
+      "Cualquier costumbre interna de una empresa",
+      "Solo los Incoterms ratificados por Estados",
+      "Toda regla publicada por una cámara local",
+      "Usos convenidos y prácticas entre las partes"
+    ],
+    "answer": 3,
+    "explanation": "El artículo 9 da eficacia a los usos acordados y a las prácticas bilaterales consolidadas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-101",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Para que un uso no pactado resulte relevante conforme a la explicación, debe ser:",
+    "options": [
+      "Conocido y observado regularmente en ese tráfico",
+      "Utilizado una vez por el vendedor",
+      "Publicado en la factura comercial",
+      "Aceptado por cualquier asociación nacional"
+    ],
+    "answer": 0,
+    "explanation": "La práctica debe alcanzar reconocimiento suficiente en el comercio internacional del sector.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-102",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La Lex Mercatoria se define como:",
+    "options": [
+      "Conjunto de leyes fiscales de los exportadores",
+      "Usos internacionales conocidos y observados",
+      "Norma de conflicto de todos los Estados",
+      "Código europeo obligatorio de contratos"
+    ],
+    "answer": 1,
+    "explanation": "Su base son prácticas transnacionales consolidadas del tráfico mercantil.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-103",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Por qué los Incoterms no son un convenio internacional?",
+    "options": [
+      "Solo se aplican a servicios",
+      "Carecen de versiones publicadas",
+      "No son tratados ratificados por Estados",
+      "Determinan exclusivamente la propiedad"
+    ],
+    "answer": 2,
+    "explanation": "Los Incoterms son reglas de la CCI incorporadas por las partes o reconocidas como uso, no un tratado estatal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-104",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Los Incoterms regulan principalmente:",
+    "options": [
+      "Validez del consentimiento y capacidad",
+      "Competencia judicial y arbitraje",
+      "Transmisión universal de la propiedad",
+      "Entrega, costes, obligaciones y riesgo"
+    ],
+    "answer": 3,
+    "explanation": "Su función central es distribuir obligaciones logísticas, costes y riesgo, no determinar necesariamente la propiedad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-105",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Las UCP 600 se relacionan con:",
+    "options": [
+      "Créditos documentarios",
+      "Cobros documentarios",
+      "Garantías contractuales",
+      "Arbitraje comercial"
+    ],
+    "answer": 0,
+    "explanation": "La publicación UCP 600 de la CCI contiene reglas uniformes sobre créditos documentarios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-106",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La publicación 522 de la CCI citada en el manual se refiere a:",
+    "options": [
+      "Reglas de crédito documentario",
+      "Reglas uniformes relativas a cobros",
+      "Garantías contractuales",
+      "Contratos de compraventa"
+    ],
+    "answer": 1,
+    "explanation": "El manual vincula la publicación 522 con las reglas uniformes sobre cobros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-107",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La publicación 325 de la CCI citada en el manual se refiere a:",
+    "options": [
+      "Cobros documentarios",
+      "Créditos documentarios",
+      "Garantías contractuales",
+      "Ley aplicable a servicios"
+    ],
+    "answer": 2,
+    "explanation": "El manual identifica la publicación 325 con reglas sobre garantías contractuales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-108",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una práctica que solo sigue internamente una empresa:",
+    "options": [
+      "Se convierte automáticamente en Lex Mercatoria",
+      "Obliga a todos los competidores",
+      "Sustituye cualquier ley aplicable",
+      "No basta para crear un uso internacional"
+    ],
+    "answer": 3,
+    "explanation": "Se requiere una práctica sectorial e internacional ampliamente conocida y observada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-109",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Los contratos tipo contribuyen a la unificación porque:",
+    "options": [
+      "Difunden modelos repetidos en sectores profesionales",
+      "Eliminan la necesidad de consentimiento",
+      "Tienen siempre rango de reglamento",
+      "Designan automáticamente el tribunal competente"
+    ],
+    "answer": 0,
+    "explanation": "La repetición y aceptación sectorial de modelos favorece soluciones contractuales homogéneas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-110",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato incluye Incoterm, pero nada dice sobre transmisión de propiedad. ¿Qué conclusión es más correcta?",
+    "options": [
+      "El Incoterm transmite siempre propiedad y riesgo a la vez",
+      "El Incoterm regula riesgo; la propiedad exige otra base",
+      "La propiedad corresponde siempre al transportista",
+      "La falta de cláusula hace nulo el contrato"
+    ],
+    "answer": 1,
+    "explanation": "Incoterms y propiedad son planos distintos; la titularidad se determina conforme a la ley aplicable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-111",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Vendedor español y comprador alemán pactan ley alemana. ¿Qué criterio aplica primero el tribunal participante en Roma I?",
+    "options": [
+      "La residencia española del vendedor",
+      "El lugar de entrega",
+      "La elección válida de ley alemana",
+      "La prestación característica"
+    ],
+    "answer": 2,
+    "explanation": "La autonomía conflictual precede a las conexiones objetivas del artículo 4.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-112",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Franquiciador español y franquiciado italiano no eligen ley. ¿Qué conexión indica Roma I?",
+    "options": [
+      "Residencia habitual del franquiciador",
+      "Lugar de registro de la marca",
+      "Residencia del cliente final",
+      "Residencia habitual del franquiciado"
+    ],
+    "answer": 3,
+    "explanation": "El contrato de franquicia se conecta con la residencia habitual del franquiciado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-113",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Fabricante español y distribuidor francés no eligen ley. ¿Qué respuesta es correcta?",
+    "options": [
+      "Ley de la residencia habitual del distribuidor",
+      "En principio, ley de la residencia del fabricante",
+      "Siempre, ley del lugar de fabricación",
+      "Siempre, ley elegida por el comprador final"
+    ],
+    "answer": 0,
+    "explanation": "La distribución tiene conexión específica con la residencia habitual del distribuidor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-114",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una empresa denomina comisión a una relación estable con agente extranjero, objetivos continuados y cartera propia. ¿Qué debe prevalecer?",
+    "options": [
+      "El encabezado del documento",
+      "La realidad económica y obligacional",
+      "La primera factura emitida",
+      "La nacionalidad del principal"
+    ],
+    "answer": 1,
+    "explanation": "La calificación se apoya en prestaciones, estabilidad y función real, no en la etiqueta elegida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-115",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Tras extinguir una agencia, el empresario conserva la clientela captada por el agente. ¿Qué cuestión señaló el profesor?",
+    "options": [
+      "La nulidad automática del contrato",
+      "La transmisión de propiedad de las ventas",
+      "Posible indemnización por clientela",
+      "La conversión en contrato gratuito"
+    ],
+    "answer": 2,
+    "explanation": "La continuidad del beneficio empresarial puede fundamentar una compensación propia del régimen de agencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-116",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una empresa quiere participar en una licitación que exige garantía previa. El contrato de garantía ejemplifica:",
+    "options": [
+      "Contrato aleatorio de adhesión necesario",
+      "Precontrato por persona a designar",
+      "Contrato gratuito de tracto sucesivo",
+      "Contrato forzoso conectado a la licitación"
+    ],
+    "answer": 3,
+    "explanation": "La empresa debe celebrar la garantía para acceder a la contratación principal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-117",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Las partes acuerdan verbalmente una compraventa no solemne. ¿Cuál es la afirmación más precisa?",
+    "options": [
+      "Puede existir, aunque resulte difícil probarlo",
+      "No existe contrato porque falta escritura pública",
+      "Solo existe si se entrega inmediatamente",
+      "Se presume siempre gratuito"
+    ],
+    "answer": 0,
+    "explanation": "En un contrato consensual no solemne, la forma escrita cumple sobre todo una función probatoria.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-118",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una amenaza grave existe, pero no influyó en la decisión de contratar. Según los requisitos explicados:",
+    "options": [
+      "Existe intimidación por la gravedad objetiva",
+      "Falta la causalidad para viciar la voluntad",
+      "El contrato se transforma en aleatorio",
+      "Debe aplicarse la ley del amenazante"
+    ],
+    "answer": 1,
+    "explanation": "La coacción debe determinar la voluntad, además de ser grave, inminente y antijurídica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-119",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una falsedad accesoria no determinó la celebración del contrato, pero causó un perjuicio. Se aproxima a:",
+    "options": [
+      "Dolo grave con nulidad necesaria",
+      "Error relevante sobre la persona",
+      "Dolo incidental con posible indemnización",
+      "Simulación absoluta del negocio"
+    ],
+    "answer": 2,
+    "explanation": "El dolo incidental no causa el contrato, pero puede generar daños y perjuicios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-120",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Un contrato mixto no permite identificar una prestación característica clara. ¿Qué criterio residual emplea Roma I?",
+    "options": [
+      "La ley de la nacionalidad común",
+      "El país del lugar de pago",
+      "El país de residencia del acreedor",
+      "El país con vínculos más estrechos"
+    ],
+    "answer": 3,
+    "explanation": "Cuando no puede identificarse la prestación característica se atiende a los vínculos más estrechos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-121",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La conexión objetiva apunta al país A, pero todas las circunstancias muestran vínculos manifiestamente más estrechos con B. Roma I permite:",
+    "options": [
+      "Aplicar B mediante la cláusula de excepción",
+      "Mantener A sin admitir corrección",
+      "Aplicar simultáneamente A y B",
+      "Declarar inexistente la ley aplicable"
+    ],
+    "answer": 0,
+    "explanation": "La cláusula de escape evita un resultado artificial cuando otro país concentra claramente la relación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-122",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál de estas secuencias es metodológicamente correcta?",
+    "options": [
+      "Tribunal → Incoterm → nacionalidad → precio",
+      "Contrato → ley aplicable → solución material",
+      "Ley nacional → contrato → uso interno → solución",
+      "Arancel → propiedad → contrato → jurisdicción"
+    ],
+    "answer": 1,
+    "explanation": "Primero se examina lo pactado y luego la ley aplicable que completa o controla el contrato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-123",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué afirmación diferencia correctamente ley aplicable y tribunal competente?",
+    "options": [
+      "La primera identifica al juez; el segundo fija las obligaciones",
+      "Ambos conceptos son equivalentes en Roma I",
+      "La ley aporta reglas; el tribunal conoce del litigio",
+      "El tribunal competente determina siempre su propia ley material"
+    ],
+    "answer": 2,
+    "explanation": "La competencia judicial y la ley aplicable son cuestiones distintas, aunque se relacionen en el litigio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-124",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Según la advertencia del profesor, Bruselas I bis en este bloque:",
+    "options": [
+      "Sustituyó a Roma I para elegir ley",
+      "Reguló la propiedad de la mercancía",
+      "Se aplicó a Dinamarca como única regla",
+      "Fue una transición hacia la materia posterior"
+    ],
+    "answer": 3,
+    "explanation": "La explicación indicó expresamente que la competencia judicial se estudiaría después.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-125",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué formato de examen indicó el profesor para este módulo?",
+    "options": [
+      "Cuarenta preguntas tipo test y dos de reserva",
+      "Veinte preguntas de desarrollo",
+      "Treinta casos prácticos sin opciones",
+      "Cincuenta preguntas verdadero o falso"
+    ],
+    "answer": 0,
+    "explanation": "En clase se indicó un test de 40 preguntas más R1 y R2 como preguntas de reserva.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-126",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "La finalidad de las preguntas R1 y R2 es:",
+    "options": [
+      "Elevar la nota de quienes respondan rápido",
+      "Sustituir preguntas ordinarias anuladas",
+      "Resolver empates entre versiones",
+      "Penalizar respuestas en blanco"
+    ],
+    "answer": 1,
+    "explanation": "Las preguntas de reserva entran en juego si alguna pregunta ordinaria debe anularse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-127",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "El profesor afirma que no basta con memorizar el manual porque el examen puede exigir:",
+    "options": [
+      "Citar de memoria toda la legislación",
+      "Redactar una demanda judicial",
+      "Aplicar conceptos y casos explicados en clase",
+      "Calcular aranceles de importación"
+    ],
+    "answer": 2,
+    "explanation": "Las clases añaden razonamiento práctico, ejemplos y cuestiones que pueden aparecer en el test.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-128",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Qué tarea realiza Roma I en un caso práctico complejo?",
+    "options": [
+      "Decide directamente si hubo dolo",
+      "Fija el tribunal y ejecuta la sentencia",
+      "Sustituye todas las cláusulas del contrato",
+      "Selecciona la ley que resolverá el fondo"
+    ],
+    "answer": 3,
+    "explanation": "Roma I selecciona la ley; la norma material de esa ley resuelve el fondo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-129",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "Una respuesta afirma que la ley aplicable es la Convención de Viena como sistema autónomo. ¿Qué corrección procede?",
+    "options": [
+      "Se integra en la ley designada y rige dentro de su ámbito",
+      "La Convención nunca puede aplicarse a empresas",
+      "La Convención solo es una regla de la CCI",
+      "La Convención determina siempre la propiedad"
+    ],
+    "answer": 0,
+    "explanation": "El convenio se integra en el ordenamiento del Estado que lo ratifica y no cubre todas las cuestiones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "der-130",
+    "subject": "derecho",
+    "subjectName": "Contratación Internacional Derecho",
+    "source": "Apuntes Contratación Internacional Derecho · Manual pp. 1–20 y clases",
+    "question": "¿Cuál es la mejor comprobación final antes de elegir una opción en un caso test?",
+    "options": [
+      "Escoger la alternativa más extensa",
+      "Comprobar que la norma cubre la cuestión planteada",
+      "Elegir siempre la ley española",
+      "Descartar cualquier excepción"
+    ],
+    "answer": 1,
+    "explanation": "Una norma puede ser aplicable al contrato y, aun así, no regular la materia concreta planteada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
