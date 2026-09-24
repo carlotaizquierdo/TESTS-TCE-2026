@@ -1,5 +1,5 @@
 const BANK_FILES=[
-  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos"
+  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho"
 ];
 const LABELS={
   estrategias:"Estrategias de Negocios Internacionales (I y II)",
@@ -9,7 +9,8 @@ const LABELS={
   protocolo:"Protocolo (I y II)",
   instrumentos:"Instrumentos de Análisis Económicos",
   organismos:"Instituciones Multilaterales / Taller de Multilaterales (I y II)",
-  fundamentos:"Fundamentos de Economía"
+  fundamentos:"Fundamentos de Economía",
+  derecho:"Contratación Internacional Derecho"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
