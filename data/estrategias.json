@@ -1648,5 +1648,290 @@
     "key": true,
     "approved": true,
     "part": 2
+  },
+  {
+    "id": "est-91",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En el modelo ADDING, la primera A —Add volume or growth— se refiere a:",
+    "options": [
+      "Añadir mercados, clientes, volumen o economías de escala y alcance",
+      "Aumentar el precio mediante diferenciación y servicio especializado",
+      "Atraer socios para reducir el riesgo regulatorio y financiero",
+      "Adquirir conocimiento mediante talento, tecnología y aprendizaje"
+    ],
+    "answer": 0,
+    "explanation": "Add volume or growth busca crecimiento, mercados y escala.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-92",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En ADDING, Decrease costs significa:",
+    "options": [
+      "Reducir costes de capital, trabajo, compras o producción cuando tenga sentido",
+      "Disminuir el número de mercados para reducir riesgo comercial",
+      "Reducir el precio de venta para ganar cuota frente a competidores",
+      "Eliminar servicios adicionales para simplificar la propuesta de valor"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización puede crear valor mediante ventajas de coste.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-93",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En ADDING, Differentiate busca principalmente:",
+    "options": [
+      "Elevar la disposición a pagar mediante diferenciación",
+      "Reducir el coste medio aumentando el volumen producido",
+      "Repartir riesgos entre mercados y proveedores internacionales",
+      "Acceder a conocimiento, tecnología y capacidades externas"
+    ],
+    "answer": 0,
+    "explanation": "Differentiate aumenta valor percibido mediante diseño, calidad, servicio o adaptación.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-94",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En ADDING, Increase industry attractiveness se relaciona con:",
+    "options": [
+      "Mejorar poder negociador o posición sectorial mediante escala, alianzas o recursos",
+      "Aumentar el tamaño del mercado mediante un mayor volumen de exportaciones",
+      "Reducir costes productivos trasladando actividades a ubicaciones más baratas",
+      "Obtener conocimiento técnico contratando especialistas en otros países"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización puede mejorar la posición de la empresa dentro de la estructura sectorial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-95",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En ADDING, Normalize risk se refiere a:",
+    "options": [
+      "Diversificar y gestionar riesgos de mercado, suministro, financiación o divisa",
+      "Uniformar precios y condiciones comerciales en todos los mercados",
+      "Eliminar diferencias regulatorias mediante una forma de entrada común",
+      "Reducir el número de proveedores para facilitar su supervisión"
+    ],
+    "answer": 0,
+    "explanation": "Normalize risk busca gestionar y repartir exposiciones.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-96",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En ADDING, Generate knowledge se refiere a:",
+    "options": [
+      "Acceder y aplicar talento, tecnología, aprendizaje y capacidades",
+      "Aumentar volumen para repartir mejor los costes fijos",
+      "Reducir costes mediante localización de actividades productivas",
+      "Elevar el margen mediante un posicionamiento de precio superior"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización también crea valor al generar y absorber conocimiento.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-97",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué enseña el Business Model Canvas sobre una propuesta de valor atractiva?",
+    "options": [
+      "Puede fracasar si canal, socios, ingresos o costes no encajan con ella",
+      "Puede funcionar si el cliente percibe valor y el modelo sostiene la entrega",
+      "Necesita recursos y actividades compatibles con la promesa comercial",
+      "Debe integrarse con el resto de bloques para poder escalar internacionalmente"
+    ],
+    "answer": 0,
+    "explanation": "El Canvas obliga a comprobar la coherencia del modelo completo.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-98",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por dónde comienza el Value Proposition Canvas según los apuntes?",
+    "options": [
+      "Por las tareas, dolores y ganancias del cliente",
+      "Por el catálogo de productos y servicios de la empresa",
+      "Por la estructura de costes necesaria para servir al mercado",
+      "Por los canales disponibles para distribuir la oferta"
+    ],
+    "answer": 0,
+    "explanation": "El análisis parte del cliente antes de diseñar productos, aliviadores y creadores de ganancias.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-99",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué diferencia la venta consultiva de una venta centrada en características?",
+    "options": [
+      "Entiende el contexto, aclara necesidades y reduce riesgo durante la venta",
+      "Presenta el mayor número posible de atributos técnicos de la oferta",
+      "Evita intervenir en la definición del problema para no sesgar al cliente",
+      "Transfiere al distribuidor toda la relación posterior a la operación"
+    ],
+    "answer": 0,
+    "explanation": "La venta consultiva crea valor durante el proceso comercial.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-100",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué significa mantener proximidad suficiente al cliente sin necesitar siempre una filial?",
+    "options": [
+      "Diseñar quién conoce, atiende y aprende del cliente en el mercado",
+      "Vender de forma directa desde origen sin intermediarios",
+      "Controlar jurídicamente al distribuidor para asegurar la información",
+      "Establecer presencia física propia aunque el servicio sea remoto"
+    ],
+    "answer": 0,
+    "explanation": "La proximidad estratégica es acceso a conocimiento y atención, no necesariamente propiedad de una filial.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-101",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué segmentar por país puede ser insuficiente?",
+    "options": [
+      "Porque clientes parecidos pueden existir en varios países y diferir dentro de uno",
+      "Porque la regulación nacional pierde relevancia frente a las preferencias del cliente",
+      "Porque la segmentación internacional debe realizarse principalmente por nivel de renta",
+      "Porque cada país puede contener segmentos con necesidades y procesos de compra distintos"
+    ],
+    "answer": 0,
+    "explanation": "La segmentación debe basarse en variables que cambien la compra, uso, canal o disposición a pagar.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-102",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza a un posicionamiento internacional útil?",
+    "options": [
+      "Es claro, deseable, diferenciador, creíble y coherente con la ejecución",
+      "Promete muchos atributos para cubrir el mayor número posible de clientes",
+      "Se basa en ser distinto de cualquier empresa presente en el mercado",
+      "Se mantiene igual en todos los países aunque cambie el cliente objetivo"
+    ],
+    "answer": 0,
+    "explanation": "El posicionamiento debe concentrar una razón de elección relevante y demostrable.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-103",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Para comparar la rentabilidad de dos mercados, ¿qué recomienda el temario?",
+    "options": [
+      "Calcular precio neto menos costes variables y específicos de servir cada mercado",
+      "Comparar el precio de venta conseguido en cada país",
+      "Elegir el mercado con mayor cifra de ventas aunque tenga más costes de servicio",
+      "Usar el margen bruto industrial sin incorporar canal, logística o financiación"
+    ],
+    "answer": 0,
+    "explanation": "La contribución permite comparar lo que realmente deja cada mercado.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-104",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En servicios, la intangibilidad implica principalmente que:",
+    "options": [
+      "Hay que hacer visible la calidad mediante evidencia, marca, referencias o garantías",
+      "Producción y consumo pueden coincidir y exigir interacción con el cliente",
+      "El resultado puede variar según persona, momento, cliente y contexto",
+      "La capacidad no utilizada puede perderse si no se vende a tiempo"
+    ],
+    "answer": 0,
+    "explanation": "La intangibilidad dificulta evaluar el servicio antes de comprarlo.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-105",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En servicios, la inseparabilidad implica principalmente que:",
+    "options": [
+      "Producción y consumo pueden coincidir y exigir interacción con el cliente",
+      "La calidad debe hacerse visible mediante evidencia, referencias y garantías",
+      "El resultado puede variar según persona, momento, cliente y contexto",
+      "La capacidad no utilizada puede perderse si no se vende a tiempo"
+    ],
+    "answer": 0,
+    "explanation": "La inseparabilidad aumenta la importancia de presencia, interacción, idioma y husos horarios.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
   }
 ]
