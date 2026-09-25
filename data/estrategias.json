@@ -1363,5 +1363,290 @@
     "key": true,
     "approved": true,
     "part": 2
+  },
+  {
+    "id": "est-76",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué idea resume mejor la elección entre concentración y dispersión de mercados?",
+    "options": [
+      "Debe permitir explotar la ventaja sin superar los recursos disponibles",
+      "La dispersión reduce el riesgo si la empresa puede atender muchos mercados",
+      "La concentración permite profundizar cuando el servicio exige más recursos",
+      "La elección depende del producto, la fase, el riesgo y la capacidad de ejecución"
+    ],
+    "answer": 0,
+    "explanation": "No existe una opción universalmente mejor; depende de recursos, producto, riesgo y fase de internacionalización.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-77",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué factor favorece, en general, una estrategia de mayor concentración?",
+    "options": [
+      "Una elevada necesidad de adaptación y servicio en cada mercado",
+      "Una oferta muy estandarizada con baja complejidad comercial",
+      "Una gran capacidad financiera y operativa para atender muchos países",
+      "Una plataforma digital que reduce de forma importante la distancia"
+    ],
+    "answer": 0,
+    "explanation": "Cuando cada mercado exige recursos intensivos, suele ser más razonable concentrarlos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-78",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué enseñan los ejemplos de Inditex y Mercadona sobre expansión internacional?",
+    "options": [
+      "Empresas excelentes pueden seguir geografías muy distintas según su modelo",
+      "Una expansión amplia puede ser adecuada cuando el modelo permite escalarla",
+      "Una estrategia concentrada puede ser adecuada si aprovecha mejor los recursos",
+      "La geografía debe responder al modelo, la ventaja y la capacidad de ejecución"
+    ],
+    "answer": 0,
+    "explanation": "Los casos muestran que no existe una geografía única correcta; depende del modelo y los recursos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-79",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza al importador en una forma de entrada internacional?",
+    "options": [
+      "Compra por su cuenta y riesgo",
+      "Representa al exportador y cobra comisión",
+      "Compra y revende con una relación territorial estable",
+      "Actúa como oficina propia de la empresa exportadora"
+    ],
+    "answer": 0,
+    "explanation": "El importador asume la compra y el riesgo de la operación.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-80",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza al agente comercial internacional?",
+    "options": [
+      "Representa a la empresa y cobra comisión sin comprar necesariamente la mercancía",
+      "Compra la mercancía y la revende asumiendo el riesgo comercial",
+      "Forma parte de la estructura societaria de la empresa en destino",
+      "Adquiere derechos de marca y opera un concepto empresarial completo"
+    ],
+    "answer": 0,
+    "explanation": "El agente intermedia o representa y normalmente recibe comisión.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-81",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza al distribuidor frente al agente?",
+    "options": [
+      "Compra y revende y puede asumir una relación territorial más estable",
+      "Representa a la empresa pero no adquiere la mercancía",
+      "Opera necesariamente como filial controlada por el exportador",
+      "Presta servicios logísticos sin intervenir en la venta"
+    ],
+    "answer": 0,
+    "explanation": "El distribuidor adquiere el producto y lo revende, a diferencia del agente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-82",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué suele aportar una oficina o filial comercial frente a un intermediario independiente?",
+    "options": [
+      "Más presencia, información y control a cambio de más recursos",
+      "Menor compromiso, menor control y salida más sencilla",
+      "Reducción de costes fijos y de necesidades de personal",
+      "Transferencia del riesgo comercial a un tercero"
+    ],
+    "answer": 0,
+    "explanation": "La presencia propia aumenta control y aprendizaje, pero también compromiso.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-83",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué condición resulta especialmente importante para franquiciar internacionalmente?",
+    "options": [
+      "Disponer de un concepto probado, manualizable y protegible",
+      "Poseer directamente todos los locales del mercado de destino",
+      "Evitar estandarización para adaptarse totalmente al franquiciado",
+      "Transferir la marca sin prestar soporte operativo al socio"
+    ],
+    "answer": 0,
+    "explanation": "La franquicia exige un concepto replicable, soporte y protección de marca.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-84",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "A medida que una empresa avanza hacia formas de entrada con mayor compromiso, normalmente:",
+    "options": [
+      "Aumentan control, conocimiento y margen potencial, pero también inversión y riesgo",
+      "Disminuyen control y conocimiento, aunque aumenta la facilidad de salida",
+      "Se reduce la inversión necesaria porque desaparecen intermediarios",
+      "Se mantiene constante el riesgo y cambia el volumen de ventas"
+    ],
+    "answer": 0,
+    "explanation": "Mayor presencia permite capturar más actividades, pero eleva recursos y dificultad de reversión.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-85",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cómo debe interpretarse la senda típica de internacionalización?",
+    "options": [
+      "Como una referencia adaptable, no como una secuencia obligatoria",
+      "Como un orden que todas las empresas deben seguir sin saltar etapas",
+      "Como una progresión válida para empresas industriales de gran tamaño",
+      "Como una secuencia determinada por el tamaño del mercado de destino"
+    ],
+    "answer": 0,
+    "explanation": "Una oportunidad, sector o mercado puede justificar saltar etapas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-86",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué pregunta ayuda a valorar estratégicamente un canal de entrada?",
+    "options": [
+      "Qué control de precio, marca, promoción y cliente permite",
+      "Qué volumen total de población tiene el país de destino",
+      "Qué antigüedad posee el posible intermediario en su mercado",
+      "Qué número de competidores utiliza el mismo Incoterm"
+    ],
+    "answer": 0,
+    "explanation": "El canal debe evaluarse por control, coste, información, recursos y reversibilidad.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-87",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué diferencia crear, gestionar y entregar valor?",
+    "options": [
+      "Crear diseña utilidad; gestionar coordina recursos; entregar hace llegar la promesa",
+      "Crear fija el precio; gestionar vende; entregar calcula el margen",
+      "Crear investiga mercados; gestionar selecciona países; entregar exporta",
+      "Crear produce; gestionar almacena; entregar transfiere la propiedad"
+    ],
+    "answer": 0,
+    "explanation": "El proceso de valor no termina hasta que la utilidad llega de forma fiable al cliente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-88",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué expresa la fórmula de clase “activos × procesos = competitividad internacional”?",
+    "options": [
+      "Que buenos activos pierden valor si los procesos que los explotan son débiles",
+      "Que basta acumular activos para compensar procesos poco desarrollados",
+      "Que la competitividad depende sobre todo del volumen de inversión física",
+      "Que los procesos importan cuando la empresa carece de tecnología"
+    ],
+    "answer": 0,
+    "explanation": "La multiplicación enfatiza que una debilidad fuerte en procesos limita el valor de buenos activos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-89",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué debe comprobarse antes de trasladar una ventaja doméstica a otro mercado?",
+    "options": [
+      "Si es transferible, comunicable y rentable en ese mercado",
+      "Si puede mantenerse idéntica sin adaptación ni certificaciones",
+      "Si el país de destino tiene un PIB superior al mercado de origen",
+      "Si el canal acepta trabajar con exclusividad territorial"
+    ],
+    "answer": 0,
+    "explanation": "Una ventaja en origen puede perderse por distancia, coste, regulación o canal.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-90",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué representa la “curva de la sonrisa” en las cadenas globales?",
+    "options": [
+      "Que I+D, diseño, marca y servicios pueden capturar más valor que el ensamblaje",
+      "Que fabricación y ensamblaje pueden concentrar el mayor margen de la cadena",
+      "Que el valor aumenta cuando la producción se traslada a mercados de menor coste",
+      "Que marketing y servicio aportan menos margen que las actividades industriales"
+    ],
+    "answer": 0,
+    "explanation": "La curva ilustra que actividades intangibles de extremos de la cadena pueden capturar mayor valor.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
   }
 ]
