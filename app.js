@@ -29,10 +29,19 @@ async function loadBanks(){
   buildSubjects();
 }
 function buildSubjects(){
-  const built=BANK_FILES.map((k,i)=>`
-    <label class="subject"><input type="checkbox" value="${k}" ${i<3?"checked":""}>
-    <span><strong>${LABELS[k]}</strong><small class="muted"> ${bank.filter(q=>q.subject===k).length} conceptos base</small></span></label>
-  `).join("");
+  const built=BANK_FILES.map((k,i)=>{
+    const approvedCount=bank.filter(q=>q.subject===k&&q.approved===true).length;
+    const main=`
+      <label class="subject"><input type="checkbox" value="${k}" ${i<3?"checked":""}>
+      <span><strong>${LABELS[k]}</strong><small class="muted"> ${approvedCount} preguntas aprobadas</small></span></label>
+    `;
+    if(k!=="estrategias") return main;
+    const part2Count=bank.filter(q=>q.subject==="estrategias"&&q.approved===true&&q.part===2).length;
+    return main+`
+      <label class="subject"><input type="checkbox" value="estrategias2">
+      <span><strong>Estrategias · 2ª parte</strong><small class="muted"> ${part2Count} preguntas específicas</small></span></label>
+    `;
+  }).join("");
   const local=localDocs.map(d=>`
     <label class="subject"><input type="checkbox" value="local:${d.id}">
     <span><strong>${esc(d.subject)}</strong><small class="muted"> ${esc(d.name)} · generación nueva desde el documento</small></span></label>
@@ -102,7 +111,11 @@ function variantFrom(base,style="general"){
 }
 
 function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBases=null,style="general"){
-  let pool=forcedBases||bank.filter(q=>subjects.includes(q.subject)&&q.approved===true);
+  let pool=forcedBases||bank.filter(q=>{
+    if(q.approved!==true) return false;
+    if(subjects.includes(q.subject)) return true;
+    return subjects.includes("estrategias2")&&q.subject==="estrategias"&&q.part===2;
+  });
   if(difficulty!=="mixed")pool=pool.filter(q=>q.difficulty===difficulty);
   if(!pool.length)return [];
   const recent=new Set(recentIds());
