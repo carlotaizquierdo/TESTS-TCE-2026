@@ -1078,5 +1078,290 @@
     "difficulty": "medium",
     "key": true,
     "approved": false
+  },
+  {
+    "id": "est-61",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En un DAFO, ¿qué representa una estrategia FO?",
+    "options": [
+      "Usar una fortaleza para aprovechar una oportunidad",
+      "Usar una fortaleza para reducir una amenaza",
+      "Corregir una debilidad para aprovechar una oportunidad",
+      "Reducir una debilidad para limitar una amenaza"
+    ],
+    "answer": 0,
+    "explanation": "FO combina fortalezas internas con oportunidades externas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-62",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En un DAFO, ¿qué representa una estrategia FA?",
+    "options": [
+      "Usar una fortaleza para reducir una amenaza",
+      "Usar una fortaleza para aprovechar una oportunidad",
+      "Corregir una debilidad para aprovechar una oportunidad",
+      "Reducir una debilidad para limitar una amenaza"
+    ],
+    "answer": 0,
+    "explanation": "FA utiliza fortalezas para defenderse o reducir amenazas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-63",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En un DAFO, ¿qué representa una estrategia DO?",
+    "options": [
+      "Corregir una debilidad para aprovechar una oportunidad",
+      "Usar una fortaleza para aprovechar una oportunidad",
+      "Usar una fortaleza para reducir una amenaza",
+      "Reducir una debilidad para limitar una amenaza"
+    ],
+    "answer": 0,
+    "explanation": "DO busca superar o complementar debilidades para capturar oportunidades.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-64",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En un DAFO, ¿qué representa una estrategia DA?",
+    "options": [
+      "Reducir exposición, asociarse, posponer o abandonar",
+      "Explotar fortalezas para capturar oportunidades",
+      "Utilizar fortalezas para neutralizar amenazas",
+      "Reforzar capacidades para explotar oportunidades"
+    ],
+    "answer": 0,
+    "explanation": "DA combina debilidades y amenazas y suele exigir reducir exposición o replantear la opción.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-65",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué diferencia principal existe entre las cinco fuerzas de Porter y la cadena de valor?",
+    "options": [
+      "Porter analiza el atractivo sectorial; la cadena de valor analiza cómo crea margen la empresa",
+      "Porter analiza procesos internos; la cadena de valor mide el atractivo del sector",
+      "Porter selecciona países; la cadena de valor selecciona formas de entrada",
+      "Porter calcula precios; la cadena de valor calcula el tamaño del mercado"
+    ],
+    "answer": 0,
+    "explanation": "Porter mira la estructura competitiva externa y la cadena de valor descompone actividades internas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-66",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En internacionalización, ¿para qué resulta útil analizar la cadena de valor?",
+    "options": [
+      "Para decidir qué actividades mantener en origen y cuáles localizar fuera",
+      "Para determinar qué países deben eliminarse por su nivel de riesgo",
+      "Para fijar el precio final sin incorporar costes de canal o servicio",
+      "Para ordenar mercados en función del volumen de importaciones"
+    ],
+    "answer": 0,
+    "explanation": "La cadena permite valorar localización de aprovisionamiento, producción, logística, marketing, venta o servicio.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-67",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué lectura estratégica permite el ciclo de vida de una actividad?",
+    "options": [
+      "Relacionar madurez con inversión, crecimiento y recursos",
+      "Predecir cuándo el producto dejará de ser rentable",
+      "Elegir país sin analizar demanda ni barreras",
+      "Calcular cuota futura según antigüedad del producto"
+    ],
+    "answer": 0,
+    "explanation": "El ciclo de vida orienta decisiones de inversión, pero no predice fechas exactas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-68",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza a la miopía estratégica?",
+    "options": [
+      "Confundir el producto actual con la necesidad y defender supuestos por inercia",
+      "Revisar periódicamente la estrategia cuando aparecen evidencias nuevas",
+      "Separar hechos e hipótesis antes de tomar una decisión internacional",
+      "Comparar alternativas y abandonar una opción cuando pierde atractivo"
+    ],
+    "answer": 0,
+    "explanation": "La miopía aparece cuando el éxito pasado o el producto actual impiden revisar la necesidad real del cliente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-69",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál es la lógica general del proceso de selección de mercados del temario?",
+    "options": [
+      "Agrupar, eliminar inviables, comparar con criterios y validar cualitativamente",
+      "Puntuar todos los países, elegir el primero y después comprobar barreras",
+      "Seleccionar por tamaño, comparar precios y finalmente definir el producto",
+      "Elegir países cercanos, buscar distribuidores y después analizar la demanda"
+    ],
+    "answer": 0,
+    "explanation": "El proceso reduce progresivamente el universo de mercados y termina con validación cualitativa.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-70",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estos sería un criterio de eliminación previo a puntuar países?",
+    "options": [
+      "Una certificación imprescindible que la empresa no puede obtener",
+      "Una diferencia moderada en el crecimiento anual de la demanda",
+      "Una ligera ventaja logística de un mercado frente a otro",
+      "Una mayor presencia de competidores en un mercado atractivo"
+    ],
+    "answer": 0,
+    "explanation": "Los filtros de eliminación descartan mercados incompatibles con requisitos mínimos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-71",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué debe reflejar el peso asignado a cada criterio en una matriz de selección?",
+    "options": [
+      "Las prioridades reales del producto y de la empresa",
+      "La importancia estadística general del indicador en cualquier sector",
+      "El número de fuentes disponibles para medir cada variable",
+      "La posición que ocupa el país antes de realizar la ponderación"
+    ],
+    "answer": 0,
+    "explanation": "Los pesos deben responder a los objetivos y necesidades concretas del proyecto.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-72",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuándo deben fijarse la escala y las reglas de puntuación de una matriz de mercados?",
+    "options": [
+      "Antes de observar el resultado final de los países",
+      "Después de conocer qué país obtiene mejor puntuación",
+      "Cuando ya se han realizado entrevistas con distribuidores",
+      "Una vez elegidos los dos mercados finalistas"
+    ],
+    "answer": 0,
+    "explanation": "Definir reglas antes evita adaptar la metodología al resultado deseado.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-73",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Para qué sirve el análisis de sensibilidad en una matriz de mercados?",
+    "options": [
+      "Para comprobar si pequeños cambios en pesos o puntuaciones alteran el ranking",
+      "Para sustituir la validación cualitativa con distribuidores y clientes",
+      "Para eliminar los mercados con mayor distancia geográfica",
+      "Para convertir criterios cualitativos en variables financieras comparables"
+    ],
+    "answer": 0,
+    "explanation": "La sensibilidad permite saber si el ranking es robusto o depende demasiado de supuestos concretos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-74",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Después de obtener un ranking cuantitativo de mercados, ¿qué recomienda el temario?",
+    "options": [
+      "Validarlo con entrevistas, canal, clientes y barreras concretas",
+      "Elegir directamente el país con la puntuación total más alta",
+      "Repetir la matriz usando solo indicadores macroeconómicos",
+      "Reducir el peso de la información cualitativa para preservar objetividad"
+    ],
+    "answer": 0,
+    "explanation": "La matriz orienta, pero la decisión final necesita contraste cualitativo.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-75",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Según el modelo mínimo de información, ¿qué determina lo que debemos investigar?",
+    "options": [
+      "La diferencia entre lo que necesitamos saber y lo que ya sabemos razonablemente",
+      "La cantidad total de información publicada sobre cada mercado potencial",
+      "El número de indicadores incluidos en la matriz ponderada",
+      "La disponibilidad de bases de datos gratuitas y comparables"
+    ],
+    "answer": 0,
+    "explanation": "La investigación debe centrarse en cerrar lagunas relevantes para la decisión.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
   }
 ]
