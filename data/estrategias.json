@@ -2218,5 +2218,575 @@
     "key": true,
     "approved": true,
     "part": 2
+  },
+  {
+    "id": "est-121",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuándo aporta realmente valor un DAFO?",
+    "options": [
+      "Cuando conecta factores entre sí y conduce a una decisión concreta",
+      "Cuando enumera muchas fortalezas y amenazas aunque no estén relacionadas",
+      "Cuando sustituye el análisis cuantitativo por una clasificación cualitativa",
+      "Cuando resume el mercado sin vincularlo con capacidades internas"
+    ],
+    "answer": 0,
+    "explanation": "Un DAFO útil combina factores y traduce el diagnóstico en una decisión accionable.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-122",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué pregunta responde principalmente el análisis de las cinco fuerzas de Porter?",
+    "options": [
+      "Si la estructura del sector permite conservar margen de forma sostenible",
+      "Qué actividades internas deben mantenerse o trasladarse al exterior",
+      "Qué país obtiene mayor puntuación en una matriz de selección",
+      "Qué forma de entrada exige menor inversión inicial"
+    ],
+    "answer": 0,
+    "explanation": "Porter analiza el terreno competitivo y la capacidad estructural de capturar margen.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-123",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "Trasladar una actividad de la cadena de valor a otro país puede modificar:",
+    "options": [
+      "Coste, control, conocimiento y riesgo de esa actividad",
+      "Solo el coste laboral y el precio final del producto",
+      "Solo la fiscalidad y la clasificación arancelaria aplicable",
+      "Únicamente el tiempo de transporte y el nivel de inventario"
+    ],
+    "answer": 0,
+    "explanation": "La localización de actividades altera varias dimensiones estratégicas a la vez.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-124",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En una cartera de negocios, una actividad madura puede cumplir la función de:",
+    "options": [
+      "Generar recursos que financien actividades con mayor crecimiento",
+      "Eliminar la necesidad de invertir en negocios emergentes",
+      "Compensar cualquier actividad débil aunque el mercado sea poco atractivo",
+      "Evitar revisar la asignación de recursos entre unidades de negocio"
+    ],
+    "answer": 0,
+    "explanation": "Una actividad madura puede financiar otra en crecimiento, pero no justifica sostener negocios sin perspectiva.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-125",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estos criterios puede utilizarse en la primera agrupación de mercados?",
+    "options": [
+      "Bloque económico, proximidad cultural o características sectoriales",
+      "Margen final ya obtenido por la empresa en cada mercado",
+      "Rentabilidad histórica de una filial que todavía no existe",
+      "Precio de venta definitivo negociado con distribuidores locales"
+    ],
+    "answer": 0,
+    "explanation": "La primera agrupación puede hacerse por geografía, integración económica, cultura, sector o relaciones existentes.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-126",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué situación justificaría eliminar un mercado antes de aplicar una matriz ponderada?",
+    "options": [
+      "Existe una barrera regulatoria imprescindible que la empresa no puede cumplir",
+      "El crecimiento esperado es menor que el de otro mercado comparable",
+      "El coste logístico es algo superior al promedio de los países analizados",
+      "El mercado presenta varios competidores internacionales consolidados"
+    ],
+    "answer": 0,
+    "explanation": "Los filtros previos eliminan opciones que incumplen requisitos mínimos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-127",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué conviene utilizar datos comparables, con fuente y año, al puntuar mercados?",
+    "options": [
+      "Para que las puntuaciones se apoyen en información homogénea y verificable",
+      "Para evitar cualquier juicio profesional durante la selección",
+      "Para conseguir que todos los criterios tengan el mismo peso",
+      "Para asegurar que el ranking no cambie con nueva información"
+    ],
+    "answer": 0,
+    "explanation": "La comparabilidad mejora la consistencia de la matriz y permite revisar sus supuestos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-128",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cómo debe tratarse una hipótesis dentro de la selección de mercados?",
+    "options": [
+      "Debe identificarse como tal y acompañarse de un método de validación",
+      "Debe incorporarse como dato cuando resulte razonable para el equipo",
+      "Debe excluirse porque una matriz solo puede contener hechos confirmados",
+      "Debe recibir menos peso aunque sea decisiva para la elección"
+    ],
+    "answer": 0,
+    "explanation": "El temario distingue lo que sabemos de lo que suponemos y exige validar las hipótesis.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-129",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué factor puede hacer preferible concentrarse en pocos mercados?",
+    "options": [
+      "Una elevada complejidad de adaptación, administración y posventa",
+      "Una oferta muy estandarizada con escasa necesidad de soporte",
+      "Una estructura digital capaz de atender muchos países con pocos recursos",
+      "Una fuerte similitud entre mercados y canales de distribución"
+    ],
+    "answer": 0,
+    "explanation": "Cuantos más recursos exige servir cada mercado, mayor sentido puede tener la concentración.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-130",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué factor puede facilitar una estrategia de mayor dispersión?",
+    "options": [
+      "Una oferta estandarizable y una capacidad operativa suficiente para varios mercados",
+      "Una necesidad intensa de adaptación y servicio personalizado en cada país",
+      "Una capacidad financiera limitada y un equipo internacional reducido",
+      "Una regulación muy distinta que obliga a rediseñar la oferta en cada destino"
+    ],
+    "answer": 0,
+    "explanation": "La dispersión es más viable cuando la empresa puede replicar su modelo sin agotar recursos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-131",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué diferencia esencial existe entre un agente y un distribuidor?",
+    "options": [
+      "El agente intermedia; el distribuidor compra y revende la mercancía",
+      "El agente compra y revende; el distribuidor trabaja exclusivamente a comisión",
+      "El agente forma parte de la empresa; el distribuidor es siempre independiente",
+      "El agente exige inversión local; el distribuidor funciona como filial comercial"
+    ],
+    "answer": 0,
+    "explanation": "El agente representa y cobra comisión; el distribuidor adquiere producto y lo revende.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-132",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué efecto tiene normalmente aumentar la presencia propia en un mercado?",
+    "options": [
+      "Mejora información y control, pero reduce la facilidad de salida",
+      "Reduce la inversión y aumenta la reversibilidad de la decisión",
+      "Disminuye el conocimiento del cliente al eliminar intermediarios",
+      "Traslada una mayor parte del riesgo comercial a terceros"
+    ],
+    "answer": 0,
+    "explanation": "Una presencia propia implica más compromiso y menor reversibilidad.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-133",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué ventaja de expansión ofrece una franquicia bien diseñada?",
+    "options": [
+      "Permite crecer utilizando capital de terceros sobre un concepto replicable",
+      "Permite controlar todos los establecimientos con inversión íntegramente propia",
+      "Evita la necesidad de proteger marca y transmitir procedimientos",
+      "Reduce la importancia del soporte y de la estandarización operativa"
+    ],
+    "answer": 0,
+    "explanation": "La franquicia combina expansión y capital de terceros, pero exige concepto probado y soporte.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-134",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué caracteriza a una sucursal frente a formas de entrada más ligeras?",
+    "options": [
+      "Ofrece control directo, pero la central soporta plantilla, inversión y presupuesto",
+      "Transfiere al socio local la inversión y el riesgo operativo principal",
+      "Funciona como intermediario independiente que compra y revende",
+      "Permite presencia estable sin comprometer recursos propios relevantes"
+    ],
+    "answer": 0,
+    "explanation": "La sucursal aumenta control y también recursos comprometidos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-135",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué debe preguntarse si un canal seguirá siendo adecuado dentro de tres años?",
+    "options": [
+      "Porque una decisión de canal puede generar dependencia y costes de cambio futuros",
+      "Porque los canales dejan de ser válidos al superar un periodo determinado",
+      "Porque la empresa debe cambiar de intermediario cada pocos años",
+      "Porque la evolución del canal importa menos que el coste de arranque"
+    ],
+    "answer": 0,
+    "explanation": "La sostenibilidad y reversibilidad del canal forman parte de la decisión estratégica.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-136",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cómo crea valor la calidad y fiabilidad para un cliente internacional?",
+    "options": [
+      "Reduciendo fallos y parte del coste total asociado a la compra",
+      "Aumentando necesariamente el precio independientemente del segmento",
+      "Eliminando la necesidad de servicio y adaptación en destino",
+      "Sustituyendo la importancia de referencias, marca y cumplimiento"
+    ],
+    "answer": 0,
+    "explanation": "La calidad puede reducir costes de fallo, riesgo y coordinación para el cliente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-137",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cómo puede crear valor la velocidad en una oferta internacional?",
+    "options": [
+      "Acortando respuesta, entrega y tiempo hasta que el cliente obtiene el beneficio",
+      "Reduciendo el precio mediante menores costes de producción y logística",
+      "Disminuyendo la necesidad de adaptación comercial y técnica en destino",
+      "Sustituyendo parte del servicio mediante una entrega más rápida"
+    ],
+    "answer": 0,
+    "explanation": "La velocidad es una fuente de valor cuando reduce esperas y acelera resultados.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-138",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué pueden aportar las alianzas como fuente de valor?",
+    "options": [
+      "Capacidades, cobertura, legitimidad o acceso que la empresa no posee",
+      "Control completo sobre actividades realizadas por terceros",
+      "Eliminación del conflicto entre socios con objetivos distintos",
+      "Reducción automática del coste sin aumentar coordinación"
+    ],
+    "answer": 0,
+    "explanation": "Las alianzas complementan recursos, aunque exigen gobierno y coordinación.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-139",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué NO significa la curva de la sonrisa?",
+    "options": [
+      "Que fabricar carezca de importancia dentro de la cadena de valor",
+      "Que ciertas actividades intangibles puedan capturar mayor margen",
+      "Que marca y servicio puedan apropiarse de una parte elevada del valor",
+      "Que centrarse solo en volumen pueda dejar a la empresa en un tramo de menor margen"
+    ],
+    "answer": 0,
+    "explanation": "La curva no dice que producir no importe; muestra dónde puede concentrarse la captura de valor.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-140",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En el Business Model Canvas, ¿qué pregunta corresponde al bloque de canales?",
+    "options": [
+      "Cómo informamos, vendemos, entregamos y prestamos servicio",
+      "Qué activos resultan imprescindibles para ejecutar el modelo",
+      "Por qué paga el cliente y mediante qué fórmula de ingreso",
+      "Quién completa capacidades y ayuda a reducir determinados riesgos"
+    ],
+    "answer": 0,
+    "explanation": "Canales describe cómo la propuesta llega al cliente antes, durante y después de la venta.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-141",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En el Business Model Canvas, ¿qué pregunta corresponde a socios clave?",
+    "options": [
+      "Quién completa capacidades, acceso o reducción de riesgo",
+      "Qué procesos debe ejecutar especialmente bien la empresa",
+      "Qué activos son imprescindibles para sostener la propuesta",
+      "Qué relación y acompañamiento espera cada segmento"
+    ],
+    "answer": 0,
+    "explanation": "Los socios clave complementan recursos y actividades del modelo.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-142",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En el Value Proposition Canvas, los aliviadores describen:",
+    "options": [
+      "Cómo la oferta reduce dolores concretos del cliente",
+      "Qué tareas intenta realizar el cliente en su actividad",
+      "Qué beneficios y resultados desea alcanzar el cliente",
+      "Qué productos y servicios forman parte del catálogo"
+    ],
+    "answer": 0,
+    "explanation": "Los aliviadores conectan la oferta con problemas o fricciones del cliente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-143",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuál de estas actuaciones es propia de la venta consultiva internacional?",
+    "options": [
+      "Coordinar documentación, transporte, cobro o financiación para reducir fricción",
+      "Recitar características técnicas sin investigar la situación del comprador",
+      "Delegar cualquier objeción al distribuidor para evitar intervenir en la decisión",
+      "Presentar la misma solución a todos los clientes para simplificar el proceso"
+    ],
+    "answer": 0,
+    "explanation": "La venta consultiva ayuda a resolver la complejidad asociada a la compra internacional.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-144",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué una operación puntual vendida desde origen no implica necesariamente internacionalización activa?",
+    "options": [
+      "Porque puede generar facturación sin aprendizaje ni relación directa con el cliente",
+      "Porque exportar una sola vez no se considera jurídicamente una venta exterior",
+      "Porque la internacionalización exige establecer una filial en el país de destino",
+      "Porque solo existe internacionalización cuando hay inversión directa"
+    ],
+    "answer": 0,
+    "explanation": "La internacionalización activa requiere diseñar conocimiento, relación y capacidad sostenida, no solo una venta aislada.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-145",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué riesgo tiene intentar posicionarse simultáneamente en demasiados atributos?",
+    "options": [
+      "El mercado puede no recordar una razón principal para elegir la oferta",
+      "La empresa obtiene necesariamente un precio superior por ofrecer más beneficios",
+      "El canal puede interpretar que la propuesta está demasiado especializada",
+      "El cliente deja de comparar la oferta con competidores relevantes"
+    ],
+    "answer": 0,
+    "explanation": "Un posicionamiento efectivo necesita claridad y una razón de elección reconocible.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-146",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué condición debe cumplirse para sostener un posicionamiento de precio superior?",
+    "options": [
+      "El segmento debe percibir y valorar un beneficio especializado demostrable",
+      "El producto debe tener un coste de fabricación superior al de la competencia",
+      "El mercado debe presentar menor competencia que el país de origen",
+      "El canal debe aceptar reducir su margen para mantener el precio final"
+    ],
+    "answer": 0,
+    "explanation": "Un precio superior requiere mayor disposición a pagar y prueba del valor.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-147",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué un mercado con mayor precio de venta puede dejar menor margen?",
+    "options": [
+      "Porque logística, canal, adaptación o financiación pueden consumir la diferencia",
+      "Porque un precio alto implica necesariamente menor volumen y menor beneficio",
+      "Porque la empresa debe aplicar el mismo margen porcentual en todos los mercados",
+      "Porque los costes variables son independientes de la forma de servir cada país"
+    ],
+    "answer": 0,
+    "explanation": "La contribución debe calcularse después de todos los costes atribuibles al mercado.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-148",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En un negocio digital internacional, ¿qué implica un efecto de red?",
+    "options": [
+      "Que el valor de la plataforma puede aumentar al crecer el número de usuarios",
+      "Que el coste unitario aumenta cuando se incorporan nuevos usuarios",
+      "Que la plataforma pierde control de datos a medida que aumenta su escala",
+      "Que el país deja de ser relevante cuando la red alcanza cierto tamaño"
+    ],
+    "answer": 0,
+    "explanation": "Los efectos de red pueden elevar el valor de una plataforma y también la dependencia del intermediario.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-149",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Por qué disponer de datos o audiencia no garantiza capturar valor?",
+    "options": [
+      "Porque el modelo debe explicar quién paga y por qué lo hace",
+      "Porque los datos requieren un mecanismo claro de monetización para generar ingresos",
+      "Porque una audiencia amplia necesita una propuesta que convierta uso en ingresos",
+      "Porque el valor económico depende de cómo se monetizan datos, servicio o acceso"
+    ],
+    "answer": 0,
+    "explanation": "La captura de valor necesita un mecanismo de ingresos, no solo uso o información.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-150",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué protege estratégicamente la ciberseguridad en la internacionalización digital?",
+    "options": [
+      "Continuidad, información, propiedad intelectual y confianza del cliente",
+      "Solo la infraestructura tecnológica alojada dentro de la empresa",
+      "Únicamente los datos personales sujetos a regulación de privacidad",
+      "Principalmente el precio y la posición de la empresa frente a competidores"
+    ],
+    "answer": 0,
+    "explanation": "La ciberseguridad protege activos críticos y la continuidad del modelo digital.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
   }
 ]
