@@ -1933,5 +1933,290 @@
     "key": true,
     "approved": true,
     "part": 2
+  },
+  {
+    "id": "est-106",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En servicios, la heterogeneidad implica principalmente que:",
+    "options": [
+      "El resultado puede variar según persona, momento, cliente y contexto",
+      "Producción y consumo pueden coincidir y exigir interacción con el cliente",
+      "La calidad debe hacerse visible mediante evidencia, referencias y garantías",
+      "La capacidad no utilizada puede perderse si no se vende a tiempo"
+    ],
+    "answer": 0,
+    "explanation": "La heterogeneidad exige procesos, formación y control de calidad.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-107",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En servicios, la perecibilidad implica principalmente que:",
+    "options": [
+      "La capacidad no utilizada no puede almacenarse para venderla después",
+      "El resultado puede variar según persona, momento, cliente y contexto",
+      "Producción y consumo pueden coincidir y exigir interacción con el cliente",
+      "La calidad debe hacerse visible mediante evidencia, referencias y garantías"
+    ],
+    "answer": 0,
+    "explanation": "La perecibilidad obliga a gestionar demanda, agenda, personal y capacidad.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-108",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En los modos OMC de servicios, ¿qué caracteriza al modo 1?",
+    "options": [
+      "El servicio cruza la frontera sin desplazarse proveedor ni cliente",
+      "El cliente viaja al país del proveedor para consumir el servicio",
+      "La empresa establece una presencia comercial en el país de destino",
+      "El profesional se desplaza temporalmente al país del cliente"
+    ],
+    "answer": 0,
+    "explanation": "El modo 1 es suministro transfronterizo, normalmente remoto o digital.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-109",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En los modos OMC de servicios, ¿qué caracteriza al modo 2?",
+    "options": [
+      "El cliente se desplaza al país del proveedor para recibir el servicio",
+      "El servicio cruza la frontera sin desplazamiento de las partes",
+      "La empresa abre una oficina o filial en el mercado de destino",
+      "El profesional viaja temporalmente al país del cliente"
+    ],
+    "answer": 0,
+    "explanation": "El modo 2 es consumo en el extranjero.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-110",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En los modos OMC de servicios, ¿qué caracteriza al modo 3?",
+    "options": [
+      "La organización establece una presencia comercial en el mercado de destino",
+      "El profesional se desplaza temporalmente sin presencia permanente",
+      "El servicio se presta a distancia mediante telecomunicaciones",
+      "El cliente viaja al país del proveedor para consumir el servicio"
+    ],
+    "answer": 0,
+    "explanation": "En modo 3 se desplaza o establece la empresa mediante oficina, filial, franquicia u otra presencia.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-111",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "En los modos OMC de servicios, ¿qué caracteriza al modo 4?",
+    "options": [
+      "El profesional se desplaza temporalmente al país del cliente",
+      "La empresa establece una presencia comercial en el mercado de destino",
+      "El cliente viaja al país del proveedor para recibir el servicio",
+      "El servicio cruza la frontera sin desplazamiento de las partes"
+    ],
+    "answer": 0,
+    "explanation": "El modo 4 es presencia temporal de personas físicas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-112",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué ventaja puede tener para una empresa de servicios seguir a un cliente tractor?",
+    "options": [
+      "Entrar en otro mercado apoyándose en una relación ya construida",
+      "Reducir el esfuerzo comercial inicial al acompañar una relación existente",
+      "Conocer parte de la demanda antes de buscar nuevos clientes locales",
+      "Aprovechar referencias previas para disminuir el riesgo percibido"
+    ],
+    "answer": 0,
+    "explanation": "Acompañar a un cliente internacionalizado reduce parte de la incertidumbre comercial inicial.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-113",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué implica elegir una plataforma digital como vía de acceso internacional?",
+    "options": [
+      "Aceptar sus reglas, comisiones, datos y grado de control sobre el cliente",
+      "Mantener control completo sobre precios, datos y relación comercial",
+      "Reducir la importancia del país, la regulación y la fiscalidad aplicables",
+      "Disminuir la dependencia de terceros gracias a los efectos de red"
+    ],
+    "answer": 0,
+    "explanation": "La plataforma puede convertirse en unidad de acceso, pero introduce dependencia y reglas propias.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-114",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué se externaliza principalmente en un modelo ITO?",
+    "options": [
+      "Infraestructura y operaciones de tecnología de la información",
+      "Procesos repetibles de atención, administración o back office",
+      "Procesos intensivos en investigación, análisis o decisión experta",
+      "Actividades comerciales y gestión de distribuidores internacionales"
+    ],
+    "answer": 0,
+    "explanation": "ITO significa Information Technology Outsourcing.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-115",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué se externaliza principalmente en un modelo BPO?",
+    "options": [
+      "Procesos empresariales repetibles de atención o back office",
+      "Infraestructura y operaciones de tecnología de la información",
+      "Investigación, análisis y tareas de conocimiento experto",
+      "Activos estratégicos de marca, datos y propiedad intelectual"
+    ],
+    "answer": 0,
+    "explanation": "BPO significa Business Process Outsourcing.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-116",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué se externaliza principalmente en un modelo KPO?",
+    "options": [
+      "Procesos intensivos en conocimiento, análisis o decisión experta",
+      "Procesos administrativos repetitivos y altamente estandarizados",
+      "Infraestructura tecnológica y soporte básico de sistemas",
+      "Actividades productivas físicas con bajo contenido de conocimiento"
+    ],
+    "answer": 0,
+    "explanation": "KPO significa Knowledge Process Outsourcing.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-117",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué principio destaca el temario sobre externalización internacional?",
+    "options": [
+      "Externalizar una actividad no significa externalizar la responsabilidad por el resultado",
+      "Externalizar una actividad transfiere también el control estratégico al proveedor",
+      "Cuanto más crítica es una actividad, más conveniente resulta externalizarla",
+      "La externalización reduce la necesidad de supervisar calidad y continuidad"
+    ],
+    "answer": 0,
+    "explanation": "La empresa debe conservar gobierno, calidad, continuidad y control de activos críticos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-118",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Qué incluye el capital digital o intangible en la segunda parte del temario?",
+    "options": [
+      "Datos, software, algoritmos, diseño, marca, propiedad intelectual y conocimiento",
+      "Maquinaria, instalaciones, inventarios, almacenes y capacidad productiva",
+      "Deuda, capital social, tesorería, créditos comerciales y reservas",
+      "Clientes, distribuidores, proveedores, contratos y redes logísticas físicas"
+    ],
+    "answer": 0,
+    "explanation": "El capital digital puede replicarse a bajo coste, pero también quedar obsoleto o desprotegido.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-119",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿De qué depende la utilidad empresarial de la IA generativa y de los agentes inteligentes?",
+    "options": [
+      "De datos, reglas, supervisión y conexión con procesos reales",
+      "De utilizar el modelo más grande aunque no exista integración con procesos",
+      "De automatizar el mayor número de tareas reduciendo la supervisión humana",
+      "De sustituir procesos existentes antes de medir calidad, seguridad o riesgo"
+    ],
+    "answer": 0,
+    "explanation": "La tecnología crea valor cuando está gobernada e integrada en procesos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true,
+    "part": 2
+  },
+  {
+    "id": "est-120",
+    "subject": "estrategias",
+    "subjectName": "Estrategias de Negocios Internacionales",
+    "source": "Apuntes_Estrategias_de_Negocios_Internacionales.docx",
+    "question": "¿Cuándo existe verdadera disrupción digital según el temario?",
+    "options": [
+      "Cuando tecnología y modelo de negocio alteran costes, experiencia, canal o reglas competitivas",
+      "Cuando una empresa incorpora una herramienta digital nueva a un proceso existente",
+      "Cuando se automatiza una tarea sin modificar la propuesta de valor",
+      "Cuando aumenta el volumen de datos aunque no cambie la forma de competir"
+    ],
+    "answer": 0,
+    "explanation": "La disrupción no es simplemente usar una herramienta nueva; cambia la lógica competitiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true,
+    "part": 2
   }
 ]
