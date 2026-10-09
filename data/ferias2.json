@@ -1,0 +1,452 @@
+[
+  {
+    "id": "fer2-001",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa considera que asistir a una feria solo es una acción de promoción. ¿Qué objeción refleja mejor el temario?",
+    "options": [
+      "La feria también afecta a producto, precio y distribución, porque permite demostrar, comparar ofertas y buscar canales",
+      "La feria pertenece únicamente a distribución, ya que su función principal es encontrar intermediarios",
+      "La feria se limita a producto y promoción, pero no aporta información sobre precios ni canales",
+      "La feria solo forma parte del marketing si el visitante es consumidor final"
+    ],
+    "answer": 0,
+    "explanation": "El material vincula las ferias con las cuatro P: producto, precio, distribución y promoción.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-002",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una feria recibe 100.000 visitantes, pero solo 500 encajan con el comprador objetivo; otra recibe 20.000 y 2.000 encajan. ¿Qué criterio debe pesar más?",
+    "options": [
+      "El porcentaje y número de compradores realmente relevantes para la estrategia, no el volumen total de público",
+      "El tamaño total de la feria, porque más visitantes garantizan más ventas",
+      "La notoriedad mediática del evento, aunque el público objetivo sea reducido",
+      "La superficie expositiva, porque indica de forma directa la calidad de los contactos"
+    ],
+    "answer": 0,
+    "explanation": "La selección debe partir del comprador objetivo y del encaje real; una feria mayor no es necesariamente mejor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-003",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué diferencia correctamente un impacto directo de uno indirecto en una feria?",
+    "options": [
+      "El alojamiento de asistentes es directo; la demanda trasladada a proveedores del recinto es indirecta",
+      "El gasto salarial de un trabajador es directo; el alojamiento de un asistente es inducido",
+      "Las ventas entre expositores son directas; los servicios de montaje son inducidos",
+      "El alquiler del recinto es indirecto; el consumo de salarios es directo"
+    ],
+    "answer": 0,
+    "explanation": "Directo es gasto de organización/asistencia; indirecto es la cadena de proveedores; inducido es el consumo de rentas salariales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-004",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un trabajador de un hotel que obtuvo ingresos gracias a la feria utiliza su salario para comprar en comercios locales. ¿Qué tipo de impacto representa?",
+    "options": [
+      "Inducido, porque deriva del gasto de las rentas salariales generadas por la actividad ferial",
+      "Directo, porque el trabajador participa económicamente en el territorio anfitrión",
+      "Indirecto, porque cualquier compra posterior pertenece a la cadena de suministro del recinto",
+      "Comercial, porque se trata de una venta atribuible a un expositor"
+    ],
+    "answer": 0,
+    "explanation": "El impacto inducido recoge gasto en la economía general realizado con salarios generados por los efectos directos e indirectos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-005",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Por qué el negocio cerrado entre expositores y visitantes no debe sumarse sin más al gasto directo UFI?",
+    "options": [
+      "Porque el gasto directo mide producir y asistir al evento, mientras el negocio comercial generado es una magnitud distinta",
+      "Porque las ventas entre participantes se consideran siempre impacto inducido",
+      "Porque UFI solo contabiliza gasto del organizador y excluye visitantes y expositores",
+      "Porque una venta surgida en feria nunca puede atribuirse económicamente al evento"
+    ],
+    "answer": 0,
+    "explanation": "El temario distingue gasto directo de la actividad ferial y negocio comercial que puede surgir de ella.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-006",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa fija como objetivo «conseguir distribuidores». ¿Qué falta para convertirlo mejor en un objetivo SMART?",
+    "options": [
+      "Precisar cantidad, criterios de encaje y plazo de evaluación, además de asegurar que sea alcanzable y relevante",
+      "Añadir únicamente el nombre de la feria, porque eso ya lo hace específico y temporal",
+      "Expresarlo como deseo general de mejorar la imagen, sin necesidad de medirlo",
+      "Sustituirlo por un objetivo de visitantes totales, porque es más fácil de contar"
+    ],
+    "answer": 0,
+    "explanation": "SMART exige objetivo específico, medible, alcanzable, relevante y con plazo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-007",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué secuencia temporal encaja mejor con la preparación ferial del material?",
+    "options": [
+      "6–12 meses: elección y presupuesto; 3–6: stand/logística; 1–3: invitaciones y agenda; durante: reuniones; después: seguimiento",
+      "6–12 meses: cerrar ventas; 3–6: seguimiento; 1–3: elegir feria; durante: diseñar stand; después: fijar objetivos",
+      "6–12 meses: reservar muestras; 3–6: evaluar resultados; 1–3: decidir mercado; durante: elaborar presupuesto; después: agenda",
+      "6–12 meses: comunicación final; 3–6: medición; 1–3: liquidación; durante: prospección; después: selección de la feria"
+    ],
+    "answer": 0,
+    "explanation": "La planificación avanza desde selección/objetivos a logística, captación de reuniones, ejecución y conversión posterior.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-008",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un contacto muestra una necesidad definida y acepta una reunión de seguimiento con fecha concreta. ¿Cómo debería clasificarse?",
+    "options": [
+      "Como prioridad A, porque existe necesidad y un siguiente paso claro",
+      "Como prioridad B, porque cualquier contacto de feria debe madurar antes de ser A",
+      "Como prioridad C, porque todavía no ha firmado un contrato",
+      "Como venta cerrada, porque ya existe un siguiente paso acordado"
+    ],
+    "answer": 0,
+    "explanation": "La prioridad A se caracteriza por necesidad identificada y siguiente paso concreto; no equivale aún a venta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-009",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué significa que el pipeline esté «sin ponderar»?",
+    "options": [
+      "Es el valor potencial total de oportunidades identificadas antes de ajustarlas por probabilidad de cierre",
+      "Es el importe ya cobrado de las ventas atribuibles a la feria",
+      "Es el margen neto generado después de deducir el coste del evento",
+      "Es el presupuesto disponible que todavía no se ha gastado"
+    ],
+    "answer": 0,
+    "explanation": "Pipeline no son ventas cerradas; sin ponderar significa que aún no se ajusta por probabilidad de conversión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-010",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Tras una feria se obtienen 200 contactos y 40 leads cualificados. ¿Qué error sería interpretar 200 como oportunidades equivalentes?",
+    "options": [
+      "Confundir contacto con lead cualificado y no priorizar según encaje, necesidad y plazo",
+      "Confundir gasto directo con gasto indirecto de los asistentes",
+      "Confundir visitante profesional con consumidor final",
+      "Confundir objetivo estratégico con objetivo temporal"
+    ],
+    "answer": 0,
+    "explanation": "Un contacto puede carecer de encaje; la cualificación separa información genérica de oportunidades con potencial real.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-011",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Cuál es la primera tarea recomendada en las 24–48 horas posteriores a la feria?",
+    "options": [
+      "Depurar, completar y clasificar los contactos para poder priorizar el seguimiento",
+      "Enviar la misma oferta estándar a todos los visitantes del stand",
+      "Calcular de forma definitiva las ventas atribuibles a 12 meses",
+      "Cambiar el posicionamiento de precio antes de revisar las conversaciones"
+    ],
+    "answer": 0,
+    "explanation": "Primero se ordenan y cualifican los contactos; después se personaliza el seguimiento.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-012",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una participación cuesta 25.000 € y genera 60.000 € de ventas con margen del 50 %. ¿Qué enfoque de ROI financiero es más coherente con el material?",
+    "options": [
+      "Usar el margen atribuible: (30.000 − 25.000) / 25.000 = 20 %",
+      "Usar las ventas brutas: (60.000 − 25.000) / 25.000 = 140 % como única medida válida",
+      "Dividir visitantes entre coste, porque el ROI no debe usar resultados económicos",
+      "Usar el pipeline potencial, aunque no se haya convertido, como si fuera margen realizado"
+    ],
+    "answer": 0,
+    "explanation": "El temario diferencia el cálculo docente con ventas del enfoque financiero basado en margen atribuible; este último refleja mejor rentabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-013",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Si el coste total de una feria es 30.000 € y se obtienen 60 leads cualificados, ¿qué KPI se calcula con 30.000/60?",
+    "options": [
+      "Coste por lead cualificado",
+      "Tasa de conversión contacto-cliente",
+      "Valor medio por lead",
+      "Pipeline ponderado"
+    ],
+    "answer": 0,
+    "explanation": "El coste por lead cualificado divide el coste total entre los leads que superan los criterios de cualificación.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-014",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué significa utilizar una feria como «laboratorio de mercado»?",
+    "options": [
+      "Contrastar hipótesis sobre demanda, producto, precio, competencia y objeciones con compradores reales",
+      "Sustituir definitivamente las fuentes estadísticas por impresiones del stand",
+      "Dar por validado el mercado si la feria recibe muchos visitantes",
+      "Reducir la feria a una demostración técnica sin recoger información"
+    ],
+    "answer": 0,
+    "explanation": "La feria permite observar y contrastar, pero no garantiza éxito ni sustituye el análisis de mercado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-015",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué relación establece el material entre ferias virtuales y presenciales?",
+    "options": [
+      "Las soluciones digitales complementan la experiencia presencial y amplían prospección, comunicación y seguimiento",
+      "La modalidad virtual sustituye de forma general el contacto físico en mercados B2B",
+      "La feria presencial solo sigue siendo útil para consumidores finales",
+      "Los formatos híbridos eliminan la necesidad de registrar y seguir contactos"
+    ],
+    "answer": 0,
+    "explanation": "La tecnología se plantea como complemento, no como sustitución universal de la interacción presencial.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-016",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un organizador usa IA para proponer reuniones entre asistentes con perfiles compatibles. ¿Qué aplicación describe?",
+    "options": [
+      "Matchmaking para facilitar encuentros potencialmente relevantes",
+      "Cálculo automático del IVA de los expositores",
+      "Fijación unilateral de precios de mercado",
+      "Conversión garantizada de leads en contratos"
+    ],
+    "answer": 0,
+    "explanation": "El material menciona IA para emparejamiento y apoyo al visitante, no para sustituir decisiones comerciales.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-017",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una región anfitriona obtiene empleo, actividad, ingresos e imagen gracias a una feria. ¿Qué muestra este ejemplo?",
+    "options": [
+      "Que el efecto del evento trasciende al organizador y a los expositores y alcanza al territorio",
+      "Que solo los visitantes generan impacto económico relevante",
+      "Que el reconocimiento territorial es un resultado exclusivo de las ferias B2C",
+      "Que la región recibe únicamente impactos inducidos y nunca directos o indirectos"
+    ],
+    "answer": 0,
+    "explanation": "La región anfitriona recibe efectos económicos y reputacionales derivados del evento.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-018",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa está explorando un mercado nuevo y aún no sabe qué canal utilizar. ¿Qué objetivo ferial encaja mejor con esa fase?",
+    "options": [
+      "Entender demanda, competidores y condiciones del mercado antes de decidir la entrada",
+      "Fidelizar socios existentes y consolidar relaciones ya maduras",
+      "Maximizar exclusivamente ventas inmediatas en el stand",
+      "Cerrar la atribución final de resultados a doce meses"
+    ],
+    "answer": 0,
+    "explanation": "En la fase de explorar, la feria sirve para aprender y contrastar antes de elegir canales o socios.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-019",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa ya ha decidido entrar y busca importadores y distribuidores. ¿Qué fase estratégica representa?",
+    "options": [
+      "Entrar: localizar canales, representantes, importadores y socios",
+      "Explorar: observar únicamente tendencias sin contactar candidatos",
+      "Consolidar: reforzar exclusivamente clientes ya existentes",
+      "Crecer: ampliar cuota en una red de distribución ya establecida"
+    ],
+    "answer": 0,
+    "explanation": "El objetivo de entrada es encontrar los canales y socios que permitan operar en el mercado.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-020",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué interpretación es correcta sobre una feria B2B?",
+    "options": [
+      "El público principal son profesionales y el ciclo de compra suele exigir seguimiento para convertir contactos en acuerdos",
+      "El resultado típico es únicamente venta inmediata al consumidor final",
+      "El comprador profesional no necesita seguimiento porque decide siempre durante el evento",
+      "B2B describe el sector de la feria y no el tipo de público al que se dirige"
+    ],
+    "answer": 0,
+    "explanation": "B2B se refiere al público profesional y suele implicar ciclos de decisión más largos que requieren seguimiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-021",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Por qué una empresa debería registrar cada conversación relevante durante la feria y no reconstruirla días después?",
+    "options": [
+      "Porque los matices de necesidad, objeciones y siguientes pasos se pierden y son esenciales para cualificar el lead",
+      "Porque el registro sustituye la necesidad de hablar con el contacto después",
+      "Porque el CRM convierte automáticamente cada registro en una venta",
+      "Porque solo los contactos registrados pueden computarse como gasto directo"
+    ],
+    "answer": 0,
+    "explanation": "Registrar en el momento mejora la calidad del seguimiento y evita perder información decisiva.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-022",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Cuál de estas actuaciones refleja mejor una buena gestión del stand?",
+    "options": [
+      "Asignar recepción, comercial, especialista y coordinación para atraer, cualificar, demostrar y registrar",
+      "Concentrar a todo el equipo en repartir catálogos para maximizar el número de contactos",
+      "Priorizar la estética del stand aunque nadie sea responsable de los siguientes pasos",
+      "Evitar que el especialista técnico participe para no alargar las conversaciones"
+    ],
+    "answer": 0,
+    "explanation": "El stand es una herramienta comercial: los roles deben cubrir apertura, cualificación, demostración y registro/agenda.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-023",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "La industria ferial mundial registra un gasto directo de 150.000 M€ y un PIB total sustentado de 215.400 M€. ¿Qué conclusión es válida?",
+    "options": [
+      "Son magnitudes distintas: el PIB total sustentado incorpora efectos más amplios que el gasto directo",
+      "El PIB total es simplemente la suma de ventas cerradas por los expositores",
+      "El gasto directo incluye todas las operaciones comerciales entre asistentes",
+      "Ambas cifras miden exactamente lo mismo con dos métodos contables distintos"
+    ],
+    "answer": 0,
+    "explanation": "El material separa gasto directo de la actividad ferial y PIB total sustentado por efectos directos, indirectos e inducidos.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-024",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa supera el objetivo de reuniones y leads, pero obtiene menos distribuidores potenciales de los previstos. ¿Qué lectura es más útil?",
+    "options": [
+      "La feria puede haber funcionado en actividad pero no plenamente en encaje de canal, por lo que debe revisarse la calidad del público y la conversión",
+      "El evento debe considerarse automáticamente un éxito porque cualquier objetivo superado compensa los demás",
+      "Debe sumarse el pipeline a las ventas para ocultar el déficit de distribuidores",
+      "La única métrica relevante es el número total de visitantes del recinto"
+    ],
+    "answer": 0,
+    "explanation": "Los resultados deben analizarse por dimensiones; cumplir métricas de actividad no garantiza alcanzar el objetivo estratégico de canal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-025",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Por qué el seguimiento puede ser más importante que el número bruto de tarjetas recogidas?",
+    "options": [
+      "Porque el valor aparece al cualificar, acordar próximos pasos y convertir oportunidades, no al acumular contactos sin acción",
+      "Porque solo los leads seguidos cuentan como visitantes oficiales",
+      "Porque el seguimiento transforma cualquier contacto en cliente con probabilidad del 100 %",
+      "Porque el número de tarjetas no puede registrarse como dato de marketing"
+    ],
+    "answer": 0,
+    "explanation": "Un contacto no equivale a lead, oportunidad ni venta; el seguimiento es el proceso que permite avanzar entre esas etapas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
