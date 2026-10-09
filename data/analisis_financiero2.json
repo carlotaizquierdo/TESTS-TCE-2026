@@ -1,0 +1,452 @@
+[
+  {
+    "id": "fin2-001",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene activo corriente de 180.000 € y pasivo corriente de 150.000 €. ¿Qué indica un fondo de maniobra de 30.000 €?",
+    "options": [
+      "Existe un colchón contable corriente positivo, aunque debe analizarse la calidad de existencias y clientes",
+      "La empresa dispone necesariamente de 30.000 € en caja",
+      "La empresa tiene un goodwill de 30.000 €",
+      "La empresa genera 30.000 € de beneficio operativo anual"
+    ],
+    "answer": 0,
+    "explanation": "Fondo de maniobra = AC−PC; no equivale a caja ni a fondo de comercio y su calidad depende de los componentes del activo corriente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-002",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas tienen el mismo fondo de maniobra positivo. Una tiene sobre todo caja y la otra inventario obsoleto. ¿Pueden considerarse igual de líquidas?",
+    "options": [
+      "No; el importe agregado es igual, pero la calidad y convertibilidad del activo corriente son distintas",
+      "Sí; un fondo de maniobra igual implica necesariamente idéntica liquidez real",
+      "Sí, porque las existencias siempre se convierten en caja al valor contable",
+      "No, porque un fondo de maniobra positivo significa insolvencia en ambos casos"
+    ],
+    "answer": 0,
+    "explanation": "El fondo de maniobra debe interpretarse junto con composición del activo y prueba ácida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-003",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Qué diferencia existe entre fondo de maniobra y fondo de comercio?",
+    "options": [
+      "El primero es AC−PC; el segundo es goodwill asociado, entre otros casos, a una adquisición empresarial",
+      "Ambos representan la caja disponible después de pagar deudas corrientes",
+      "El fondo de comercio es AC−PC y el de maniobra mide intangibles",
+      "Son dos nombres para el mismo indicador según PGC e IFRS"
+    ],
+    "answer": 0,
+    "explanation": "Es una trampa señalada expresamente: working capital y goodwill son conceptos completamente distintos.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-004",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa vende 500.000 €, tiene coste de ventas de 300.000 €, gastos operativos sin D&A de 120.000 € y D&A de 20.000 €. ¿Cuál es su EBITDA?",
+    "options": [
+      "80.000 €",
+      "60.000 €",
+      "100.000 €",
+      "180.000 €"
+    ],
+    "answer": 0,
+    "explanation": "Margen bruto 200.000; menos gastos operativos sin D&A 120.000 = EBITDA 80.000. D&A se resta después para llegar al EBIT.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-005",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "En el caso anterior, ¿qué afirmación describe correctamente EBITDA y EBIT?",
+    "options": [
+      "EBITDA es 80.000 € y EBIT 60.000 € porque el EBIT descuenta D&A",
+      "EBITDA es 60.000 € y EBIT 80.000 € porque D&A se suma al resultado operativo",
+      "Ambos son 80.000 € porque la amortización no afecta a resultados",
+      "EBIT se calcula después de intereses e impuestos y por eso no puede obtenerse aún"
+    ],
+    "answer": 0,
+    "explanation": "EBIT = EBITDA−D&A; intereses actúan después para llegar al EBT.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-006",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué se dice que la amortización/depreciación del periodo es un gasto que no implica ese mismo pago de caja en el periodo?",
+    "options": [
+      "Porque reparte contablemente el coste de un activo adquirido en otro momento, reduciendo EBIT sin una salida equivalente de efectivo cada año",
+      "Porque la amortización nunca afecta al beneficio contable",
+      "Porque cualquier activo se recibe gratis y solo se registra su desgaste",
+      "Porque la amortización es siempre devolución de principal de un préstamo"
+    ],
+    "answer": 0,
+    "explanation": "D&A es gasto contable; la compra del activo es un flujo de inversión y la amortización financiera de deuda es otro concepto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-007",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa vende a crédito y reconoce ingreso hoy, pero cobrará dentro de 90 días. ¿Qué sucede inicialmente?",
+    "options": [
+      "Suben ingresos y clientes, pero la caja no aumenta todavía por ese cobro",
+      "Suben ingresos y caja simultáneamente porque rige el principio de caja",
+      "Aumenta CFI porque los clientes son un activo",
+      "No se reconoce ingreso hasta que el cliente pague"
+    ],
+    "answer": 0,
+    "explanation": "El principio de devengo separa ingreso y cobro; la cuenta de clientes recoge el derecho pendiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-008",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa rentable entra en tensión de pagos porque vende mucho a crédito y sus clientes tardan en pagar. ¿Qué demuestra?",
+    "options": [
+      "Beneficio y liquidez no son equivalentes; puede haber resultado positivo sin caja suficiente",
+      "Una empresa con beneficio nunca puede incumplir pagos",
+      "Las ventas a crédito reducen siempre el beneficio neto",
+      "El estado de flujos de efectivo es innecesario cuando existe cuenta de resultados"
+    ],
+    "answer": 0,
+    "explanation": "La rentabilidad económica no garantiza tesorería inmediata.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-009",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa industrial vende una máquina usada que formaba parte de su inmovilizado. ¿En qué bloque del estado de flujos se clasifica normalmente el cobro?",
+    "options": [
+      "CFI, porque procede de la venta de un activo no corriente",
+      "CFO, porque toda venta genera flujo operativo",
+      "CFF, porque reduce el activo y por tanto financia a la empresa",
+      "No aparece en el estado de flujos porque ya estaba amortizada"
+    ],
+    "answer": 0,
+    "explanation": "La venta de inmovilizado es flujo de inversión, salvo que vender esos activos sea la actividad ordinaria del negocio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-010",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa recibe un nuevo préstamo bancario. ¿Cómo se refleja en el estado de flujos?",
+    "options": [
+      "Como entrada de CFF, al tratarse de financiación",
+      "Como entrada de CFO, porque aumenta la caja disponible para operar",
+      "Como entrada de CFI, porque puede utilizarse para comprar maquinaria",
+      "Como ingreso de la cuenta de resultados y beneficio del ejercicio"
+    ],
+    "answer": 0,
+    "explanation": "Recibir deuda es flujo de financiación; su destino posterior puede generar otros flujos, pero no cambia su clasificación.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-011",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta CFO +55, CFI −70 y CFF +30. ¿Qué lectura es más correcta?",
+    "options": [
+      "La explotación genera caja, la empresa invierte más de ese importe y cubre parte con financiación externa",
+      "El CFI negativo demuestra necesariamente destrucción de valor",
+      "El CFF positivo demuestra necesariamente mejora de solvencia",
+      "La empresa tiene pérdidas porque el flujo de inversión es negativo"
+    ],
+    "answer": 0,
+    "explanation": "Los signos no son buenos o malos por sí mismos; importa qué operaciones los explican.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-012",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene ROE muy superior a ROA. ¿Qué posible explicación debe investigarse?",
+    "options": [
+      "Un elevado apalancamiento que reduce el patrimonio relativo y amplifica la rentabilidad del accionista",
+      "Que la empresa no tiene ninguna deuda financiera",
+      "Que las ventas son necesariamente inferiores al activo",
+      "Que el ROE y el ROA miden exactamente la misma base"
+    ],
+    "answer": 0,
+    "explanation": "La deuda puede elevar ROE al reducir el capital propio relativo, aunque también aumenta riesgo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-013",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas tienen ROE del 20 %. ¿Qué aporta el análisis DuPont?",
+    "options": [
+      "Permite distinguir si el ROE procede de margen, rotación de activos o apalancamiento financiero",
+      "Permite saber cuál tiene más caja sin consultar el balance",
+      "Demuestra que ambas tienen idéntico riesgo y modelo de negocio",
+      "Convierte el ROE en una medida de liquidez corriente"
+    ],
+    "answer": 0,
+    "explanation": "DuPont descompone el mismo ROE en sus motores económicos y financieros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-014",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una cobertura de intereses de 0,8 veces significa que:",
+    "options": [
+      "El EBIT no alcanza a cubrir el gasto financiero del periodo",
+      "La empresa tiene 0,8 € de caja por cada euro de deuda",
+      "Los intereses representan el 80 % del patrimonio neto",
+      "La deuda neta es 0,8 veces el activo corriente"
+    ],
+    "answer": 0,
+    "explanation": "Cobertura = EBIT/intereses; por debajo de 1 el resultado operativo no cubre los intereses.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-015",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué una prueba ácida puede ser más exigente que el ratio de liquidez corriente?",
+    "options": [
+      "Porque excluye existencias y mide capacidad de cubrir pasivo corriente sin depender de vender inventario",
+      "Porque añade el inmovilizado al activo corriente",
+      "Porque excluye caja y clientes y solo mantiene inventario",
+      "Porque sustituye el pasivo corriente por patrimonio neto"
+    ],
+    "answer": 0,
+    "explanation": "Prueba ácida = (AC−existencias)/PC.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-016",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa concede más plazo de pago a clientes y aumenta inventario, sin que cambien proveedores. ¿Qué sucede con las NOF simplificadas?",
+    "options": [
+      "Aumentan y, en principio, consumen caja",
+      "Disminuyen porque clientes e inventario son activos",
+      "No cambian porque las NOF solo dependen de proveedores",
+      "Se convierten automáticamente en fondo de maniobra negativo"
+    ],
+    "answer": 0,
+    "explanation": "NOF = clientes+existencias−proveedores; aumentos de los dos primeros inmovilizan financiación operativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-017",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si los proveedores conceden más plazo y el resto permanece constante, ¿qué efecto tiene sobre NOF?",
+    "options": [
+      "Aumentan proveedores, bajan NOF y se conserva/libera caja temporalmente",
+      "Aumentan NOF porque cualquier pasivo consume caja",
+      "No hay efecto porque proveedores no forman parte del ciclo operativo",
+      "Disminuye el EBITDA en el mismo importe que suben proveedores"
+    ],
+    "answer": 0,
+    "explanation": "La financiación espontánea de proveedores reduce la necesidad operativa de fondos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-018",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Qué diferencia conceptual existe entre fondo de maniobra y NOF?",
+    "options": [
+      "El fondo de maniobra es una medida contable AC−PC; las NOF estiman financiación necesaria del ciclo operativo",
+      "Son fórmulas idénticas con distinto nombre",
+      "Las NOF solo miden deuda bancaria y el fondo de maniobra inventario",
+      "El fondo de maniobra pertenece a la cuenta de resultados y las NOF al balance"
+    ],
+    "answer": 0,
+    "explanation": "Pueden relacionarse, pero no miden exactamente lo mismo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-019",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa aumenta ventas, beneficio y EBITDA, pero también clientes e inventario mucho más rápido. ¿Por qué puede caer su FCF?",
+    "options": [
+      "Porque el aumento de NOF absorbe efectivo aunque mejore el resultado operativo",
+      "Porque todo crecimiento de ventas reduce automáticamente el EBIT",
+      "Porque clientes e inventario se suman al FCF como entradas de caja",
+      "Porque el FCF ignora por completo el capital circulante"
+    ],
+    "answer": 0,
+    "explanation": "El FCF resta el incremento de NOF; crecer puede requerir financiar el ciclo antes de cobrar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-020",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Con EBIT 100, tipo fiscal 25 %, D&A 20, aumento de NOF 15 y CapEx 30, ¿cuál es el FCF?",
+    "options": [
+      "50",
+      "80",
+      "95",
+      "35"
+    ],
+    "answer": 0,
+    "explanation": "FCF = 100×(1−0,25)+20−15−30 = 50.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-021",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si las NOF pasan de 130 a 110, ¿cómo afecta el cambio al FCF?",
+    "options": [
+      "ΔNOF es −20; al restarlo se suman 20 porque se libera caja",
+      "ΔNOF es +20 y se restan 20 porque se consume caja",
+      "No afecta al FCF porque solo importan EBIT y CapEx",
+      "Reduce D&A en 20 y deja igual la caja"
+    ],
+    "answer": 0,
+    "explanation": "Una disminución de NOF libera efectivo: restar un cambio negativo aumenta FCF.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-022",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué el coste de la deuda aparece multiplicado por (1−T) en el WACC?",
+    "options": [
+      "Porque, bajo las condiciones fiscales aplicables, los intereses pueden generar un ahorro fiscal",
+      "Porque la deuda deja de tener coste después de impuestos",
+      "Porque el principal del préstamo se deduce íntegramente del Impuesto sobre Sociedades",
+      "Porque el WACC solo utiliza financiación después de amortizaciones"
+    ],
+    "answer": 0,
+    "explanation": "El factor refleja el escudo fiscal de los intereses cuando son deducibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-023",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si aumenta el WACC y los flujos futuros permanecen iguales, ¿qué ocurre con el valor calculado por DCF?",
+    "options": [
+      "Disminuye, porque los flujos se descuentan a una tasa mayor",
+      "Aumenta, porque una mayor rentabilidad exigida eleva el valor presente",
+      "No cambia, porque el WACC solo afecta a la estructura de capital",
+      "Aumenta únicamente el valor terminal, pero no los flujos explícitos"
+    ],
+    "answer": 0,
+    "explanation": "Mayor tasa de descuento reduce el valor presente de flujos futuros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-024",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa sube el coste variable unitario manteniendo precio y costes fijos. ¿Qué ocurre con el punto muerto?",
+    "options": [
+      "Baja el margen de contribución y aumenta el número de unidades necesarias para cubrir costes fijos",
+      "Sube el margen de contribución y disminuye el punto muerto",
+      "El punto muerto no cambia porque los costes fijos son iguales",
+      "El punto muerto disminuye porque cada unidad cuesta más producirla"
+    ],
+    "answer": 0,
+    "explanation": "PM = CF/(precio−CVU); si el denominador cae, el punto muerto sube.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-025",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa ya gastó 20.000 € en un prototipo. Terminarlo exige 8.000 € adicionales y solo generará 3.000 €. ¿Qué decisión ilustra correctamente el concepto de coste hundido?",
+    "options": [
+      "Los 20.000 € pasados no deben condicionar la decisión; continuar destruiría 5.000 € adicionales frente a abandonar",
+      "Debe continuar para recuperar al menos una parte de los 20.000 € ya gastados",
+      "Debe sumar 20.000 € al beneficio esperado antes de comparar alternativas",
+      "El gasto pasado se convierte en coste variable de las futuras unidades"
+    ],
+    "answer": 0,
+    "explanation": "Los costes hundidos no cambian entre alternativas futuras; lo relevante son los flujos incrementales desde hoy.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
