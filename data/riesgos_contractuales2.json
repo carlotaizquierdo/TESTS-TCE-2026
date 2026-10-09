@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mul2-001",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Al hacer una primera lectura de un pliego internacional, ¿qué enfoque recomienda el temario?",
+    "options": [
+      "Revisar primero los puntos que pueden volver inviable la operación antes de profundizar en todo el contrato",
+      "Analizar todas las cláusulas con idéntico detalle antes de identificar riesgos críticos",
+      "Calcular únicamente el margen esperado y revisar el contrato después de adjudicar",
+      "Empezar por la descripción técnica y dejar pagos, garantías y ley aplicable para el final"
+    ],
+    "answer": 0,
+    "explanation": "La lectura rápida prioriza disponibilidad de fondos, pagos, acciones del cliente, garantías y ley/arbitraje porque pueden hacer inviable el proyecto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-002",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Por qué el periodo de disposición de fondos es un filtro crítico en un proyecto financiado?",
+    "options": [
+      "Porque la financiación puede expirar antes de adjudicar o ejecutar si el proceso real se retrasa",
+      "Porque determina automáticamente el Incoterm aplicable al suministro",
+      "Porque fija la duración de la garantía técnica del fabricante",
+      "Porque sustituye el calendario contractual de licitación y ejecución"
+    ],
+    "answer": 0,
+    "explanation": "El riesgo es quedarse sin la fuente de pago antes de completar el proyecto, especialmente cuando evaluación y adjudicación se retrasan.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-003",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Un contrato establece un pago al entregar, pero exige un certificado de aceptación que solo puede emitir el cliente. La mercancía ya llegó y el cliente no firma. ¿Qué riesgo se materializa?",
+    "options": [
+      "El pago previsto puede quedar bloqueado porque la condición documental depende de una actuación del cliente",
+      "El pago es exigible automáticamente por la mera llegada física, con independencia de los documentos",
+      "El proveedor puede sustituir unilateralmente el certificado por una factura propia",
+      "La falta de certificado convierte el pago en un anticipo garantizado"
+    ],
+    "answer": 0,
+    "explanation": "Un pago contractualmente previsto no es necesariamente cobrable si falta un documento exigido que controla un tercero.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-004",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué diferencia mejor la aceptación provisional de la definitiva en un suministro?",
+    "options": [
+      "La provisional comprueba recepción inicial y estado/contenido; la definitiva confirma funcionamiento y servicios conexos según contrato",
+      "La provisional es posterior al periodo de garantía y la definitiva ocurre al embarque",
+      "La provisional solo existe en obras y la definitiva solo en suministros",
+      "Ambas son equivalentes y se distinguen únicamente por el porcentaje de pago"
+    ],
+    "answer": 0,
+    "explanation": "La provisional suele ser física/documental; la definitiva llega tras instalación, puesta en marcha, pruebas, formación u otras obligaciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-005",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Un equipo llega completo en bultos, pero aún no se ha instalado ni probado. ¿Qué hito encaja mejor?",
+    "options": [
+      "Puede alcanzarse la aceptación provisional, pero todavía no necesariamente la definitiva",
+      "Debe considerarse aceptación definitiva porque el packing list coincide",
+      "Solo puede emitirse un certificado de avance de obra",
+      "La entrega física elimina cualquier obligación de formación o puesta en marcha"
+    ],
+    "answer": 0,
+    "explanation": "La recepción física no demuestra que el suministro sea plenamente utilizable ni que se hayan prestado servicios conexos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-006",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué problema intenta evitar una inspección independiente antes del embarque?",
+    "options": [
+      "Faltantes o errores que en destino podrían bloquear aceptación y obligar a costosos envíos urgentes",
+      "La aplicación de la ley del país del cliente en caso de litigio",
+      "El coste financiero del performance bond durante la garantía",
+      "La necesidad de presentar un bid bond en la licitación"
+    ],
+    "answer": 0,
+    "explanation": "El control preembarque contrasta el contenido real con el packing list y reduce incidencias logísticas y de cobro.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mul2-007",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "El cliente cambia el lugar de instalación y mantiene los equipos almacenados un año sin permitir el montaje. ¿Qué riesgos asume el proveedor?",
+    "options": [
+      "Retraso de aceptación y cobro, deterioro y consumo de garantía del fabricante por causas ajenas a su ejecución",
+      "Únicamente un riesgo de tipo de cambio, porque la entrega física ya cerró el contrato",
+      "Ningún riesgo si la aceptación provisional ya fue firmada",
+      "Solo la pérdida del bid bond, que permanece abierto durante toda la ejecución"
+    ],
+    "answer": 0,
+    "explanation": "El retraso del cliente puede afectar almacenamiento, garantía del fabricante, aceptación definitiva y pagos retenidos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-008",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué cláusula protectora puede negociarse si el proveedor entregó pero el cliente impide instalar durante un periodo prolongado sin culpa del proveedor?",
+    "options": [
+      "Que la aceptación provisional se convierta en definitiva tras un plazo pactado, manteniendo la obligación posterior de instalar",
+      "Que el proveedor quede liberado automáticamente de cualquier obligación futura desde el primer día de retraso",
+      "Que el bid bond se incremente mientras el cliente no facilite acceso",
+      "Que el precio deje de ser firme y se duplique de forma automática"
+    ],
+    "answer": 0,
+    "explanation": "El material menciona una aceptación definitiva por transcurso de plazo como protección frente a retrasos del cliente, sin eliminar necesariamente la instalación futura.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mul2-009",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Por qué permitir embarques y aceptaciones parciales puede mejorar la posición financiera del contratista?",
+    "options": [
+      "Porque una incidencia en una parte del suministro no bloquea necesariamente el cobro de todo el contrato",
+      "Porque elimina la obligación de presentar garantías bancarias",
+      "Porque convierte todos los pagos en anticipos no reembolsables",
+      "Porque permite modificar unilateralmente el precio firme de cada lote"
+    ],
+    "answer": 0,
+    "explanation": "La parcialización reduce el riesgo de que un problema aislado retenga todo el pago.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-010",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué función tiene el Bid Bond?",
+    "options": [
+      "Garantizar la seriedad y mantenimiento de la oferta durante la fase de licitación",
+      "Garantizar la reparación de defectos durante el periodo de garantía técnica",
+      "Garantizar el uso correcto del anticipo recibido por el contratista",
+      "Garantizar el cumplimiento general del contrato durante toda la ejecución"
+    ],
+    "answer": 0,
+    "explanation": "El Bid Bond es el aval de oferta; los otros supuestos corresponden al warranty bond, advance guarantee y performance bond.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-011",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Una empresa resulta adjudicataria. ¿Cuándo debería recuperar normalmente su Bid Bond según el esquema de clase?",
+    "options": [
+      "Cuando formaliza el contrato y abre el Performance Bond",
+      "Al terminar el periodo de garantía técnica",
+      "Cuando cobra el último pago tras la aceptación definitiva",
+      "Solo cuando vence el plazo de disposición de fondos"
+    ],
+    "answer": 0,
+    "explanation": "Para el adjudicatario, el aval de oferta se sustituye funcionalmente por la garantía de buena ejecución al formalizar el contrato.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-012",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Por qué la profesora insiste en recuperar el original de un aval a primera demanda cuando ya debe liberarse?",
+    "options": [
+      "Porque es un documento ejecutivo y no conviene dejarlo en poder del beneficiario más tiempo del necesario",
+      "Porque el original sirve como factura para deducir el IVA de la operación",
+      "Porque el banco solo cobra comisión mientras el proveedor conserve una copia",
+      "Porque sin el original no puede abrirse ningún otro aval del proyecto"
+    ],
+    "answer": 0,
+    "explanation": "Un aval a primera demanda tiene fuerza ejecutiva; su liberación material debe controlarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-013",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué caracteriza al Performance Bond?",
+    "options": [
+      "Cubre el cumplimiento general durante la ejecución y suele permanecer abierto hasta la aceptación definitiva o transición a garantía",
+      "Cubre únicamente la fase de presentación de la oferta y se devuelve al adjudicar",
+      "Equivale siempre al 100 % del anticipo y se reduce con cada embarque",
+      "Solo cubre defectos que aparezcan después de finalizar el proyecto"
+    ],
+    "answer": 0,
+    "explanation": "Es la garantía central de buena ejecución y en clase se cita un 10 % como referencia habitual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-014",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué garantía suele cubrir el 100 % del anticipo recibido?",
+    "options": [
+      "El aval de anticipo",
+      "El Bid Bond",
+      "El Performance Bond",
+      "El aval de garantía técnica"
+    ],
+    "answer": 0,
+    "explanation": "El advance payment guarantee protege al cliente frente al riesgo de que el anticipo no se materialice en ejecución/suministro.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-015",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Puede coexistir el aval de anticipo con el Performance Bond?",
+    "options": [
+      "Sí, pueden solaparse temporalmente porque garantizan obligaciones distintas",
+      "No, abrir uno extingue jurídicamente al otro de forma automática",
+      "Solo si ambos tienen exactamente el mismo importe",
+      "No, porque ambos cubren exclusivamente la fase de oferta"
+    ],
+    "answer": 0,
+    "explanation": "Uno protege el anticipo y otro el cumplimiento general de la ejecución; por ello pueden coexistir.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mul2-016",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué lógica tiene reducir progresivamente el aval de anticipo a medida que se realizan suministros?",
+    "options": [
+      "El riesgo asociado al anticipo disminuye conforme el contratista demuestra que lo convierte en ejecución",
+      "La garantía debe aumentar porque cada entrega eleva el riesgo del cliente",
+      "El anticipo deja de ser parte del precio y se transforma en performance bond",
+      "La reducción sirve únicamente para modificar el Incoterm del contrato"
+    ],
+    "answer": 0,
+    "explanation": "La finalidad del aval desaparece gradualmente conforme el anticipo cumple su función económica.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mul2-017",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué ocurre normalmente al pasar de aceptación definitiva a periodo de garantía técnica?",
+    "options": [
+      "Se libera el Performance Bond y entra en juego el aval de garantía, según el contrato",
+      "Se reabre el Bid Bond para cubrir posibles reclamaciones",
+      "El aval de anticipo pasa a cubrir automáticamente defectos técnicos",
+      "Todas las garantías deben mantenerse simultáneamente hasta el cierre contable"
+    ],
+    "answer": 0,
+    "explanation": "La secuencia de garantías acompaña las fases: oferta, ejecución, anticipo si existe y garantía técnica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-018",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Por qué el coste de los avales debe incorporarse al escandallo del proyecto?",
+    "options": [
+      "Porque el banco cobra comisiones mientras están abiertos y los retrasos pueden prolongar ese coste",
+      "Porque los avales sustituyen al coste de transporte y deben imputarse como flete",
+      "Porque su importe se convierte siempre en un pago definitivo al cliente",
+      "Porque las comisiones solo se pagan si el proyecto tiene pérdidas"
+    ],
+    "answer": 0,
+    "explanation": "Las garantías tienen coste financiero real y su duración puede aumentar por retrasos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-019",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué riesgo destaca el temario respecto a DDP?",
+    "options": [
+      "El proveedor puede asumir aduanas, aranceles y costes locales difíciles de controlar si no conoce muy bien el mercado",
+      "El comprador soporta necesariamente todos los costes hasta destino",
+      "DDP elimina cualquier responsabilidad del vendedor sobre importación",
+      "DDP solo puede usarse en mercancía no contenerizada"
+    ],
+    "answer": 0,
+    "explanation": "La profesora desaconseja DDP salvo conocimiento sólido del destino por la amplitud de obligaciones y costes del vendedor.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-020",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "En mercancía contenerizada, ¿qué advertencia recoge la clase sobre FOB/CIF?",
+    "options": [
+      "La ICC desaconseja generalmente esas reglas marítimas para contenedores, aunque muchos clientes continúan utilizándolas",
+      "FOB y CIF son las únicas reglas admitidas para transporte contenerizado",
+      "FOB y CIF convierten la aceptación provisional en definitiva",
+      "El uso de contenedor obliga a pactar siempre DDP"
+    ],
+    "answer": 0,
+    "explanation": "Se recuerda la recomendación de utilizar reglas adecuadas al modo de entrega de contenedores, pese a prácticas habituales distintas.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mul2-021",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Un suministro se adjudica muchos meses después de ofertarse y el contrato mantiene precio firme. ¿Qué efecto puede tener el retraso?",
+    "options": [
+      "Cambios en fletes, aranceles, garantías o costes pueden erosionar el margen sin posibilidad automática de revisar el precio",
+      "El precio se actualiza necesariamente con el IPC del país del proveedor",
+      "El retraso mejora siempre el margen porque reduce el coste del Performance Bond",
+      "El cliente debe asumir cualquier incremento aunque el contrato no prevea revisión"
+    ],
+    "answer": 0,
+    "explanation": "En suministros competitivos, los precios suelen ser firmes y los retrasos pueden trasladar imprevistos al margen del contratista.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-022",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Cómo cambia la lógica de cobro entre suministros y obras?",
+    "options": [
+      "En suministros predominan hitos de entrega/aceptación; en obras, certificados de avance por fases ejecutadas",
+      "En suministros se paga solo al final y en obras siempre todo por anticipado",
+      "En obras no existe documentación del cliente para activar pagos",
+      "En suministros y obras los pagos dependen exclusivamente del Bill of Lading"
+    ],
+    "answer": 0,
+    "explanation": "Las obras se certifican por porcentajes ejecutados; los suministros se estructuran alrededor de entrega, aceptación y servicios conexos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-023",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Si las Condiciones Generales del Contrato contradicen una Condición Especial aplicable, ¿qué regla de prevalencia destaca el temario?",
+    "options": [
+      "Prevalece la condición especial, por lo que debe revisarse cuidadosamente la documentación específica del cliente",
+      "Prevalece siempre la condición general por provenir del modelo estándar del banco",
+      "Se anulan ambas cláusulas y se aplica automáticamente la ley española",
+      "Prevalece la cláusula que aparezca primero en el documento"
+    ],
+    "answer": 0,
+    "explanation": "Las condiciones especiales modifican/completan las generales y prevalecen en caso de contradicción según el esquema estudiado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-024",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "¿Qué relación refleja mejor IAL/DDL y CGC/CEC en los documentos multilaterales del tema?",
+    "options": [
+      "Las instrucciones/condiciones generales parten del marco estándar, mientras datos y condiciones especiales concretan el procedimiento y contrato del cliente",
+      "Los cuatro documentos son duplicados y contienen siempre el mismo texto",
+      "IAL y CGC los redacta cada licitador; DDL y CEC los redacta el banco del licitador",
+      "DDL y CEC son documentos internos del proveedor sin efectos sobre la licitación"
+    ],
+    "answer": 0,
+    "explanation": "El examen debe fijarse especialmente en la información específica que concreta o modifica los documentos estándar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-025",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "En la precalificación de la carretera Duarte, una APCA cumple en conjunto el volumen exigido, pero ningún integrante alcanza individualmente el 40 % mínimo señalado. ¿Qué consecuencia se deriva del criterio?",
+    "options": [
+      "No cumple ese requisito concreto, aunque la suma de la APCA alcance el volumen total",
+      "Cumple porque en una APCA solo importa la suma agregada",
+      "Cumple si un subcontratista no autorizado aporta el 40 % restante",
+      "Queda automáticamente exenta de cualquier requisito financiero por responsabilidad solidaria"
+    ],
+    "answer": 0,
+    "explanation": "El documento exige el total a la APCA y que al menos un integrante aporte el 40 % del volumen mínimo, además de los demás requisitos.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  }
+]
