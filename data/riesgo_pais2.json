@@ -1,0 +1,452 @@
+[
+  {
+    "id": "rie2-001",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país tiene déficit por cuenta corriente, pero lo financia principalmente con inversión extranjera directa. ¿Qué afirmación es más correcta?",
+    "options": [
+      "El déficit no implica automáticamente aumento equivalente de deuda, aunque sigue siendo necesario valorar la estabilidad de la financiación",
+      "Todo déficit corriente se transforma necesariamente en deuda pública",
+      "La inversión directa se registra en cuenta corriente y elimina contablemente el déficit",
+      "Un déficit financiado con IED no genera ninguna vulnerabilidad futura"
+    ],
+    "answer": 0,
+    "explanation": "El déficit necesita financiación, pero puede cubrirse con capital y no solo con deuda; la calidad y persistencia de los flujos importan.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-002",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Dos países tienen el mismo déficit corriente. Uno se financia con IED estable y otro con deuda exterior a corto plazo. ¿Cuál es más vulnerable a una salida súbita de capital?",
+    "options": [
+      "El segundo, porque necesita refinanciar con frecuencia deuda de corto plazo",
+      "El primero, porque la IED vence necesariamente antes que la deuda",
+      "Ambos tienen idéntico riesgo porque el saldo corriente es el mismo",
+      "El primero, porque cualquier entrada de capital aumenta automáticamente las reservas"
+    ],
+    "answer": 0,
+    "explanation": "La deuda externa corta eleva riesgo de refinanciación y crisis de liquidez.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-003",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué criterio determina principalmente si una operación entra en la balanza de pagos de un país?",
+    "options": [
+      "La residencia económica de las partes, no su nacionalidad formal",
+      "La nacionalidad del propietario último de cada empresa",
+      "La moneda en la que se factura la operación",
+      "El país donde se firma físicamente el contrato"
+    ],
+    "answer": 0,
+    "explanation": "La balanza de pagos registra transacciones entre residentes y no residentes según residencia económica.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-004",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa española compra acciones de una sociedad extranjera sin adquirir control significativo. ¿Dónde se encuadra conceptualmente ese flujo?",
+    "options": [
+      "En la cuenta financiera, como inversión de cartera si cumple sus características",
+      "En la cuenta corriente, como importación de servicios financieros",
+      "En la cuenta de capital, por tratarse de un activo empresarial",
+      "En la balanza comercial de bienes, porque existe una adquisición exterior"
+    ],
+    "answer": 0,
+    "explanation": "La inversión de cartera forma parte de la cuenta financiera, no de la cuenta corriente o de capital.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-005",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una moneda se deprecia bruscamente y muchas empresas locales tienen deuda en dólares sin cobertura. ¿Cuál es el mecanismo de deterioro?",
+    "options": [
+      "Aumenta el valor en moneda local de la deuda y puede empeorar solvencia y liquidez",
+      "La deuda en dólares se reduce en moneda local al caer la divisa doméstica",
+      "La depreciación elimina los intereses de la deuda exterior",
+      "La deuda deja de ser exigible hasta que el tipo de cambio se estabilice"
+    ],
+    "answer": 0,
+    "explanation": "Una divisa local más débil encarece el servicio de obligaciones denominadas en moneda extranjera.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-006",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Por qué un superávit corriente no garantiza automáticamente apreciación de la moneda?",
+    "options": [
+      "Porque también influyen flujos financieros, expectativas, tipos de interés, reservas y actuación del banco central",
+      "Porque la cuenta corriente no tiene ninguna relación posible con la demanda de divisas",
+      "Porque toda economía con superávit mantiene un tipo de cambio fijo",
+      "Porque la apreciación solo depende del nivel absoluto del PIB"
+    ],
+    "answer": 0,
+    "explanation": "La relación entre saldo exterior y tipo de cambio es una tendencia posible, no una identidad mecánica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-007",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una depreciación puede favorecer exportaciones y al mismo tiempo perjudicar a la economía. ¿Cuál es la mejor explicación?",
+    "options": [
+      "Puede mejorar competitividad precio, pero encarece importaciones y deuda en divisas y puede generar inflación importada",
+      "Toda depreciación reduce simultáneamente exportaciones e importaciones en la misma proporción",
+      "La competitividad mejora solo si el banco central sube tipos por encima de la inflación",
+      "El efecto negativo aparece únicamente cuando el país no exporta ningún bien"
+    ],
+    "answer": 0,
+    "explanation": "El tipo de cambio tiene efectos contrapuestos sobre comercio, precios y balances.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-008",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una economía crece rápido gracias a consumo financiado con deuda, mientras inversión productiva y exportaciones se estancan. ¿Qué lectura es más prudente?",
+    "options": [
+      "El crecimiento del PIB puede ser menos sostenible que uno apoyado en inversión y exportaciones, por lo que debe analizarse su composición",
+      "La tasa de crecimiento basta para concluir que el riesgo país ha desaparecido",
+      "El consumo financiado con deuda es siempre más estable que la inversión productiva",
+      "El PIB no debe utilizarse nunca en análisis de país porque no mide bienestar"
+    ],
+    "answer": 0,
+    "explanation": "El PIB es útil, pero la calidad y composición del crecimiento condicionan sostenibilidad y vulnerabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-009",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué diferencia existe entre riesgo comercial y riesgo país?",
+    "options": [
+      "El comercial nace de la situación o conducta del comprador; el riesgo país procede del entorno que puede impedir o retrasar el cobro incluso con comprador solvente",
+      "El riesgo comercial afecta a Estados y el riesgo país únicamente a compradores privados",
+      "El riesgo país se limita a guerra y expropiación, mientras el comercial incluye cualquier factor macroeconómico",
+      "No existe diferencia práctica porque ambos se miden solo con estados financieros del cliente"
+    ],
+    "answer": 0,
+    "explanation": "La contraparte privada y el entorno país son fuentes de riesgo diferentes aunque puedan interactuar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-010",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un comprador privado es solvente, pero el Gobierno impone controles que impiden convertir moneda local y transferir divisas al exterior. ¿Qué riesgo se materializa principalmente?",
+    "options": [
+      "Riesgo de transferencia dentro del riesgo país",
+      "Riesgo comercial por insolvencia del comprador",
+      "Riesgo de transporte por interrupción logística",
+      "Riesgo de inventario por exceso de existencias"
+    ],
+    "answer": 0,
+    "explanation": "El comprador puede querer y poder pagar en moneda local, pero la transferencia internacional queda impedida por controles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-011",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una entidad pública incumple un contrato internacional. ¿Qué categoría de riesgo resulta especialmente relevante?",
+    "options": [
+      "Riesgo soberano, al tratarse del incumplimiento de una entidad pública",
+      "Riesgo comercial puro de un comprador privado",
+      "Riesgo de tipo de cambio exclusivamente",
+      "Riesgo logístico por definición"
+    ],
+    "answer": 0,
+    "explanation": "El riesgo soberano se relaciona con obligaciones de Estados o entidades públicas.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "rie2-012",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa cobra mediante crédito documentario emitido por un banco conocido. ¿Por qué todavía debe analizar el banco y su jurisdicción?",
+    "options": [
+      "Porque la seguridad del instrumento depende de la solvencia de la entidad obligada y del marco jurídico en que opera",
+      "Porque un crédito documentario traslada todo el riesgo al transportista",
+      "Porque la reputación del banco sustituye cualquier análisis de país",
+      "Porque los créditos documentarios solo son válidos si el banco es propiedad del Estado"
+    ],
+    "answer": 0,
+    "explanation": "Una garantía bancaria o crédito es tan fuerte como la entidad y el entorno que permiten cumplirla.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-013",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una interrupción del estrecho de Ormuz eleva fletes, seguros y precios de energía. ¿Qué demuestra este caso?",
+    "options": [
+      "Que un riesgo geopolítico localizado puede transmitirse a múltiples cadenas y costes empresariales",
+      "Que solo las empresas petroleras sufren consecuencias de un cierre marítimo",
+      "Que los puntos críticos marítimos afectan únicamente al transporte de pasajeros",
+      "Que disponer de rutas alternativas elimina todo impacto sobre precios"
+    ],
+    "answer": 0,
+    "explanation": "Los chokepoints conectan energía, materias primas, logística e industrias aguas abajo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-014",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Los precios de insumos suben con fuerza, la producción se debilita y la inflación permanece elevada. ¿Qué riesgo macroeconómico describe?",
+    "options": [
+      "Estanflación",
+      "Deflación expansiva",
+      "Apreciación competitiva",
+      "Superávit de pleno empleo"
+    ],
+    "answer": 0,
+    "explanation": "Estanflación combina inflación elevada con estancamiento o debilidad de actividad.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-015",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Por qué subir tipos de interés en una crisis cambiaria puede ayudar y a la vez empeorar la situación?",
+    "options": [
+      "Puede sostener la moneda y atraer capital, pero encarece crédito y agrava insolvencias si empresas y bancos ya están débiles",
+      "Porque los tipos altos reducen la deuda en divisas y aumentan automáticamente el consumo",
+      "Porque bajar tipos y subir tipos producen exactamente el mismo efecto",
+      "Porque la política monetaria solo afecta a la inflación y nunca a la solvencia"
+    ],
+    "answer": 0,
+    "explanation": "El dilema de 1997 enfrenta estabilización cambiaria con daño a liquidez y balances.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-016",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué combinación fue especialmente peligrosa en la crisis asiática de 1997?",
+    "options": [
+      "Tipos de cambio casi fijos, deuda exterior corta en dólares, debilidad bancaria y pérdida de confianza",
+      "Tipos flexibles, superávit exterior, baja deuda y exceso de reservas",
+      "Deuda doméstica a largo plazo íntegramente cubierta y bancos muy capitalizados",
+      "Apreciación sostenida de monedas con ausencia de financiación exterior"
+    ],
+    "answer": 0,
+    "explanation": "La crisis se amplificó por descalces de moneda y plazo bajo regímenes cambiarios rígidos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-017",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Por qué la financiación a corto plazo de activos de largo plazo es peligrosa?",
+    "options": [
+      "Porque obliga a refinanciar repetidamente antes de que los activos generen caja suficiente",
+      "Porque convierte automáticamente toda deuda en capital propio",
+      "Porque elimina el riesgo de tipos al reducir el vencimiento",
+      "Porque los activos de largo plazo pueden venderse siempre sin pérdida"
+    ],
+    "answer": 0,
+    "explanation": "Existe descalce de plazos: la deuda vence antes que los flujos del activo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-018",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué diferencia destacada existe entre los Tigres Asiáticos y los BRICS en el material?",
+    "options": [
+      "Los Tigres son economías generalmente más pequeñas y abiertas con industrialización exportadora; los BRICS son grandes y más heterogéneos",
+      "Los Tigres se basan exclusivamente en materias primas y los BRICS solo en servicios financieros",
+      "Los dos grupos describen el mismo periodo histórico y modelo de crecimiento",
+      "Los BRICS carecen de mercados internos y dependen más de Japón que los Tigres"
+    ],
+    "answer": 0,
+    "explanation": "La comparación busca contrastar escala, apertura, sectores y vulnerabilidades, además de referirse a periodos distintos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-019",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué error supone comparar directamente cifras de Tigres antes de 1997 con cifras BRICS de 2008–2015 como si fueran contemporáneas?",
+    "options": [
+      "Ignorar que pertenecen a periodos históricos distintos y que el objetivo es comparar modelos, no niveles simultáneos",
+      "Suponer que el PIB real elimina por completo cualquier diferencia temporal",
+      "Olvidar que ambos grupos utilizan una moneda común",
+      "Comparar economías exportadoras con economías que no participan en comercio internacional"
+    ],
+    "answer": 0,
+    "explanation": "El material advierte expresamente que los periodos son distintos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-020",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un PESTEL enumera inflación, demografía, regulación y clima sin explicar su efecto sobre la operación. ¿Qué le falta?",
+    "options": [
+      "Traducir cada factor en consecuencias sobre ingresos, costes, plazos o cobro, valorando probabilidad, impacto y mitigación",
+      "Añadir más variables aunque ninguna esté vinculada al proyecto",
+      "Eliminar los factores legales porque ya aparecen en el contrato",
+      "Convertir todos los factores en datos históricos sin escenarios"
+    ],
+    "answer": 0,
+    "explanation": "Un PESTEL útil es específico para producto, sector y decisión, no una lista genérica del país.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-021",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una reforma regulatoria favorece energías renovables pero encarece la industria intensiva en emisiones. ¿Qué principio PESTEL ilustra?",
+    "options": [
+      "El mismo factor externo puede ser oportunidad para un sector y amenaza para otro",
+      "Los factores políticos y legales tienen el mismo efecto para todas las empresas",
+      "Un PESTEL debe clasificar cada hecho como positivo o negativo para todo el país",
+      "La regulación ambiental no forma parte del análisis de riesgo país"
+    ],
+    "answer": 0,
+    "explanation": "El impacto depende del proyecto y sector concreto.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "rie2-022",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Cuál es el orden más sólido para evaluar un mercado según el método práctico del módulo?",
+    "options": [
+      "Definir operación; analizar mercado; revisar macro; evaluar instituciones; analizar contrapartes; escenarios; coberturas; indicadores de alerta",
+      "Calcular PIB; elegir país; firmar contrato; analizar después cliente y riesgo de cobro",
+      "Estudiar política; ignorar producto; elegir seguro; buscar demanda al final",
+      "Seleccionar cliente; fijar precio; asumir el riesgo país según el rating soberano únicamente"
+    ],
+    "answer": 0,
+    "explanation": "El método va de definir la exposición concreta a evaluar entorno, actores, escenarios y mitigación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-023",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Por qué una empresa debe analizar al transportista y al banco además del país y comprador?",
+    "options": [
+      "Porque el riesgo de la operación se distribuye entre participantes y puede materializarse aunque el país sea estable",
+      "Porque comprador y país dejan de importar cuando intervienen terceros",
+      "Porque transportista y banco asumen jurídicamente todos los riesgos del exportador",
+      "Porque solo los intermediarios determinan el tipo de cambio"
+    ],
+    "answer": 0,
+    "explanation": "Una operación internacional es una red de exposiciones: logística, financiera, jurídica y comercial.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "rie2-024",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué analogía propone el temario entre empresa y país?",
+    "options": [
+      "El balance ayuda a pensar en solvencia empresarial, mientras balanza de pagos y posición exterior ayudan a analizar relación financiera del país con el resto del mundo",
+      "La cuenta de resultados empresarial equivale exactamente al presupuesto público",
+      "El patrimonio neto de una empresa es idéntico a las reservas internacionales de un Estado",
+      "El PIB funciona como caja disponible para pagar deuda exterior"
+    ],
+    "answer": 0,
+    "explanation": "La analogía sirve como guía conceptual, pero no es una identidad: Estados tienen capacidades que una empresa no posee.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-025",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país muestra buen crecimiento del PIB, pero controles de capital, inseguridad jurídica y pocas reservas. ¿Qué conclusión es más correcta?",
+    "options": [
+      "El buen dato de crecimiento no elimina riesgos de transferencia, jurídicos o financieros relevantes para una operación",
+      "El crecimiento del PIB basta para clasificar el país como bajo riesgo",
+      "Las reservas son irrelevantes si el consumo interno crece",
+      "La inseguridad jurídica solo afecta a inversiones a diez años y no a exportaciones"
+    ],
+    "answer": 0,
+    "explanation": "El análisis país debe combinar economía, instituciones y capacidad efectiva de pago/transferencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
