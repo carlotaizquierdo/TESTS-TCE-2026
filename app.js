@@ -1,5 +1,6 @@
 const BANK_FILES=[
-  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho","hablar_publico"
+  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho","hablar_publico",
+  "fiscalidad2","ferias2","vui2","promocion2","economia_madrid2","riesgo_pais2","riesgos_contractuales2","analisis_financiero2"
 ];
 const LABELS={
   estrategias:"Estrategias de Negocios Internacionales (I y II)",
@@ -11,7 +12,15 @@ const LABELS={
   organismos:"Instituciones Multilaterales / Taller de Multilaterales (I y II)",
   fundamentos:"Fundamentos de Economía",
   derecho:"Contratación Internacional Derecho",
-  hablar_publico:"Cómo hablar en público"
+  hablar_publico:"Cómo hablar en público",
+  fiscalidad2:"2º parcial · Fiscalidad Internacional",
+  ferias2:"2º parcial · Ferias Internacionales",
+  vui2:"2º parcial · Ventanilla Única Internacional",
+  promocion2:"2º parcial · Instrumentos de Promoción Exterior",
+  economia_madrid2:"2º parcial · Economía de la Comunidad de Madrid",
+  riesgo_pais2:"2º parcial · Riesgo País",
+  riesgos_contractuales2:"2º parcial · Multilaterales · Riesgos Contractuales",
+  analisis_financiero2:"2º parcial · Análisis Financiero y Valoración"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
