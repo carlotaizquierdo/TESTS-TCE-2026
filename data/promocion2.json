@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "pro2-026",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa prepara una misión directa y pide «distribuidores importantes» sin concretar tamaño, canal ni segmento. ¿Qué problema genera?",
+    "options": [
+      "La agenda puede llenarse de contactos poco útiles porque el perfil objetivo está mal definido",
+      "La institución organizadora elegirá automáticamente los mejores compradores",
+      "Definir demasiado el perfil siempre reduce las oportunidades comerciales",
+      "El perfil del contacto solo importa después del viaje"
+    ],
+    "answer": 0,
+    "explanation": "Una agenda útil requiere criterios concretos sobre el interlocutor buscado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-027",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Dos empresas viajan a la misma misión. Una conoce precios, Incoterms y logística; la otra solo domina el producto. ¿Cuál llega mejor preparada?",
+    "options": [
+      "La primera, porque una negociación internacional exige también condiciones comerciales y operativas",
+      "La segunda, porque conocer el producto es suficiente para cualquier reunión",
+      "Ambas, porque las condiciones comerciales deben decidirse después de volver",
+      "La segunda, si lleva más catálogos impresos"
+    ],
+    "answer": 0,
+    "explanation": "El temario insiste en preparar producto, precios, entregas, logística y marco jurídico antes de viajar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-028",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa utiliza una agenda elaborada por un tercero y no estudia previamente a las compañías confirmadas. ¿Qué pierde?",
+    "options": [
+      "Capacidad de personalizar la reunión, formular mejores preguntas y detectar encaje real",
+      "Nada, porque la agenda externa ya garantiza el interés del contacto",
+      "Solo tiempo de preparación, sin efecto comercial",
+      "La posibilidad de usar un intérprete"
+    ],
+    "answer": 0,
+    "explanation": "La preparación del interlocutor mejora la calidad de cada entrevista.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-029",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa visita cinco distribuidores pero no anota impresiones hasta una semana después. ¿Qué riesgo existe?",
+    "options": [
+      "Confundir detalles y perder información cualitativa relevante para priorizar contactos",
+      "No poder demostrar aduaneramente que realizó la misión",
+      "Perder automáticamente cualquier ayuda pública",
+      "Convertir la misión directa en una misión inversa"
+    ],
+    "answer": 0,
+    "explanation": "El informe diario se recomienda precisamente para conservar matices frescos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-030",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa encuentra un comprador interesado, pero promete una muestra y nunca la envía. ¿Qué efecto puede tener?",
+    "options": [
+      "Deteriorar confianza y credibilidad, incluso si la reunión fue positiva",
+      "Ninguno, porque el seguimiento no forma parte de la misión",
+      "Mejorar la posición negociadora al crear escasez",
+      "Convertir al comprador en lead de baja prioridad automáticamente"
+    ],
+    "answer": 0,
+    "explanation": "Cumplir compromisos posteriores forma parte del proceso comercial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-031",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa cree que una muestra comercial no necesita controles de entrada porque no se venderá. ¿Qué debe corregir?",
+    "options": [
+      "Una muestra puede seguir sujeta a requisitos de entrada/salida; su carácter promocional no elimina controles",
+      "Toda muestra entra libre de impuestos y documentación",
+      "Las muestras solo necesitan documentación si superan 10.000 €",
+      "El Cuaderno ATA convierte cualquier muestra en mercancía nacional"
+    ],
+    "answer": 0,
+    "explanation": "La naturaleza temporal o promocional no exime automáticamente de requisitos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-032",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa lleva equipos para demostración y pretende retornarlos al terminar. ¿Qué instrumento puede valorar?",
+    "options": [
+      "Cuaderno ATA, si el país y el supuesto permiten admisión temporal",
+      "Modelo 349 para acreditar el retorno",
+      "OSS para evitar formalidades aduaneras",
+      "REX para convertir la operación en exportación definitiva"
+    ],
+    "answer": 0,
+    "explanation": "El ATA facilita determinados movimientos temporales de mercancías.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-033",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa selecciona una feria porque ofrece una subvención del 50 %, aunque apenas acuden compradores relevantes. ¿Qué error estratégico comete?",
+    "options": [
+      "Confundir menor coste con mayor adecuación comercial",
+      "Aplicar correctamente el criterio de viabilidad",
+      "Priorizar correctamente el público objetivo",
+      "Reducir el riesgo de seguimiento"
+    ],
+    "answer": 0,
+    "explanation": "La ayuda no convierte un evento mal alineado en una buena elección.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-034",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa participa como expositora sin haber visitado nunca una feria similar y con presupuesto muy limitado. ¿Qué alternativa podía haber considerado?",
+    "options": [
+      "Visitar primero para aprender y validar el evento antes de asumir el coste de exposición",
+      "Renunciar definitivamente a cualquier feria",
+      "Exponer solo si el organizador garantiza ventas",
+      "Sustituir toda prospección por anuncios digitales"
+    ],
+    "answer": 0,
+    "explanation": "Para empresas con poca experiencia, visitar puede ser un paso previo razonable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-035",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa fija tres objetivos: 200 folletos repartidos, 500 visitas al stand y 1.000 seguidores nuevos. Busca distribuidores. ¿Qué problema hay?",
+    "options": [
+      "Los indicadores miden actividad y visibilidad, pero no necesariamente el objetivo estratégico de canal",
+      "Los tres objetivos son insuficientes porque deben ser al menos cinco",
+      "Todos son comerciales y garantizan distribuidores",
+      "Los objetivos de feria nunca deben ser cuantitativos"
+    ],
+    "answer": 0,
+    "explanation": "Los KPI deben estar conectados con lo que la empresa pretende conseguir.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-036",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa consigue 40 reuniones y 15 distribuidores potenciales, pero no había definido quién haría seguimiento. ¿Qué riesgo aparece?",
+    "options": [
+      "Que una buena ejecución ferial no se convierta en resultados por falta de continuidad comercial",
+      "Que la feria se transforme en misión inversa",
+      "Que los distribuidores dejen de ser profesionales",
+      "Que el coste del stand aumente automáticamente"
+    ],
+    "answer": 0,
+    "explanation": "El seguimiento posterior es parte esencial del instrumento promocional.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-037",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa localiza su web al japonés, pero mantiene imágenes, argumentos y términos de búsqueda pensados para España. ¿Está realmente localizada?",
+    "options": [
+      "Solo parcialmente; localizar implica adaptar contenido, referencias, lenguaje y forma de búsqueda al mercado",
+      "Sí, porque traducir el idioma es suficiente",
+      "No, porque una web localizada debe alojarse físicamente en Japón",
+      "Sí, si utiliza el mismo catálogo que en España"
+    ],
+    "answer": 0,
+    "explanation": "La localización va más allá de la traducción literal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-038",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa tiene una buena web internacional pero nadie del mercado objetivo la encuentra. ¿Qué dimensión digital falta trabajar?",
+    "options": [
+      "Visibilidad y localización en buscadores, directorios y canales utilizados por ese mercado",
+      "Únicamente traducción jurídica de contratos",
+      "El diseño físico del stand",
+      "La clasificación del lead en feria"
+    ],
+    "answer": 0,
+    "explanation": "El objetivo digital incluye resultar localizable para los compradores del mercado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-039",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "¿Por qué el material cita buscadores como Baidu, Yandex o Naver?",
+    "options": [
+      "Para mostrar que los canales digitales relevantes pueden variar por mercado y no debe asumirse un único ecosistema global",
+      "Para afirmar que Google no puede usarse en ningún mercado exterior",
+      "Para sustituir cualquier investigación de mercado por SEO",
+      "Para indicar que todos esos buscadores son obligatorios en una misión"
+    ],
+    "answer": 0,
+    "explanation": "Las herramientas concretas deben adaptarse a hábitos y mercados.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "pro2-040",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa decide que Internet ha hecho innecesarias las ferias porque puede videollamar a clientes. ¿Qué objeción plantea el temario?",
+    "options": [
+      "La comunicación digital es continua, pero la feria aporta contacto físico, demostración, confianza y concentración sectorial",
+      "Las videollamadas están prohibidas en comercio internacional",
+      "Las ferias son siempre más baratas que Internet",
+      "Internet solo sirve para consumidores finales"
+    ],
+    "answer": 0,
+    "explanation": "El enfoque es de complementariedad, no sustitución absoluta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-041",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa hace marketing digital antes de una feria para concertar reuniones y después para continuar conversaciones. ¿Qué estrategia refleja?",
+    "options": [
+      "Integración de instrumentos digitales y presenciales a lo largo del ciclo comercial",
+      "Sustitución del evento presencial por redes",
+      "Uso incorrecto de canales porque deben mantenerse separados",
+      "Una misión inversa digital"
+    ],
+    "answer": 0,
+    "explanation": "La tecnología puede potenciar antes, durante y después la acción presencial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-042",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa define su misión exclusivamente como «hacer 10 reuniones». ¿Qué debería añadir para evaluar calidad?",
+    "options": [
+      "Perfil de los interlocutores, objetivos de cada reunión y siguientes pasos esperados",
+      "Solo el número de kilómetros recorridos",
+      "El coste de las tarjetas de visita",
+      "La duración total del vuelo"
+    ],
+    "answer": 0,
+    "explanation": "La cantidad de entrevistas no mide por sí sola su valor comercial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-043",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa recibe una agenda con grandes distribuidores nacionales, pero su producto solo encaja en tiendas gourmet especializadas. ¿Qué debería hacer?",
+    "options": [
+      "Revisar el perfil solicitado y pedir contactos alineados con su canal real, aunque sean empresas más pequeñas",
+      "Aceptar la agenda porque un distribuidor grande siempre es mejor",
+      "Cambiar el producto para adaptarlo a cualquier distribuidor",
+      "Eliminar la investigación previa del mercado"
+    ],
+    "answer": 0,
+    "explanation": "El tamaño del interlocutor no sustituye el encaje con estrategia y producto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-044",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa quiere una misión comercial en un mercado donde existen fuertes barreras técnicas. ¿Por qué debe analizarlas antes del viaje?",
+    "options": [
+      "Porque pueden hacer inviable la venta o cambiar producto, costes y perfil de comprador aunque haya interés comercial",
+      "Porque las barreras solo se revisan tras firmar contrato",
+      "Porque una agenda institucional elimina los requisitos técnicos",
+      "Porque las barreras no afectan a muestras ni presentaciones comerciales"
+    ],
+    "answer": 0,
+    "explanation": "La preparación de mercado incluye barreras de acceso y requisitos del producto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-045",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa consigue varios contactos pero descubre que el producto necesita adaptación regulatoria. ¿Qué resultado ha obtenido?",
+    "options": [
+      "Aprendizaje útil para redefinir la entrada, aunque todavía no haya venta",
+      "Un fracaso total porque no hubo pedido inmediato",
+      "Una venta indirecta equivalente al valor del proyecto",
+      "Un resultado irrelevante que debe excluirse del informe"
+    ],
+    "answer": 0,
+    "explanation": "Las acciones promocionales también sirven para validar y adaptar la estrategia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-046",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "¿Qué función cumple reservar tiempo para visitar competidores durante una misión o feria?",
+    "options": [
+      "Observar posicionamiento, precios, oferta y prácticas del mercado para complementar las entrevistas",
+      "Copiar productos para reducir costes de desarrollo",
+      "Sustituir cualquier análisis previo del país",
+      "Evitar mantener reuniones con potenciales clientes"
+    ],
+    "answer": 0,
+    "explanation": "La observación competitiva es una fuente directa de inteligencia de mercado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-047",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa compara dos acciones: misión con 8 reuniones muy segmentadas y feria con 100 contactos poco filtrados. ¿Cuál es mejor?",
+    "options": [
+      "Depende de objetivos, coste, calidad de acceso y capacidad de conversión; no basta con comparar cantidades",
+      "La feria, porque 100 siempre es superior a 8",
+      "La misión, porque cualquier reunión concertada termina en venta",
+      "Son equivalentes si duran los mismos días"
+    ],
+    "answer": 0,
+    "explanation": "La elección debe responder a estrategia y calidad del resultado esperado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-048",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa de vocación internacional pretende usar todos los instrumentos promocionales a la vez. ¿Qué objeción corresponde?",
+    "options": [
+      "Debe priorizar según mercado, producto, presupuesto y objetivos; usar todo no garantiza eficacia",
+      "La vocación internacional obliga a utilizar simultáneamente feria, misión y redes",
+      "Cuantas más herramientas se usen, menor será siempre el coste por venta",
+      "La empresa solo debe utilizar instrumentos públicos"
+    ],
+    "answer": 0,
+    "explanation": "La estrategia exige selección y combinación coherentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-049",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "Una empresa agradece a la Cámara la organización de la misión, pero no escribe a las empresas visitadas. ¿Qué parte del seguimiento falta?",
+    "options": [
+      "El contacto individual con cada interlocutor y el cumplimiento de los compromisos asumidos",
+      "Ninguna; agradecer a la entidad organizadora es suficiente",
+      "Solo la elaboración del informe financiero del viaje",
+      "La clasificación arancelaria de las muestras"
+    ],
+    "answer": 0,
+    "explanation": "El seguimiento institucional y comercial son obligaciones distintas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "pro2-050",
+    "subject": "promocion2",
+    "subjectName": "Instrumentos de Promoción Exterior",
+    "source": "Apuntes_Instrumentos_de_Promocion_Exterior_TIPO_TEST_2026.docx",
+    "question": "¿Qué secuencia refleja mejor una misión comercial bien gestionada?",
+    "options": [
+      "Diagnóstico y mercado → agenda y preparación → reuniones + observación → informe → seguimiento y cumplimiento de compromisos",
+      "Compra de billetes → reuniones improvisadas → espera de pedidos",
+      "Agenda masiva → viaje → envío genérico de catálogo → cierre",
+      "Selección por ayuda pública → feria → contactos → análisis de mercado posterior"
+    ],
+    "answer": 0,
+    "explanation": "La misión es un proceso completo de preparación, ejecución y seguimiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
