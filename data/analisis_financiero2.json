@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fin2-026",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa incrementa el beneficio neto, pero su CFO cae. ¿Cuál de estas explicaciones es más coherente?",
+    "options": [
+      "Ha crecido la inversión en clientes e inventario, de modo que parte del beneficio no se ha convertido en caja",
+      "Ha reducido las ventas a crédito y cobra más rápido",
+      "Ha disminuido el inventario y alargado el plazo de proveedores",
+      "Ha recibido un préstamo que se registra dentro del CFO"
+    ],
+    "answer": 0,
+    "explanation": "El aumento de capital circulante operativo puede absorber caja aunque mejore la cuenta de resultados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-027",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa compra maquinaria por 100.000 € al contado y la amortiza en diez años. ¿Qué combinación refleja mejor el primer año?",
+    "options": [
+      "CFI registra una salida de 100.000 € y la cuenta de resultados reconoce solo la depreciación/amortización del periodo",
+      "CFO registra 100.000 € de salida y no existe gasto contable",
+      "La cuenta de resultados reconoce 100.000 € de gasto y CFI no cambia",
+      "CFF registra la compra porque el activo se utilizará durante varios años"
+    ],
+    "answer": 0,
+    "explanation": "La inversión y el gasto contable se reconocen en momentos distintos: el pago va a CFI y el coste se distribuye vía D&A.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-028",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene liquidez corriente de 1,8 pero prueba ácida de 0,7. ¿Qué interpretación merece atención?",
+    "options": [
+      "Una parte importante del activo corriente son existencias, por lo que pagar a corto depende más de vender inventario",
+      "La empresa carece necesariamente de activo corriente",
+      "La diferencia demuestra que todos los clientes son incobrables",
+      "La prueba ácida superior a la liquidez indica exceso de caja"
+    ],
+    "answer": 0,
+    "explanation": "La exclusión de existencias reduce significativamente la cobertura del pasivo corriente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-029",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta ROE del 30 %, ROA del 6 % y elevada deuda/patrimonio. ¿Qué lectura es más prudente?",
+    "options": [
+      "Parte del ROE puede estar amplificada por apalancamiento, por lo que debe evaluarse el riesgo financiero junto con la rentabilidad",
+      "El 30 % demuestra que el negocio operativo es cinco veces más eficiente que sus activos",
+      "La deuda no puede influir en el ROE porque no aparece en su fórmula directa",
+      "El ROA bajo implica necesariamente pérdidas de explotación"
+    ],
+    "answer": 0,
+    "explanation": "Un patrimonio relativamente pequeño por elevada deuda puede magnificar el ROE.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-030",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas tienen margen neto distinto pero el mismo ROE. ¿Cómo puede ocurrir según DuPont?",
+    "options": [
+      "Una puede compensar menor margen con mayor rotación de activos o mayor apalancamiento",
+      "Es imposible; un mismo ROE exige idéntico margen neto",
+      "Solo puede ocurrir si tienen el mismo activo y patrimonio",
+      "El ROE no guarda relación con ventas ni activos"
+    ],
+    "answer": 0,
+    "explanation": "DuPont muestra que distintas combinaciones de margen, eficiencia y multiplicador financiero pueden producir el mismo ROE.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-031",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa aumenta el plazo medio de cobro de 30 a 60 días sin variar ventas. ¿Qué efecto operativo es más probable?",
+    "options": [
+      "Aumentan clientes y la necesidad de financiación del ciclo, consumiendo caja",
+      "Disminuyen clientes porque cada factura permanece menos tiempo pendiente",
+      "Aumenta el EBITDA por el mero retraso en cobros",
+      "Disminuye automáticamente el pasivo corriente"
+    ],
+    "answer": 0,
+    "explanation": "Cobrar más tarde mantiene más saldo pendiente en clientes y aumenta NOF.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-032",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa consigue pagar a proveedores a 90 días en lugar de 45, sin alterar compras. ¿Qué efecto inmediato puede producir?",
+    "options": [
+      "Aumenta proveedores y reduce NOF, liberando financiación operativa a corto plazo",
+      "Reduce proveedores y aumenta NOF",
+      "Aumenta CapEx porque el crédito comercial se considera inversión",
+      "Reduce el margen bruto porque pagar más tarde encarece contablemente el producto"
+    ],
+    "answer": 0,
+    "explanation": "Más plazo de proveedor equivale a mayor financiación espontánea del ciclo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-033",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa acumula inventario porque espera fuertes ventas futuras. ¿Por qué no puede calificarse automáticamente como malo?",
+    "options": [
+      "Puede apoyar crecimiento si es vendible y necesario, pero consume caja y debe justificarse por rotación y demanda",
+      "Todo aumento de inventario implica obsolescencia",
+      "El inventario no afecta a NOF ni a liquidez",
+      "Acumular existencias aumenta siempre el CFO"
+    ],
+    "answer": 0,
+    "explanation": "La interpretación depende de si el inventario es productivo o excesivo, aunque financieramente inmoviliza recursos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-034",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa reduce inventario obsoleto vendiéndolo con descuento y convierte existencias en caja. ¿Qué puede ocurrir?",
+    "options": [
+      "Puede mejorar liquidez y reducir NOF, aunque el margen de la venta sea menor",
+      "Las NOF aumentan porque baja el inventario",
+      "El CFO empeora necesariamente porque toda venta con descuento destruye caja",
+      "El pasivo corriente aumenta automáticamente en el mismo importe"
+    ],
+    "answer": 0,
+    "explanation": "Liberar inventario puede liberar caja; rentabilidad y liquidez deben analizarse separadamente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-035",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene cobertura de intereses de 6x y otra de 1,2x. ¿Qué puede afirmarse sin conocer más datos?",
+    "options": [
+      "La primera dispone de más margen operativo para atender intereses, aunque aún hay que analizar deuda, estabilidad del EBIT y sector",
+      "La primera es automáticamente mejor inversión en todos los sentidos",
+      "La segunda está técnicamente insolvente porque la cobertura es superior a 1",
+      "Ambas tienen el mismo riesgo si su ROE coincide"
+    ],
+    "answer": 0,
+    "explanation": "La cobertura mide holgura frente al gasto financiero, pero no resume toda la solvencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-036",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué deuda neta/EBITDA pierde utilidad cuando el EBITDA es cero o negativo?",
+    "options": [
+      "Porque el denominador deja de representar una capacidad positiva de generación operativa y el cociente se vuelve poco interpretable",
+      "Porque la deuda neta pasa automáticamente a cero",
+      "Porque el ratio se transforma en liquidez corriente",
+      "Porque EBITDA negativo significa que no existe ninguna deuda financiera"
+    ],
+    "answer": 0,
+    "explanation": "Un múltiplo sobre un EBITDA no positivo no ofrece la lectura habitual de años de capacidad operativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-037",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene muchas ventas pero rotación de activos muy baja. ¿Qué pregunta sugiere ese dato?",
+    "options": [
+      "Si utiliza demasiados activos para generar su nivel de ventas o existen activos ociosos",
+      "Si su margen bruto es necesariamente negativo",
+      "Si carece de clientes pendientes de cobro",
+      "Si su WACC es inferior al coste de deuda"
+    ],
+    "answer": 0,
+    "explanation": "Rotación de activos mide ventas generadas por euro invertido en activos.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fin2-038",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene margen operativo estable, pero ROE sube tras recomprar acciones financiándose con deuda. ¿Qué explica mejor el cambio?",
+    "options": [
+      "Puede aumentar el multiplicador financiero al reducir patrimonio relativo, elevando ROE sin mejorar necesariamente la operación",
+      "La recompra aumenta automáticamente EBIT",
+      "La deuda reduce siempre el riesgo del accionista",
+      "El ROE sube porque aumenta el activo corriente"
+    ],
+    "answer": 0,
+    "explanation": "El apalancamiento puede elevar ROE aun sin mejora operativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-039",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta un CFI muy negativo por construir una nueva planta y un CFO fuerte y estable. ¿Qué interpretación es razonable?",
+    "options": [
+      "El CFI negativo puede reflejar inversión productiva; hay que valorar si la planta generará retornos suficientes y cómo se financia",
+      "El CFI negativo demuestra que la empresa destruye valor",
+      "La inversión debería registrarse en CFO porque está relacionada con el negocio",
+      "El CFI solo puede ser negativo cuando existen pérdidas contables"
+    ],
+    "answer": 0,
+    "explanation": "Un flujo de inversión negativo puede ser sano si financia activos rentables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-040",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa genera CFO positivo pero CFF también muy positivo año tras año. ¿Qué cuestión debe investigarse?",
+    "options": [
+      "Si depende de nueva deuda o capital para sostener inversión, dividendos u otras necesidades pese a generar caja operativa",
+      "Si el negocio ha dejado de producir ingresos contables",
+      "Si todos los proveedores están cobrando anticipadamente",
+      "Si la empresa carece de cualquier activo no corriente"
+    ],
+    "answer": 0,
+    "explanation": "CFF positivo recurrente puede revelar necesidades de financiación externas que deben explicarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-041",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene ventas crecientes y EBITDA creciente, pero el margen EBITDA cae. ¿Cómo puede suceder?",
+    "options": [
+      "El EBITDA aumenta en euros, pero a un ritmo menor que las ventas, por lo que la rentabilidad relativa se deteriora",
+      "Es imposible que EBITDA y margen se muevan en direcciones distintas",
+      "El margen EBITDA solo depende del número de acciones",
+      "El margen EBITDA siempre coincide con el margen bruto"
+    ],
+    "answer": 0,
+    "explanation": "Importe absoluto y porcentaje no son equivalentes; crecer no implica mejorar márgenes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-042",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa obtiene margen bruto alto pero EBITDA bajo. ¿Qué sugiere?",
+    "options": [
+      "Los gastos operativos posteriores al coste de ventas absorben gran parte del margen bruto",
+      "La empresa no tiene costes directos",
+      "La D&A es necesariamente la única causa, aunque EBITDA la excluye",
+      "Los intereses son demasiado altos, aunque no se restan para EBITDA"
+    ],
+    "answer": 0,
+    "explanation": "EBITDA descuenta gastos operativos sin D&A; un margen bruto alto puede erosionarse por estructura operativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-043",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene EBITDA alto pero beneficio neto muy bajo. ¿Qué partidas pueden explicar la diferencia?",
+    "options": [
+      "D&A, gastos financieros e impuestos, entre otras partidas posteriores al EBITDA",
+      "Solo el coste de ventas, porque se resta después del EBITDA",
+      "Únicamente el inventario, que se registra directamente contra beneficio neto",
+      "Ninguna; EBITDA y beneficio neto deberían ser similares"
+    ],
+    "answer": 0,
+    "explanation": "Entre EBITDA y beneficio neto se descuentan D&A, resultado financiero e impuestos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-044",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa vende un activo por encima de su valor contable. ¿Por qué no conviene usar ese cobro como prueba de rentabilidad operativa recurrente?",
+    "options": [
+      "Porque la venta de un inmovilizado es una operación de inversión y puede generar un resultado no recurrente distinto del negocio ordinario",
+      "Porque cualquier venta de activo reduce el beneficio neto",
+      "Porque los activos vendidos se contabilizan como inventario ordinario",
+      "Porque el cobro pertenece siempre a CFF"
+    ],
+    "answer": 0,
+    "explanation": "La actividad ordinaria debe distinguirse de operaciones no recurrentes sobre activos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-045",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si suben los costes fijos pero precio y coste variable unitario no cambian, ¿qué ocurre con el margen de contribución unitario y el punto muerto?",
+    "options": [
+      "El margen unitario no cambia, pero el punto muerto aumenta porque hay más costes fijos que cubrir",
+      "Ambos disminuyen en la misma proporción",
+      "El margen unitario aumenta y el punto muerto disminuye",
+      "No cambia ninguna magnitud"
+    ],
+    "answer": 0,
+    "explanation": "MCU depende de precio y CVU; el punto muerto también depende de costes fijos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-046",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa sube el precio manteniendo CVU y costes fijos. ¿Qué efecto teórico tiene sobre el punto muerto?",
+    "options": [
+      "Aumenta el margen de contribución y disminuyen las unidades necesarias para cubrir costes fijos",
+      "Reduce el margen de contribución y aumenta el punto muerto",
+      "No cambia porque el precio no aparece en la fórmula",
+      "Aumenta necesariamente el punto muerto porque cada unidad genera más ingreso"
+    ],
+    "answer": 0,
+    "explanation": "PM = CF/(P−CVU); un denominador mayor reduce el número de unidades de equilibrio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-047",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué el punto muerto de una empresa multiproducto depende del mix de ventas?",
+    "options": [
+      "Porque cada producto puede tener un margen de contribución distinto y cambiar la mezcla altera la contribución media",
+      "Porque los costes fijos dejan de existir cuando hay varios productos",
+      "Porque el precio medio siempre coincide con el coste variable medio",
+      "Porque el mix solo afecta al balance, no al resultado"
+    ],
+    "answer": 0,
+    "explanation": "Con distintos márgenes por producto, el equilibrio depende de qué combinación se vende.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-048",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa aumenta CapEx sin cambiar EBIT, D&A ni NOF. ¿Qué ocurre inicialmente con el FCF?",
+    "options": [
+      "Disminuye, porque el CapEx es una salida de efectivo que se resta en el cálculo",
+      "Aumenta, porque comprar activos incrementa el balance",
+      "No cambia, porque CapEx no aparece en el FCF",
+      "Se convierte automáticamente en CFF positivo"
+    ],
+    "answer": 0,
+    "explanation": "El FCF descuenta la inversión en activos necesaria para sostener o ampliar el negocio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-049",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas tienen el mismo FCF esperado, pero una opera en un negocio mucho más arriesgado. ¿Qué debería ocurrir, en principio, con su valoración por DCF?",
+    "options": [
+      "La empresa más arriesgada debería descontarse a una tasa mayor y, por tanto, tender a valer menos",
+      "Ambas valen lo mismo porque los flujos son iguales",
+      "La más arriesgada vale más porque exige mayor rentabilidad",
+      "El riesgo solo afecta al beneficio contable, no al DCF"
+    ],
+    "answer": 0,
+    "explanation": "El valor depende de caja futura y riesgo; mayor tasa de descuento reduce valor presente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-050",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene Enterprise Value de 1.000, deuda financiera de 300 y caja sobrante de 80. ¿Qué Equity Value resulta bajo el esquema del temario?",
+    "options": [
+      "780",
+      "1.220",
+      "620",
+      "1.300"
+    ],
+    "answer": 0,
+    "explanation": "Equity Value = EV − deuda financiera + caja sobrante = 1.000 − 300 + 80 = 780.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
   }
 ]
