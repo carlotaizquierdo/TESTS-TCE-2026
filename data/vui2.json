@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "vui2-026",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa acude a la VUI diciendo «quiero internacionalizarme, pero no sé por dónde empezar». ¿Qué actuación encaja mejor?",
+    "options": [
+      "Realizar un diagnóstico de preparación y orientar después hacia mercados, operativa e instrumentos adecuados",
+      "Entregarle directamente una lista de ayudas sin analizar su situación",
+      "Exigir que ya tenga un comprador extranjero antes de atenderla",
+      "Limitar la atención a resolver una duda aduanera concreta"
+    ],
+    "answer": 0,
+    "explanation": "La VUI combina diagnóstico, orientación y derivación según grado de preparación y necesidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-027",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa ya exporta, pero sufre problemas recurrentes de documentación y cobro. ¿Sigue encajando como usuaria de la VUI?",
+    "options": [
+      "Sí; también se dirige a empresas exportadoras que necesitan asesoramiento operativo y consolidación",
+      "No; la VUI solo atiende a empresas que nunca han exportado",
+      "Sí, pero únicamente para formación en inglés",
+      "No, porque los problemas operativos son competencia exclusiva de bancos"
+    ],
+    "answer": 0,
+    "explanation": "La VUI atiende tanto a empresas en preparación como a exportadores.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-028",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa solicita información de mercado sobre Brasil y asesoramiento fiscal sobre una operación concreta. ¿Puede intervenir más de un área?",
+    "options": [
+      "Sí; las áreas de mercados y gestión operativa pueden complementarse sobre una misma necesidad",
+      "No; cada empresa debe elegir un único bloque para todo el proceso",
+      "Solo puede intervenir mercados porque Brasil es un país extranjero",
+      "Solo puede intervenir operativa si ya existe factura emitida"
+    ],
+    "answer": 0,
+    "explanation": "El servicio está diseñado para combinar áreas técnicas cuando la necesidad lo requiere.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-029",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa quiere saber qué países importan más su producto y después identificar potenciales clientes. ¿Qué lógica de apoyo encaja?",
+    "options": [
+      "Usar información y bases de datos de mercado para priorizar países y segmentar compradores",
+      "Empezar por elegir un Incoterm sin analizar demanda",
+      "Solicitar financiación antes de definir el mercado objetivo",
+      "Utilizar únicamente redes sociales para inferir importaciones"
+    ],
+    "answer": 0,
+    "explanation": "La información de mercados ayuda a convertir datos comerciales en una selección de oportunidades.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-030",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa confunde que la VUI sea gratuita con que todas las ayudas o servicios de terceros también lo sean. ¿Qué matiz debe hacerse?",
+    "options": [
+      "La atención VUI es gratuita, pero los instrumentos de otras entidades pueden tener sus propias condiciones, costes o criterios",
+      "Todos los servicios de cualquier entidad conectada son gratuitos",
+      "La gratuidad solo se aplica a emprendedores, no a empresas exportadoras",
+      "La VUI cobra únicamente si la empresa termina exportando"
+    ],
+    "answer": 0,
+    "explanation": "La gratuidad del servicio no se extiende automáticamente a cada instrumento externo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-031",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una pyme necesita financiación y la VUI la orienta hacia ICO o COFIDES. ¿Quién decide finalmente la concesión del instrumento?",
+    "options": [
+      "La entidad competente, conforme a sus propios criterios",
+      "La VUI, porque actúa como ventanilla única",
+      "La Cámara, aunque el instrumento sea de otra entidad",
+      "La empresa, si supera el diagnóstico inicial"
+    ],
+    "answer": 0,
+    "explanation": "Orientar no equivale a aprobar financiación ajena.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-032",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa quiere vender por marketplaces y también mejorar campañas en Instagram. ¿Qué enfoque tiene más sentido?",
+    "options": [
+      "Puede combinar Click & Export y Social Commerce porque atienden canales digitales complementarios",
+      "Debe elegir uno porque los programas son incompatibles",
+      "Solo puede utilizar English for Export",
+      "Debe acudir al Softlanding porque cualquier canal digital se considera startup"
+    ],
+    "answer": 0,
+    "explanation": "Los programas cubren ámbitos distintos del proceso digital.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-033",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una startup busca inversores internacionales pero su pitch es débil y sus documentos no están preparados. ¿Qué programa ataca mejor esa carencia?",
+    "options": [
+      "Madrid International Softlanding for Startups",
+      "Click & Export",
+      "Social Commerce",
+      "Gestión operativa aduanera"
+    ],
+    "answer": 0,
+    "explanation": "Softlanding trabaja presentación del equipo, negociación, finanzas, documentación y pitch.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-034",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa desea mejorar credibilidad ante clientes británicos y negociar mejor en inglés. ¿Qué programa encaja?",
+    "options": [
+      "English for Export",
+      "Women Owned",
+      "Click & Export",
+      "Softlanding"
+    ],
+    "answer": 0,
+    "explanation": "E4E está dirigido a imagen, comunicación y relaciones profesionales en inglés.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-035",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa propiedad en un 50 % por una mujer quiere acceder a la certificación Women Owned descrita. ¿Cumple el requisito central señalado?",
+    "options": [
+      "No, porque el material exige más del 51 % del capital social en propiedad de mujer",
+      "Sí, porque 50 % se considera control equivalente",
+      "Sí, si la administradora es mujer aunque el capital sea 50 %",
+      "No, porque se exige el 100 % del capital"
+    ],
+    "answer": 0,
+    "explanation": "La diapositiva fija más del 51 % para el supuesto estudiado.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-036",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa obtiene certificación Women Owned. ¿Qué sería incorrecto prometerle?",
+    "options": [
+      "Que conseguirá automáticamente contratos con multinacionales o administraciones",
+      "Que puede mejorar visibilidad y acceso a redes de compradores",
+      "Que la certificación valida una condición de propiedad",
+      "Que puede participar en iniciativas de compras y licitaciones asociadas"
+    ],
+    "answer": 0,
+    "explanation": "La certificación facilita acceso a oportunidades, pero no garantiza adjudicaciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-037",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Los datos muestran 541 empresas y 847 asesoramientos. ¿Qué hipótesis explica razonablemente la diferencia?",
+    "options": [
+      "Una misma empresa puede realizar varias consultas o recibir seguimiento en distintos temas",
+      "306 asesoramientos fueron necesariamente anulados",
+      "Cada asesoramiento corresponde a una empresa distinta y los datos son incompatibles",
+      "Las 541 empresas son solo las que recibieron financiación"
+    ],
+    "answer": 0,
+    "explanation": "Número de empresas y número de actuaciones son magnitudes diferentes.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-038",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "La categoría más consultada en 2025 fue gestión operativa y aduanas. ¿Debe la VUI orientar toda su estrategia futura únicamente a esa área?",
+    "options": [
+      "No; es un dato de actividad de un año y la VUI mantiene objetivos y servicios más amplios",
+      "Sí; la mayor categoría debe absorber todos los recursos futuros",
+      "Sí; las demás áreas dejan de ser parte de su misión",
+      "No, porque las aduanas no forman parte de la VUI"
+    ],
+    "answer": 0,
+    "explanation": "Los indicadores históricos no sustituyen la naturaleza integral del servicio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-039",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa interpreta que «mercados de interés» equivale a «exportaciones efectivamente realizadas». ¿Qué corrección procede?",
+    "options": [
+      "Son consultas o intereses expresados por usuarios, no necesariamente ventas realizadas",
+      "Son exactamente las exportaciones declaradas en aduanas",
+      "Representan inversión extranjera recibida por Madrid",
+      "Miden la asistencia a ferias por región"
+    ],
+    "answer": 0,
+    "explanation": "La tabla de mercados de interés no es una estadística de comercio exterior efectivo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-040",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa recibe asesoramiento y después vuelve con una cuestión relacionada. ¿Qué elemento del modelo VUI justifica esa continuidad?",
+    "options": [
+      "El seguimiento individualizado de las consultas",
+      "La obligación de contratar un servicio privado adicional",
+      "El sistema de licitación multilateral",
+      "La certificación Women Owned"
+    ],
+    "answer": 0,
+    "explanation": "La continuidad forma parte explícita del servicio.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-041",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa busca compradores en México, luego necesita un Incoterm y después opciones de financiación. ¿Qué ilustra este recorrido?",
+    "options": [
+      "La internacionalización exige necesidades encadenadas y la VUI puede actuar como punto de acceso a distintos apoyos",
+      "Que una sola consulta debe resolverse por una única área sin derivaciones",
+      "Que los Incoterms determinan automáticamente la fuente de financiación",
+      "Que identificar compradores elimina la necesidad de gestión operativa"
+    ],
+    "answer": 0,
+    "explanation": "La VUI articula diferentes recursos a medida que avanza el proceso empresarial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-042",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa solicita a la VUI que clasifique jurídicamente un producto altamente técnico. ¿Qué enfoque sería razonable?",
+    "options": [
+      "Orientar y asesorar dentro de sus capacidades y, si procede, conectar con recursos especializados sin asumir competencias que no correspondan",
+      "Emitir una resolución aduanera vinculante en nombre de la AEAT",
+      "Garantizar la clasificación sin documentación técnica",
+      "Negarse a tratar cualquier cuestión relacionada con aduanas"
+    ],
+    "answer": 0,
+    "explanation": "La VUI asesora y orienta, pero no sustituye a las autoridades competentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-043",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa participa en una feria apoyada por la VUI y recibe varios contactos. ¿Qué sería un buen uso posterior del servicio?",
+    "options": [
+      "Volver para trabajar mercado, seguimiento u operativa si surgen necesidades concretas de esos contactos",
+      "Considerar terminado todo apoyo al finalizar la feria",
+      "Exigir a la VUI que cierre comercialmente los contratos",
+      "Esperar a que la feria se convierta automáticamente en ventas"
+    ],
+    "answer": 0,
+    "explanation": "Las actividades promocionales se integran en un proceso más amplio de internacionalización.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-044",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "La VUI recibe un premio por innovación en internacionalización. ¿Qué demuestra ese reconocimiento dentro del tema?",
+    "options": [
+      "Refuerza su posicionamiento institucional, pero no modifica por sí solo los servicios o requisitos de acceso",
+      "Convierte la VUI en autoridad aduanera",
+      "Garantiza financiación a las empresas usuarias",
+      "Sustituye la evaluación de resultados del servicio"
+    ],
+    "answer": 0,
+    "explanation": "Los premios aportan notoriedad institucional, no nuevas competencias automáticas.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-045",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa ve que la VUI visita compañías y participa en medios. ¿Qué función complementaria puede tener esa actividad?",
+    "options": [
+      "Generar visibilidad, relaciones institucionales y difusión de oportunidades de internacionalización",
+      "Sustituir el asesoramiento técnico individual",
+      "Aprobar operaciones de financiación",
+      "Emitir certificados de origen"
+    ],
+    "answer": 0,
+    "explanation": "La comunicación y networking complementan los servicios técnicos.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "vui2-046",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "¿Por qué un emprendedor sin empresa constituida puede ser destinatario de la VUI según el material?",
+    "options": [
+      "Porque el servicio también se dirige a emprendedores que se preparan para internacionalizarse",
+      "Porque la VUI solo exige intención de solicitar financiación",
+      "Porque cualquier particular puede usarla para compras personales en el extranjero",
+      "Porque los emprendedores representan la mayoría absoluta de usuarios"
+    ],
+    "answer": 0,
+    "explanation": "La VUI no está limitada a sociedades ya exportadoras.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-047",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa quiere usar una base de datos de importaciones para elegir mercado, pero no sabe interpretar los resultados. ¿Qué valor añade el asesoramiento?",
+    "options": [
+      "Ayudar a convertir datos en criterios de segmentación, oportunidad y priorización",
+      "Sustituir los datos por una opinión sin análisis",
+      "Garantizar que el país con más importaciones será el más rentable",
+      "Eliminar la necesidad de revisar competencia o barreras"
+    ],
+    "answer": 0,
+    "explanation": "La información cobra valor cuando se interpreta dentro de la estrategia de entrada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-048",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa cree que acudir a la VUI significa que la Administración ejecutará su plan de internacionalización. ¿Qué debe entender?",
+    "options": [
+      "La VUI asesora, orienta y acompaña, pero la decisión y ejecución empresarial siguen siendo responsabilidad de la empresa",
+      "La VUI asume la dirección comercial exterior de cada usuario",
+      "La empresa deja de necesitar recursos internos mientras use el servicio",
+      "La VUI firma contratos internacionales en representación de sus usuarios"
+    ],
+    "answer": 0,
+    "explanation": "El servicio apoya la toma de decisiones, no sustituye a la dirección empresarial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-049",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "¿Qué diferencia mejor una ventanilla única de una simple oficina especializada en un único tema?",
+    "options": [
+      "Integra orientación sobre diversas necesidades y conecta con múltiples organismos desde un punto de acceso común",
+      "Solo atiende consultas que puedan resolverse en una misma reunión",
+      "Gestiona directamente todos los trámites de todas las administraciones",
+      "Está limitada a una única fase de la internacionalización"
+    ],
+    "answer": 0,
+    "explanation": "La lógica de ventanilla única es facilitar acceso coordinado al ecosistema de apoyo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-050",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "¿Qué pregunta permitiría saber si has entendido realmente la VUI y no solo memorizado programas?",
+    "options": [
+      "Ante una necesidad empresarial concreta, identificar qué tipo de apoyo corresponde y hasta dónde llega la función de la VUI",
+      "Recitar de memoria todos los medios en los que apareció en 2025",
+      "Memorizar únicamente el número de empresas de cada feria",
+      "Recordar el orden exacto de los logotipos de la diapositiva institucional"
+    ],
+    "answer": 0,
+    "explanation": "El núcleo del tema es comprender la función, los servicios y cómo se articulan con necesidades reales de internacionalización.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
