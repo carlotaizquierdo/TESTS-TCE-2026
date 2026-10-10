@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fer2-026",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa obtiene 500 contactos en feria, pero solo 20 encajan con su cliente ideal. Otra consigue 120 contactos y 45 encajan. ¿Cuál parece más eficiente comercialmente?",
+    "options": [
+      "La segunda, porque la calidad y proporción de contactos relevantes importa más que el volumen bruto",
+      "La primera, porque más contactos siempre implican mayor probabilidad de venta",
+      "Ambas son equivalentes mientras tengan el mismo coste de stand",
+      "La primera, porque cualquier contacto puede considerarse lead cualificado"
+    ],
+    "answer": 0,
+    "explanation": "El temario insiste en separar volumen de público y calidad/encaje del contacto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-027",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa define como objetivo «mejorar notoriedad» pero no establece ninguna métrica. ¿Qué debilidad tiene?",
+    "options": [
+      "Resulta difícil evaluar el cumplimiento porque el objetivo no está suficientemente operacionalizado",
+      "No tiene ninguna debilidad porque los objetivos de imagen no pueden medirse",
+      "Es mejor que un objetivo cuantitativo porque evita sesgos",
+      "Debe sustituirse necesariamente por un objetivo de ventas"
+    ],
+    "answer": 0,
+    "explanation": "Los objetivos de imagen también deben formularse de manera evaluable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-028",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una feria genera mucho tráfico al stand, pero casi ningún visitante pertenece al segmento decisor. ¿Qué debería revisar la empresa?",
+    "options": [
+      "La selección del evento y su capacidad para atraer al público objetivo, no solo el diseño del stand",
+      "Únicamente el número de folletos repartidos",
+      "El importe de la cuota de inscripción, porque el público no influye en el resultado",
+      "La duración de las reuniones técnicas, aunque no haya decisores"
+    ],
+    "answer": 0,
+    "explanation": "Un evento puede ser grande y aun así tener poco encaje estratégico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-029",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa recibe muchas tarjetas, pero no anota necesidades ni próximos pasos. ¿Qué pierde?",
+    "options": [
+      "La capacidad de cualificar y priorizar el seguimiento con contexto comercial",
+      "La posibilidad de contabilizar visitantes oficiales",
+      "El derecho a participar en futuras ferias",
+      "La opción de calcular el gasto directo del evento"
+    ],
+    "answer": 0,
+    "explanation": "Sin contexto, los contactos se convierten en datos poco accionables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-030",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un lead expresa interés, pero no tiene proyecto concreto ni horizonte temporal. ¿Qué clasificación parece más razonable?",
+    "options": [
+      "Prioridad B si existe encaje real pero falta madurar necesidad o plazo",
+      "Prioridad A porque cualquier interés equivale a necesidad definida",
+      "Venta cerrada porque el contacto ha mostrado intención",
+      "Prioridad C obligatoria aunque haya encaje claro"
+    ],
+    "answer": 0,
+    "explanation": "La prioridad B refleja interés real con necesidad o plazo aún por desarrollar.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-031",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa decide llamar primero a todos los contactos C porque fueron los más simpáticos durante la feria. ¿Qué problema de gestión aparece?",
+    "options": [
+      "Está priorizando por impresión subjetiva y no por potencial, necesidad y siguiente paso",
+      "Está aplicando correctamente la lógica de scoring comercial",
+      "Está reduciendo el coste por lead cualificado",
+      "Está mejorando automáticamente el pipeline ponderado"
+    ],
+    "answer": 0,
+    "explanation": "La priorización debe basarse en criterios comerciales y no en simpatía o recuerdo personal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-032",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "El stand atrae muchas visitas gracias a una actividad llamativa, pero pocas conversaciones terminan registradas. ¿Qué puede estar ocurriendo?",
+    "options": [
+      "La atracción funciona, pero falla la conversión de visitante en contacto cualificado y registrado",
+      "La feria tiene necesariamente un ROI alto por el volumen de público",
+      "El problema se resuelve aumentando todavía más la decoración",
+      "Registrar contactos es irrelevante si el stand genera notoriedad"
+    ],
+    "answer": 0,
+    "explanation": "El recorrido del stand debe terminar en identificación, conversación y registro útil.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-033",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa supera el objetivo de 50 reuniones, pero casi todas son con perfiles sin capacidad de compra. ¿Puede considerarse éxito sin más?",
+    "options": [
+      "No; debe valorar calidad y adecuación de las reuniones, no solo cantidad",
+      "Sí; cualquier reunión cuenta igual para medir éxito",
+      "Sí, porque la capacidad decisoria no forma parte del perfil de comprador",
+      "No, pero únicamente si el coste de la feria supera el presupuesto"
+    ],
+    "answer": 0,
+    "explanation": "Los KPI de actividad necesitan interpretación cualitativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-034",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa logra 100 leads cualificados y 10 clientes. ¿Qué tasa de conversión lead-cliente obtiene?",
+    "options": [
+      "10 %",
+      "1 %",
+      "90 %",
+      "0,1 %"
+    ],
+    "answer": 0,
+    "explanation": "Conversión = clientes / leads cualificados × 100 = 10 / 100 × 100 = 10 %.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-035",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Dos ferias ofrecen el mismo número de compradores objetivo. Una cuesta el doble pero facilita agenda previa, reuniones y matchmaking. ¿Qué análisis conviene?",
+    "options": [
+      "Comparar valor esperado y capacidad de convertir contactos, no decidir solo por coste absoluto",
+      "Elegir siempre la más barata porque el número de compradores es idéntico",
+      "Elegir siempre la más cara porque los servicios adicionales garantizan ventas",
+      "Ignorar agenda y matchmaking porque no afectan a la conversión"
+    ],
+    "answer": 0,
+    "explanation": "La decisión debe integrar coste, calidad del acceso y capacidad real de seguimiento/conversión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-036",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa calcula ROI usando todo el pipeline sin ponderar como si fueran ventas ya conseguidas. ¿Qué error comete?",
+    "options": [
+      "Confunde oportunidades potenciales con resultados realizados y sobrestima la rentabilidad",
+      "Está siendo prudente porque el pipeline siempre se convierte íntegramente",
+      "Está calculando correctamente el margen atribuible",
+      "Solo comete error si el pipeline es inferior al coste de la feria"
+    ],
+    "answer": 0,
+    "explanation": "El pipeline no es venta cerrada y debe tratarse como oportunidad pendiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-037",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un expositor quiere justificar una feria solo porque «todo el sector va». ¿Qué le falta al razonamiento?",
+    "options": [
+      "Conectar la participación con sus propios objetivos, compradores objetivo, presupuesto y capacidad de seguimiento",
+      "Nada; la presencia del sector es criterio suficiente",
+      "Comprobar únicamente el tamaño del recinto",
+      "Saber si el evento tiene actividades de ocio para visitantes"
+    ],
+    "answer": 0,
+    "explanation": "La decisión debe ser estratégica para la empresa, no imitativa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-038",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa obtiene mucha información de competidores en feria. ¿En qué dimensión de resultados encaja mejor?",
+    "options": [
+      "Aprendizaje estratégico y de mercado",
+      "Venta directa cerrada",
+      "Gasto inducido",
+      "Financiación externa"
+    ],
+    "answer": 0,
+    "explanation": "La feria sirve también para contrastar posicionamiento, tendencias y competencia.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-039",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa detecta que compradores rechazan repetidamente una característica de su producto. ¿Qué valor tiene esa información?",
+    "options": [
+      "Puede orientar adaptación de producto y estrategia comercial, aunque no genere una venta inmediata",
+      "Debe ignorarse porque solo importan contratos firmados",
+      "Demuestra que el mercado completo rechaza definitivamente el producto",
+      "Solo sirve para calcular tráfico del stand"
+    ],
+    "answer": 0,
+    "explanation": "Las ferias funcionan como fuente de aprendizaje de mercado, pero las evidencias deben interpretarse con prudencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-040",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa invita masivamente a toda su base de datos sin segmentar. ¿Qué mejora propone el temario?",
+    "options": [
+      "Segmentar invitaciones y priorizar contactos relevantes para aumentar calidad de reuniones",
+      "Enviar todavía más invitaciones genéricas",
+      "Esperar a que los compradores relevantes aparezcan espontáneamente",
+      "Evitar cualquier agenda previa para no limitar oportunidades"
+    ],
+    "answer": 0,
+    "explanation": "La preparación comercial previa mejora la eficiencia del evento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-041",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa cierra la agenda solo el día antes de la feria. ¿Qué riesgo genera?",
+    "options": [
+      "Menor capacidad de preparar interlocutores, huecos de agenda y peor aprovechamiento del evento",
+      "Mayor flexibilidad y por tanto más ventas garantizadas",
+      "Ninguno, porque todas las reuniones deben concertarse durante la feria",
+      "Solo afecta al coste del viaje, no al resultado comercial"
+    ],
+    "answer": 0,
+    "explanation": "El material recomienda trabajar la agenda con antelación suficiente.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-042",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un equipo de stand no sabe quién debe registrar los leads ni quién hará seguimiento después. ¿Qué problema de organización existe?",
+    "options": [
+      "Falta asignación clara de responsabilidades y propietarios de cada oportunidad",
+      "Exceso de especialización del equipo",
+      "Demasiado uso de CRM",
+      "Una clasificación demasiado detallada de visitantes"
+    ],
+    "answer": 0,
+    "explanation": "Sin responsable, el contacto puede perderse aunque la conversación haya sido buena.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-043",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un lead A recibe respuesta tres semanas después, mientras un lead C recibe atención inmediata. ¿Qué falla?",
+    "options": [
+      "La priorización temporal no refleja el potencial comercial de cada contacto",
+      "Nada, porque todos los leads deben tratarse por orden alfabético",
+      "La empresa está mejorando la experiencia de los leads más débiles",
+      "Solo importa el contenido del mensaje, no el momento"
+    ],
+    "answer": 0,
+    "explanation": "Los leads de mayor prioridad deberían gestionarse antes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-044",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa envía el mismo email genérico a todos los contactos. ¿Por qué puede reducir conversión?",
+    "options": [
+      "Porque ignora la necesidad concreta y el siguiente paso acordado en cada conversación",
+      "Porque los emails posteriores a ferias están prohibidos",
+      "Porque la personalización solo sirve en B2C",
+      "Porque un mensaje genérico aumenta necesariamente el coste por lead"
+    ],
+    "answer": 0,
+    "explanation": "El seguimiento debe recuperar el contexto específico para ser relevante.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-045",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa logra mucho alcance en redes durante la feria, pero ningún contacto comercial relevante. ¿Cómo debería interpretar el resultado?",
+    "options": [
+      "Puede haber resultado de marketing, pero no debe confundirse con éxito comercial si ese era el objetivo principal",
+      "El alcance social equivale automáticamente a ventas",
+      "La feria es un éxito total porque cualquier visibilidad sustituye los objetivos comerciales",
+      "El dato de redes debe sumarse al pipeline en euros"
+    ],
+    "answer": 0,
+    "explanation": "Las dimensiones marketing y comercial son distintas y deben evaluarse según objetivos iniciales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-046",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa asiste a una feria para buscar distribuidor y termina cerrando una venta directa puntual a un consumidor. ¿Cumplió necesariamente su objetivo estratégico?",
+    "options": [
+      "No necesariamente; una venta aislada no sustituye haber encontrado el canal de distribución buscado",
+      "Sí, porque cualquier venta cumple todos los objetivos de participación",
+      "Sí, porque un consumidor final puede considerarse distribuidor potencial",
+      "No, porque las ferias nunca deben generar ventas directas"
+    ],
+    "answer": 0,
+    "explanation": "Los resultados deben compararse con el objetivo específico fijado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-047",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Por qué una feria puede ser útil en una estrategia de consolidación, aunque la empresa ya tenga clientes?",
+    "options": [
+      "Permite reforzar relaciones, fidelizar socios y mantener presencia frente a competidores",
+      "Porque consolidar significa abandonar el seguimiento digital",
+      "Porque solo las empresas nuevas necesitan contacto presencial",
+      "Porque en consolidación ya no se deben buscar tendencias ni competencia"
+    ],
+    "answer": 0,
+    "explanation": "La feria también sirve para mantener y reforzar relaciones existentes.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "fer2-048",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa quiere medir si la feria influyó realmente en ventas seis meses después. ¿Qué necesita?",
+    "options": [
+      "Un sistema de atribución y seguimiento en CRM que conecte contactos, oportunidades y cierres posteriores",
+      "Solo contar visitantes del stand el primer día",
+      "Sumar todo el pipeline sin distinguir origen",
+      "Usar únicamente la encuesta de satisfacción del organizador"
+    ],
+    "answer": 0,
+    "explanation": "La atribución requiere trazabilidad desde el contacto inicial hasta el resultado comercial posterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-049",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa tiene coste por lead bajo, pero casi ningún lead se convierte. ¿Qué conclusión es razonable?",
+    "options": [
+      "La captación puede ser eficiente en coste, pero la calidad de los leads o el proceso de conversión son deficientes",
+      "El bajo coste por lead demuestra por sí solo que la feria fue rentable",
+      "La conversión no importa si el coste unitario es pequeño",
+      "La solución es reducir todavía más el presupuesto de seguimiento"
+    ],
+    "answer": 0,
+    "explanation": "Los KPI deben interpretarse conjuntamente; captar barato no compensa contactos irrelevantes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-050",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "¿Qué combinación describe mejor una participación ferial madura?",
+    "options": [
+      "Objetivos previos, selección por encaje, agenda, equipo con roles, registro de leads, seguimiento y medición posterior",
+      "Stand llamativo, gran número de folletos y recuento final de visitantes",
+      "Elegir la feria más grande, improvisar reuniones y medir solo ventas del día",
+      "Priorizar notoriedad del evento y dejar seguimiento a iniciativa del cliente"
+    ],
+    "answer": 0,
+    "explanation": "La rentabilidad depende de todo el proceso antes-durante-después, no solo de estar presente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
