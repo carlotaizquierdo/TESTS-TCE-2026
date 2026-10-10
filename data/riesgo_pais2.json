@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "rie2-026",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país registra crecimiento del PIB del 5 %, pero su deuda externa a corto plazo aumenta mucho más rápido que sus reservas. ¿Qué lectura es más útil para un exportador a crédito?",
+    "options": [
+      "El crecimiento no elimina el riesgo de refinanciación y transferencia; debe analizarse la posición externa y la liquidez del país",
+      "El 5 % de crecimiento demuestra que el riesgo de impago país es bajo",
+      "La deuda corta deja de ser relevante cuando el PIB crece por encima de la inflación",
+      "Las reservas solo importan en economías con tipo de cambio fijo"
+    ],
+    "answer": 0,
+    "explanation": "Un buen dato de actividad puede coexistir con una posición externa frágil; la estructura de vencimientos y reservas es crucial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-027",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Dos países tienen igual deuda externa total. El primero concentra vencimientos a 15 años y el segundo a 6 meses. ¿Cuál presenta mayor riesgo de refinanciación inmediato?",
+    "options": [
+      "El segundo, porque necesita renovar financiación con mucha más frecuencia",
+      "El primero, porque la deuda de largo plazo siempre tiene mayor riesgo",
+      "Ambos, porque solo importa el importe total de deuda",
+      "Ninguno, si ambos tienen el mismo PIB nominal"
+    ],
+    "answer": 0,
+    "explanation": "El perfil temporal de la deuda es tan importante como su volumen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-028",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país tiene una balanza corriente equilibrada, pero su moneda se deprecia con fuerza por salidas de capital financiero. ¿Qué enseña este caso?",
+    "options": [
+      "Que el tipo de cambio también responde a la cuenta financiera y a las expectativas, no solo a la cuenta corriente",
+      "Que una balanza corriente equilibrada impide cualquier depreciación",
+      "Que la depreciación solo puede originarse por déficit comercial",
+      "Que las salidas de capital no forman parte del análisis de país"
+    ],
+    "answer": 0,
+    "explanation": "El tipo de cambio refleja múltiples flujos y expectativas, no una sola cuenta de la balanza de pagos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-029",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa exportadora factura en dólares a un cliente de un país cuya moneda local se deprecia. ¿Quién puede sufrir especialmente el impacto si el cliente genera ingresos en moneda local?",
+    "options": [
+      "El cliente, porque necesita más moneda local para comprar los dólares con los que pagar la factura",
+      "El exportador, porque cobrará menos dólares aunque la factura esté fija en esa moneda",
+      "Ninguno, porque la divisa de facturación elimina cualquier riesgo económico",
+      "El transportista, porque la depreciación cancela automáticamente el contrato"
+    ],
+    "answer": 0,
+    "explanation": "Facturar en divisa fuerte puede trasladar riesgo cambiario al comprador si sus ingresos están en moneda local.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-030",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una economía depende fuertemente de importar energía. Su moneda se deprecia un 20 %. ¿Qué canal puede empeorar la inflación?",
+    "options": [
+      "La energía importada se encarece en moneda local y puede trasladarse a costes de producción y precios finales",
+      "La depreciación abarata automáticamente todas las importaciones",
+      "El tipo de cambio solo afecta a exportaciones, no a precios internos",
+      "La inflación cae porque la moneda local pierde valor"
+    ],
+    "answer": 0,
+    "explanation": "La depreciación puede generar inflación importada, especialmente en economías dependientes de inputs externos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-031",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un banco central eleva tipos para defender la moneda, pero el sistema bancario está muy endeudado y las empresas tienen poca liquidez. ¿Qué riesgo aparece?",
+    "options": [
+      "La medida puede estabilizar la divisa pero agravar morosidad, insolvencias y contracción del crédito",
+      "Los tipos altos reducen automáticamente la deuda de empresas y bancos",
+      "La política monetaria deja de afectar a la economía real si busca defender la moneda",
+      "El crédito se abarata porque los inversores exigen menos rentabilidad"
+    ],
+    "answer": 0,
+    "explanation": "El beneficio cambiario potencial puede tener un coste alto en balances y actividad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-032",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país tiene déficit corriente financiado por deuda corta y, además, reservas internacionales escasas. ¿Qué escenario preocupa especialmente?",
+    "options": [
+      "Que una retirada de capital obligue a usar reservas rápidamente y genere crisis de liquidez y depreciación",
+      "Que aumente el ahorro nacional de forma automática",
+      "Que la moneda se aprecie por exceso de demanda externa",
+      "Que desaparezca el riesgo de transferencia al entrar deuda extranjera"
+    ],
+    "answer": 0,
+    "explanation": "La combinación de dependencia de refinanciación y pocas reservas es una señal clásica de vulnerabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-033",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa analiza un país con elevada inflación y crecimiento nominal del PIB muy alto. ¿Qué debería hacer antes de concluir que la economía crece con fuerza?",
+    "options": [
+      "Comprobar el PIB real para separar crecimiento de cantidades del efecto de los precios",
+      "Usar solo el PIB nominal porque incorpora mejor la inflación",
+      "Comparar el PIB con el número de habitantes sin ajustar precios",
+      "Ignorar la inflación si el crecimiento nominal supera el 10 %"
+    ],
+    "answer": 0,
+    "explanation": "El PIB real elimina el efecto de la variación de precios y permite evaluar mejor el crecimiento económico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-034",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país muestra aumento del PIB per cápita, pero fuerte desigualdad regional y social. ¿Qué limitación del indicador se pone de manifiesto?",
+    "options": [
+      "El promedio per cápita no informa de cómo se distribuye la renta entre la población",
+      "El PIB per cápita mide exclusivamente inflación",
+      "La desigualdad convierte el PIB real en una variable financiera",
+      "El PIB per cápita solo puede usarse en países desarrollados"
+    ],
+    "answer": 0,
+    "explanation": "El PIB per cápita aproxima una media y puede ocultar grandes diferencias de distribución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-035",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una economía muy abierta crece gracias a exportaciones de un único producto básico. ¿Por qué puede seguir siendo vulnerable?",
+    "options": [
+      "Porque un shock de precio o demanda externa puede afectar fuertemente a ingresos, divisa y actividad",
+      "Porque las exportaciones nunca contribuyen al PIB",
+      "Porque la apertura elimina la posibilidad de crisis externas",
+      "Porque depender de un solo producto reduce siempre la volatilidad"
+    ],
+    "answer": 0,
+    "explanation": "La concentración sectorial y externa puede amplificar shocks aunque el crecimiento sea elevado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-036",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa estudia vender a un comprador solvente en un país con sanciones internacionales cambiantes. ¿Qué riesgo debe separar del riesgo comercial?",
+    "options": [
+      "El riesgo jurídico/político de que nuevas restricciones impidan ejecutar o cobrar la operación",
+      "El riesgo de inventario del comprador, que sustituye al riesgo país",
+      "El riesgo de que el comprador tenga beneficios demasiado altos",
+      "Ninguno, porque la solvencia privada neutraliza las sanciones"
+    ],
+    "answer": 0,
+    "explanation": "La solvencia del cliente no elimina riesgos regulatorios o políticos que pueden bloquear comercio o pagos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-037",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un contrato elige tribunales de un país estable, pero todos los activos del comprador están en una jurisdicción donde ejecutar sentencias extranjeras es difícil. ¿Qué problema persiste?",
+    "options": [
+      "La elección de jurisdicción reduce incertidumbre, pero no garantiza que la resolución pueda ejecutarse eficazmente",
+      "La cláusula de jurisdicción elimina cualquier riesgo jurídico",
+      "La ejecución siempre se produce en el país del tribunal elegido",
+      "Los activos del comprador dejan de ser relevantes si existe sentencia"
+    ],
+    "answer": 0,
+    "explanation": "La capacidad de hacer efectiva una resolución depende de dónde están los activos y del reconocimiento/ejecución aplicable.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-038",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa asegura el riesgo comercial del comprador, pero no el riesgo político. El gobierno prohíbe transferencias de divisas. ¿Qué ocurre?",
+    "options": [
+      "La cobertura comercial puede no responder a un evento de transferencia si ese riesgo no está incluido en la póliza",
+      "El seguro comercial cubre necesariamente cualquier evento del país",
+      "La prohibición de transferencias se considera siempre insolvencia privada",
+      "El seguro deja de existir automáticamente cuando cambia la regulación"
+    ],
+    "answer": 0,
+    "explanation": "Las coberturas deben corresponder al tipo de riesgo efectivamente asegurado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-039",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un país mejora su rating soberano, pero el sector inmobiliario entra en crisis y aumenta la morosidad empresarial. ¿Qué debe hacer el exportador?",
+    "options": [
+      "No limitarse al rating país y analizar también sector y comprador concreto",
+      "Asumir que la mejora soberana compensa cualquier deterioro sectorial",
+      "Ignorar estados financieros del cliente mientras el rating sea investment grade",
+      "Aumentar automáticamente el plazo de crédito por la mejora del rating"
+    ],
+    "answer": 0,
+    "explanation": "Riesgo país, sector y contraparte son capas diferentes del análisis.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-040",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una interrupción en Bab el Mandeb obliga a desviar buques por el cabo de Buena Esperanza. ¿Qué cadena de efectos sería razonable?",
+    "options": [
+      "Más distancia y tiempo pueden elevar fletes, seguros, inventario en tránsito y necesidades de financiación",
+      "El desvío reduce siempre los costes por evitar peajes",
+      "Solo cambia el precio del petróleo, no la logística general",
+      "Los plazos se acortan al aumentar la distancia marítima"
+    ],
+    "answer": 0,
+    "explanation": "Un shock logístico puede transmitirse a costes financieros y operativos, no solo al transporte.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-041",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa europea compite con importaciones chinas que se redirigen hacia Europa tras nuevas barreras en Estados Unidos. ¿Qué efecto puede producir?",
+    "options": [
+      "Mayor presión competitiva en Europa si parte de la oferta china busca mercados alternativos",
+      "Menor competencia europea porque las restricciones estadounidenses reducen producción china a cero",
+      "Aumento automático del precio europeo por falta de oferta",
+      "Ningún efecto, porque los aranceles estadounidenses solo afectan a consumidores estadounidenses"
+    ],
+    "answer": 0,
+    "explanation": "Las barreras en un mercado pueden desviar flujos y modificar competencia en terceros países.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-042",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un arancel nuevo del 20 % se aplica a una importación. ¿Quién soportará económicamente el coste?",
+    "options": [
+      "Dependerá del poder de mercado y de la elasticidad: puede repartirse entre exportador, importador y consumidor",
+      "Siempre el consumidor final en su totalidad",
+      "Siempre el exportador mediante reducción de margen",
+      "Siempre el Estado importador porque recauda el arancel"
+    ],
+    "answer": 0,
+    "explanation": "La incidencia económica del arancel no coincide necesariamente con quién lo paga formalmente en aduana.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-043",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Los costes de insumos suben más rápido que los precios de venta de las empresas. ¿Qué ocurre con sus márgenes, en principio?",
+    "options": [
+      "Se comprimen, aumentando vulnerabilidad especialmente si también suben tipos de interés",
+      "Aumentan porque los costes más altos elevan el valor de inventario",
+      "No cambian si el PIB del país crece",
+      "Mejoran automáticamente si existe inflación"
+    ],
+    "answer": 0,
+    "explanation": "Si la empresa no puede trasladar costes al precio, el margen se reduce.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-044",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una economía tiene inflación alta y actividad débil. El banco central duda entre subir tipos o sostener crecimiento. ¿Qué dilema refleja?",
+    "options": [
+      "Combatir inflación puede profundizar la desaceleración y las insolvencias, mientras no actuar puede perpetuar presiones de precios",
+      "Subir tipos mejora simultáneamente inflación, crédito y crecimiento en todos los casos",
+      "La política monetaria no tiene relevancia en un escenario de estanflación",
+      "La inflación alta obliga necesariamente a bajar tipos"
+    ],
+    "answer": 0,
+    "explanation": "La estanflación genera objetivos de política económica en tensión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-045",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Durante la crisis asiática, inversores retiraron capital de países con situaciones distintas por tratarlos como un bloque. ¿Qué fenómeno describe?",
+    "options": [
+      "Contagio financiero amplificado por percepción y comportamiento inversor",
+      "Diversificación internacional eficiente",
+      "Cobertura natural frente a depreciaciones",
+      "Apreciación competitiva coordinada"
+    ],
+    "answer": 0,
+    "explanation": "El contagio puede extender crisis más allá de los fundamentos específicos de cada país.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-046",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué lección aporta Malasia en la crisis asiática según el temario?",
+    "options": [
+      "Que existieron respuestas alternativas al programa del FMI, como controles de capital, cuyo éxito depende del contexto",
+      "Que los controles de capital son siempre superiores a subir tipos",
+      "Que Malasia no sufrió ninguna presión financiera durante la crisis",
+      "Que cualquier país puede copiar la misma estrategia con idéntico resultado"
+    ],
+    "answer": 0,
+    "explanation": "El ejemplo muestra que no existe una receta universal y que las políticas dependen de margen de maniobra y credibilidad.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "rie2-047",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa observa muchos unicornios en un país y concluye que invertir allí es de bajo riesgo. ¿Qué objeción es correcta?",
+    "options": [
+      "La concentración de unicornios refleja ecosistema de capital y tecnología, pero no garantiza rentabilidad ni ausencia de burbujas",
+      "Los unicornios son empresas públicas con beneficios asegurados",
+      "La valoración superior a mil millones elimina el riesgo empresarial",
+      "El número de unicornios mide directamente la solvencia soberana"
+    ],
+    "answer": 0,
+    "explanation": "La valoración privada puede reflejar expectativas y ciclos; no sustituye un análisis de riesgo.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "rie2-048",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Un PESTEL identifica sequía severa en un país. ¿Cuándo se convierte en un factor realmente útil para una decisión empresarial?",
+    "options": [
+      "Cuando se traduce en efectos concretos sobre agua, energía, costes, demanda, regulación o continuidad operativa del proyecto",
+      "Cuando se menciona como dato ambiental sin relación con el sector",
+      "Cuando se clasifica automáticamente como riesgo alto para todas las empresas",
+      "Cuando se sustituye el análisis económico por el factor climático"
+    ],
+    "answer": 0,
+    "explanation": "El valor del PESTEL está en conectar el entorno con la operación específica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-049",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "Una empresa exportará durante cinco años y solo analiza las condiciones actuales del país. ¿Qué falta?",
+    "options": [
+      "Construir escenarios y vigilar tendencias e indicadores que puedan cambiar durante el horizonte de la operación",
+      "Nada, porque el riesgo país se mide en una fecha y permanece estable",
+      "Sustituir los escenarios por una única previsión puntual del PIB",
+      "Analizar únicamente la situación política del año de firma"
+    ],
+    "answer": 0,
+    "explanation": "Un análisis de riesgo debe incorporar horizonte temporal, escenarios y señales de alerta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "rie2-050",
+    "subject": "riesgo_pais2",
+    "subjectName": "Riesgo País",
+    "source": "Apuntes_Mikel_Aguirre_Riesgo_Pais.docx",
+    "question": "¿Qué principio resume mejor el análisis país aplicado a una exportación concreta?",
+    "options": [
+      "No preguntar solo si el país es «bueno o malo», sino qué riesgos afectan a esa operación, plazo, moneda, cliente y forma de cobro",
+      "Usar un único rating soberano para decidir cualquier operación",
+      "Evitar analizar al comprador cuando ya existe información macroeconómica",
+      "Tratar todas las exportaciones a un mismo país con idéntica exposición"
+    ],
+    "answer": 0,
+    "explanation": "El riesgo es específico de la operación y de su estructura, no una etiqueta absoluta del país.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
