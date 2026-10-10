@@ -448,5 +448,455 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "mad2-026",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Madrid tiene un peso de servicios muy elevado en el VAB. ¿Puede concluirse de ello que la industria sea irrelevante?",
+    "options": [
+      "No; un sector con menor peso regional puede seguir generando mucho empleo, valor y una aportación relevante al agregado nacional",
+      "Sí; cualquier sector por debajo del 10 % carece de importancia económica",
+      "Sí; la estructura terciaria implica ausencia de industria significativa",
+      "No, pero solo porque agricultura compensa la diferencia"
+    ],
+    "answer": 0,
+    "explanation": "La importancia económica no se reduce a una única participación porcentual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-027",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "La industria pesa 8,8 % del VAB regional y 5,9 % del empleo. ¿Qué hipótesis podría explorarse, sin afirmarla automáticamente?",
+    "options": [
+      "Que la productividad media aparente del sector puede diferir de la del conjunto, aunque harían falta cálculos y datos adecuados",
+      "Que cada trabajador industrial produce exactamente un 2,9 % más",
+      "Que el sector industrial tiene necesariamente salarios más altos",
+      "Que el 8,8 % mide número de empresas y no valor añadido"
+    ],
+    "answer": 0,
+    "explanation": "Comparar participaciones puede sugerir preguntas, pero no permite derivar productividad individual exacta sin más análisis.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-028",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Los servicios representan 88,3 % del empleo y 84,6 % del VAB. ¿Qué demuestra principalmente esta comparación?",
+    "options": [
+      "Que empleo y valor añadido tienen distribuciones distintas y no deben confundirse",
+      "Que cada trabajador de servicios genera menos valor que cualquier trabajador industrial",
+      "Que el 3,7 % restante corresponde exclusivamente a desempleados",
+      "Que el sector servicios está sobredimensionado por definición"
+    ],
+    "answer": 0,
+    "explanation": "Las diferencias agregadas no bastan para conclusiones individuales o normativas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-029",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Una persona suma el 84,6 % de servicios, 19,4 % de aportación nacional de servicios y 88,3 % de empleo para describir «el peso total» del sector. ¿Qué error comete?",
+    "options": [
+      "Suma porcentajes con denominadores y significados distintos",
+      "Calcula correctamente un índice compuesto regional",
+      "Solo se equivoca porque debería hacer una media",
+      "Los porcentajes pueden sumarse si pertenecen al mismo año"
+    ],
+    "answer": 0,
+    "explanation": "Los tres datos responden a preguntas distintas y no son aditivos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-030",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Madrid tiene solo 2 % de la superficie española pero cerca de una quinta parte del PIB según la diapositiva. ¿Qué característica económica sugiere?",
+    "options": [
+      "Alta concentración de actividad económica por unidad territorial",
+      "Predominio agrícola extensivo",
+      "Baja densidad empresarial",
+      "Dependencia exclusiva del turismo rural"
+    ],
+    "answer": 0,
+    "explanation": "La combinación ilustra fuerte concentración demográfica y productiva.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-031",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Una región tiene muchas unidades productivas pequeñas y otra pocas empresas grandes. ¿Por qué el número de empresas no basta para comparar peso económico?",
+    "options": [
+      "Porque tamaño, empleo y valor añadido por unidad pueden ser muy distintos",
+      "Porque el VAB se calcula únicamente con número de sociedades",
+      "Porque todas las unidades productivas generan el mismo valor",
+      "Porque el empleo no guarda relación con actividad empresarial"
+    ],
+    "answer": 0,
+    "explanation": "La cantidad de unidades no informa por sí sola del valor generado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-032",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Qué lectura debe hacerse del «efecto sede» al interpretar inversión extranjera en Madrid?",
+    "options": [
+      "Parte del flujo registrado puede reflejar la localización de sedes corporativas y no únicamente dónde se materializa físicamente toda la inversión",
+      "Toda inversión registrada en Madrid se ejecuta necesariamente en la capital",
+      "El efecto sede reduce artificialmente cualquier dato de inversión",
+      "La sede fiscal carece de influencia estadística"
+    ],
+    "answer": 0,
+    "explanation": "La concentración de sedes puede elevar el registro territorial de flujos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-033",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Madrid aparece como segunda región exportadora e importadora. ¿Puede deducirse que tiene superávit comercial de bienes?",
+    "options": [
+      "No; la posición en rankings no informa por sí sola del saldo entre exportaciones e importaciones",
+      "Sí; ser segunda exportadora implica superávit",
+      "Sí, si también es segunda importadora",
+      "No, porque las regiones nunca pueden calcular comercio exterior"
+    ],
+    "answer": 0,
+    "explanation": "Para conocer el saldo hacen falta valores de exportación e importación, no solo posiciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-034",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "La clase menciona saldo excedentario de bienes y servicios con el exterior, pero una situación distinta al mirar comercio fuera de España. ¿Qué enseña?",
+    "options": [
+      "El resultado depende del perímetro analizado y de si se incluyen relaciones interregionales y servicios",
+      "Que todos los saldos exteriores significan exactamente lo mismo",
+      "Que las exportaciones de bienes nunca importan en Madrid",
+      "Que el comercio fuera de España siempre es superavitario"
+    ],
+    "answer": 0,
+    "explanation": "La definición del ámbito y de las partidas cambia la lectura del saldo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-035",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Por qué la entrada en las Comunidades Europeas desde 1986 puede relacionarse con la estructura madrileña?",
+    "options": [
+      "Favoreció apertura, reestructuración sectorial e integración en nuevos patrones de inversión y servicios",
+      "Eliminó automáticamente la industria madrileña",
+      "Convirtió Madrid en comunidad autónoma",
+      "Hizo innecesaria la inversión extranjera"
+    ],
+    "answer": 0,
+    "explanation": "El material vincula integración europea con reorganización productiva y apertura.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mad2-036",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "El Plan de Estabilización de 1959 coincide con fuerte crecimiento demográfico y económico. ¿Qué relación plantea el tema?",
+    "options": [
+      "La apertura y modernización favorecieron expansión industrial, urbana y de servicios, junto a movimientos de población",
+      "El plan redujo el papel de Madrid como centro económico",
+      "La industrialización quedó limitada al siglo XIX",
+      "El crecimiento demográfico fue independiente de cualquier transformación económica"
+    ],
+    "answer": 0,
+    "explanation": "La etapa de los cincuenta y sesenta se presenta como fase de fuerte transformación.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mad2-037",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Por qué las Reales Fábricas no consolidaron una base industrial suficiente según el temario?",
+    "options": [
+      "Por problemas de escala, gestión, mercados limitados y carácter efímero",
+      "Porque Madrid carecía de población consumidora",
+      "Porque la Bolsa de Madrid prohibía inversión industrial",
+      "Porque el ferrocarril ya había desplazado toda actividad a Barcelona"
+    ],
+    "answer": 0,
+    "explanation": "El material identifica varios límites estructurales a ese modelo preindustrial.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mad2-038",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "En el siglo XIX Madrid era más burocrático y residencial que Barcelona. ¿Qué explica parcialmente la industrialización más tardía?",
+    "options": [
+      "Una estructura de demanda, capital y producción menos orientada a manufacturas que la catalana",
+      "La ausencia total de comercio y servicios en Madrid",
+      "La prohibición legal de instalar fábricas",
+      "La falta completa de infraestructuras urbanas"
+    ],
+    "answer": 0,
+    "explanation": "El contraste histórico sirve para explicar especializaciones diferentes.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mad2-039",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Qué papel tuvieron ferrocarril, ensanche y Canal de Isabel II en el desarrollo económico?",
+    "options": [
+      "Mejoraron infraestructuras, expansión urbana y condiciones para actividad y localización empresarial",
+      "Redujeron la conectividad de Madrid con otras regiones",
+      "Sustituyeron el sector servicios por agricultura",
+      "Afectaron únicamente al turismo"
+    ],
+    "answer": 0,
+    "explanation": "Infraestructura y urbanización formaron parte de la transformación económica.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "mad2-040",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Un gráfico de empleo industrial muestra concentración al sur de la capital. ¿Qué sería una inferencia válida?",
+    "options": [
+      "Existen patrones territoriales de especialización, pero para cuantificar cada municipio hacen falta datos adicionales",
+      "El 100 % de la industria madrileña está en el sur",
+      "Los municipios con color más intenso tienen exactamente el mismo empleo",
+      "La industria no existe en otros ejes metropolitanos"
+    ],
+    "answer": 0,
+    "explanation": "Los mapas apoyan lectura espacial cualitativa, no cifras exactas sin tabla.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-041",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "La construcción tiene 8,7 % de unidades productivas pero 5,6 % del empleo regional. ¿Qué demuestra?",
+    "options": [
+      "El peso sectorial varía según se mida tejido empresarial, ocupación o VAB",
+      "Que todas las empresas de construcción son más grandes que las de servicios",
+      "Que construcción aporta exactamente 8,7 % del VAB",
+      "Que los porcentajes sectoriales deben coincidir siempre"
+    ],
+    "answer": 0,
+    "explanation": "Las variables describen dimensiones distintas de la estructura económica.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-042",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Una rama de servicios crece mucho en empleo entre 2015 y 2025. ¿Puede concluirse que también duplicó su productividad?",
+    "options": [
+      "No; crecimiento de empleo no informa por sí solo del valor añadido por trabajador",
+      "Sí; más empleo implica proporcionalmente más productividad",
+      "Sí, si pertenece a información y comunicaciones",
+      "No, porque la productividad nunca puede medirse en servicios"
+    ],
+    "answer": 0,
+    "explanation": "Para productividad hacen falta medidas de output/valor añadido y trabajo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-043",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Un índice de actividad pasa de 90 a 110 con base 2019=100. ¿Cuál es la lectura correcta?",
+    "options": [
+      "Pasa de estar 10 % por debajo de la base a 10 % por encima, no supone un crecimiento del 20 % exacto respecto a 2019",
+      "Aumenta 110 % respecto a 2019",
+      "El sector gana 20 puntos de cuota de VAB",
+      "La variación carece de significado porque los índices no permiten comparaciones"
+    ],
+    "answer": 0,
+    "explanation": "Los índices expresan niveles relativos a una base; la variación entre 90 y 110 debe calcularse aparte si se quiere tasa exacta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-044",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Una serie de inflación sube y después corrige. ¿Por qué no debe confundirse «bajar inflación» con «bajar precios»?",
+    "options": [
+      "Una menor tasa de inflación puede significar que los precios siguen subiendo, pero más despacio",
+      "La inflación solo puede ser positiva o cero",
+      "Cuando baja la inflación, todos los precios vuelven a niveles anteriores",
+      "La inflación no tiene relación con variaciones de precios"
+    ],
+    "answer": 0,
+    "explanation": "Desinflación es reducción de la tasa de crecimiento de precios, no necesariamente caída del nivel de precios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-045",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "La inversión exterior recibida muestra grandes oscilaciones anuales. ¿Qué enfoque analítico es preferible?",
+    "options": [
+      "Observar tendencia, operaciones extraordinarias y efecto sede antes de generalizar a partir de un año",
+      "Elegir el año máximo como representación permanente",
+      "Ignorar la inversión porque es demasiado volátil",
+      "Convertir cada flujo anual en porcentaje de empleo"
+    ],
+    "answer": 0,
+    "explanation": "Los flujos pueden estar dominados por operaciones puntuales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-046",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Madrid lidera la aportación al VAB nacional de servicios. ¿Es lo mismo que decir que servicios son el sector que más pesa dentro de Madrid?",
+    "options": [
+      "No es lo mismo, aunque ambas cosas pueden ser ciertas: una compara Madrid con España y otra sectores dentro de Madrid",
+      "Sí, ambas frases usan exactamente el mismo denominador",
+      "No, porque Madrid no tiene servicios relevantes",
+      "Sí, si se utiliza el dato de empleo"
+    ],
+    "answer": 0,
+    "explanation": "La distinción de denominadores es una de las trampas centrales del tema.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-047",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Por qué una cifra de 2023 (P) no debe mezclarse sin aviso con otra de 2025?",
+    "options": [
+      "Porque puede pertenecer a otro año, nivel de provisionalidad y universo estadístico",
+      "Porque los datos económicos solo son válidos durante un mes",
+      "Porque 2023 no puede compararse nunca con años posteriores",
+      "Porque P significa que el dato es privado y no oficial"
+    ],
+    "answer": 0,
+    "explanation": "El análisis debe respetar fecha y naturaleza de cada serie.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-048",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Una pregunta ofrece 84,4 % y 84,6 % como respuestas para servicios. ¿Cómo decidir cuál corresponde?",
+    "options": [
+      "Mirando el año y la serie: 84,4 % es 2024 primera estimación y 84,6 % la ficha de 2025",
+      "Eligiendo siempre la cifra más alta",
+      "Promediando ambas",
+      "Usando 84,4 % para empleo y 84,6 % para unidades productivas"
+    ],
+    "answer": 0,
+    "explanation": "Los datos son próximos pero pertenecen a referencias temporales distintas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-049",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "¿Qué evidencia apoyaría mejor la afirmación de que Madrid es una economía muy terciarizada?",
+    "options": [
+      "El peso de servicios en VAB, empleo y unidades productivas, analizados con sus indicadores correspondientes",
+      "Solo el número de hoteles de la región",
+      "Exclusivamente el dato histórico de 1860",
+      "Únicamente la inversión extranjera recibida"
+    ],
+    "answer": 0,
+    "explanation": "La terciarización se observa de forma consistente en varias medidas actuales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mad2-050",
+    "subject": "economia_madrid2",
+    "subjectName": "Economía de la Comunidad de Madrid",
+    "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
+    "question": "Ante una pregunta económica con varias cifras parecidas, ¿qué estrategia de examen recomienda implícitamente el tema?",
+    "options": [
+      "Identificar primero qué variable, año, territorio y denominador pide la pregunta antes de recordar el número",
+      "Elegir el porcentaje más alto porque suele ser servicios",
+      "Sumar cifras relacionadas para obtener una respuesta global",
+      "Responder según el sector sin atender al año"
+    ],
+    "answer": 0,
+    "explanation": "La mayoría de trampas proceden de mezclar magnitudes, años o denominadores.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
