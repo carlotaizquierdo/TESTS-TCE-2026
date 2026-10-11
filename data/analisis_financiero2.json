@@ -898,5 +898,275 @@
     "difficulty": "medium",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fin2-051",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene fondo de maniobra positivo de 80.000 €, pero 70.000 € corresponden a existencias de rotación muy lenta. ¿Qué conclusión es más adecuada?",
+    "options": [
+      "El fondo de maniobra es positivo, pero la liquidez real puede ser más débil de lo que sugiere el importe agregado",
+      "La empresa dispone de 80.000 € de efectivo para atender pagos inmediatos",
+      "Las existencias lentas deben excluirse del activo corriente en cualquier caso",
+      "Un fondo de maniobra positivo impide que exista tensión de tesorería"
+    ],
+    "answer": 0,
+    "explanation": "El fondo de maniobra es AC−PC, pero debe analizarse la calidad y convertibilidad de sus componentes; no equivale a caja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-052",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa soporta costes fijos de 120.000 €, vende cada unidad a 80 € y tiene un coste variable unitario de 50 €. ¿Cuál es su punto muerto en unidades?",
+    "options": [
+      "4.000 unidades",
+      "1.500 unidades",
+      "2.400 unidades",
+      "6.000 unidades"
+    ],
+    "answer": 0,
+    "explanation": "MCU=80−50=30 €. Punto muerto=120.000/30=4.000 unidades.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-053",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "La empresa del caso anterior eleva el precio a 90 € sin cambiar costes fijos ni coste variable unitario. ¿Qué sucede con su umbral de rentabilidad?",
+    "options": [
+      "Disminuye porque aumenta el margen de contribución unitario",
+      "Aumenta porque cada venta genera un ingreso mayor",
+      "No cambia porque los costes fijos siguen siendo los mismos",
+      "Solo cambia si también aumenta el volumen de ventas real"
+    ],
+    "answer": 0,
+    "explanation": "Al subir el precio con CVU constante, aumenta el MCU; al dividir los mismos costes fijos entre un margen mayor, se necesitan menos unidades.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-054",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa cobra 40.000 € de clientes, paga 15.000 € a proveedores, compra una máquina por 30.000 € y recibe un préstamo de 20.000 €. ¿Cómo se clasifican estos movimientos?",
+    "options": [
+      "Cobros/pagos ordinarios en CFO, máquina en CFI y préstamo en CFF",
+      "Cobros de clientes en CFI, proveedores en CFO y máquina/préstamo en CFF",
+      "Clientes y proveedores en CFO, mientras máquina y préstamo se incluyen ambos en CFI",
+      "Todos se integran en CFO porque afectan a la tesorería del ejercicio"
+    ],
+    "answer": 0,
+    "explanation": "La explotación ordinaria va a CFO; la compra de inmovilizado a CFI; la entrada de deuda a CFF.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-055",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa industrial vende por 25.000 € un vehículo que utilizaba comercialmente. ¿Por qué ese cobro no debe clasificarse como CFO por el mero hecho de ser una venta?",
+    "options": [
+      "Porque procede de la venta de un activo no corriente y, en el esquema del tema, corresponde a CFI",
+      "Porque toda venta de un activo genera directamente un flujo de financiación",
+      "Porque las ventas de vehículos se registran fuera del estado de flujos",
+      "Porque cualquier ingreso extraordinario debe clasificarse como CFF"
+    ],
+    "answer": 0,
+    "explanation": "Si vender vehículos no es la actividad ordinaria de la empresa y el bien era inmovilizado, el cobro es un flujo de inversión.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-056",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta EBIT de 160, tipo fiscal del 25 %, D&A de 30, las NOF disminuyen en 20 y el CapEx es 50. ¿Cuál es su FCF según la fórmula del temario?",
+    "options": [
+      "120",
+      "80",
+      "100",
+      "160"
+    ],
+    "answer": 0,
+    "explanation": "FCF=160×0,75+30−(−20)−50=120. Una caída de NOF libera caja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-057",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa se financia con 40 % de fondos propios a un Ke del 12 % y 60 % de deuda a un Kd del 6 %. Si T=25 %, ¿cuál es aproximadamente su WACC?",
+    "options": [
+      "7,5 %",
+      "9,0 %",
+      "8,4 %",
+      "6,3 %"
+    ],
+    "answer": 0,
+    "explanation": "WACC=0,40×12%+0,60×6%×(1−0,25)=4,8%+2,7%=7,5%.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-058",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Un proveedor amplía el plazo de pago a una empresa sin que cambien clientes ni existencias. ¿Qué cadena de efectos encaja mejor con las NOF simplificadas?",
+    "options": [
+      "Aumentan proveedores, bajan las NOF y se libera caja operativa",
+      "Aumentan proveedores, suben las NOF y se inmoviliza más caja",
+      "Bajan proveedores, bajan las NOF y mejora el margen EBITDA",
+      "No cambian las NOF porque proveedores pertenece al pasivo corriente"
+    ],
+    "answer": 0,
+    "explanation": "NOF=Clientes+Existencias−Proveedores. Más financiación espontánea de proveedores reduce las NOF y libera caja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-059",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas presentan el mismo EBITDA. La primera necesita mucho CapEx y acumula inventarios; la segunda requiere poca inversión adicional. ¿Puede concluirse que generan la misma caja libre?",
+    "options": [
+      "No; EBITDA no incorpora por sí solo CapEx ni variaciones de NOF",
+      "Sí; un EBITDA igual implica un FCF igual antes de financiación",
+      "Sí, siempre que ambas tengan el mismo tipo impositivo",
+      "No, porque el EBITDA ya descuenta íntegramente las inversiones realizadas"
+    ],
+    "answer": 0,
+    "explanation": "El EBITDA aproxima desempeño operativo, pero el FCF también depende de impuestos operativos, D&A, ΔNOF y CapEx.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-060",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una valoración arroja Enterprise Value de 900 M€, deuda financiera de 250 M€ y caja sobrante de 70 M€. ¿Qué Equity Value resulta según el esquema del temario?",
+    "options": [
+      "720 M€",
+      "580 M€",
+      "650 M€",
+      "1.080 M€"
+    ],
+    "answer": 0,
+    "explanation": "Equity Value=EV−deuda financiera+caja sobrante=900−250+70=720 M€.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-061",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa incrementa ventas y beneficio, pero concede a sus clientes 120 días de pago mientras debe pagar a proveedores en 30 días. ¿Qué problema puede aparecer aunque la cuenta de resultados mejore?",
+    "options": [
+      "Una necesidad de financiación del ciclo y tensión de caja por el desfase entre cobros y pagos",
+      "Una caída automática del EBITDA por el aumento del plazo de cobro",
+      "Una reducción contable del activo corriente porque crecen los clientes",
+      "Una mejora inmediata del CFO porque el beneficio se reconoce antes"
+    ],
+    "answer": 0,
+    "explanation": "Devengo y caja no coinciden; vender a crédito puede elevar resultado y clientes sin generar efectivo inmediato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-062",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa aumenta su D&A en 10 sin otros cambios operativos. ¿Qué relación conceptual es correcta?",
+    "options": [
+      "El EBIT baja respecto al EBITDA, pero D&A se suma de nuevo al calcular FCF porque no es una salida de caja del periodo",
+      "El EBITDA baja en 10 y el EBIT queda igual porque D&A solo afecta a caja",
+      "EBITDA y EBIT bajan ambos en 10 y el FCF también necesariamente en 10",
+      "D&A se registra como CFI porque representa la compra anual de inmovilizado"
+    ],
+    "answer": 0,
+    "explanation": "D&A se descuenta para llegar de EBITDA a EBIT, pero se añade de nuevo en FCF al no implicar ese mismo pago de caja en el periodo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-063",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta CFI de −90 M€ porque está construyendo una nueva fábrica. ¿Qué afirmación es más rigurosa?",
+    "options": [
+      "El signo negativo no permite juzgarlo por sí solo; puede reflejar inversión productiva para mantener o crecer",
+      "El CFI negativo demuestra que la actividad ordinaria destruye caja",
+      "La empresa tiene pérdidas contables de al menos 90 M€",
+      "Toda salida de CFI debe financiarse con nueva deuda para ser sostenible"
+    ],
+    "answer": 0,
+    "explanation": "El signo del flujo debe interpretarse por su causa; un CFI negativo puede proceder de inversión productiva.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-064",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa mejora mucho su ROE mientras su ROA apenas cambia y su deuda/patrimonio aumenta. ¿Qué debe investigar un analista antes de atribuir la mejora a una mayor eficiencia operativa?",
+    "options": [
+      "Si el aumento del ROE procede principalmente del apalancamiento financiero",
+      "Si el fondo de comercio ha pasado a clasificarse como activo corriente",
+      "Si el punto muerto ha desaparecido por superar las ventas previstas",
+      "Si el CFI se ha transformado contablemente en CFO"
+    ],
+    "answer": 0,
+    "explanation": "Un ROE elevado frente a ROA puede estar impulsado por más deuda; DuPont ayuda a identificar el origen de la rentabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-065",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos proyectos generan el mismo FCF esperado, pero uno exige una rentabilidad mayor por su riesgo. Manteniendo iguales los demás supuestos, ¿qué efecto tendrá una tasa de descuento más alta?",
+    "options": [
+      "Reducirá el valor actual de los flujos del proyecto más arriesgado",
+      "Aumentará su valor actual al compensar mejor al inversor",
+      "No alterará la valoración mientras el FCF nominal sea el mismo",
+      "Solo afectará al Equity Value, pero no al valor del negocio operativo"
+    ],
+    "answer": 0,
+    "explanation": "En DCF, un WACC mayor reduce el valor presente de los mismos flujos futuros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
