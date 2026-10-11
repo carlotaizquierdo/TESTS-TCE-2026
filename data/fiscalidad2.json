@@ -1410,10 +1410,10 @@
     "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
     "question": "¿Qué diferencia esencial existe entre el modelo 349 e Intrastat en el marco del tema?",
     "options": [
-      "El 349 tiene función fiscal recapitulativa de determinadas operaciones intracomunitarias; Intrastat cumple una función estadística sobre movimientos de mercancías",
-      "Ambos son declaraciones idénticas que se presentan ante organismos distintos",
-      "Intrastat liquida el IVA y el 349 mide el volumen físico de mercancías",
-      "El 349 solo se usa para ventas B2C y Intrastat para servicios B2B"
+      "El 349 es una declaración fiscal recapitulativa de ciertas operaciones intracomunitarias; Intrastat tiene finalidad estadística sobre mercancías",
+      "El 349 e Intrastat recogen las mismas operaciones, pero uno se presenta ante Hacienda y otro ante la administración estadística",
+      "Intrastat liquida el IVA de las mercancías y el 349 informa únicamente del volumen físico transportado entre Estados",
+      "El 349 se reserva a ventas B2C y servicios electrónicos, mientras Intrastat se utiliza para operaciones empresariales B2B"
     ],
     "answer": 0,
     "explanation": "No deben confundirse obligaciones fiscales y estadísticas.",
