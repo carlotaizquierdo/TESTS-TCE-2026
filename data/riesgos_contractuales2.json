@@ -1168,5 +1168,365 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "mul2-066",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Según el orden de prevalencia del tema, ¿qué secuencia es correcta de mayor a menor prioridad contractual?",
+    "options": [
+      "Formulario del contrato → CEC → CGC → especificaciones/TdR → oferta del adjudicatario → notificación de adjudicación",
+      "CEC → Formulario del contrato → oferta → CGC → especificaciones → notificación",
+      "CGC → CEC → Formulario → oferta → especificaciones → notificación",
+      "Formulario → oferta → CEC → CGC → notificación → especificaciones"
+    ],
+    "answer": 0,
+    "explanation": "El material fija expresamente ese orden para resolver contradicciones entre documentos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-067",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una especificación técnica contradice una cláusula de las CEC. ¿Qué documento prevalece según el esquema estudiado?",
+    "options": [
+      "La CEC, porque ocupa un nivel superior en el orden de prevalencia",
+      "La especificación, porque todo contenido técnico desplaza al contrato",
+      "La oferta del adjudicatario, porque fue aceptada por el cliente",
+      "La notificación de adjudicación, por ser posterior cronológicamente"
+    ],
+    "answer": 0,
+    "explanation": "Las CEC están por encima de la documentación técnica en el orden de prevalencia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-068",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una condición de la oferta del adjudicatario es más favorable al proveedor que una especificación técnica del pliego. Si existe contradicción, ¿qué regla aplica?",
+    "options": [
+      "Prevalece la especificación técnica, salvo que el contrato haya modificado expresamente el orden o contenido aplicable",
+      "Prevalece siempre la oferta porque fue seleccionada económicamente",
+      "Ambos documentos se anulan entre sí",
+      "Prevalece la notificación de adjudicación aunque no trate ese punto"
+    ],
+    "answer": 0,
+    "explanation": "En el orden del tema, especificaciones/TdR preceden a la oferta del adjudicatario.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-069",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "En una licitación de una etapa y dos sobres, ¿qué objetivo busca mantener cerrado el sobre económico hasta acabar la evaluación técnica?",
+    "options": [
+      "Evitar que el conocimiento del precio interfiera con la valoración técnica prevista por el procedimiento",
+      "Permitir renegociar la solución técnica después de conocer el precio",
+      "Sustituir la precalificación por una evaluación económica posterior",
+      "Convertir el precio en confidencial incluso después de la adjudicación"
+    ],
+    "answer": 0,
+    "explanation": "La separación secuencial protege la lógica de evaluación establecida en el pliego.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-070",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "¿Qué diferencia esencial existe entre «dos sobres» y «dos etapas»?",
+    "options": [
+      "Dos sobres separa documentación técnica/económica en una misma etapa; dos etapas separa momentos sucesivos de definición de la solución",
+      "Dos sobres implica dos adjudicaciones y dos etapas una sola oferta",
+      "Dos etapas se usa solo para consultoría y dos sobres solo para suministros",
+      "Son expresiones equivalentes para el mismo procedimiento"
+    ],
+    "answer": 0,
+    "explanation": "El tema insiste en no confundir cómo se presenta con cuándo se completa la solución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-071",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "En una contratación compleja de dos etapas, ¿qué caracteriza la primera etapa?",
+    "options": [
+      "Se presenta una solución técnica inicial sin precio final, que puede aclararse antes de la oferta definitiva",
+      "Se presenta precio final irrevocable sin información técnica",
+      "Se adjudica provisionalmente al licitador de menor precio",
+      "Se abre el Performance Bond antes de definir la solución"
+    ],
+    "answer": 0,
+    "explanation": "La primera etapa sirve para discutir/aclarar aspectos técnicos antes de la propuesta final.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-072",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una empresa supera la precalificación. ¿Qué puede concluir correctamente?",
+    "options": [
+      "Que ha demostrado capacidad para competir, pero todavía debe presentar una oferta conforme al pliego y ser evaluada",
+      "Que ya ha obtenido el contrato salvo error administrativo",
+      "Que ya no se revisará ninguna cuestión técnica ni financiera",
+      "Que queda exenta de aportar garantía de oferta"
+    ],
+    "answer": 0,
+    "explanation": "La precalificación filtra quién puede competir; no equivale a adjudicación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-073",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una licitación exige experiencia general y actividades clave específicas. La empresa cumple sobradamente la experiencia general pero no una actividad clave. ¿Qué riesgo existe?",
+    "options": [
+      "Puede quedar fuera porque los requisitos específicos se evalúan de forma separada y no se compensan necesariamente con experiencia general",
+      "La experiencia general compensa cualquier requisito específico por definición",
+      "La actividad clave solo se revisa después de adjudicar",
+      "La falta se subsana automáticamente con un precio inferior"
+    ],
+    "answer": 0,
+    "explanation": "Los criterios de calificación deben cumplirse según su estructura; no son intercambiables.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-074",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una APCA cumple el volumen total requerido y uno de sus miembros supera el mínimo individual exigido. ¿Qué otro principio debe recordar respecto a sus integrantes?",
+    "options": [
+      "La responsabilidad conjunta y solidaria y la designación de un representante común, según el documento de precalificación",
+      "Cada integrante responde únicamente por su porcentaje económico",
+      "El representante común sustituye jurídicamente a todos los miembros",
+      "La APCA elimina los requisitos de elegibilidad de cada integrante"
+    ],
+    "answer": 0,
+    "explanation": "El caso Duarte recoge responsabilidad conjunta y solidaria y representante común.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-075",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Un miembro de una APCA pretende aportar una referencia en la que solo ejecutó el 25 % del contrato. ¿Cómo debe valorarse la experiencia según el caso estudiado?",
+    "options": [
+      "Atendiendo a su participación real en valor, funciones y responsabilidades, no al importe total del contrato",
+      "Computando siempre el 100 % del contrato por haber participado en él",
+      "Ignorando cualquier experiencia adquirida dentro de una APCA",
+      "Sumando el contrato completo si el cliente emitió un único certificado"
+    ],
+    "answer": 0,
+    "explanation": "El material exige considerar la participación efectiva, no atribuir automáticamente todo el contrato.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-076",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "El pliego exige un Bid Bond durante la fase de oferta. ¿Qué riesgo cubre principalmente?",
+    "options": [
+      "Que el licitador retire o incumpla compromisos de la oferta en los supuestos cubiertos por la garantía",
+      "Defectos técnicos durante el periodo de garantía posventa",
+      "Uso indebido del anticipo después de firmar el contrato",
+      "Incumplimiento de obligaciones de ejecución durante toda la obra"
+    ],
+    "answer": 0,
+    "explanation": "El Bid Bond respalda la seriedad/mantenimiento de la oferta.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-077",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una empresa resulta adjudicataria y formaliza el contrato. ¿Qué secuencia de garantías es coherente con el tema?",
+    "options": [
+      "Se libera el Bid Bond al abrirse la garantía de buena ejecución conforme al contrato",
+      "Se mantiene el Bid Bond hasta terminar el periodo de garantía técnica",
+      "El Performance Bond se sustituye por el Bid Bond después de la aceptación definitiva",
+      "El aval de garantía se abre antes de presentar la oferta"
+    ],
+    "answer": 0,
+    "explanation": "Al pasar de licitación a ejecución, la garantía de oferta deja paso a la de buena ejecución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-078",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "¿Por qué un Performance Bond a primera demanda merece especial atención aunque la empresa crea haber cumplido correctamente?",
+    "options": [
+      "Porque el beneficiario puede pedir su ejecución conforme al texto del aval, por lo que redacción, vigencia y liberación son críticas",
+      "Porque solo puede ejecutarse después de sentencia firme",
+      "Porque no genera comisiones bancarias durante su vigencia",
+      "Porque sustituye todas las obligaciones del contrato principal"
+    ],
+    "answer": 0,
+    "explanation": "Una garantía a primera demanda tiene dinámica propia y exige control de texto y fechas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-079",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Un anticipo del 15 % se paga contra garantía por el 100 % del anticipo. ¿Qué diferencia conceptual existe entre esa garantía y el Performance Bond?",
+    "options": [
+      "La primera protege la devolución/materialización del anticipo; el segundo cubre el cumplimiento contractual durante la ejecución",
+      "Ambas cubren exactamente la misma obligación y periodo",
+      "El Performance Bond garantiza exclusivamente impuestos de importación",
+      "La garantía de anticipo solo se utiliza una vez terminada la ejecución"
+    ],
+    "answer": 0,
+    "explanation": "Cubren riesgos y fases distintas aunque puedan coexistir temporalmente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-080",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Tras la aceptación definitiva comienza el periodo de garantía técnica. ¿Qué transición de avales encaja con el material?",
+    "options": [
+      "Liberación del Performance Bond y apertura/sustitución por el aval de garantía cuando corresponda",
+      "Apertura de un nuevo Bid Bond y cierre del contrato",
+      "Conversión del aval de anticipo en garantía de oferta",
+      "Mantenimiento obligatorio simultáneo de todos los avales hasta prescripción"
+    ],
+    "answer": 0,
+    "explanation": "El aval de garantía cubre las obligaciones posaceptación y sustituye normalmente al de buena ejecución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-081",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Un contrato de suministro deja el 15 % del precio para aceptación definitiva, que depende de instalación y formación por parte del proveedor pero también de que el cliente dé acceso. ¿Cuál es el principal riesgo contractual?",
+    "options": [
+      "Que una obligación o actuación del cliente retrase el hito que activa el cobro final",
+      "Que el porcentaje pendiente pase automáticamente a ser anticipo",
+      "Que la aceptación provisional sustituya siempre a la definitiva",
+      "Que el Performance Bond desaparezca desde el embarque"
+    ],
+    "answer": 0,
+    "explanation": "Cuando el cobro depende de actos del cliente, existe riesgo de bloqueo aunque el proveedor haya entregado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-082",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "¿Por qué negociar embarques y aceptaciones parciales puede reducir riesgo?",
+    "options": [
+      "Permite vincular pagos y liberaciones a partes cumplidas sin dejar todo el contrato bloqueado por una incidencia aislada",
+      "Elimina la necesidad de documentos de transporte",
+      "Permite modificar libremente el precio de cada lote tras adjudicación",
+      "Convierte cada lote en un contrato sin garantías"
+    ],
+    "answer": 0,
+    "explanation": "La parcialización reduce concentración de riesgo de ejecución y cobro.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-083",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una empresa oferta DDP en un mercado donde desconoce licencias, impuestos, despacho y costes interiores. ¿Qué problema señala el tema?",
+    "options": [
+      "Puede asumir costes y responsabilidades locales difíciles de prever que erosionen el margen",
+      "DDP traslada al comprador toda la gestión de importación",
+      "DDP limita el riesgo del vendedor al puerto de salida",
+      "DDP impide cualquier obligación fiscal en destino para el vendedor"
+    ],
+    "answer": 0,
+    "explanation": "El material desaconseja DDP cuando no se domina el entorno local.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-084",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Un contrato tiene precio firme y la adjudicación se retrasa nueve meses. Durante ese tiempo suben fletes y costes de un proveedor clave. ¿Qué debe haber contemplado el escandallo?",
+    "options": [
+      "Escenarios de retraso e imprevistos porque el precio puede quedar congelado mientras los costes reales cambian",
+      "La posibilidad de repercutir cualquier subida sin cláusula específica",
+      "Que el precio firme se convierte en revisable después de seis meses",
+      "Que los costes logísticos quedan fuera del margen contractual"
+    ],
+    "answer": 0,
+    "explanation": "La ejecución puede demorarse y los costes subir; el escandallo debe incorporar riesgos realistas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-085",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "En la primera lectura de un pliego, ¿qué conjunto resume mejor los filtros críticos del tema?",
+    "options": [
+      "Disponibilidad de fondos, condiciones/documentos de pago, acciones del cliente, garantías y ley/arbitraje",
+      "Diseño gráfico de la oferta, idioma comercial, tamaño del stand, publicidad y redes",
+      "Solo precio máximo y fecha de entrega",
+      "Únicamente experiencia técnica y número de competidores"
+    ],
+    "answer": 0,
+    "explanation": "El enfoque de lectura rápida prioriza los puntos que pueden volver inviable o muy arriesgada la operación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
