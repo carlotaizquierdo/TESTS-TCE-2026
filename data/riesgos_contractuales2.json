@@ -1212,10 +1212,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "Una condición de la oferta del adjudicatario es más favorable al proveedor que una especificación técnica del pliego. Si existe contradicción, ¿qué regla aplica?",
     "options": [
-      "Prevalece la especificación técnica, salvo que el contrato haya modificado expresamente el orden o contenido aplicable",
-      "Prevalece siempre la oferta porque fue seleccionada económicamente",
-      "Ambos documentos se anulan entre sí",
-      "Prevalece la notificación de adjudicación aunque no trate ese punto"
+      "Prevalece la especificación técnica por estar por encima de la oferta en el orden, salvo modificación contractual expresa aplicable",
+      "Prevalece la oferta del adjudicatario porque su aceptación económica implica aceptación de todas sus condiciones particulares",
+      "Se consideran incompatibles ambos documentos y el órgano de contratación debe eliminar las dos cláusulas contradictorias",
+      "Prevalece la notificación de adjudicación por ser posterior en el tiempo, aunque no regule expresamente el punto discutido"
     ],
     "answer": 0,
     "explanation": "En el orden del tema, especificaciones/TdR preceden a la oferta del adjudicatario.",
@@ -1248,10 +1248,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "¿Qué diferencia esencial existe entre «dos sobres» y «dos etapas»?",
     "options": [
-      "Dos sobres separa documentación técnica/económica en una misma etapa; dos etapas separa momentos sucesivos de definición de la solución",
-      "Dos sobres implica dos adjudicaciones y dos etapas una sola oferta",
-      "Dos etapas se usa solo para consultoría y dos sobres solo para suministros",
-      "Son expresiones equivalentes para el mismo procedimiento"
+      "Dos sobres separa técnica y económica en una etapa; dos etapas separa momentos sucesivos de definición de la solución",
+      "Dos sobres implica dos adjudicaciones sucesivas; dos etapas mantiene una sola oferta desde el inicio del procedimiento",
+      "Dos etapas se reserva a consultoría compleja; dos sobres se utiliza solo en suministros y obras convencionales",
+      "Ambos conceptos describen la misma secuencia y la diferencia depende únicamente del nombre utilizado en el pliego"
     ],
     "answer": 0,
     "explanation": "El tema insiste en no confundir cómo se presenta con cuándo se completa la solución.",
@@ -1284,10 +1284,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "Una empresa supera la precalificación. ¿Qué puede concluir correctamente?",
     "options": [
-      "Que ha demostrado capacidad para competir, pero todavía debe presentar una oferta conforme al pliego y ser evaluada",
-      "Que ya ha obtenido el contrato salvo error administrativo",
-      "Que ya no se revisará ninguna cuestión técnica ni financiera",
-      "Que queda exenta de aportar garantía de oferta"
+      "Ha superado el filtro de capacidad para competir, pero aún debe presentar una oferta conforme al pliego y ser evaluada",
+      "Ha obtenido una posición preferente que conduce a la adjudicación si mantiene el precio inicialmente comunicado",
+      "Queda dispensada de nuevas comprobaciones técnicas y financieras porque esas materias se agotan en la precalificación",
+      "Puede omitir la garantía de oferta y determinados formularios porque su elegibilidad ya ha sido verificada"
     ],
     "answer": 0,
     "explanation": "La precalificación filtra quién puede competir; no equivale a adjudicación.",
@@ -1302,10 +1302,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "Una licitación exige experiencia general y actividades clave específicas. La empresa cumple sobradamente la experiencia general pero no una actividad clave. ¿Qué riesgo existe?",
     "options": [
-      "Puede quedar fuera porque los requisitos específicos se evalúan de forma separada y no se compensan necesariamente con experiencia general",
-      "La experiencia general compensa cualquier requisito específico por definición",
-      "La actividad clave solo se revisa después de adjudicar",
-      "La falta se subsana automáticamente con un precio inferior"
+      "Puede quedar excluida porque los requisitos específicos se evalúan separadamente y no se compensan con experiencia general",
+      "La experiencia general puede compensar actividades clave cuando el volumen acreditado supera ampliamente el mínimo exigido",
+      "La actividad clave se valora después de adjudicar, por lo que su ausencia no afecta a la fase de calificación",
+      "La falta puede compensarse mediante una oferta económica más baja si la empresa demuestra suficiente capacidad financiera"
     ],
     "answer": 0,
     "explanation": "Los criterios de calificación deben cumplirse según su estructura; no son intercambiables.",
@@ -1464,10 +1464,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "¿Por qué negociar embarques y aceptaciones parciales puede reducir riesgo?",
     "options": [
-      "Permite vincular pagos y liberaciones a partes cumplidas sin dejar todo el contrato bloqueado por una incidencia aislada",
-      "Elimina la necesidad de documentos de transporte",
-      "Permite modificar libremente el precio de cada lote tras adjudicación",
-      "Convierte cada lote en un contrato sin garantías"
+      "Permite ligar pagos y liberaciones a partes cumplidas sin bloquear el conjunto del contrato por una incidencia aislada",
+      "Reduce la documentación logística exigible porque cada lote puede entregarse sin acreditar transporte o recepción",
+      "Permite revisar libremente el precio de cada lote tras adjudicación para absorber cambios de costes y fletes",
+      "Transforma cada lote en un contrato autónomo y elimina las garantías que cubren el suministro conjunto"
     ],
     "answer": 0,
     "explanation": "La parcialización reduce concentración de riesgo de ejecución y cobro.",
@@ -1518,10 +1518,10 @@
     "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx + Precalificacion_Carretera_Duarte_actualizado.docx",
     "question": "En la primera lectura de un pliego, ¿qué conjunto resume mejor los filtros críticos del tema?",
     "options": [
-      "Disponibilidad de fondos, condiciones/documentos de pago, acciones del cliente, garantías y ley/arbitraje",
-      "Diseño gráfico de la oferta, idioma comercial, tamaño del stand, publicidad y redes",
-      "Solo precio máximo y fecha de entrega",
-      "Únicamente experiencia técnica y número de competidores"
+      "Disponibilidad de fondos, condiciones y documentos de pago, actuaciones del cliente, garantías y ley/arbitraje",
+      "Diseño y estructura formal de la oferta, idioma, referencias comerciales, estrategia de comunicación y presentación gráfica",
+      "Presupuesto máximo, calendario de entrega, volumen de unidades y número estimado de competidores presentes",
+      "Experiencia técnica, capacidad de producción, recursos humanos y referencias regionales como únicos filtros iniciales"
     ],
     "answer": 0,
     "explanation": "El enfoque de lectura rápida prioriza los puntos que pueden volver inviable o muy arriesgada la operación.",
