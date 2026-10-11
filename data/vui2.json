@@ -898,5 +898,275 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "vui2-051",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa pregunta quién impulsa institucionalmente la VUI de Madrid. ¿Qué respuesta refleja el material?",
+    "options": [
+      "La Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, en colaboración con la Cámara de Comercio de Madrid",
+      "ICEX de forma exclusiva, mediante sus Oficinas Económicas y Comerciales",
+      "La Comisión Europea junto con Enterprise Europe Network",
+      "CESCE y COFIDES como entidades financieras responsables del servicio"
+    ],
+    "answer": 0,
+    "explanation": "La VUI se presenta como iniciativa de la Comunidad de Madrid en colaboración con la Cámara de Comercio de Madrid.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-052",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una pyme interpreta «ventanilla única» como que la VUI concede directamente cualquier ayuda estatal, autonómica o local. ¿Qué corrección es adecuada?",
+    "options": [
+      "La VUI actúa como punto de acceso, orientación y canalización; que una entidad esté en la red no implica que la VUI gestione directamente todos sus instrumentos",
+      "La VUI concede automáticamente cualquier financiación pública solicitada por una empresa madrileña",
+      "La VUI solo informa sobre ayudas de la Comunidad de Madrid y no sobre organismos estatales",
+      "La VUI sustituye jurídicamente a las entidades que finalmente aprueban cada instrumento"
+    ],
+    "answer": 0,
+    "explanation": "La función de ventanilla única es facilitar orientación y acceso; las decisiones y gestiones pueden corresponder a otros organismos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-053",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Un emprendedor aún no exporta y quiere saber si puede acudir a la VUI. ¿Qué dice la definición del servicio?",
+    "options": [
+      "Sí; se dirige también a emprendedores y empresas que se preparan para internacionalizarse",
+      "No; solo atiende a empresas con exportaciones registradas durante al menos un año",
+      "Sí, pero únicamente si ya dispone de filial o distribuidor en el extranjero",
+      "No; el asesoramiento previo a la exportación corresponde exclusivamente a ICEX"
+    ],
+    "answer": 0,
+    "explanation": "El servicio se dirige a emprendedores, exportadores y compañías en preparación para internacionalizarse.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-054",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa no sabe si está preparada para exportar y tampoco qué mercados priorizar. ¿Qué combinación de apoyo encaja mejor con la VUI?",
+    "options": [
+      "Diagnóstico personalizado de preparación y orientación sobre mercados mediante estudios e informes",
+      "Emisión directa de un crédito documentario y fijación del tipo de cambio",
+      "Concesión automática de una subvención y selección obligatoria del país de destino",
+      "Sustitución del departamento comercial de la empresa durante todo el proceso"
+    ],
+    "answer": 0,
+    "explanation": "Entre los servicios figuran diagnóstico de preparación y orientación sobre mercados exteriores.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-055",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa ya ha localizado un cliente y necesita resolver aranceles, documentación y fiscalidad de la operación. ¿Qué muestra este caso sobre la VUI?",
+    "options": [
+      "Que también presta orientación operativa especializada, no solo apoyo en la fase inicial de selección de mercados",
+      "Que deja de ser competente en cuanto existe un comprador identificado",
+      "Que su función se limita a promoción y asistencia a ferias",
+      "Que solo puede remitir a una base de datos sin asesoramiento técnico"
+    ],
+    "answer": 0,
+    "explanation": "La VUI incluye asesoramiento en aduanas, aranceles, documentación, fiscalidad y otras técnicas de comercio internacional.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-056",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa ve que CESCE, ICO, COFIDES, CEIM, CDTI y otros organismos aparecen en el ecosistema de la VUI. ¿Qué debe inferir?",
+    "options": [
+      "Que la VUI puede orientar hacia distintas entidades según la necesidad, sin asumir que todos sus programas se tramitan dentro de la propia VUI",
+      "Que todas esas entidades forman una única personalidad jurídica con la VUI",
+      "Que cualquier producto de esas entidades es gratuito para empresas madrileñas",
+      "Que la VUI decide de manera vinculante sobre la concesión de todos sus instrumentos"
+    ],
+    "answer": 0,
+    "explanation": "La red amplía la capacidad de orientación y derivación, pero no implica gestión directa universal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-057",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "¿Cuál de estas actuaciones responde mejor al objetivo de «incrementar y consolidar la presencia internacional» de productos y servicios madrileños?",
+    "options": [
+      "Acompañar a empresas tanto en la entrada como en la continuidad de su actividad exterior",
+      "Atender únicamente a compañías que nunca hayan exportado",
+      "Limitar el servicio a resolver dudas aduaneras puntuales",
+      "Sustituir la estrategia internacional de cada empresa por un plan único regional"
+    ],
+    "answer": 0,
+    "explanation": "Los objetivos incluyen aumentar y consolidar la presencia internacional, por lo que el apoyo no se limita al primer paso exportador.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-058",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "En 2025 la gestión operativa y aduanas representó el 26 % de las consultas, frente al 23 % de servicios VUI y 19 % de información de mercados. ¿Qué conclusión es válida?",
+    "options": [
+      "La operativa y aduanas fue la categoría con mayor peso entre las consultas registradas ese año",
+      "Más de la mitad de las empresas usuarias solo preguntaron por aduanas",
+      "La VUI dejó de prestar asesoramiento estratégico porque su porcentaje fue menor",
+      "El 26 % mide el porcentaje de exportaciones madrileñas sometidas a control aduanero"
+    ],
+    "answer": 0,
+    "explanation": "Los porcentajes describen la distribución temática de consultas, no exportaciones ni exclusividad de uso.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-059",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "La VUI registró 847 asesoramientos para 541 empresas en 2025. ¿Qué lectura es más lógica?",
+    "options": [
+      "Una misma empresa puede recibir más de un asesoramiento o plantear varias necesidades",
+      "Cada asesoramiento corresponde necesariamente a una empresa distinta",
+      "La diferencia demuestra que 306 asesoramientos carecieron de destinatario",
+      "El dato indica que solo 541 de los 847 asesoramientos fueron gratuitos"
+    ],
+    "answer": 0,
+    "explanation": "El número de asesoramientos puede superar al de empresas porque existe continuidad y pluralidad de consultas.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-060",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa pide una base de datos de importaciones y cree que el listado obtenido basta para elegir mercado. ¿Qué valor adicional aporta el modelo de la VUI?",
+    "options": [
+      "Ayudar a interpretar la información y relacionarla con diagnóstico, mercado, estrategia y operativa",
+      "Garantizar que el país con más importaciones será necesariamente el mejor destino",
+      "Convertir la base de datos en una licencia automática para exportar",
+      "Eliminar la necesidad de estudiar competencia, barreras y perfil de cliente"
+    ],
+    "answer": 0,
+    "explanation": "La VUI combina herramientas de información con asesoramiento; los datos no sustituyen el análisis empresarial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-061",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa necesita primero identificar importadores y después revisar el Incoterm y la documentación de una operación concreta. ¿Qué principio de funcionamiento ilustra?",
+    "options": [
+      "La VUI puede combinar apoyo de mercado y apoyo operativo dentro de un mismo itinerario de internacionalización",
+      "Cada consulta debe resolverse en una institución distinta sin coordinación",
+      "La búsqueda de compradores excluye cualquier asesoramiento técnico posterior",
+      "La VUI solo interviene cuando la empresa ha definido de antemano todas las respuestas"
+    ],
+    "answer": 0,
+    "explanation": "El servicio integra orientación de mercado y gestión operativa como necesidades complementarias.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-062",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa entiende que, por ser gratuito el servicio VUI, cualquier feria, financiación o servicio de una entidad colaboradora también será gratuito. ¿Qué falla?",
+    "options": [
+      "Confunde la gratuidad del servicio de orientación VUI con las condiciones propias de instrumentos y servicios de terceros",
+      "Nada; la gratuidad de la VUI se extiende jurídicamente a toda la red de entidades",
+      "Solo falla si la empresa ya exporta; para emprendedores todo es gratuito",
+      "La VUI deja de ser gratuita cuando deriva una consulta a otra entidad"
+    ],
+    "answer": 0,
+    "explanation": "La gratuidad de la VUI no convierte en gratuitos todos los productos, ayudas o servicios de las entidades de su ecosistema.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-063",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una compañía quiere conocer una ayuda de COFIDES y exige a la VUI que confirme su aprobación. ¿Qué respuesta encaja mejor con el modelo?",
+    "options": [
+      "La VUI puede informar y orientar, pero la decisión sobre el instrumento corresponde a la entidad competente",
+      "La VUI debe aprobarla antes de remitir el expediente a COFIDES",
+      "La inclusión de COFIDES en la red convierte a la VUI en su órgano decisor",
+      "La VUI solo puede informar sobre programas de la Cámara de Comercio"
+    ],
+    "answer": 0,
+    "explanation": "La VUI facilita acceso y orientación; no sustituye a la entidad que concede o gestiona cada instrumento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-064",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "¿Qué combinación resume mejor los cuatro objetivos generales de la VUI?",
+    "options": [
+      "Sensibilizar, aumentar el número de empresas exportadoras/emprendedores, mejorar competitividad exterior y consolidar presencia internacional",
+      "Financiar, asegurar, transportar y despachar directamente todas las exportaciones madrileñas",
+      "Seleccionar mercados, imponer canales, fijar precios y negociar contratos por las empresas",
+      "Promocionar únicamente startups, atraer turismo, organizar ferias y emitir certificados de origen"
+    ],
+    "answer": 0,
+    "explanation": "Esos cuatro ejes reproducen los objetivos generales recogidos en el material.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "vui2-065",
+    "subject": "vui2",
+    "subjectName": "Ventanilla Única Internacional",
+    "source": "Apuntes_Ventanilla_Unica_Internacionalizacion_Madrid_TCE_2026.docx",
+    "question": "Una empresa acude con dudas sobre mercado, financiación, fiscalidad y comercio electrónico. ¿Por qué el concepto de «punto único de acceso» es útil?",
+    "options": [
+      "Porque reduce la fragmentación inicial y orienta a la empresa hacia apoyos especializados según cada necesidad",
+      "Porque garantiza que una sola persona ejecute técnicamente todas las funciones de todas las entidades",
+      "Porque elimina la necesidad de consultar organismos especializados en fases posteriores",
+      "Porque obliga a utilizar todos los instrumentos públicos disponibles antes de exportar"
+    ],
+    "answer": 0,
+    "explanation": "La VUI busca facilitar acceso y coordinación de apoyos, no absorber todas las competencias de las entidades especializadas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
