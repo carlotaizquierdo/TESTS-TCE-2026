@@ -1392,10 +1392,10 @@
     "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
     "question": "Un índice pasa de 90 a 108 con base 2019=100. ¿Qué conclusión es más precisa?",
     "options": [
-      "La variable pasa de estar un 10 % por debajo de la base a situarse un 8 % por encima; no implica un crecimiento del 18 % respecto a la base",
-      "La variable crece exactamente un 18 % respecto a 2019",
-      "La variable representa ahora el 108 % del VAB regional",
-      "El índice demuestra que los precios han aumentado un 108 %"
+      "Pasa de estar un 10 % bajo la base a un 8 % sobre ella; la variación entre 90 y 108 debe calcularse aparte",
+      "Aumenta 18 % respecto a 2019 porque la diferencia entre ambos índices es de 18 puntos",
+      "Representa el 108 % del VAB regional y supera en 8 puntos el peso del periodo de referencia",
+      "Muestra que los precios han aumentado 108 % desde 2019 al utilizarse una base igual a 100"
     ],
     "answer": 0,
     "explanation": "Los índices base deben interpretarse respecto al nivel de referencia y, si se calcula variación entre 90 y 108, usar la relación entre ambos.",
@@ -1446,10 +1446,10 @@
     "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
     "question": "¿Qué describe mejor el «efecto sede» al analizar inversión extranjera en Madrid?",
     "options": [
-      "La concentración estadística de operaciones en la región donde se ubica la sede, aunque parte de la actividad económica asociada pueda desarrollarse en otros territorios",
-      "La reducción de inversión provocada por el coste de oficinas centrales",
-      "La obligación de registrar toda inversión en la región del activo físico principal",
-      "El efecto de las ferias internacionales sobre la localización empresarial"
+      "Concentración estadística de operaciones en la región de la sede, aunque parte de la actividad asociada se desarrolle fuera",
+      "Reducción de inversión atribuible al coste de mantener sedes centrales en una región con mayor nivel de precios",
+      "Registro obligatorio de toda inversión en la región donde se localiza físicamente el activo principal",
+      "Atracción de inversión causada por la celebración de ferias y eventos internacionales en la capital"
     ],
     "answer": 0,
     "explanation": "El efecto sede puede inflar la concentración aparente de inversión en la región de la sede corporativa.",
@@ -1464,10 +1464,10 @@
     "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
     "question": "Madrid aparece como puente entre Europa e Iberoamérica. ¿Qué factores del tema sustentan esa idea?",
     "options": [
-      "Su posición como gran área urbana, nodo de transporte/comunicaciones y concentración de servicios empresariales e internacionales",
-      "Su especialización dominante en agricultura y minería",
-      "Su aislamiento respecto a los principales ejes europeos",
-      "La ausencia de inversión extranjera y de conexiones aéreas"
+      "Gran área urbana, nodo de transporte y comunicaciones y concentración de servicios empresariales e internacionales",
+      "Especialización industrial y agrícola orientada principalmente al abastecimiento de mercados de Iberoamérica",
+      "Posición periférica respecto a los ejes europeos que obliga a concentrar el comercio en conexiones aéreas",
+      "Baja presencia de capital exterior compensada por una elevada especialización en servicios turísticos"
     ],
     "answer": 0,
     "explanation": "El material relaciona localización, conectividad y especialización en servicios con esa función.",
@@ -1482,10 +1482,10 @@
     "source": "Apuntes_Entorno_Economico_Comunidad_de_Madrid_TCE_2026.docx",
     "question": "¿Qué papel desempeña 1959 en la evolución económica de Madrid según el tema?",
     "options": [
-      "El Plan de Estabilización y Liberalización marca un punto de inflexión asociado a crecimiento demográfico, industrialización y transformación productiva",
-      "Es el año de creación de la Comunidad Autónoma de Madrid",
-      "Marca el inicio de la crisis industrial 1976-1985",
-      "Es el año de entrada de España en las Comunidades Europeas"
+      "El Plan de Estabilización y Liberalización marca un punto de inflexión de modernización, crecimiento e industrialización",
+      "La creación de la Comunidad Autónoma marca el inicio de la industrialización y del crecimiento demográfico de Madrid",
+      "La crisis industrial comienza ese año y provoca la multiplicación por cinco del desempleo durante la década siguiente",
+      "La entrada en las Comunidades Europeas inicia la apertura comercial y la reorganización territorial de la región"
     ],
     "answer": 0,
     "explanation": "El Plan de 1959 se usa como referencia para la etapa de modernización y expansión.",
