@@ -1338,10 +1338,10 @@
     "source": "Apuntes_Analisis_Financiero_COMPLETOS",
     "question": "Si una empresa tiene cobertura de intereses de 1,1x, ¿qué indica con mayor precisión?",
     "options": [
-      "El resultado operativo cubre los intereses con un margen reducido y la capacidad de absorción de deterioros es limitada",
-      "La empresa dispone de caja equivalente a 1,1 veces toda su deuda financiera",
-      "El patrimonio neto supera la deuda en un 10 %",
-      "El EBITDA es necesariamente negativo"
+      "El resultado operativo cubre intereses con un margen reducido y deja poca capacidad para absorber deterioros",
+      "La caja disponible cubre 1,1 veces toda la deuda financiera y deja un margen reducido de tesorería",
+      "El patrimonio neto supera en un 10 % la deuda financiera y mejora la solvencia estructural",
+      "El EBITDA es inferior a los intereses y la empresa necesita financiación externa para pagarlos"
     ],
     "answer": 0,
     "explanation": "La cobertura de intereses relaciona capacidad operativa con cargas financieras; 1,1x deja poco margen.",
