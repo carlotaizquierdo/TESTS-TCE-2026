@@ -1168,5 +1168,365 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fin2-066",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene activo corriente de 300.000 €, pasivo corriente de 260.000 € y dentro del activo corriente figuran 90.000 € de existencias obsoletas. ¿Qué lectura es más rigurosa del fondo de maniobra?",
+    "options": [
+      "Es positivo en términos contables, pero puede sobreestimar el colchón financiero si parte del activo corriente no es realizable con normalidad",
+      "Debe considerarse negativo porque las existencias obsoletas convierten automáticamente el activo corriente en pasivo",
+      "Es equivalente a la caja disponible y, por tanto, garantiza el pago inmediato de todas las obligaciones",
+      "Solo puede interpretarse después de restar íntegramente el patrimonio neto del activo corriente"
+    ],
+    "answer": 0,
+    "explanation": "El fondo de maniobra mide AC−PC, pero su calidad depende de la liquidez real de los componentes del activo corriente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-067",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presenta margen bruto elevado pero EBITDA reducido. ¿Qué explicación encaja mejor con la cascada de resultados?",
+    "options": [
+      "Los gastos operativos distintos del coste de ventas absorben una parte importante del margen bruto",
+      "La depreciación y amortización explican toda la diferencia entre margen bruto y EBITDA",
+      "Los intereses financieros se descuentan antes de calcular el EBITDA",
+      "El impuesto sobre beneficios se resta para obtener el EBITDA"
+    ],
+    "answer": 0,
+    "explanation": "El EBITDA descuenta gastos operativos antes de D&A, por lo que un margen bruto alto puede reducirse por estructura comercial, administrativa u otros gastos operativos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-068",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Dos empresas generan el mismo beneficio neto, pero una tiene CFO persistentemente inferior. ¿Qué dato ayudaría más a explicar la diferencia?",
+    "options": [
+      "La evolución de clientes, existencias y proveedores vinculada al ciclo operativo",
+      "El número de acciones emitidas por cada empresa",
+      "El valor nominal del capital social",
+      "La vida útil fiscal de activos ya totalmente amortizados"
+    ],
+    "answer": 0,
+    "explanation": "El CFO puede separarse del beneficio por cambios en capital circulante operativo, entre otros ajustes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-069",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa compra una máquina por 240.000 € financiada íntegramente con un préstamo nuevo. ¿Qué lectura del estado de flujos es correcta en el momento de la operación?",
+    "options": [
+      "Habrá una salida en CFI por la máquina y una entrada en CFF por la nueva deuda",
+      "Habrá una salida neta en CFO de 240.000 € porque la máquina se usa en la actividad",
+      "La compra y el préstamo se compensan dentro de CFI y no aparecen por separado",
+      "La entrada del préstamo se registra en CFO porque aumenta la caja disponible"
+    ],
+    "answer": 0,
+    "explanation": "La adquisición de inmovilizado es inversión y la obtención de deuda es financiación; son flujos distintos aunque coincidan en importe.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-070",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene CFO positivo, CFI muy negativo y CFF ligeramente negativo. ¿Cuál de estas interpretaciones puede ser coherente?",
+    "options": [
+      "La explotación genera caja, la empresa invierte con intensidad y además devuelve algo de financiación",
+      "La empresa necesariamente está en insolvencia porque CFI es negativo",
+      "El negocio ordinario destruye caja y solo sobrevive gracias a nueva deuda",
+      "La empresa no realiza inversiones porque CFI negativo significa venta de activos"
+    ],
+    "answer": 0,
+    "explanation": "Los signos deben leerse por su causa; CFI negativo puede reflejar inversión mientras CFO positivo muestra generación operativa de efectivo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-071",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene precio 120 €, CVU 75 € y costes fijos 180.000 €. Si reduce el CVU a 60 € sin modificar precio ni costes fijos, ¿qué ocurre con el punto muerto?",
+    "options": [
+      "Baja de 4.000 a 3.000 unidades porque aumenta el margen de contribución unitario",
+      "Sube de 3.000 a 4.000 unidades porque disminuye el coste variable",
+      "Permanece en 4.000 unidades porque los costes fijos no cambian",
+      "Baja a 1.500 unidades porque el CVU se reduce en 15 €"
+    ],
+    "answer": 0,
+    "explanation": "Inicialmente MCU=45 y PM=4.000; después MCU=60 y PM=3.000.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-072",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa vende dos productos con márgenes de contribución muy distintos. ¿Por qué un cambio del mix puede alterar el punto muerto aunque los costes fijos totales no cambien?",
+    "options": [
+      "Porque cambia el margen de contribución medio ponderado generado por cada unidad o euro de venta",
+      "Porque el punto muerto depende únicamente del número de referencias existentes",
+      "Porque los costes fijos pasan a ser variables cuando cambia la combinación de ventas",
+      "Porque cada cambio de mix obliga a reclasificar el inmovilizado como gasto"
+    ],
+    "answer": 0,
+    "explanation": "En empresas multiproducto, el umbral depende del margen medio derivado de la mezcla de ventas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-073",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa aumenta ventas un 15 %, pero el margen EBITDA cae del 18 % al 14 %. ¿Qué puede haber ocurrido?",
+    "options": [
+      "Los costes operativos han crecido proporcionalmente más que las ventas",
+      "El EBITDA necesariamente ha disminuido en términos absolutos",
+      "La empresa ha reducido su facturación pese al crecimiento porcentual indicado",
+      "La caída del margen solo puede deberse a mayores intereses financieros"
+    ],
+    "answer": 0,
+    "explanation": "El margen es EBITDA/ventas; puede caer aunque el EBITDA absoluto aumente si crece menos que las ventas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-074",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una compañía tiene ROE del 28 %, ROA del 7 % y deuda/patrimonio muy elevada. ¿Qué afirmación es la más prudente?",
+    "options": [
+      "Parte de la rentabilidad del accionista puede estar amplificada por el apalancamiento y debe analizarse su sostenibilidad",
+      "La empresa es necesariamente más eficiente operativamente que otra con ROE del 20 %",
+      "El ROA deja de ser relevante cuando el ROE supera el 25 %",
+      "Un ROE alto demuestra por sí mismo que la deuda financiera es reducida"
+    ],
+    "answer": 0,
+    "explanation": "La diferencia entre ROE y ROA puede reflejar efecto del apalancamiento; no basta con observar el ROE aislado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-075",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si una empresa tiene cobertura de intereses de 1,1x, ¿qué indica con mayor precisión?",
+    "options": [
+      "El resultado operativo cubre los intereses con un margen reducido y la capacidad de absorción de deterioros es limitada",
+      "La empresa dispone de caja equivalente a 1,1 veces toda su deuda financiera",
+      "El patrimonio neto supera la deuda en un 10 %",
+      "El EBITDA es necesariamente negativo"
+    ],
+    "answer": 0,
+    "explanation": "La cobertura de intereses relaciona capacidad operativa con cargas financieras; 1,1x deja poco margen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-076",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene ratio corriente 1,6 y prueba ácida 0,8. ¿Qué hipótesis merece atención?",
+    "options": [
+      "Una parte relevante del activo corriente depende de existencias para cubrir obligaciones de corto plazo",
+      "La empresa carece completamente de activo corriente",
+      "El pasivo no corriente supera necesariamente al patrimonio neto",
+      "La empresa no mantiene inventarios porque la prueba ácida es inferior a uno"
+    ],
+    "answer": 0,
+    "explanation": "La prueba ácida excluye normalmente existencias; una brecha amplia sugiere dependencia de ellas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-077",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Las NOF pasan de 200 a 260 porque aumentan clientes e inventarios sin cambio en proveedores. ¿Qué efecto tiene, ceteris paribus, sobre el FCF?",
+    "options": [
+      "Reduce el FCF en 60 al absorber caja en el ciclo operativo",
+      "Aumenta el FCF en 60 porque crece el activo operativo",
+      "No afecta al FCF porque las NOF pertenecen al balance",
+      "Reduce el EBITDA en 60 de forma automática"
+    ],
+    "answer": 0,
+    "explanation": "Un ΔNOF positivo se resta en la fórmula del FCF porque inmoviliza recursos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-078",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa reduce clientes en 30 e inventarios en 20, mientras proveedores disminuyen en 10. ¿Cómo varían las NOF simplificadas?",
+    "options": [
+      "Disminuyen en 40, liberando caja operativa",
+      "Disminuyen en 60 porque todas las partidas del activo y pasivo se suman",
+      "Aumentan en 20 porque proveedores se resta en la fórmula",
+      "No cambian porque clientes e inventarios se compensan con proveedores"
+    ],
+    "answer": 0,
+    "explanation": "ΔNOF=−30−20−(−10)=−40; una disminución de NOF libera caja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-079",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene EBIT de 240, tipo fiscal 25 %, D&A de 35, aumento de NOF de 25 y CapEx de 70. ¿Cuál es el FCF?",
+    "options": [
+      "120",
+      "180",
+      "155",
+      "95"
+    ],
+    "answer": 0,
+    "explanation": "FCF=240×0,75+35−25−70=120.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-080",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "¿Por qué se suma D&A al calcular FCF después de partir de EBIT después de impuestos?",
+    "options": [
+      "Porque D&A redujo el resultado operativo contable sin representar una salida de caja del mismo periodo",
+      "Porque D&A constituye una nueva fuente de financiación bancaria",
+      "Porque D&A forma parte del CapEx realizado durante el ejercicio",
+      "Porque D&A incrementa directamente las ventas y el margen de contribución"
+    ],
+    "answer": 0,
+    "explanation": "Se revierte el efecto no monetario de D&A, mientras el CapEx real se resta por separado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-081",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa con mayor riesgo operativo que otra genera los mismos FCF esperados. ¿Qué relación entre WACC y valoración sería coherente?",
+    "options": [
+      "Mayor WACC y menor valor actual, manteniendo iguales los demás supuestos",
+      "Menor WACC y mayor valor actual porque el riesgo eleva la rentabilidad exigida",
+      "Mismo WACC porque los FCF esperados son iguales",
+      "Mayor WACC y mayor valor actual por el efecto de capitalización"
+    ],
+    "answer": 0,
+    "explanation": "Una rentabilidad exigida superior eleva la tasa de descuento y reduce el valor presente de los mismos flujos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-082",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "En el WACC, ¿por qué el coste de la deuda se multiplica por (1−T) en el esquema del temario?",
+    "options": [
+      "Para reflejar el efecto fiscal de los intereses cuando son deducibles bajo las condiciones aplicables",
+      "Para convertir el coste nominal de la deuda en una tasa de inflación",
+      "Para ajustar el coste de los fondos propios al mismo nivel que la deuda",
+      "Para eliminar del cálculo toda la deuda a corto plazo"
+    ],
+    "answer": 0,
+    "explanation": "El coste de deuda después de impuestos incorpora el ahorro fiscal asociado a intereses deducibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-083",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Si WACC=8 % y el crecimiento perpetuo g pasa de 2 % a 3 %, manteniéndose el FCF del año siguiente, ¿qué ocurre con el valor terminal del modelo Gordon?",
+    "options": [
+      "Aumenta porque se reduce el denominador WACC−g, siempre que WACC siga siendo mayor que g",
+      "Disminuye porque un crecimiento mayor obliga a descontar más",
+      "No cambia porque el FCF del año siguiente permanece constante",
+      "Se vuelve cero mientras g sea positivo"
+    ],
+    "answer": 0,
+    "explanation": "VT=FCF(n+1)/(WACC−g); reducir el diferencial eleva el valor terminal, con WACC>g.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-084",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa tiene Enterprise Value de 1.200, deuda financiera de 500 y caja sobrante de 150. ¿Qué afirmación es correcta?",
+    "options": [
+      "El Equity Value sería 850, antes de otros ajustes que pudieran resultar pertinentes",
+      "El Equity Value sería 1.550 porque deuda y caja se suman al EV",
+      "El Equity Value coincidiría con 1.200 porque EV ya pertenece solo a accionistas",
+      "El Equity Value sería 700 porque la caja sobrante debe restarse junto con la deuda"
+    ],
+    "answer": 0,
+    "explanation": "Según el esquema, Equity Value=EV−deuda financiera+caja sobrante=850.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fin2-085",
+    "subject": "analisis_financiero2",
+    "subjectName": "Análisis Financiero y Valoración de Empresas",
+    "source": "Apuntes_Analisis_Financiero_COMPLETOS",
+    "question": "Una empresa presume de EBITDA alto, pero necesita reinvertir casi todo cada año en CapEx y capital circulante. ¿Qué conclusión es más sólida?",
+    "options": [
+      "El EBITDA por sí solo puede sobrestimar la caja disponible para financiadores y propietarios",
+      "El EBITDA y el FCF son equivalentes cuando la empresa es rentable",
+      "El CapEx solo afecta a la valoración si se financia con deuda",
+      "Las NOF dejan de ser relevantes cuando el EBITDA es positivo"
+    ],
+    "answer": 0,
+    "explanation": "EBITDA no incorpora necesidades de inversión ni variaciones de NOF; por eso no equivale a caja libre.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
