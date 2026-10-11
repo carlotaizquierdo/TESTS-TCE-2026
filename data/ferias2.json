@@ -898,5 +898,275 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fer2-051",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa elige una feria con 80.000 visitantes frente a otra con 25.000 porque «cuanta más gente, mejor». Sin embargo, la segunda concentra muchos más compradores de su nicho. ¿Qué criterio del tema está ignorando?",
+    "options": [
+      "La relevancia y calidad del público objetivo pesan más que el volumen bruto de visitantes",
+      "El número total de asistentes determina siempre el retorno comercial",
+      "Una feria pequeña solo sirve para estudiar competidores y no para vender",
+      "Las ferias especializadas deben descartarse cuando existe una feria generalista mayor"
+    ],
+    "answer": 0,
+    "explanation": "El material insiste en no confundir tamaño con relevancia: importa la concentración y calidad de compradores adecuados.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-052",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una pyme tiene un producto adecuado y compradores potenciales en una feria, pero nadie podrá hacer seguimiento durante las seis semanas posteriores. ¿Qué indica el tercer filtro previo del tema?",
+    "options": [
+      "Que debería reconsiderar exponer hasta disponer de capacidad para atender el evento y su seguimiento",
+      "Que debe exponer igualmente porque el seguimiento no forma parte del coste de la feria",
+      "Que basta con recopilar tarjetas para poder medir el éxito comercial",
+      "Que debe sustituir todos los objetivos comerciales por objetivos de imagen"
+    ],
+    "answer": 0,
+    "explanation": "Uno de los tres filtros es que la empresa pueda atender el evento y realizar seguimiento después.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-053",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa escribe como objetivo «conseguir buenos contactos». ¿Cuál de estas reformulaciones se acerca más a un objetivo SMART?",
+    "options": [
+      "El responsable de exportación calificará 20 contactos de distribuidores objetivo y fijará siguiente acción dentro de 30 días",
+      "El equipo intentará hablar con el mayor número posible de personas durante la feria",
+      "La empresa buscará oportunidades interesantes y mejorará su imagen internacional",
+      "El stand procurará generar una impresión positiva entre todos los visitantes"
+    ],
+    "answer": 0,
+    "explanation": "Un objetivo SMART concreta resultado, responsable, medida y horizonte temporal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-054",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa obtiene 300 contactos, 90 leads cualificados, 18 oportunidades y 6 clientes. ¿Qué porcentaje de los contactos iniciales terminó en cliente?",
+    "options": [
+      "2 %",
+      "6,7 %",
+      "20 %",
+      "30 %"
+    ],
+    "answer": 0,
+    "explanation": "6/300=2 %. El tema distingue contactos, leads, oportunidades y clientes.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-055",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una participación cuesta 20.000 € y el margen comercial medio sobre ventas atribuibles es del 40 %. ¿Qué volumen de ventas atribuibles necesita aproximadamente para cubrir el coste?",
+    "options": [
+      "50.000 €",
+      "20.000 €",
+      "8.000 €",
+      "80.000 €"
+    ],
+    "answer": 0,
+    "explanation": "Punto de equilibrio en ventas=coste/margen=20.000/0,40=50.000 €.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-056",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa atribuye a la feria 100.000 € de pipeline todavía sin ponderar y lo trata como 100.000 € de ventas realizadas. ¿Qué problema metodológico existe?",
+    "options": [
+      "Confunde oportunidades potenciales con ingresos efectivamente cerrados y puede sobreestimar el retorno",
+      "El pipeline sin ponderar debe añadirse siempre al beneficio neto de la feria",
+      "Toda oportunidad registrada durante una feria se considera pedido a efectos de ROI",
+      "El pipeline solo puede medirse cuando el evento es B2C"
+    ],
+    "answer": 0,
+    "explanation": "El pipeline representa oportunidades; debe diferenciarse de ventas y, cuando proceda, ponderarse por probabilidad.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-057",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un expositor destina casi todo el presupuesto al stand y deja sin recursos la comunicación previa y el seguimiento. ¿Qué objeción refleja mejor el material?",
+    "options": [
+      "El presupuesto completo debe contemplar captación y seguimiento; un stand atractivo por sí solo no garantiza resultados",
+      "El diseño del stand debe representar obligatoriamente más del 50 % del presupuesto",
+      "La comunicación previa solo es necesaria en ferias abiertas al consumidor",
+      "El seguimiento posterior debe financiarlo el organizador de la feria"
+    ],
+    "answer": 0,
+    "explanation": "El coste y la planificación ferial incluyen promoción antes del evento y seguimiento posterior.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-058",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Durante la feria, un comercial anota nombre y empresa, pero no la necesidad, rol de compra, plazo ni siguiente acción. ¿Qué consecuencia tiene?",
+    "options": [
+      "Dificulta cualificar y priorizar el lead y realizar un seguimiento útil",
+      "Convierte automáticamente el contacto en un lead de máxima prioridad",
+      "Impide calcular el coste total del stand, pero no afecta a la conversión",
+      "Hace innecesario el CRM porque ya existe una tarjeta de visita"
+    ],
+    "answer": 0,
+    "explanation": "La ficha mínima debe permitir entender necesidad, rol, horizonte y próxima acción para cualificar el contacto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-059",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa obtiene muchas demostraciones y comentarios repetidos sobre una característica que no gusta, pero ninguna venta inmediata. ¿Qué valor puede haber generado la feria?",
+    "options": [
+      "Información de mercado útil para adaptar producto y propuesta de valor",
+      "Ninguno, porque una feria solo genera valor cuando se firma un pedido",
+      "Un ingreso financiero que debe registrarse como venta futura",
+      "Una reducción automática del coste por lead aunque no haya leads"
+    ],
+    "answer": 0,
+    "explanation": "Las ferias también sirven para aprendizaje, test de mercado y análisis de producto.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-060",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una feria es vertical y otra horizontal. ¿Qué diferencia describe esa clasificación?",
+    "options": [
+      "La vertical se concentra en una industria o segmento; la horizontal reúne productos o actividades diversos",
+      "La vertical es internacional y la horizontal únicamente nacional",
+      "La vertical es B2B y la horizontal necesariamente B2C",
+      "La vertical dura varios días y la horizontal solo una jornada"
+    ],
+    "answer": 0,
+    "explanation": "Vertical/horizontal clasifica por amplitud sectorial y no equivale a nacional/internacional ni a B2B/B2C.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-061",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa llega a la feria sin citas y decide esperar en el stand a que aparezcan compradores. ¿Qué mejora concreta propone la planificación del tema?",
+    "options": [
+      "Prospectar asistentes, segmentar invitaciones y cerrar una agenda antes de viajar",
+      "Eliminar cualquier reunión preconcertada para favorecer contactos espontáneos",
+      "Concentrar toda la captación en redes sociales una vez terminado el evento",
+      "Dedicar el tiempo previo únicamente a elegir mobiliario del stand"
+    ],
+    "answer": 0,
+    "explanation": "La captación previa y la agenda son parte central de la preparación; no se recomienda depender solo del tráfico espontáneo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-062",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Dos ferias obtienen la misma puntuación media simple, pero la empresa considera que la presencia de compradores objetivo es mucho más importante que la accesibilidad del recinto. ¿Qué herramienta permite reflejar esa prioridad?",
+    "options": [
+      "Un scoring ponderado asignando pesos distintos a cada criterio",
+      "Un recuento bruto de visitantes sin segmentación",
+      "Un cálculo del PIB inducido de la feria",
+      "Una clasificación alfabética de los criterios de selección"
+    ],
+    "answer": 0,
+    "explanation": "El scoring ponderado multiplica cada nota por el peso estratégico asignado a ese criterio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-063",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Un organizador afirma que el impacto económico total de la feria demuestra cuánto vendieron los expositores entre sí. ¿Qué matiz recoge el material UFI?",
+    "options": [
+      "El análisis de impacto económico y el negocio comercial entre participantes son magnitudes distintas; el segundo no se incorpora sin más al impacto UFI",
+      "El impacto total se calcula sumando todos los contratos firmados por cada expositor",
+      "El gasto directo equivale al pipeline comercial generado por los participantes",
+      "El impacto inducido solo incluye ventas cerradas dentro del recinto"
+    ],
+    "answer": 0,
+    "explanation": "El material separa el impacto económico del evento del comercio generado entre participantes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-064",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una empresa decide no asistir a una feria porque no puede exponer, aunque podría visitarla para estudiar compradores, competencia y dinámica del evento. ¿Qué alternativa contempla el tema?",
+    "options": [
+      "Visitar e investigar antes de invertir como expositor cuando todavía faltan capacidades o información",
+      "Descartar cualquier feria en la que no se disponga de stand propio",
+      "Sustituir la visita por un cálculo de visitantes totales en la web",
+      "Exponer mediante un tercero sin definir objetivos ni seguimiento"
+    ],
+    "answer": 0,
+    "explanation": "Cuando los filtros de participación no se cumplen, el material propone visitar, investigar o preparar capacidades.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fer2-065",
+    "subject": "ferias2",
+    "subjectName": "Ferias Internacionales",
+    "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
+    "question": "Una feria termina el viernes y el equipo espera un mes para decidir qué hacer con los leads. ¿Qué principio de seguimiento está incumpliendo?",
+    "options": [
+      "Cada contacto relevante debería salir con acción, responsable y fecha, y el seguimiento debe comenzar pronto",
+      "El seguimiento debe esperar a que el organizador publique el informe económico del evento",
+      "Los leads no pueden priorizarse hasta conocer las ventas anuales completas",
+      "Solo los pedidos cerrados durante el evento justifican una acción posterior"
+    ],
+    "answer": 0,
+    "explanation": "La fase posterior exige acciones asignadas y seguimiento rápido para no perder información ni oportunidad comercial.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
