@@ -898,5 +898,275 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fis2-051",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española ha realizado 9.500 € de ventas a distancia B2C a Francia e Italia y después vende maquinaria por 20.000 € a una empresa belga identificada a efectos de IVA. ¿Qué ocurre con el umbral B2C de 10.000 € por esa última operación?",
+    "options": [
+      "No se supera por esa venta B2B; la operación empresarial no se añade al umbral por el mero hecho de ser intracomunitaria",
+      "Se supera hasta 29.500 €, por lo que toda la maquinaria queda sometida al IVA de destino B2C",
+      "Solo se computan 500 € de la venta belga hasta alcanzar el límite",
+      "El umbral deja de ser aplicable porque existe una operación B2B en el mismo ejercicio"
+    ],
+    "answer": 0,
+    "explanation": "El umbral conjunto se refiere a determinadas operaciones transfronterizas B2C, no a una EIB B2B.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-052",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa establecida solo en España vende a distancia 6.000 € a particulares franceses y 3.500 € a italianos, sin IVA. No optó por destino y el año anterior no tuvo ventas computables. ¿Cómo debe razonar antes de la siguiente venta de 1.000 € a Alemania?",
+    "options": [
+      "El límite se calcula conjuntamente para la UE; esa venta hará pasar de 9.500 a 10.500 €",
+      "Cada país dispone de un límite independiente de 10.000 €, por lo que Alemania empieza desde cero",
+      "Francia e Italia se analizan por separado y solo cuenta el país con mayor facturación",
+      "El umbral solo se aplica a servicios electrónicos y no a bienes vendidos a distancia"
+    ],
+    "answer": 0,
+    "explanation": "Los 10.000 € son un umbral conjunto de determinadas operaciones B2C con todos los demás Estados miembros.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-053",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En el caso anterior, la venta de 1.000 € a Alemania es la operación que hace superar el umbral. ¿Cómo se localiza esa venta según el esquema del tema?",
+    "options": [
+      "La operación completa se localiza en Alemania y las posteriores operaciones afectadas también tributan en destino",
+      "Los primeros 500 € llevan IVA español y los 500 € restantes IVA alemán",
+      "La operación lleva íntegramente IVA español y el cambio opera desde la siguiente venta",
+      "Todas las ventas anteriores del año deben rectificarse retroactivamente al IVA de destino"
+    ],
+    "answer": 0,
+    "explanation": "Cuando el límite se supera durante el año, la operación íntegra que lo rebasa ya se localiza en destino.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-054",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una pyme no alcanza 10.000 € de ventas B2C computables, pero decide aplicar voluntariamente IVA de destino para unificar su política comercial. ¿Qué consecuencia debe considerar?",
+    "options": [
+      "La opción por destino se mantiene al menos durante dos años naturales",
+      "Puede volver al IVA de origen en la siguiente factura si no ha superado el umbral",
+      "La opción solo obliga respecto del primer Estado miembro al que venda",
+      "Al optar por destino pierde la posibilidad de utilizar el régimen de la Unión OSS"
+    ],
+    "answer": 0,
+    "explanation": "El material señala una permanencia mínima de dos años naturales para la opción voluntaria por tributación en destino.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-055",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española usa OSS y repercute IVA italiano y francés a consumidores. ¿Qué significa presentar el modelo 369 en España?",
+    "options": [
+      "Centraliza la declaración e ingreso, pero el IVA sigue correspondiendo a los Estados de consumo y se distribuye entre ellos",
+      "Convierte el IVA italiano y francés en IVA español deducible en el modelo 303",
+      "Evita identificar el Estado de consumo porque todo se liquida a un tipo único",
+      "Sustituye el IVA de destino por IVA español mientras la empresa esté establecida en España"
+    ],
+    "answer": 0,
+    "explanation": "OSS simplifica la gestión: se declara e ingresa centralizadamente, pero la recaudación se asigna a cada país de consumo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-056",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española factura sin IVA una venta B2B a un cliente alemán con NIF-IVA válido, pero no conserva prueba suficiente de que la mercancía salió de España. ¿Qué problema principal existe?",
+    "options": [
+      "Falla un elemento esencial para sostener la exención de la entrega intracomunitaria: acreditar el transporte a otro Estado miembro",
+      "El NIF-IVA válido sustituye por sí solo cualquier prueba del movimiento físico de la mercancía",
+      "La operación pasa a ser automáticamente una exportación a tercer país",
+      "La ausencia de prueba solo afecta a Intrastat y no al tratamiento del IVA"
+    ],
+    "answer": 0,
+    "explanation": "El tratamiento de EIB exige, entre otros requisitos, el desplazamiento efectivo a otro Estado miembro y su acreditación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-057",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Un vendedor acredita el transporte España→Bélgica, pero el comprador no comunica un NIF-IVA válido expedido por otro Estado miembro. ¿Qué razonamiento es correcto?",
+    "options": [
+      "La prueba de transporte no sustituye el requisito de identificación del adquirente; deben cumplirse conjuntamente las condiciones aplicables",
+      "La salida física de España basta para que toda venta a otro Estado miembro quede exenta",
+      "El NIF-IVA solo es relevante para ventas B2C y no para operaciones entre empresarios",
+      "La operación puede declararse como EIB exenta si el comprador promete registrarse después"
+    ],
+    "answer": 0,
+    "explanation": "El material exige analizar conjuntamente NIF-IVA válido, transporte y obligaciones declarativas/restantes requisitos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-058",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una filial extranjera paga impuesto sobre su beneficio y, después, la matriz española tributa por el dividendo recibido sobre esa misma renta económica. ¿Qué concepto describe mejor el fenómeno?",
+    "options": [
+      "Doble imposición económica, porque la renta económica soporta gravamen en contribuyentes distintos",
+      "Doble imposición jurídica, porque una misma persona paga dos impuestos idénticos",
+      "Inversión del sujeto pasivo, porque la matriz recibe una renta del exterior",
+      "Adquisición intracomunitaria, porque la filial y la matriz están vinculadas"
+    ],
+    "answer": 0,
+    "explanation": "La doble imposición económica afecta a una misma renta económica en sujetos distintos; la jurídica recae sobre la misma renta y el mismo contribuyente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-059",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una matriz vende a su filial un componente por 40 €, mientras operaciones comparables entre independientes, tras ajustes razonables, se sitúan en 100 €. ¿Qué debe analizarse?",
+    "options": [
+      "Si el precio intragrupo puede justificarse conforme al principio de plena competencia y al análisis de comparabilidad",
+      "Si toda diferencia respecto del comparable constituye automáticamente fraude fiscal",
+      "Si la vinculación permite fijar libremente cualquier precio sin documentación",
+      "Si el precio de transferencia debe coincidir necesariamente con el valor en aduana"
+    ],
+    "answer": 0,
+    "explanation": "Arm’s length exige condiciones comparables a las de partes independientes; la diferencia no es automáticamente ilícita, pero debe poder justificarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-060",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una psicóloga española realiza una sesión personalizada por videollamada a un particular francés. ¿Qué paso evita el error más frecuente del tema?",
+    "options": [
+      "Analizar la naturaleza real del servicio y no tratarlo como electrónico solo porque se presta por Internet",
+      "Aplicar directamente el umbral de 10.000 € porque toda videollamada es un servicio electrónico",
+      "Considerar que cualquier servicio B2C prestado online se localiza en el país del consumidor",
+      "Declararlo en OSS sin revisar si existe una regla general o especial de localización aplicable"
+    ],
+    "answer": 0,
+    "explanation": "El canal digital no convierte por sí mismo un servicio profesional con intervención humana en servicio electrónico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-061",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una consultora española presta el mismo asesoramiento a una empresa portuguesa y a un particular portugués. ¿Por qué no debe aplicar mecánicamente el mismo criterio de IVA a ambos?",
+    "options": [
+      "Porque primero debe distinguir B2B y B2C: la regla general de servicios no localiza ambos supuestos del mismo modo",
+      "Porque los servicios prestados a empresas están exentos y los prestados a particulares son exportaciones",
+      "Porque el umbral de 10.000 € determina la localización de cualquier servicio B2B",
+      "Porque la nacionalidad del prestador cambia cuando el destinatario es consumidor final"
+    ],
+    "answer": 0,
+    "explanation": "La clasificación del destinatario es una de las primeras bifurcaciones; en servicios, B2B general mira al destinatario y B2C general parte de otra regla.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-062",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una sociedad española posee el 80 % de una empresa francesa constituida con personalidad jurídica propia. ¿Qué error debe evitarse?",
+    "options": [
+      "Identificar automáticamente esa filial con una sucursal o establecimiento permanente de la matriz",
+      "Considerar que la filial es una sociedad jurídicamente diferenciada de la matriz",
+      "Analizar separadamente la tributación de la filial y los dividendos que pueda repartir",
+      "Revisar el CDI y la normativa aplicable antes de determinar el tratamiento de las rentas"
+    ],
+    "answer": 0,
+    "explanation": "Filial y sucursal/EP no son sinónimos: la filial tiene personalidad jurídica propia.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-063",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "España incluye una renta extranjera en la base de una sociedad residente y permite descontar, dentro de los límites aplicables, el impuesto soportado fuera. ¿Qué método se está utilizando?",
+    "options": [
+      "Método de imputación o crédito fiscal",
+      "Método de exención íntegra de la renta",
+      "Régimen OSS de tributación indirecta",
+      "Inversión del sujeto pasivo en IVA"
+    ],
+    "answer": 0,
+    "explanation": "En el método de crédito la renta se integra y después se deduce el impuesto extranjero admisible conforme a sus límites.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-064",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En una EIB el vendedor pretende apoyarse en las reglas de prueba del transporte de las Quick Fixes. ¿Qué conclusión metodológica es correcta?",
+    "options": [
+      "Debe comprobar qué documentos independientes posee y quién organizó el transporte; la presunción depende de los requisitos concretos",
+      "Basta con una factura comercial emitida por el propio vendedor para presumir el transporte",
+      "La presunción elimina la necesidad de que la mercancía se desplace realmente a otro Estado miembro",
+      "Si no se activa la presunción documental, queda jurídicamente imposible demostrar el transporte por otros medios"
+    ],
+    "answer": 0,
+    "explanation": "Las Quick Fixes articulan una presunción documental bajo determinadas condiciones; no convierten una única prueba propia en suficiente ni excluyen necesariamente otros medios de prueba.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-065",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En una entrega intracomunitaria el comprador organiza el transporte. ¿Qué documento adicional cobra especial relevancia para la presunción del art. 45 bis estudiada en el tema?",
+    "options": [
+      "La declaración escrita del adquirente sobre el transporte, junto con la documentación exigible",
+      "Una declaración del vendedor indicando el margen comercial obtenido",
+      "El modelo 303 del comprador presentado en el Estado de origen",
+      "Una certificación bancaria que pruebe que el precio fue pagado íntegramente"
+    ],
+    "answer": 0,
+    "explanation": "Cuando el adquirente organiza el transporte, la presunción documental exige prestar especial atención a su declaración escrita y al resto de pruebas requeridas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
