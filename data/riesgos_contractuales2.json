@@ -898,5 +898,275 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "mul2-051",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf + Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Una licitación utiliza el sistema «1 etapa - 2 sobres». ¿Qué debe contener cada sobre según el esquema estudiado?",
+    "options": [
+      "Sobre 1: cualificación y propuesta técnica; sobre 2: oferta económica",
+      "Sobre 1: oferta económica; sobre 2: contrato firmado y aval de garantía",
+      "Sobre 1: solo documentos societarios; sobre 2: técnica y económica juntas",
+      "Sobre 1: precalificación; sobre 2: una nueva solución técnica sin precio final"
+    ],
+    "answer": 0,
+    "explanation": "En una etapa y dos sobres, ambos se entregan a la vez: el primero contiene cualificación+técnica y el segundo la económica.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-052",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "En una licitación de dos sobres, el comité termina la evaluación técnica del sobre 1. ¿Qué debe haber ocurrido con el precio del sobre 2 hasta ese momento?",
+    "options": [
+      "Debe haber permanecido cerrado y confidencial hasta la apertura económica prevista",
+      "Debe haberse publicado junto con la documentación técnica para facilitar la comparación",
+      "Debe haberse renegociado con el licitador durante la evaluación técnica",
+      "Debe haberse sustituido por una estimación del organismo financiador"
+    ],
+    "answer": 0,
+    "explanation": "La separación busca que el precio no se abra antes de concluir la evaluación técnica conforme al procedimiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-053",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Una contratación compleja pide en una primera fase una solución técnica inicial sin precio final y, después de aclaraciones, una oferta técnica y económica definitiva. ¿Qué procedimiento describe?",
+    "options": [
+      "Dos etapas, que no debe confundirse con una etapa y dos sobres",
+      "Una etapa y un sobre porque solo existe un precio final",
+      "Una precalificación ordinaria sin fase de oferta",
+      "Una misión de diálogo sin documentación contractual"
+    ],
+    "answer": 0,
+    "explanation": "Dos etapas describe cuándo se define y completa la solución; dos sobres describe cómo se separa y abre la documentación en una misma etapa.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-054",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Una empresa cree que, por celebrarse una apertura pública, todo el contenido técnico y comercial de las ofertas pasa a ser público. ¿Qué corrección procede?",
+    "options": [
+      "Solo se anuncian los datos que el pliego exige; el contenido íntegro y los secretos comerciales no se hacen públicos por ese hecho",
+      "La apertura pública obliga a leer íntegramente todas las ofertas y anexos",
+      "La confidencialidad solo existe antes de presentar la oferta",
+      "En dos sobres, la propuesta económica deja de ser confidencial desde la entrega física"
+    ],
+    "answer": 0,
+    "explanation": "El material distingue apertura pública de publicación total del contenido; se comunican solo los datos previstos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-055",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Un licitador confunde precalificación con sistema de sobres. ¿Qué diferencia básica debe recordar?",
+    "options": [
+      "La precalificación decide quién puede competir; los sobres ordenan cómo se presenta y abre la oferta",
+      "La precalificación fija el precio y los sobres determinan la nacionalidad elegible",
+      "Los sobres sustituyen siempre a la evaluación de capacidad técnica y financiera",
+      "La precalificación solo existe después de adjudicar el contrato"
+    ],
+    "answer": 0,
+    "explanation": "El documento resume: PQ=quién puede competir; sobres=cómo se presenta/abre; etapas=cuándo se define y entrega la solución.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-056",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Según el orden de prevalencia recogido en el material, si el Formulario del contrato contradice la oferta del adjudicatario, ¿qué documento prevalece?",
+    "options": [
+      "El Formulario del contrato",
+      "La oferta del adjudicatario",
+      "La notificación de adjudicación",
+      "La documentación técnica en cualquier caso"
+    ],
+    "answer": 0,
+    "explanation": "El orden estudiado sitúa el Formulario del contrato por encima de CEC, CGC, documentación técnica, oferta y notificación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-057",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "Una CEC contradice una CGC sobre el plazo de pago. ¿Qué debe aplicar el licitador según el esquema de prevalencia del tema?",
+    "options": [
+      "La CEC, porque las condiciones especiales adaptan y prevalecen sobre las generales",
+      "La CGC, porque procede del documento estándar de la institución financiera",
+      "La cláusula que resulte más favorable económicamente al licitador",
+      "Ninguna; ambas quedan anuladas y se aplica la oferta presentada"
+    ],
+    "answer": 0,
+    "explanation": "Las CEC concretan/modifican las CGC y tienen prioridad sobre ellas en el orden estudiado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-058",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Organismos_multilaterales_actualizados.pdf",
+    "question": "¿Cuál es el orden de prevalencia correcto entre estos cuatro elementos según el material?",
+    "options": [
+      "CEC → CGC → especificaciones/TdR → oferta del adjudicatario",
+      "CGC → CEC → oferta del adjudicatario → especificaciones/TdR",
+      "Oferta del adjudicatario → CEC → CGC → especificaciones/TdR",
+      "Especificaciones/TdR → CEC → oferta → CGC"
+    ],
+    "answer": 0,
+    "explanation": "Dentro del orden completo: Formulario del contrato, CEC, CGC, especificaciones/TdR, oferta y notificación de adjudicación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-059",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Un proyecto tiene financiación disponible solo hasta dentro de ocho meses y el calendario realista de evaluación, adjudicación y ejecución supera ampliamente ese plazo. ¿Qué debe detectar la empresa antes de invertir más en la oferta?",
+    "options": [
+      "Un riesgo crítico de que desaparezca la fuente de pago antes de ejecutar suficientemente el contrato",
+      "Una ventaja porque un plazo de fondos corto obliga siempre al cliente a pagar anticipadamente",
+      "Un problema únicamente técnico sin impacto financiero",
+      "Una razón para reducir el Bid Bond, aunque el pliego no lo permita"
+    ],
+    "answer": 0,
+    "explanation": "La disponibilidad de fondos es uno de los primeros filtros de viabilidad contractual.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-060",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "El contrato prevé pagar 70 % al embarque, pero exige BL, factura y un certificado del cliente. El cliente demora su certificado. ¿Qué lección contractual se aplica?",
+    "options": [
+      "Un pago previsto no es necesariamente cobrable si un documento exigido depende de un tercero que no lo emite",
+      "El BL sustituye automáticamente cualquier otro documento porque prueba el transporte",
+      "La factura hace exigible el pago aunque falte una condición contractual expresa",
+      "La demora transforma el 70 % pendiente en un anticipo cubierto por Bid Bond"
+    ],
+    "answer": 0,
+    "explanation": "Hay que revisar quién controla cada documento que activa el pago; los certificados del cliente pueden bloquear caja.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-061",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Un proveedor recibe un anticipo del 20 % y abre una garantía por el 100 % de ese anticipo. A medida que entrega lotes, ¿qué situación sería financieramente preferible si el contrato lo permite?",
+    "options": [
+      "Que el aval de anticipo se reduzca o libere progresivamente conforme el anticipo se materializa en ejecución",
+      "Que el aval aumente proporcionalmente aunque el anticipo ya esté consumido",
+      "Que el Bid Bond permanezca abierto hasta terminar la garantía técnica",
+      "Que el Performance Bond se sustituya por el aval de oferta"
+    ],
+    "answer": 0,
+    "explanation": "La garantía de anticipo protege el dinero adelantado y, idealmente, disminuye conforme se ejecuta el suministro.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-062",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Una empresa calcula un margen del 6 % y olvida incluir las comisiones de un Performance Bond que permanecerá abierto durante dos años. ¿Qué riesgo está infravalorando?",
+    "options": [
+      "La erosión del margen por el coste financiero de mantener garantías bancarias",
+      "El riesgo de que el IVA convierta el aval en activo corriente",
+      "La pérdida automática de elegibilidad del país de origen",
+      "La reducción del anticipo por la depreciación contable del equipo"
+    ],
+    "answer": 0,
+    "explanation": "Los avales generan comisiones durante su vigencia y deben incorporarse al escandallo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-063",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "Una APCA alcanza conjuntamente los 20 M USD de volumen mínimo exigido, pero su mayor integrante aporta solo 6 M USD. Si el DDP exige que al menos uno aporte el 40 %, ¿cumple?",
+    "options": [
+      "No; al menos un integrante debe alcanzar 8 M USD aunque la APCA sume el total",
+      "Sí; la suma de la APCA elimina cualquier requisito individual",
+      "Sí, si el resto del volumen procede de un subcontratista especializado no autorizado",
+      "No, porque cada integrante debe acreditar individualmente los 20 M USD completos"
+    ],
+    "answer": 0,
+    "explanation": "El 40 % de 20 M USD son 8 M USD; el requisito combina cumplimiento agregado e individual mínimo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-064",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Precalificacion_Carretera_Duarte_actualizado.docx",
+    "question": "En la precalificación Duarte, una empresa aporta una referencia excelente de un subcontratista para completar una actividad clave, pero los DDP indican que los subcontratistas especializados «no aplican». ¿Qué debe concluir?",
+    "options": [
+      "No puede contar esa cualificación para completar el requisito si el documento no habilita ese mecanismo",
+      "La experiencia del subcontratista se suma automáticamente por participar en la futura obra",
+      "El subcontratista se convierte jurídicamente en miembro de la APCA",
+      "La experiencia externa puede sustituir cualquier requisito financiero o técnico del solicitante"
+    ],
+    "answer": 0,
+    "explanation": "La posibilidad de apoyarse en cualificaciones de terceros depende de lo expresamente permitido en los DDP.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "mul2-065",
+    "subject": "riesgos_contractuales2",
+    "subjectName": "Multilaterales · Riesgos Contractuales",
+    "source": "Apuntes_Riesgos_Contractuales_COMPLETOS_con_bloques_9_y_10.docx",
+    "question": "Una empresa adjudicataria entrega equipos, pero el cliente retrasa un año la instalación por no tener listo el edificio. El último 10 % depende de aceptación definitiva. ¿Qué protección contractual sería especialmente útil?",
+    "options": [
+      "Una cláusula que, tras un plazo pactado y por causas no imputables al proveedor, convierta la aceptación provisional en definitiva manteniendo la instalación posterior",
+      "Mantener abierto indefinidamente el Bid Bond para sustituir la aceptación",
+      "Aceptar que la garantía del fabricante expire sin revisar el contrato",
+      "Transformar unilateralmente el precio firme en un precio revisable sin cláusula"
+    ],
+    "answer": 0,
+    "explanation": "El material menciona esta cláusula para evitar que retrasos del cliente bloqueen indefinidamente aceptación, cobro y garantías.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
