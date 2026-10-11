@@ -1248,10 +1248,10 @@
     "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
     "question": "Un objetivo dice «conseguir distribuidores». ¿Qué elemento falta para acercarlo a SMART?",
     "options": [
-      "Cantidad o criterio verificable, plazo y responsable de evaluación/seguimiento",
-      "El nombre del recinto ferial",
-      "El coste del stand",
-      "La nacionalidad del organizador"
+      "Una cantidad o criterio verificable, un plazo concreto y un responsable de evaluación y seguimiento",
+      "Una definición precisa del recinto, pabellón y ubicación física en la que se celebrará el evento",
+      "Un presupuesto cerrado del stand y de los servicios contratados dentro del recinto ferial",
+      "Una identificación completa del organizador, su nacionalidad y sus antecedentes empresariales"
     ],
     "answer": 0,
     "explanation": "SMART exige concreción medible y temporal, además de responsabilidad.",
@@ -1392,10 +1392,10 @@
     "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
     "question": "¿Qué diferencia existe entre feria vertical y horizontal?",
     "options": [
-      "La vertical se centra en una industria o segmento, mientras la horizontal reúne actividades o productos diversos",
-      "La vertical es presencial y la horizontal virtual",
-      "La vertical es B2B y la horizontal B2C",
-      "La vertical es internacional y la horizontal local"
+      "La vertical se concentra en una industria o segmento; la horizontal reúne actividades o productos de varios ámbitos",
+      "La vertical se celebra presencialmente; la horizontal se desarrolla de forma virtual o híbrida",
+      "La vertical se dirige a empresas; la horizontal se orienta principalmente a consumidores finales",
+      "La vertical tiene alcance internacional; la horizontal se limita a mercados nacionales o regionales"
     ],
     "answer": 0,
     "explanation": "Vertical/horizontal describe grado de especialización sectorial.",
@@ -1464,10 +1464,10 @@
     "source": "Apuntes_Ferias_Internacionales_Tipo_Test.docx",
     "question": "¿Qué debe incluir una ficha de lead útil durante la feria?",
     "options": [
-      "Empresa, persona, necesidad, rol de compra, plazo, responsable y próxima acción",
-      "Solo nombre y tarjeta de visita",
-      "Únicamente volumen de ventas de la empresa visitante",
-      "Solo valoración subjetiva del comercial"
+      "Empresa y persona, necesidad detectada, rol de compra, plazo, responsable interno y siguiente acción acordada",
+      "Nombre, cargo, empresa y datos de contacto, sin necesidad de registrar necesidades ni próximos pasos",
+      "Facturación estimada de la empresa visitante, tamaño de plantilla y volumen anual de importaciones",
+      "Valoración general del comercial sobre la conversación y nivel de simpatía percibido durante la reunión"
     ],
     "answer": 0,
     "explanation": "La ficha debe permitir cualificar y ejecutar seguimiento.",
