@@ -1168,5 +1168,365 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fis2-066",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende bienes a una sociedad alemana identificada en VIES y la mercancía viaja a Alemania. ¿Qué conjunto de elementos debe analizarse para sostener la exención de la EIB?",
+    "options": [
+      "Identificación válida del adquirente, transporte intracomunitario acreditado y cumplimiento de las obligaciones declarativas y restantes requisitos",
+      "Únicamente la condición empresarial del comprador y el pago por transferencia bancaria",
+      "Solo la salida física de la mercancía, con independencia de la identificación del adquirente",
+      "La inclusión de IVA español en factura y la posterior deducción por el comprador alemán"
+    ],
+    "answer": 0,
+    "explanation": "La EIB exige considerar conjuntamente identificación, movimiento real de bienes y requisitos formales/materiales.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-067",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa declara correctamente una operación en el modelo 349, pero el comprador no tenía un NIF-IVA válido de otro Estado miembro. ¿Qué conclusión es más correcta?",
+    "options": [
+      "La correcta declaración no subsana por sí sola la falta del requisito de identificación del adquirente",
+      "El 349 convierte automáticamente la operación en EIB exenta",
+      "El NIF-IVA solo sirve para Intrastat y no afecta a la exención",
+      "La operación pasa a tributar por OSS como si fuera B2C"
+    ],
+    "answer": 0,
+    "explanation": "Los requisitos no son intercambiables; el 349 no sustituye la identificación válida.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-068",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa dispone de un NIF-IVA válido del cliente y de factura comercial, pero no puede demostrar el transporte fuera de España. ¿Cuál es el problema principal?",
+    "options": [
+      "No puede sostener adecuadamente el elemento material del desplazamiento intracomunitario de los bienes",
+      "La factura comercial prueba por sí misma el transporte entre Estados",
+      "El NIF-IVA transforma la operación en servicio B2B",
+      "El modelo 303 del vendedor sustituye cualquier prueba logística"
+    ],
+    "answer": 0,
+    "explanation": "La EIB requiere que los bienes salgan efectivamente a otro Estado miembro y que ese movimiento pueda acreditarse.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-069",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En una venta en cadena A→B→C con un único transporte A→C, ¿por qué el transporte no puede atribuirse simultáneamente a las dos compraventas?",
+    "options": [
+      "Porque existe un único movimiento intracomunitario y debe identificarse una sola operación móvil",
+      "Porque la segunda compraventa carece de efectos a efectos de IVA",
+      "Porque en las cadenas solo tributa el primer vendedor",
+      "Porque las operaciones intermedias se consideran siempre exportaciones"
+    ],
+    "answer": 0,
+    "explanation": "La cadena contiene varias ventas pero un solo transporte; solo una se vincula a ese desplazamiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-070",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "A vende a B y B vende a C. La mercancía se transporta una sola vez de España a Alemania. Si el transporte se atribuye a B→C, ¿qué idea describe mejor A→B?",
+    "options": [
+      "Es una operación distinta de la venta móvil y debe localizarse conforme a las reglas aplicables a las operaciones sin ese transporte",
+      "Se convierte automáticamente en una segunda EIB exenta con el mismo transporte",
+      "Desaparece a efectos de IVA por tratarse de una operación intermedia",
+      "Pasa a ser una venta B2C porque C es el destinatario físico"
+    ],
+    "answer": 0,
+    "explanation": "La atribución del transporte a una venta deja las restantes como operaciones inmóviles, que requieren su propia localización.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-071",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española envía stock a un almacén en Francia sin comprador previamente identificado y lo venderá a quien aparezca. ¿Por qué no encaja en la simplificación de consigna estudiada?",
+    "options": [
+      "Porque la simplificación exige que exista un adquirente previamente identificado para ese stock",
+      "Porque la consigna solo puede utilizarse con bienes de escaso valor",
+      "Porque el almacén debe pertenecer jurídicamente al comprador",
+      "Porque la consigna solo se aplica a servicios electrónicos"
+    ],
+    "answer": 0,
+    "explanation": "El elemento distintivo del call-off stock es el cliente conocido de antemano, junto con los demás requisitos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-072",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa envía mercancía a un almacén en Italia para un cliente ya identificado, pero el stock permanece allí más allá del plazo previsto por la simplificación sin que el cliente lo adquiera. ¿Qué debe hacer el análisis?",
+    "options": [
+      "Revisar si deja de cumplirse la simplificación y si surge el tratamiento correspondiente al traslado de bienes",
+      "Mantener indefinidamente la simplificación por existir cliente identificado",
+      "Convertir la operación en una venta B2C sujeta al umbral de 10.000 €",
+      "Tratarla como exportación temporal fuera de la UE"
+    ],
+    "answer": 0,
+    "explanation": "La consigna simplificada está condicionada a requisitos, incluido el plazo contemplado en el régimen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-073",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española presta consultoría general a una empresa francesa que actúa como empresario. ¿Qué regla debe aplicar como punto de partida?",
+    "options": [
+      "La regla general B2B sitúa el servicio en la sede del destinatario empresarial",
+      "La regla B2C sitúa siempre el servicio en España por estar allí el prestador",
+      "El umbral de 10.000 € decide si el servicio se localiza en Francia",
+      "La operación es una EIB exenta porque el cliente tiene NIF-IVA"
+    ],
+    "answer": 0,
+    "explanation": "Los servicios B2B generales se localizan, como regla, donde está establecido el destinatario.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-074",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española presta una consultoría personalizada por videollamada a un particular italiano. ¿Cuál es el error conceptual más probable?",
+    "options": [
+      "Calificarla como servicio electrónico únicamente porque se presta por Internet",
+      "Aplicar primero la regla general B2C antes de revisar posibles reglas especiales",
+      "Distinguir entre prestación automatizada y servicio con intervención humana",
+      "Analizar la naturaleza real del servicio antes de decidir su localización"
+    ],
+    "answer": 0,
+    "explanation": "El canal online no convierte por sí mismo un servicio profesional personalizado en servicio electrónico.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-075",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española realiza 7.000 € de ventas a distancia B2C de bienes a Francia y 4.000 € de servicios electrónicos B2C a Italia. ¿Qué conclusión se deriva para el umbral conjunto, si ambas categorías son computables?",
+    "options": [
+      "El total conjunto es 11.000 €, por lo que se supera el umbral de 10.000 €",
+      "Cada Estado dispone de un umbral independiente y ninguno supera 10.000 €",
+      "Solo cuentan los bienes físicos y el total relevante es 7.000 €",
+      "Solo cuentan los servicios electrónicos y el total relevante es 4.000 €"
+    ],
+    "answer": 0,
+    "explanation": "El umbral es conjunto para las categorías B2C incluidas, no por país.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-076",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa estuvo por debajo del umbral de 10.000 € el año anterior, pero lo supera en julio del año actual. ¿Qué operación marca el cambio de localización?",
+    "options": [
+      "La operación que hace superar el umbral ya queda sometida a la regla de destino",
+      "La primera operación del año siguiente, manteniéndose todo el año actual en origen",
+      "Solo la parte de la operación que excede exactamente de 10.000 €",
+      "Todas las operaciones desde enero deben rectificarse retroactivamente"
+    ],
+    "answer": 0,
+    "explanation": "El material indica que la operación que rebasa el límite y las posteriores se localizan en destino.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-077",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa estuvo por encima del umbral de 10.000 € el año anterior, pero en el ejercicio actual apenas ha vendido 2.000 € a particulares de otros Estados. ¿Qué ocurre?",
+    "options": [
+      "Las operaciones afectadas tributan en destino desde el comienzo del año actual",
+      "Puede aplicar IVA español hasta alcanzar otra vez 10.000 €",
+      "El umbral deja de aplicarse porque el volumen actual es inferior",
+      "Debe escoger libremente entre origen y destino en cada factura"
+    ],
+    "answer": 0,
+    "explanation": "La superación en el año anterior condiciona el tratamiento desde el inicio del año siguiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-078",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa usa OSS para ventas B2C en varios Estados miembros. ¿Qué obligación no desaparece por el hecho de utilizar la ventanilla única?",
+    "options": [
+      "Determinar correctamente el Estado de consumo y el IVA aplicable a cada operación",
+      "Presentar una declaración local de IVA en cada país por esas operaciones cubiertas por OSS",
+      "Aplicar un único tipo de IVA español a todos los consumidores europeos",
+      "Convertir todas las ventas B2C en operaciones exentas"
+    ],
+    "answer": 0,
+    "explanation": "OSS simplifica la declaración e ingreso, pero la empresa debe identificar el país de consumo y aplicar su tratamiento.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-079",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "¿Qué diferencia esencial existe entre el modelo 349 e Intrastat en el marco del tema?",
+    "options": [
+      "El 349 tiene función fiscal recapitulativa de determinadas operaciones intracomunitarias; Intrastat cumple una función estadística sobre movimientos de mercancías",
+      "Ambos son declaraciones idénticas que se presentan ante organismos distintos",
+      "Intrastat liquida el IVA y el 349 mide el volumen físico de mercancías",
+      "El 349 solo se usa para ventas B2C y Intrastat para servicios B2B"
+    ],
+    "answer": 0,
+    "explanation": "No deben confundirse obligaciones fiscales y estadísticas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-080",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una misma sociedad residente en España obtiene renta en otro Estado y ambos gravan esa misma renta en cabeza del mismo contribuyente. ¿Qué figura describe el caso?",
+    "options": [
+      "Doble imposición jurídica internacional",
+      "Doble imposición económica",
+      "Inversión del sujeto pasivo",
+      "Tributación en destino por OSS"
+    ],
+    "answer": 0,
+    "explanation": "La doble imposición jurídica recae sobre la misma renta y el mismo contribuyente en dos jurisdicciones.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-081",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una filial paga impuesto sobre su beneficio y después su matriz tributa por el dividendo distribuido. ¿Qué diferencia respecto a la doble imposición jurídica es clave?",
+    "options": [
+      "En la económica la misma renta económica soporta gravamen en contribuyentes distintos",
+      "En la económica siempre intervienen dos impuestos indirectos sobre consumo",
+      "En la jurídica nunca existe un elemento internacional",
+      "En la económica el segundo gravamen recae necesariamente sobre el mismo contribuyente"
+    ],
+    "answer": 0,
+    "explanation": "El rasgo diferenciador es la identidad o no del sujeto gravado.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-082",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "España aplica un método de crédito sobre una renta obtenida en el extranjero. ¿Qué secuencia conceptual corresponde?",
+    "options": [
+      "La renta se integra y después se descuenta el impuesto extranjero admisible dentro de los límites aplicables",
+      "La renta se excluye completamente de la base y no se considera el impuesto pagado fuera",
+      "El impuesto extranjero se suma a la cuota española para evitar diferencias de tipos",
+      "La renta se convierte en una operación exenta de IVA"
+    ],
+    "answer": 0,
+    "explanation": "El método de imputación/crédito no excluye la renta; permite deducir el impuesto extranjero conforme a límites.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-083",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Dos sociedades vinculadas pactan un precio diferente al de una operación comparable entre independientes. ¿Qué pregunta exige el principio arm’s length?",
+    "options": [
+      "Si las diferencias de funciones, activos, riesgos y condiciones justifican el precio frente a comparables independientes",
+      "Si toda diferencia de precio intragrupo debe calificarse como evasión fiscal",
+      "Si la vinculación permite ignorar cualquier referencia de mercado",
+      "Si el precio de transferencia debe ser idéntico al valor en aduana en todos los casos"
+    ],
+    "answer": 0,
+    "explanation": "El análisis de comparabilidad busca determinar condiciones de plena competencia, no una igualdad mecánica de precios.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-084",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "¿Por qué un precio intragrupo artificialmente bajo puede preocupar a una Administración tributaria?",
+    "options": [
+      "Porque puede desplazar margen y base imponible entre jurisdicciones de forma no acorde con plena competencia",
+      "Porque toda venta intragrupo debe generar el mismo beneficio en todos los países",
+      "Porque los precios de transferencia solo se permiten cuando existe pérdida contable",
+      "Porque la vinculación convierte cualquier operación en una donación"
+    ],
+    "answer": 0,
+    "explanation": "Los precios internos pueden utilizarse para trasladar beneficios; por eso se exige arm’s length.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-085",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa pretende usar un mismo valor para aduanas y precios de transferencia sin analizar nada más. ¿Qué objeción recoge el tema?",
+    "options": [
+      "Son disciplinas relacionadas pero no idénticas y pueden perseguir reglas y finalidades distintas",
+      "El valor en aduana sustituye jurídicamente cualquier análisis de plena competencia",
+      "Los precios de transferencia solo afectan a mercancías importadas desde terceros países",
+      "La valoración aduanera no tiene ninguna relación posible con operaciones entre vinculadas"
+    ],
+    "answer": 0,
+    "explanation": "El material advierte que la conexión entre ambas materias no permite tratarlas como equivalentes.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
