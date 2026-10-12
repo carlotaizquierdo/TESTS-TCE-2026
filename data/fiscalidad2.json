@@ -1528,5 +1528,365 @@
     "difficulty": "hard",
     "key": true,
     "approved": true
+  },
+  {
+    "id": "fis2-086",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende maquinaria por 30.000 € a una empresa alemana con NIF-IVA válido. La mercancía sale de España y llega a Alemania y el transporte queda acreditado. ¿Qué tratamiento corresponde al vendedor español?",
+    "options": [
+      "Realiza una EIB exenta de IVA español si se cumplen los restantes requisitos y factura sin repercutir IVA español",
+      "Debe repercutir IVA español porque el vendedor está establecido en España",
+      "Debe repercutir IVA alemán y declararlo necesariamente mediante OSS",
+      "Realiza una operación no sujeta a IVA en ningún Estado miembro"
+    ],
+    "answer": 0,
+    "explanation": "En una venta B2B de bienes España→otro Estado miembro, el vendedor realiza una EIB potencialmente exenta de IVA español si cumple identificación, transporte y obligaciones exigibles.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-087",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En el caso anterior, ¿qué ocurre con el comprador alemán?",
+    "options": [
+      "Realiza una AIB sujeta en Alemania y declara allí el IVA, pudiendo deducirlo si tiene derecho",
+      "Recibe una compra exenta también en Alemania y no declara IVA",
+      "Soporta IVA español porque el vendedor es español",
+      "Debe ingresar el IVA en España mediante el modelo 369"
+    ],
+    "answer": 0,
+    "explanation": "La exención opera en la entrega del vendedor; el adquirente realiza una AIB sujeta en el Estado de llegada.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-088",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española compra bienes a una empresa francesa. La mercancía viaja Francia→España y se cumplen los requisitos intracomunitarios. ¿Quién declara el IVA de la adquisición en España?",
+    "options": [
+      "La empresa española adquirente, como AIB, autorrepercutiendo/declarando el IVA español y deduciéndolo si procede",
+      "La empresa francesa mediante IVA francés repercutido en factura",
+      "La empresa española únicamente cuando venda después los bienes",
+      "La Agencia Tributaria francesa mediante redistribución automática del IVA"
+    ],
+    "answer": 0,
+    "explanation": "En una AIB, el adquirente declara el IVA en el Estado de destino de los bienes; si tiene derecho, puede deducirlo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-089",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española compra material de oficina en España por 1.000 € + 210 € de IVA y tiene derecho pleno a deducción. ¿Qué representa para ella el IVA de 210 €?",
+    "options": [
+      "IVA soportado que puede deducir frente al IVA repercutido de sus operaciones sujetas",
+      "IVA repercutido porque lo paga a su proveedor",
+      "IVA exento que no debe registrarse en la liquidación",
+      "IVA de destino que debe declararse mediante OSS"
+    ],
+    "answer": 0,
+    "explanation": "El comprador soporta el IVA en sus adquisiciones; si cumple los requisitos de deducción, lo compensa en su liquidación.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-090",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende mercancía en España por 5.000 € + IVA. ¿Cómo se denomina el IVA que cobra al cliente?",
+    "options": [
+      "IVA repercutido por el vendedor",
+      "IVA soportado por el vendedor",
+      "IVA intracomunitario exento",
+      "IVA deducible del comprador para el vendedor"
+    ],
+    "answer": 0,
+    "explanation": "El vendedor repercute IVA en sus ventas; el cliente es quien lo soporta económicamente en la factura.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-091",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española presta consultoría general a una empresa portuguesa que actúa como empresario. ¿Cuál es la descripción más precisa de la factura española?",
+    "options": [
+      "Se emite normalmente sin IVA español porque el servicio B2B se localiza en Portugal; el cliente aplica inversión del sujeto pasivo",
+      "Está exenta de IVA español por tratarse de una EIB",
+      "Lleva IVA español hasta que se superen 10.000 € de servicios",
+      "Lleva IVA portugués repercutido por la empresa española mediante OSS en todo caso"
+    ],
+    "answer": 0,
+    "explanation": "En servicios B2B generales se mira la sede del destinatario. No debe confundirse 'sin IVA español' con la exención propia de una EIB.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-092",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "En el caso de la consultoría B2B España→Portugal, ¿quién declara normalmente el IVA en Portugal?",
+    "options": [
+      "La empresa portuguesa destinataria mediante inversión del sujeto pasivo",
+      "La empresa española como si realizara una venta B2C",
+      "La Administración española mediante el modelo 349",
+      "Nadie, porque la operación está exenta en toda la UE"
+    ],
+    "answer": 0,
+    "explanation": "En la regla general B2B de servicios, el destinatario empresarial declara el impuesto en su Estado mediante reverse charge.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-093",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española presta una consultoría personalizada por videollamada a un particular francés. No hay regla especial aplicable. ¿Dónde se localiza según la regla general B2C de servicios?",
+    "options": [
+      "En España, sede del prestador",
+      "En Francia, por ser residencia del consumidor",
+      "En Francia solo si se superan 10.000 €",
+      "En el país desde el que el particular realiza el pago"
+    ],
+    "answer": 0,
+    "explanation": "Según el material, un servicio B2C general se localiza en la sede del prestador, salvo regla especial. Una videollamada personalizada no es electrónica por el mero canal.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-094",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende zapatos físicos por su web a un particular francés y organiza el transporte España→Francia. ¿Qué tipo de operación debe analizar primero?",
+    "options": [
+      "Una venta intracomunitaria a distancia de bienes B2C",
+      "Un servicio electrónico B2C",
+      "Una entrega intracomunitaria B2B exenta",
+      "Un servicio B2B localizado en Francia"
+    ],
+    "answer": 0,
+    "explanation": "Comprar online no cambia la naturaleza: los zapatos siguen siendo bienes físicos.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-095",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "La empresa anterior está establecida solo en España, no superó el umbral el año anterior, lleva 6.000 € computables este año y no optó por destino. ¿Qué IVA aplica a esa venta a Francia mientras siga bajo el límite?",
+    "options": [
+      "IVA español, por aplicación de la regla de origen en las condiciones del umbral",
+      "IVA francés, porque toda venta B2C de bienes tributa siempre en destino",
+      "Ningún IVA, porque las ventas intracomunitarias están exentas",
+      "IVA francés mediante inversión del sujeto pasivo del consumidor"
+    ],
+    "answer": 0,
+    "explanation": "Bajo 10.000 €, cumpliendo las condiciones y sin opción por destino, las ventas a distancia B2C afectadas tributan por defecto en origen.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-096",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española lleva 9.700 € de ventas B2C computables y realiza una nueva venta de bienes por 600 € a un particular italiano. No optó previamente por destino. ¿Qué IVA corresponde a esa operación?",
+    "options": [
+      "El IVA italiano sobre toda la operación de 600 €, porque es la que hace superar el umbral",
+      "IVA español sobre 300 € e italiano sobre los 300 € que exceden el límite",
+      "IVA español sobre toda la operación y cambio a destino desde la siguiente",
+      "Ningún IVA porque el umbral solo se revisa al cierre del ejercicio"
+    ],
+    "answer": 0,
+    "explanation": "La operación que hace superar los 10.000 € ya se localiza íntegramente en destino.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-097",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa superó el umbral B2C de 10.000 € el año anterior. En enero del año actual realiza su primera venta a distancia a un particular alemán. ¿Qué regla aplica?",
+    "options": [
+      "Tributación en destino desde esa primera operación del año actual",
+      "IVA español hasta volver a acumular 10.000 € en el nuevo año",
+      "Exención de IVA por comenzar un nuevo ejercicio",
+      "Elección libre entre IVA español o alemán en cada factura"
+    ],
+    "answer": 0,
+    "explanation": "Si el año anterior se superó el límite, las operaciones afectadas tributan en destino desde el comienzo del año siguiente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-098",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa está por debajo de 10.000 €, pero optó voluntariamente por tributar en destino. Vende bienes a distancia a un consumidor portugués. ¿Qué IVA debe aplicar?",
+    "options": [
+      "El IVA correspondiente a Portugal, aunque no haya superado el umbral",
+      "IVA español porque el límite no se ha superado",
+      "Ningún IVA hasta superar 10.000 €",
+      "IVA portugués solo sobre la parte que exceda de 10.000 €"
+    ],
+    "answer": 0,
+    "explanation": "La opción voluntaria por destino desplaza la regla de origen y se mantiene durante el periodo mínimo señalado en el material.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-099",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende bienes B2C a Francia, Italia y Portugal y tributa en destino mediante OSS. ¿Quién tiene derecho económico al IVA cobrado en cada venta?",
+    "options": [
+      "El Estado miembro de consumo correspondiente, aunque la empresa lo declare e ingrese centralizadamente en España",
+      "España, porque el modelo 369 se presenta ante la AEAT",
+      "El Estado donde esté el almacén del vendedor",
+      "La empresa, hasta que el consumidor solicite devolución"
+    ],
+    "answer": 0,
+    "explanation": "OSS centraliza la gestión, pero el IVA pertenece al Estado de consumo.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-100",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española usa OSS para ventas B2C gravadas en Francia e Italia. ¿Qué hace el modelo 369?",
+    "options": [
+      "Permite declarar e ingresar de forma centralizada el IVA de esas operaciones de destino",
+      "Convierte todas las ventas en operaciones sujetas a IVA español",
+      "Sustituye al modelo 349 para operaciones B2B intracomunitarias",
+      "Permite deducir cualquier IVA soportado en otros Estados dentro de la misma declaración"
+    ],
+    "answer": 0,
+    "explanation": "El 369 es la declaración periódica del régimen OSS/IOSS; no convierte el IVA extranjero en español ni sustituye al 349.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-101",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa vende un software automatizado por suscripción a particulares de otros Estados miembros. ¿Qué debe analizar antes de aplicar las reglas B2C?",
+    "options": [
+      "Si el servicio tiene naturaleza electrónica y, por tanto, entra en las reglas específicas y en el ámbito del umbral cuando proceda",
+      "Si el cliente tiene NIF-IVA para convertirlo automáticamente en B2B",
+      "Si la empresa dispone de almacén en el Estado del cliente",
+      "Si el servicio puede tratarse como bien físico por contratarse mediante una plataforma"
+    ],
+    "answer": 0,
+    "explanation": "La naturaleza del servicio es decisiva; los servicios electrónicos B2C tienen reglas específicas.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-102",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa vende por Internet un libro físico a un particular alemán y también le presta una asesoría personalizada por videollamada. ¿Deben tratarse igual a efectos de IVA por contratarse online?",
+    "options": [
+      "No; el libro es un bien y la asesoría es un servicio, por lo que deben aplicarse reglas de localización distintas",
+      "Sí; toda operación contratada online es un servicio electrónico",
+      "Sí; ambas son ventas a distancia de bienes",
+      "No; pero ambas tributan necesariamente en Alemania desde el primer euro"
+    ],
+    "answer": 0,
+    "explanation": "El canal de contratación no determina la naturaleza de la operación. Primero se distingue bien frente a servicio.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-103",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española vende un bien a un particular alemán, pero el particular lo recoge físicamente en la tienda de Madrid y se lo lleva por su cuenta. ¿Qué aspecto impide aplicar automáticamente la regla de venta intracomunitaria a distancia?",
+    "options": [
+      "No existe necesariamente un transporte organizado por el proveedor o por su cuenta desde un Estado miembro a otro",
+      "El comprador es particular y por eso toda venta debe estar exenta",
+      "El vendedor está establecido en España y nunca puede hacer ventas a distancia",
+      "El importe de la venta es inferior a 10.000 €"
+    ],
+    "answer": 0,
+    "explanation": "La venta a distancia exige analizar el desplazamiento del bien y quién lo organiza; una recogida física por el cliente no encaja automáticamente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-104",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa vende bienes B2B España→Bélgica cumpliendo los requisitos de EIB y, además, vende bienes B2C a particulares franceses. ¿Cuál de estas operaciones cuenta para el umbral B2C de 10.000 € por ese mero hecho?",
+    "options": [
+      "Las ventas B2C computables; la EIB B2B no se suma al umbral",
+      "Ambas operaciones porque cualquier venta intracomunitaria cuenta",
+      "Solo la EIB B2B porque está exenta",
+      "Ninguna, porque el umbral solo se aplica a servicios electrónicos"
+    ],
+    "answer": 0,
+    "explanation": "El umbral conjunto se aplica a las categorías B2C que señala la norma, no a una EIB B2B.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "fis2-105",
+    "subject": "fiscalidad2",
+    "subjectName": "Fiscalidad Internacional",
+    "source": "Apuntes_Fiscalidad_Internacional_2026.docx",
+    "question": "Una empresa española realiza una AIB y tiene derecho a deducir únicamente el 50 % del IVA soportado. ¿Puede decirse que la autorrepercusión es económicamente neutra?",
+    "options": [
+      "No necesariamente; solo será neutra en la medida en que tenga derecho a deducir el IVA declarado",
+      "Sí, porque toda AIB genera siempre deducción del 100 %",
+      "No, porque en una AIB el comprador nunca puede deducir IVA",
+      "Sí, porque la neutralidad depende solo de que exista NIF-IVA válido"
+    ],
+    "answer": 0,
+    "explanation": "La AIB puede implicar simultáneamente IVA devengado y deducible, pero la neutralidad depende del derecho efectivo a deducción.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
   }
 ]
