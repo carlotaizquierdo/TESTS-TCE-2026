@@ -3978,15 +3978,15 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Que la Ley 12/1992 tenga normas imperativas significa que:",
+    "question": "En un contrato de agencia al que se aplica la ley española, empresario y agente acuerdan que el agente renuncia a una protección que esa ley impone y no autoriza excluir. ¿Qué ocurre con esa cláusula?",
     "options": [
-      "La autonomía contractual encuentra límites en esas disposiciones",
-      "No puede pactarse ninguna cláusula",
-      "La ley aplicable nunca puede ser extranjera",
-      "Todo contrato debe durar indefinidamente"
+      "Se aplica porque ambas partes la aceptaron.",
+      "No puede desplazar la protección legal; la cláusula no surte efecto en ese punto.",
+      "Invalida automáticamente todo el contrato.",
+      "Hace que rija la ley del país donde reside el agente."
     ],
-    "answer": 0,
-    "explanation": "Las partes pueden pactar, pero no apartarse de normas imperativas salvo cuando la ley lo permita.",
+    "answer": 1,
+    "explanation": "Una norma imperativa limita lo que las partes pueden pactar: si la Ley 12/1992 rige el contrato y no autoriza esa renuncia, el acuerdo no puede eliminar esa protección. La incompatibilidad no anula automáticamente todo el contrato.",
     "difficulty": "hard",
     "key": true,
     "approved": true,
