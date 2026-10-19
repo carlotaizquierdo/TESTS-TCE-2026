@@ -1982,10 +1982,10 @@
   {
     "question": "En una compraventa internacional, ¿cuáles son las prestaciones principales del vendedor?",
     "options": [
-      "Entregar las mercancías, transmitir la propiedad y facilitar los documentos relacionados",
-      "Contratar siempre el transporte y pagar todos los aranceles",
-      "Registrar la marca y financiar al comprador",
-      "Elegir la ley aplicable y el tribunal"
+      "Entregar bienes conformes, transmitir la propiedad y facilitar los documentos previstos",
+      "Contratar siempre el transporte, asegurar la mercancía y pagar aranceles de importación",
+      "Registrar las marcas, financiar al comprador y garantizar el destino final de reventa",
+      "Elegir la ley, nombrar al juez competente y cobrar antes de poner la mercancía a disposición"
     ],
     "answer": 0,
     "explanation": "El art. 30 formula esas obligaciones básicas, aunque la CISG no regula los efectos reales de la transmisión de propiedad.",
@@ -2000,10 +2000,10 @@
   {
     "question": "El vendedor se obliga a transmitir la propiedad de las mercancías. ¿Qué afirmación refleja el alcance de esa obligación en la Convención?",
     "options": [
-      "La obligación contractual existe, pero los efectos reales se rigen por el derecho pertinente",
-      "La propiedad se transmite siempre al entregar las mercancías",
-      "La propiedad y el riesgo pasan necesariamente al mismo tiempo",
-      "La Convención resuelve todos los efectos reales de la propiedad"
+      "La obligación existe, pero los efectos reales se determinan por el derecho aplicable",
+      "La propiedad se transmite siempre al entregar los bienes al primer porteador",
+      "La propiedad pasa en todos los casos cuando se paga íntegramente el precio",
+      "La Convención resuelve por completo la titularidad y sus efectos reales en cada país"
     ],
     "answer": 0,
     "explanation": "La obligación contractual existe, pero el art. 4.b excluye de la CISG los efectos sobre la propiedad.",
@@ -2072,10 +2072,10 @@
   {
     "question": "No hay lugar de entrega pactado, no se aplica una regla especial y tampoco existe transporte. ¿Dónde puede cumplirse la entrega?",
     "options": [
-      "Poniendo las mercancías a disposición en el establecimiento del vendedor",
-      "Entregándolas en la frontera del comprador",
-      "Entregándolas al último porteador",
-      "Llevándolas al domicilio del comprador"
+      "Poniendo los bienes a disposición en el establecimiento del vendedor",
+      "Entregándolos en el domicilio del comprador, aunque no se pactara",
+      "Dándolos al último porteador, aunque no haya transporte contratado",
+      "Llevándolos a la frontera de importación, con independencia de la entrega pactada"
     ],
     "answer": 0,
     "explanation": "El art. 31.c actúa como regla residual.",
@@ -2090,10 +2090,10 @@
   {
     "question": "El contrato permite entregar la mercancía entre el 1 y el 15 de junio, pero no dice quién elige el día. ¿Qué regla general debe considerarse?",
     "options": [
-      "El vendedor puede elegir dentro del periodo, salvo que las circunstancias indiquen que corresponde al comprador",
-      "El comprador elige siempre el día",
-      "La entrega debe hacerse necesariamente el día 1",
-      "El periodo es inválido si no se fija una fecha exacta"
+      "El vendedor puede elegir dentro del periodo, salvo que el contrato o el caso indiquen otra cosa",
+      "El comprador elige siempre dentro del periodo, aunque no haya reservado esa facultad",
+      "El vendedor debe entregar el primer día del periodo, aunque no se haya pactado",
+      "Solo es válida la entrega si las partes confirman la fecha por escrito"
     ],
     "answer": 0,
     "explanation": "La CISG permite cumplimiento durante el periodo con ese matiz.",
@@ -2306,10 +2306,10 @@
   {
     "question": "Las partes celebraron válidamente una compraventa, pero dejaron el precio sin concretar. ¿Qué referencia supletoria puede utilizarse?",
     "options": [
-      "El precio generalmente cobrado por mercancías semejantes en circunstancias parecidas",
-      "El precio que el comprador considere justo",
-      "El precio del país del vendedor sin más",
-      "El valor mínimo fijado por aduanas"
+      "El precio habitual de bienes semejantes en ventas comparables",
+      "El precio que el comprador considere justo según su presupuesto",
+      "El precio del país del vendedor, incluso si las ventas no son comparables",
+      "El valor aduanero mínimo, aunque no sea un precio comercial"
     ],
     "answer": 0,
     "explanation": "El art. 55 ofrece una referencia supletoria en las condiciones previstas.",
@@ -2486,10 +2486,10 @@
   {
     "question": "Un comprador descubre una falta de conformidad y avisa al vendedor 18 meses después de la entrega, inmediatamente después de descubrirla. ¿Qué valoración es más adecuada?",
     "options": [
-      "El aviso siempre llega tarde al superar un año",
-      "Puede estar dentro del límite exterior general, pero debe analizarse también si avisó dentro de un plazo razonable desde que descubrió el defecto",
-      "El aviso siempre es válido, con independencia de cuándo se envíe",
-      "Solo importa si el vendedor aceptó expresamente la reclamación"
+      "No, el límite general es de un año desde la entrega",
+      "Puede estar dentro del límite exterior si avisó pronto al descubrirlo",
+      "Solo si el vendedor reconoció por escrito el defecto antes del envío",
+      "No, al entregar se pierde cualquier acción por defectos ocultos"
     ],
     "answer": 1,
     "explanation": "Los apuntes destacan el límite general de dos años, con el matiz de la garantía contractual.",
@@ -2594,10 +2594,10 @@
   {
     "question": "Las mercancías se pierden por accidente después de que el riesgo haya pasado al comprador. ¿Qué ocurre normalmente con la obligación de pagar?",
     "options": [
-      "La pérdida fortuita no libera por sí sola al comprador, salvo que derive de una conducta del vendedor",
-      "El comprador queda siempre liberado",
-      "El contrato se resuelve automáticamente",
-      "La propiedad pasa al porteador"
+      "La pérdida fortuita no libera al comprador, salvo si la causó el vendedor",
+      "El comprador queda liberado siempre que el accidente ocurra tras el embarque",
+      "La pérdida resuelve el contrato, aunque pueda reclamarse indemnización",
+      "La obligación de pago pasa automáticamente del comprador al porteador"
     ],
     "answer": 0,
     "explanation": "El riesgo determina quién soporta la pérdida fortuita, con el límite indicado.",
@@ -2612,10 +2612,10 @@
   {
     "question": "El vendedor entrega mercancías identificadas al primer porteador y las partes no pactaron cuándo pasa el riesgo. ¿Cuál es el punto de partida general?",
     "options": [
-      "El riesgo pasa con la entrega al primer porteador, con los matices aplicables",
-      "El riesgo pasa al llegar al destino final",
-      "El riesgo pasa cuando se emite la factura",
-      "El riesgo pasa cuando el comprador paga"
+      "El riesgo suele pasar al entregar al primer porteador, salvo los matices del caso",
+      "El riesgo pasa al llegar al destino final, aunque no lo prevea el contrato",
+      "El riesgo se transfiere al pagar, incluso antes de cargar la mercancía",
+      "El riesgo se mantiene con el vendedor hasta que el comprador examine el envío"
     ],
     "answer": 0,
     "explanation": "La regla general se vincula al primer porteador, salvo obligaciones de entrega en lugar específico.",
@@ -2630,10 +2630,10 @@
   {
     "question": "Un vendedor entrega al porteador mercancías de un lote común, sin identificar cuáles corresponden al contrato del comprador. ¿Por qué importa esa falta de identificación?",
     "options": [
-      "El riesgo no debería pasar respecto de bienes que no se han vinculado claramente al contrato",
-      "Determina automáticamente el tribunal competente",
-      "Sustituye la obligación de pagar",
-      "Transfiere por sí sola la propiedad"
+      "Sin identificación clara, el riesgo no pasa sobre bienes que no se vincularon al contrato",
+      "La identificación determina el tribunal competente para resolver el litigio",
+      "La identificación reemplaza el acuerdo sobre precio y fecha de entrega",
+      "La identificación transfiere automáticamente la propiedad al comprador"
     ],
     "answer": 0,
     "explanation": "La transmisión del riesgo requiere que los bienes estén claramente identificados con el contrato.",
@@ -2648,10 +2648,10 @@
   {
     "question": "Una empresa compra mercancías que ya están en tránsito. Las partes no pactaron expresamente cuándo pasa el riesgo. ¿Qué criterio debe analizarse?",
     "options": [
-      "Puede pasar desde la celebración, atendiendo a las circunstancias y al conocimiento de las partes",
-      "Pasa siempre al entregar al primer porteador",
-      "Pasa siempre cuando llega a destino",
-      "La venta en tránsito queda fuera de la Convención"
+      "El riesgo puede pasar al celebrar la venta, según las circunstancias y lo que sabían las partes",
+      "Pasa siempre al entregar al porteador, aunque la venta ocurra durante el trayecto",
+      "No pasa hasta que el comprador recibe físicamente las mercancías en destino",
+      "La Convención excluye cualquier venta de mercancías que ya estén en tránsito"
     ],
     "answer": 0,
     "explanation": "El art. 68 tiene un régimen especial con matices según circunstancias y conocimiento.",
@@ -2666,10 +2666,10 @@
   {
     "question": "Las mercancías están identificadas y listas para ser recogidas en el almacén del vendedor, pero el comprador no las retira. ¿Qué puede determinar el paso del riesgo?",
     "options": [
-      "Que el comprador se haga cargo o incumpla al no recogerlas tras su puesta a disposición",
-      "La fecha en que se emite la factura",
-      "La inscripción de la propiedad",
-      "La elección de ley aplicable"
+      "Puede pasar cuando el comprador recoge los bienes o no lo hace tras el aviso",
+      "Pasa cuando se emite la factura, aunque los bienes no estén listos",
+      "Pasa solo al inscribirse la propiedad en el registro del comprador",
+      "No pasa hasta que los bienes llegan al almacén del comprador"
     ],
     "answer": 0,
     "explanation": "La regla depende de puesta a disposición y recepción en los términos del artículo.",
@@ -2972,10 +2972,10 @@
   {
     "question": "El vendedor no entrega las mercancías y tampoco cumple dentro del plazo adicional que le concedió el comprador. ¿Qué remedio puede plantearse?",
     "options": [
-      "Resolver el contrato, si concurren los requisitos aplicables",
-      "Resolver siempre por cualquier retraso mínimo",
-      "Reducir el precio, pero nunca resolver",
-      "Resolver solo si el vendedor lo acepta"
+      "Resolver el contrato si concurren las condiciones aplicables",
+      "Resolverlo ante cualquier retraso, aunque sea mínimo",
+      "Reducir el precio, sin posibilidad de resolverlo",
+      "Resolverlo únicamente si el vendedor lo acepta expresamente"
     ],
     "answer": 0,
     "explanation": "El art. 49 regula la resolución por el comprador.",
@@ -3080,10 +3080,10 @@
   {
     "question": "Un contrato prevé entregas mensuales y una remesa llega tarde. Antes de terminar todo el contrato, ¿qué debe valorar el comprador?",
     "options": [
-      "Si el incumplimiento afecta solo a esa entrega o también compromete otras",
-      "Solo la fecha de pago de la última remesa",
-      "La nacionalidad del transportista",
-      "La moneda usada para facturar"
+      "Si la falta afecta solo esa remesa o puede comprometer las entregas siguientes",
+      "Solo la fecha de pago de la última factura y el total facturado",
+      "La nacionalidad del transportista y la moneda usada para calcular el precio",
+      "Si se avisó al banco a tiempo y el comprador ya pagó el transporte"
     ],
     "answer": 0,
     "explanation": "El art. 73 regula contratos de entregas sucesivas.",
@@ -3098,10 +3098,10 @@
   {
     "question": "Antes de la fecha de entrega, resulta claro que una parte cometerá un incumplimiento esencial. ¿Qué remedio puede estar disponible antes del vencimiento?",
     "options": [
-      "Resolver anticipadamente, cumpliendo las condiciones aplicables",
-      "Reducir automáticamente el precio",
-      "Transferir el riesgo al comprador",
-      "Cambiar el tribunal competente"
+      "Resolver anticipadamente, si se cumplen las condiciones aplicables",
+      "Reducir el precio por adelantado, aunque aún no haya llegado la mercancía",
+      "Trasladar el riesgo al comprador por un retraso que todavía no ha ocurrido",
+      "Cambiar el tribunal competente antes de presentar una demanda"
     ],
     "answer": 0,
     "explanation": "La CISG permite resolución anticipada cuando resulta claro el incumplimiento esencial futuro.",
@@ -3116,10 +3116,10 @@
   {
     "question": "Antes de la fecha de entrega aparecen indicios suficientes de que el vendedor podría incumplir gravemente. ¿Qué puede hacer la parte afectada?",
     "options": [
-      "Suspender su cumplimiento y pedir garantías en las condiciones aplicables",
-      "Resolver siempre por una mera sospecha",
-      "Modificar unilateralmente el precio",
-      "Embargar directamente las mercancías"
+      "Suspender su prestación y pedir garantías suficientes",
+      "Resolver siempre que aparezcan indicios de un posible retraso",
+      "Modificar unilateralmente el precio de compraventa",
+      "Embargar de inmediato las mercancías del vendedor"
     ],
     "answer": 0,
     "explanation": "La suspensión protege frente a deterioro grave de capacidad o comportamiento de la contraparte.",
@@ -3152,10 +3152,10 @@
   {
     "question": "Al calcular los daños por incumplimiento, ¿qué pérdidas pueden incluirse si se cumplen los límites aplicables?",
     "options": [
-      "La pérdida sufrida y la ganancia dejada de obtener, con el límite de previsibilidad",
-      "Solo los gastos ya pagados",
-      "Solo los beneficios futuros",
-      "Daños punitivos automáticos"
+      "La pérdida efectiva y el lucro cesante, sujetos al límite de previsibilidad",
+      "Solo los gastos ya pagados y documentados por la parte afectada",
+      "Únicamente las ganancias esperadas, sin incluir pérdidas efectivas",
+      "Cualquier perjuicio indirecto, aunque no fuera previsible al contratar"
     ],
     "answer": 0,
     "explanation": "La indemnización cubre pérdida sufrida y ganancia dejada de obtener, dentro de los límites del artículo.",
@@ -3242,10 +3242,10 @@
   {
     "question": "Tras resolver el contrato, el comprador adquiere mercancías sustitutivas de forma razonable a un precio mayor. ¿Qué diferencia puede reclamar como daño?",
     "options": [
-      "La diferencia entre el precio pactado y el de la compra sustitutiva, más otros daños admisibles",
-      "El doble del precio original",
-      "Una penalización automática",
-      "El precio corriente aunque haya hecho una compra sustitutiva"
+      "La diferencia entre el precio pactado y el de la compra sustitutiva razonable",
+      "El doble del precio inicial, más el transporte y almacenamiento posteriores",
+      "Una penalización fija por resolver, aunque no haya pérdida económica",
+      "El precio corriente posterior, aunque no se compre mercancía de reemplazo"
     ],
     "answer": 0,
     "explanation": "La transacción sustitutiva razonable proporciona una medida específica de daño.",
@@ -3384,12 +3384,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una prohibición imprevista impide cumplir y no podía evitarse razonablemente. ¿Qué debe acreditarse para que pueda exonerarse la responsabilidad por daños?",
+    "question": "El Gobierno prohíbe exportar una mercancía después de la firma; la empresa no consigue una licencia alternativa y avisa tarde al comprador. ¿Qué debe valorarse para reclamar exoneración de daños?",
     "options": [
-      "Que el impedimento escapaba al control y era imprevisible e inevitable en los términos aplicables",
-      "Que cumplir se volvió simplemente más caro",
-      "Que la propia parte causó el impedimento",
-      "Que el riesgo ya se había transmitido"
+      "El control de la medida, su previsibilidad, si podía evitarse y cuándo se avisó",
+      "El coste adicional, el margen previsto y la pérdida de rentabilidad",
+      "La identificación del bien, el medio de transporte y el seguro contratado",
+      "La ley elegida, la moneda pactada y el lugar de firma del contrato"
     ],
     "answer": 0,
     "explanation": "Esos son los elementos centrales de la exoneración.",
@@ -3405,9 +3405,9 @@
     "question": "Una empresa queda exonerada de indemnizar porque un impedimento cumple los requisitos legales. ¿Qué debe recordar la otra parte?",
     "options": [
       "La exoneración de daños no elimina necesariamente los demás remedios",
-      "El contrato se resuelve automáticamente",
-      "Desaparece toda obligación de notificar",
-      "Las mercancías pasan a ser conformes"
+      "No hace falta avisar del impedimento ni explicar sus efectos",
+      "El contrato se resuelve automáticamente y cesan todas las obligaciones",
+      "Las mercancías se consideran conformes con lo pactado"
     ],
     "answer": 0,
     "explanation": "El art. 79.5 conserva otros derechos distintos de la indemnización.",
@@ -3440,10 +3440,10 @@
   {
     "question": "Un vendedor confía una parte de la ejecución a un tercero, que incumple por un impedimento fuera de su control. ¿Qué debe probar el vendedor para quedar exonerado?",
     "options": [
-      "Que tanto él como el tercero cumplen las condiciones de exoneración",
-      "Que el tercero responde siempre por el contrato",
-      "Que el comprador aceptó la subcontratación",
-      "Que no existía un contrato por escrito"
+      "El vendedor y el tercero deben cumplir las condiciones de exoneración",
+      "El tercero asume automáticamente las obligaciones frente al comprador",
+      "El comprador debe haber aprobado expresamente al tercero",
+      "Basta probar que el impedimento fue externo y costoso"
     ],
     "answer": 0,
     "explanation": "La exoneración exige cumplir condiciones respecto de ambos niveles.",
@@ -4610,10 +4610,10 @@
   {
     "question": "Al terminar una agencia, ¿qué diferencia hay entre la indemnización por clientela y la compensación de ciertos gastos no amortizados?",
     "options": [
-      "Una atiende al valor de los clientes aportados; la otra, a gastos que pueden quedar sin amortizar",
-      "Son dos nombres para la misma indemnización",
-      "La segunda siempre equivale a tres meses de comisión",
-      "La primera solo puede pedirse si hubo incumplimiento"
+      "Una cubre la clientela creada; la otra, gastos aún no amortizados",
+      "Las dos son equivalentes y se calculan como una comisión mensual",
+      "Una se paga siempre; la otra solo si el contrato se hizo por escrito",
+      "La primera depende de la entrega y la segunda del tribunal competente"
     ],
     "answer": 0,
     "explanation": "Tienen presupuestos y finalidades diferentes.",
@@ -5042,10 +5042,10 @@
   {
     "question": "Un comisionista acredita gastos y desembolsos realizados por cuenta del comitente. ¿Qué puede reclamar?",
     "options": [
-      "El reembolso justificado y, en su caso, el interés legal",
-      "Una indemnización por clientela",
-      "Un preaviso de seis meses",
-      "Una comisión fija de tres meses"
+      "El reembolso de gastos justificados y, en su caso, intereses legales",
+      "Una compensación por la clientela que haya desarrollado",
+      "Seis meses de preaviso cuando finaliza el encargo",
+      "Una comisión adicional calculada sobre los gastos"
     ],
     "answer": 0,
     "explanation": "La comisión tiene un régimen de gastos distinto al de agencia.",
