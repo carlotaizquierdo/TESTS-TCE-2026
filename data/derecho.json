@@ -54,7 +54,7 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Sin elección de ley, un contrato de compraventa de mercaderías queda sujeto, como punto de partida del art. 4.1.a Roma I, a:",
+    "question": "Sin elección de ley, una empresa española compra mercancías a un vendedor establecido en Alemania. Como punto de partida, ¿qué ley rige la compraventa si se aplica Roma I?",
     "options": [
       "La ley de la residencia habitual del comprador",
       "La ley del lugar de entrega",
@@ -90,12 +90,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una empresa concede una franquicia y no elige ley. Conforme al cuadro del art. 4.1 Roma I, el punto de conexión es:",
+    "question": "Una empresa concede una franquicia a una sociedad de otro país y no eligen la ley aplicable. ¿Qué residencia sirve, en principio, como punto de conexión?",
     "options": [
-      "Residencia habitual del franquiciador",
-      "Residencia habitual del franquiciado",
-      "Lugar de registro de la marca",
-      "Lugar de firma"
+      "La del franquiciador",
+      "La del franquiciado",
+      "La del titular de la marca",
+      "La del país donde se firma"
     ],
     "answer": 1,
     "explanation": "El art. 4.1.e remite a la residencia habitual del franquiciado.",
@@ -108,12 +108,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una empresa española nombra a un distribuidor chileno sin cláusula de ley. Si el juez español aplica Roma I, la regla específica del art. 4.1.f apunta a:",
+    "question": "Una empresa española nombra a un distribuidor chileno y no pactan la ley aplicable. Si se aplica Roma I, ¿qué ley se toma como punto de partida?",
     "options": [
-      "España, por ser país del proveedor",
-      "Chile, por residencia habitual del distribuidor",
-      "El lugar de entrega de cada pedido",
-      "La ley del primer contrato de compraventa"
+      "La española, por ser la del proveedor",
+      "La chilena, por la residencia habitual del distribuidor",
+      "La del lugar de entrega de cada pedido",
+      "La del primer contrato de compraventa"
     ],
     "answer": 1,
     "explanation": "La distribución se conecta con la residencia habitual del distribuidor.",
@@ -144,12 +144,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 4.3 Roma I funciona como:",
+    "question": "Un contrato tiene una conexión inicial con un país, pero el conjunto de circunstancias muestra que está manifiestamente más vinculado con otro. ¿Qué permite esa relación más estrecha?",
     "options": [
-      "Regla general del domicilio del demandado",
-      "Cláusula de escape por vínculos manifiestamente más estrechos",
-      "Regla de sumisión tácita",
-      "Regla especial de compraventa"
+      "Aplicar siempre la ley del domicilio del demandado",
+      "Apartarse de la conexión inicial en favor de la más estrecha",
+      "Tratar la comparecencia como sumisión tácita",
+      "Aplicar automáticamente la ley de compraventa"
     ],
     "answer": 1,
     "explanation": "Permite apartarse de la conexión inicial cuando el contrato presenta vínculos manifiestamente más estrechos con otro país.",
@@ -162,14 +162,14 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 4.4 Roma I se utiliza, según el esquema de los apuntes, cuando:",
+    "question": "No hay elección de ley, el contrato no encaja en una categoría específica y tampoco puede determinarse quién realiza la prestación característica. ¿Qué criterio queda como último recurso?",
     "options": [
-      "Existe elección válida de ley",
-      "El contrato está comprendido con claridad en el art. 4.1",
-      "No puede determinarse la ley por las reglas anteriores y deben buscarse vínculos más estrechos",
-      "El demandado comparece sin impugnar competencia"
+      "La ley del Estado del demandante",
+      "La ley del Estado con el vínculo más estrecho",
+      "La ley del lugar donde se presentó la oferta",
+      "La ley del tribunal que conozca del litigio"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El art. 4.4 actúa como regla residual de vínculos más estrechos.",
     "difficulty": "hard",
     "key": false,
@@ -288,12 +288,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En el material, el art. 10.5 CC sobre obligaciones contractuales debe entenderse hoy como:",
+    "question": "El Código Civil español conserva una regla general sobre obligaciones contractuales, mientras Roma I cubre la mayoría de los contratos internacionales dentro de su ámbito. ¿Qué papel puede conservar esa regla española?",
     "options": [
-      "Regla principal que desplaza Roma I",
-      "Norma residual en contextos no cubiertos por Roma I",
-      "Regla exclusiva para compraventa internacional",
-      "Regla de competencia judicial internacional"
+      "Desplazar Roma I como regla principal",
+      "Aplicarse de forma residual cuando corresponda",
+      "Regir exclusivamente compraventas internacionales",
+      "Determinar qué tribunal es competente"
     ],
     "answer": 1,
     "explanation": "Roma I desplaza sus soluciones dentro de su ámbito, quedando el precepto para funciones residuales pertinentes.",
@@ -324,12 +324,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Un contrato de subasta internacional sin elección de ley encaja en el art. 4.1.g Roma I. La ley supletoria es, en síntesis:",
+    "question": "Una subasta internacional se celebra en un país identificable; las partes no eligieron ley. Si el juez aplica Roma I, ¿qué ley sirve de conexión inicial?",
     "options": [
       "La del domicilio del vendedor",
-      "La del país donde tenga lugar la subasta, si puede determinarse",
+      "La del país donde se celebra la subasta",
       "La del domicilio del comprador",
-      "La del país de fabricación"
+      "La del país donde se fabricaron los bienes"
     ],
     "answer": 1,
     "explanation": "Esa es la conexión específica del art. 4.1.g.",
@@ -522,12 +522,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué regla tiene prioridad en el método de Bruselas I bis cuando concurre una materia del art. 24?",
+    "question": "Un litigio trata sobre una materia que debe resolver exclusivamente un Estado concreto. ¿Qué regla de competencia tiene prioridad?",
     "options": [
-      "Domicilio del demandado",
-      "Fuero especial contractual",
-      "Competencia exclusiva",
-      "Sumisión tácita"
+      "El fuero del domicilio del demandado",
+      "El fuero especial contractual",
+      "La competencia exclusiva",
+      "La sumisión tácita"
     ],
     "answer": 2,
     "explanation": "Las competencias exclusivas del art. 24 prevalecen y no pueden ser desplazadas por una sumisión ordinaria.",
@@ -630,12 +630,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En una compraventa intracomunitaria, el art. 7.1.b puede permitir demandar en:",
+    "question": "Un comprador quiere demandar a un vendedor por una compraventa intracomunitaria. Además del fuero general, ¿qué lugar puede ser relevante para el tribunal competente?",
     "options": [
-      "El lugar donde, según el contrato, las mercaderías fueron o debieron ser entregadas",
-      "El país de fabricación de las mercaderías",
-      "El domicilio del comprador en todo caso",
-      "El lugar de pago aunque no tenga conexión con la entrega"
+      "El lugar donde las mercancías fueron o debían ser entregadas según el contrato",
+      "El país donde se fabricaron las mercancías",
+      "El domicilio del comprador en todos los casos",
+      "El lugar de pago aunque no guarde relación con la entrega"
     ],
     "answer": 0,
     "explanation": "Para compraventa, el fuero especial contractual se vincula al lugar de entrega contractual.",
@@ -648,12 +648,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En un contrato de servicios, el art. 7.1.b Bruselas I bis atiende principalmente a:",
+    "question": "Una empresa demanda por incumplimiento de un contrato de servicios celebrado con una sociedad de otro Estado miembro. ¿Qué lugar puede determinar el fuero especial?",
     "options": [
-      "Lugar de prestación de los servicios",
-      "Residencia del cliente",
-      "Lugar de firma",
-      "Lugar del primer pago"
+      "El lugar donde se prestaron o debían prestarse los servicios",
+      "La residencia del cliente en cualquier supuesto",
+      "El lugar donde se firmó el contrato",
+      "El lugar del primer pago"
     ],
     "answer": 0,
     "explanation": "La regla especial para servicios se conecta con el lugar donde se prestaron o debieron prestarse.",
@@ -756,12 +756,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La ejecución de una resolución judicial, como materia del art. 24, corresponde en términos generales a:",
+    "question": "Una empresa solicita que una sentencia se ejecute sobre bienes situados en un Estado concreto. ¿Qué tribunales suelen conocer de esa fase?",
     "options": [
-      "Tribunales del Estado del lugar de ejecución",
-      "Tribunales del Estado que dictó la sentencia",
-      "Tribunales del domicilio del acreedor",
-      "Árbitros de la CCI"
+      "Los del Estado donde se pretende ejecutar",
+      "Los del Estado que dictó la sentencia",
+      "Los del domicilio del acreedor",
+      "Los árbitros de la CCI"
     ],
     "answer": 0,
     "explanation": "El art. 24 atribuye competencia exclusiva al Estado del lugar donde se pretende ejecutar.",
@@ -774,11 +774,11 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una cláusula de sumisión se pacta oralmente y después se confirma por escrito. Según el material, ¿puede satisfacer las formas del art. 25?",
+    "question": "Dos empresas acuerdan por teléfono someter sus litigios a los tribunales de un Estado y después confirman el acuerdo por correo electrónico. ¿Puede cumplirse así el requisito formal?",
     "options": [
-      "Puede, si reúne las condiciones del Reglamento",
-      "No, porque solo vale escritura notarial",
-      "Solo si la ley aplicable es la del foro",
+      "Sí, si se reúnen las condiciones aplicables",
+      "No, solo sirve una escritura notarial",
+      "Solo si la ley elegida es la del foro",
       "Solo si el demandado es consumidor"
     ],
     "answer": 0,
@@ -1350,12 +1350,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Para que la CISG pueda aplicarse por su art. 1, el dato internacional relevante es principalmente:",
+    "question": "Dos empresas tienen nacionalidad española, pero sus establecimientos relevantes están en España y Francia. ¿Qué dato apoya que la Convención de Viena pueda aplicarse?",
     "options": [
       "La distinta nacionalidad de los socios",
-      "Que las partes tengan establecimientos en Estados distintos",
-      "Que el pago sea en divisa extranjera",
-      "Que exista transporte marítimo"
+      "Que sus establecimientos estén en Estados distintos",
+      "Que el pago se haga en moneda extranjera",
+      "Que el transporte sea marítimo"
     ],
     "answer": 1,
     "explanation": "La Convención atiende a los establecimientos de las partes, no simplemente a su nacionalidad.",
@@ -1458,12 +1458,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué materia NO regula la CISG según el art. 4?",
+    "question": "En una compraventa internacional, las partes discuten si la propiedad de las mercancías ya se transmitió al comprador. ¿Resuelve la Convención de Viena los efectos reales de esa transmisión?",
     "options": [
-      "Formación del contrato",
-      "Obligaciones del vendedor",
-      "Efectos del contrato sobre la propiedad de las mercaderías",
-      "Remedios frente al incumplimiento"
+      "Sí, igual que la formación del contrato",
+      "Sí, si el vendedor entregó los documentos",
+      "No, se determinan conforme al derecho pertinente",
+      "No, porque la Convención no regula obligaciones del vendedor"
     ],
     "answer": 2,
     "explanation": "La Convención no regula los efectos reales sobre la propiedad.",
@@ -1854,12 +1854,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una respuesta a la oferta cambia únicamente un detalle no sustancial. ¿Qué regla recoge el art. 19.2?",
+    "question": "El vendedor recibe una aceptación que cambia un detalle menor, como el formato de un informe. No se opone sin demora. ¿Qué efecto puede tener la respuesta?",
     "options": [
-      "Nunca puede haber contrato",
-      "La respuesta puede operar como aceptación con las modificaciones si el oferente no objeta sin demora injustificada",
-      "Toda modificación exige nueva oferta firmada",
-      "La modificación queda sin efecto automáticamente"
+      "Nunca puede formar un contrato",
+      "Puede valer como aceptación con esa modificación",
+      "Exige siempre una oferta nueva firmada",
+      "Queda sin efecto automáticamente"
     ],
     "answer": 1,
     "explanation": "Las modificaciones no sustanciales pueden integrarse salvo objeción oportuna.",
@@ -1872,12 +1872,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuál de estas modificaciones se considera típicamente sustancial bajo el art. 19.3?",
+    "question": "En una respuesta a una oferta, ¿qué cambio alteraría normalmente de forma sustancial el acuerdo?",
     "options": [
-      "Cambio de color del papel de la factura",
-      "Cambio del mecanismo de solución de controversias",
-      "Cambio del saludo comercial",
-      "Cambio del formato del correo"
+      "Cambiar el color del papel de la factura",
+      "Cambiar el mecanismo para resolver controversias",
+      "Cambiar el saludo comercial",
+      "Cambiar el formato del correo"
     ],
     "answer": 1,
     "explanation": "La solución de controversias figura entre las materias sustanciales.",
@@ -2034,12 +2034,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Un contrato implica transporte, pero no fija lugar de entrega ni Incoterm. Como regla del art. 31.a, el vendedor cumple la entrega al:",
+    "question": "El vendedor contrata el transporte, pero el contrato no fija un lugar de entrega ni un Incoterm. ¿A quién entrega normalmente las mercancías para cumplir?",
     "options": [
-      "Comprador en destino final",
-      "Primer porteador en los términos de la norma",
-      "Banco emisor",
-      "Agente del comprador"
+      "Al comprador en el destino final",
+      "Al primer porteador, en las condiciones aplicables",
+      "Al banco emisor",
+      "Al agente del comprador"
     ],
     "answer": 1,
     "explanation": "Cuando el contrato implica transporte, la regla supletoria conecta con entrega al primer porteador.",
@@ -2052,12 +2052,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Mercaderías determinadas estaban en un almacén concreto conocido por ambas partes al contratar y no se pactó otro lugar. ¿Qué posibilidad contempla el art. 31.b?",
+    "question": "Antes de contratar, ambas partes saben que unas máquinas concretas están en un almacén determinado. No acuerdan otro lugar de entrega. ¿Dónde pueden ponerse a disposición?",
     "options": [
-      "Puesta a disposición en ese lugar",
-      "Entrega obligatoria en domicilio del comprador",
-      "Entrega al banco",
-      "Entrega en aduana de importación"
+      "En ese almacén conocido por ambas partes",
+      "En el domicilio del comprador en todo caso",
+      "En el banco del comprador",
+      "En la aduana de importación"
     ],
     "answer": 0,
     "explanation": "La CISG contempla ese punto para mercancías concretas o que deban producirse/extraerse en lugar conocido.",
@@ -2070,12 +2070,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Si ninguna regla específica del art. 31.a o b opera y no hay pacto, la entrega se realiza, en síntesis, mediante:",
+    "question": "No hay lugar de entrega pactado, no se aplica una regla especial y tampoco existe transporte. ¿Dónde puede cumplirse la entrega?",
     "options": [
-      "Puesta a disposición en el establecimiento del vendedor al celebrarse el contrato",
-      "Entrega en la frontera del comprador",
-      "Entrega al último porteador",
-      "Entrega en el domicilio social del comprador"
+      "Poniendo las mercancías a disposición en el establecimiento del vendedor",
+      "Entregándolas en la frontera del comprador",
+      "Entregándolas al último porteador",
+      "Llevándolas al domicilio del comprador"
     ],
     "answer": 0,
     "explanation": "El art. 31.c actúa como regla residual.",
@@ -2106,12 +2106,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "No se pactó fecha ni periodo de entrega. ¿Qué exige el art. 33?",
+    "question": "Las partes no fijan fecha ni periodo de entrega. ¿En qué plazo debe entregar el vendedor?",
     "options": [
-      "Entrega inmediata",
-      "Entrega dentro de un plazo razonable tras la celebración",
-      "Entrega al final del año",
-      "Entrega cuando el comprador la reclame judicialmente"
+      "Inmediatamente en todos los casos",
+      "En un plazo razonable desde la celebración del contrato",
+      "Al final del año natural",
+      "Cuando el comprador obtenga una orden judicial"
     ],
     "answer": 1,
     "explanation": "La regla supletoria es un plazo razonable.",
@@ -2124,11 +2124,11 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El vendedor entrega antes de la fecha pactada. Según el art. 52.1, el comprador:",
+    "question": "El vendedor ofrece entregar diez días antes de la fecha pactada. ¿Qué puede hacer el comprador?",
     "options": [
       "Debe aceptar siempre",
-      "Puede aceptar o rehusar la entrega anticipada",
-      "Pierde el derecho a reclamar",
+      "Puede aceptar o rechazar la entrega anticipada",
+      "Pierde el derecho a reclamar defectos",
       "Debe resolver el contrato"
     ],
     "answer": 1,
@@ -2268,12 +2268,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una falta de conformidad existía ya al transmitirse el riesgo, pero se manifestó meses después. Según el art. 36:",
+    "question": "Una máquina tenía un defecto oculto cuando el riesgo pasó al comprador, pero el problema apareció meses después. ¿Qué puede concluirse?",
     "options": [
       "El vendedor puede responder pese a la manifestación posterior",
-      "El comprador soporta siempre el defecto por haberse transmitido el riesgo",
-      "La falta solo importa si era visible",
-      "La CISG no regula defectos ocultos"
+      "El comprador soporta siempre el defecto tras el paso del riesgo",
+      "Solo importa si el defecto era visible",
+      "La Convención no contempla defectos ocultos"
     ],
     "answer": 0,
     "explanation": "El momento relevante es si la falta existía al transmitirse el riesgo, aunque aparezca después.",
@@ -2304,12 +2304,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El precio no se fijó expresamente, pero el contrato es válido y concurren los presupuestos del art. 55. ¿Qué referencia puede utilizarse?",
+    "question": "Las partes celebraron válidamente una compraventa, pero dejaron el precio sin concretar. ¿Qué referencia supletoria puede utilizarse?",
     "options": [
-      "Precio generalmente cobrado por mercaderías semejantes en circunstancias similares",
-      "Precio que el comprador considere justo",
-      "Precio del país del vendedor sin más",
-      "Precio mínimo aduanero"
+      "El precio generalmente cobrado por mercancías semejantes en circunstancias parecidas",
+      "El precio que el comprador considere justo",
+      "El precio del país del vendedor sin más",
+      "El valor mínimo fijado por aduanas"
     ],
     "answer": 0,
     "explanation": "El art. 55 ofrece una referencia supletoria en las condiciones previstas.",
@@ -2394,12 +2394,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué comprende la obligación de recepción del art. 60?",
+    "question": "El comprador no solo debe pagar. ¿Qué implica también su obligación de hacerse cargo de las mercancías?",
     "options": [
-      "Adoptar actos razonables que permitan la entrega y hacerse cargo de las mercaderías",
+      "Adoptar actos razonables que permitan la entrega y recibirlas",
       "Firmar cualquier documento que proponga el vendedor",
       "Aceptar incluso bienes no conformes",
-      "Pagar antes de examinar siempre"
+      "Pagar antes de examinar en todos los casos"
     ],
     "answer": 0,
     "explanation": "Recibir exige cooperación razonable para que la entrega pueda realizarse.",
@@ -2448,12 +2448,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Cuando hay transporte, el examen del art. 38:",
+    "question": "Las mercancías viajan entre países y el comprador no puede examinarlas durante el transporte. ¿Cuándo puede aplazarse el examen?",
     "options": [
-      "Puede aplazarse hasta destino en los términos de la norma",
-      "Debe hacerse siempre antes de cargar",
-      "Se sustituye por el seguro",
-      "No es necesario"
+      "Hasta la llegada a destino, si concurren las condiciones aplicables",
+      "Debe realizarse siempre antes de la carga",
+      "Se sustituye por la contratación de un seguro",
+      "No hace falta examinar las mercancías"
     ],
     "answer": 0,
     "explanation": "La CISG contempla el aplazamiento del examen cuando hay transporte.",
@@ -2484,14 +2484,14 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuál es el límite exterior general del art. 39.2 CISG para notificar falta de conformidad?",
+    "question": "Un comprador descubre una falta de conformidad y avisa al vendedor 18 meses después de la entrega, inmediatamente después de descubrirla. ¿Qué valoración es más adecuada?",
     "options": [
-      "Dos años desde la entrega efectiva, salvo incompatibilidad con garantía contractual",
-      "Un año desde el contrato",
-      "Tres meses desde la factura",
-      "Seis meses desde el pago"
+      "El aviso siempre llega tarde al superar un año",
+      "Puede estar dentro del límite exterior general, pero debe analizarse también si avisó dentro de un plazo razonable desde que descubrió el defecto",
+      "El aviso siempre es válido, con independencia de cuándo se envíe",
+      "Solo importa si el vendedor aceptó expresamente la reclamación"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Los apuntes destacan el límite general de dos años, con el matiz de la garantía contractual.",
     "difficulty": "hard",
     "key": true,
@@ -2592,12 +2592,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Según el art. 66, una pérdida fortuita después de transmitirse el riesgo:",
+    "question": "Las mercancías se pierden por accidente después de que el riesgo haya pasado al comprador. ¿Qué ocurre normalmente con la obligación de pagar?",
     "options": [
-      "No libera por sí sola al comprador del pago, salvo que derive de acto u omisión del vendedor",
-      "Libera siempre al comprador",
-      "Resuelve automáticamente el contrato",
-      "Transfiere la propiedad al porteador"
+      "La pérdida fortuita no libera por sí sola al comprador, salvo que derive de una conducta del vendedor",
+      "El comprador queda siempre liberado",
+      "El contrato se resuelve automáticamente",
+      "La propiedad pasa al porteador"
     ],
     "answer": 0,
     "explanation": "El riesgo determina quién soporta la pérdida fortuita, con el límite indicado.",
@@ -2628,12 +2628,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Por qué la identificación de las mercaderías es relevante para el art. 67?",
+    "question": "Un vendedor entrega al porteador mercancías de un lote común, sin identificar cuáles corresponden al contrato del comprador. ¿Por qué importa esa falta de identificación?",
     "options": [
-      "Porque el riesgo no debe pasar respecto de mercancías no claramente destinadas al contrato",
-      "Porque determina el tribunal",
-      "Porque sustituye el precio",
-      "Porque crea la propiedad"
+      "El riesgo no debería pasar respecto de bienes que no se han vinculado claramente al contrato",
+      "Determina automáticamente el tribunal competente",
+      "Sustituye la obligación de pagar",
+      "Transfiere por sí sola la propiedad"
     ],
     "answer": 0,
     "explanation": "La transmisión del riesgo requiere que los bienes estén claramente identificados con el contrato.",
@@ -2898,12 +2898,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La sustitución de mercaderías del art. 46.2 requiere principalmente:",
+    "question": "Un comprador recibe piezas con defectos menores y pide que se las sustituyan, aunque pueden repararse fácilmente. ¿Puede exigir automáticamente la sustitución?",
     "options": [
-      "Falta de conformidad que constituya incumplimiento esencial y solicitud en tiempo pertinente",
-      "Cualquier defecto mínimo",
-      "Que el precio no se haya pagado",
-      "Que exista arbitraje"
+      "No; la sustitución requiere una falta grave y una solicitud oportuna",
+      "Sí; cualquier defecto obliga a sustituirlas",
+      "Sí, siempre que el comprador no haya pagado",
+      "No; la sustitución solo cabe si existe arbitraje"
     ],
     "answer": 0,
     "explanation": "La sustitución es un remedio más exigente que la simple reparación.",
@@ -2916,12 +2916,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La reparación del art. 46.3:",
+    "question": "Una máquina presenta una avería reparable y el comprador pide una reparación razonable poco después de descubrirla. ¿Puede ser un remedio disponible?",
     "options": [
-      "Puede exigirse si es razonable dadas las circunstancias y se solicita oportunamente",
-      "Exige siempre incumplimiento esencial",
-      "Solo cabe después de resolver",
-      "Depende del domicilio del vendedor"
+      "Sí, si la reparación resulta razonable y se solicita oportunamente",
+      "No, solo puede pedirse cuando el incumplimiento es esencial",
+      "No, solo cabe tras resolver el contrato",
+      "Depende exclusivamente del domicilio del vendedor"
     ],
     "answer": 0,
     "explanation": "La razonabilidad y la oportunidad de la solicitud son centrales.",
@@ -2934,12 +2934,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué es el Nachfrist del art. 47?",
+    "question": "El vendedor se retrasa y el comprador le concede un plazo adicional razonable para entregar. Si tampoco cumple durante ese plazo, ¿qué efecto puede tener?",
     "options": [
-      "Un plazo suplementario razonable concedido al vendedor para cumplir",
-      "Un plazo de prescripción",
-      "Un periodo de garantía legal",
-      "Una cláusula arbitral"
+      "Facilitar la resolución por falta de entrega dentro del plazo adicional",
+      "Extinguir el derecho a pedir cumplimiento",
+      "Iniciar automáticamente el plazo de garantía",
+      "Trasladar la competencia a un árbitro"
     ],
     "answer": 0,
     "explanation": "Es el plazo adicional que el comprador concede para el cumplimiento.",
@@ -3096,12 +3096,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Antes del vencimiento resulta patente que una parte incurrirá en incumplimiento esencial. ¿Qué remedio contempla el art. 72?",
+    "question": "Antes de la fecha de entrega, resulta claro que una parte cometerá un incumplimiento esencial. ¿Qué remedio puede estar disponible antes del vencimiento?",
     "options": [
-      "Resolución anticipada en las condiciones previstas",
-      "Reducción automática del precio",
-      "Transferencia del riesgo",
-      "Cambio de tribunal"
+      "Resolver anticipadamente, cumpliendo las condiciones aplicables",
+      "Reducir automáticamente el precio",
+      "Transferir el riesgo al comprador",
+      "Cambiar el tribunal competente"
     ],
     "answer": 0,
     "explanation": "La CISG permite resolución anticipada cuando resulta claro el incumplimiento esencial futuro.",
@@ -3402,12 +3402,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La exoneración del art. 79:",
+    "question": "Una empresa queda exonerada de indemnizar porque un impedimento cumple los requisitos legales. ¿Qué debe recordar la otra parte?",
     "options": [
-      "No elimina necesariamente todos los demás remedios distintos de daños",
-      "Resuelve automáticamente el contrato",
-      "Elimina la obligación de notificar",
-      "Convierte el incumplimiento en conformidad"
+      "La exoneración de daños no elimina necesariamente los demás remedios",
+      "El contrato se resuelve automáticamente",
+      "Desaparece toda obligación de notificar",
+      "Las mercancías pasan a ser conformes"
     ],
     "answer": 0,
     "explanation": "El art. 79.5 conserva otros derechos distintos de la indemnización.",
@@ -3438,12 +3438,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Si el incumplimiento se debe a un tercero encargado de ejecutar parte del contrato, el art. 79.2:",
+    "question": "Un vendedor confía una parte de la ejecución a un tercero, que incumple por un impedimento fuera de su control. ¿Qué debe probar el vendedor para quedar exonerado?",
     "options": [
-      "Impone una prueba más exigente de exoneración respecto de la propia parte y del tercero",
-      "Exonera siempre al contratante",
-      "Transfiere automáticamente la responsabilidad al tercero",
-      "No contempla subcontratistas"
+      "Que tanto él como el tercero cumplen las condiciones de exoneración",
+      "Que el tercero responde siempre por el contrato",
+      "Que el comprador aceptó la subcontratación",
+      "Que no existía un contrato por escrito"
     ],
     "answer": 0,
     "explanation": "La exoneración exige cumplir condiciones respecto de ambos niveles.",
@@ -4968,12 +4968,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuándo se entiende aceptada la comisión, según el esquema del art. 249?",
+    "question": "Un comisionista recibe un encargo y empieza a negociar con proveedores por cuenta del comitente, aunque todavía no haya cerrado la operación. ¿Puede entenderse que aceptó la comisión?",
     "options": [
-      "Cuando el comisionista realiza alguna gestión sustantiva del encargo",
-      "Solo al firmar escritura",
-      "Cuando el tercero paga",
-      "Al finalizar la operación"
+      "Sí, si ya realizó gestiones sustantivas del encargo",
+      "Solo si firma una escritura pública",
+      "Solo cuando el tercero pague",
+      "Únicamente al completar toda la operación"
     ],
     "answer": 0,
     "explanation": "La realización de gestiones de ejecución puede implicar aceptación.",
