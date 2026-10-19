@@ -126,12 +126,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Un contrato no encaja en ninguno de los tipos del art. 4.1 y una parte realiza claramente la prestación característica. ¿Qué regla se consulta a continuación?",
+    "question": "Un contrato no encaja en las categorías habituales de Roma I, pero se identifica quién realiza la prestación característica. ¿Qué conexión sirve como punto de partida para determinar la ley aplicable?",
     "options": [
-      "Art. 4.2 Roma I",
-      "Art. 4.3 Roma I",
-      "Art. 7.1 Bruselas I bis",
-      "Art. 25 CISG"
+      "La ley de la residencia habitual de quien realiza esa prestación",
+      "La ley del tribunal ante el que se presenta la demanda",
+      "La ley del lugar donde se firmó el contrato",
+      "La ley del país con vínculos más estrechos en todos los casos"
     ],
     "answer": 0,
     "explanation": "El art. 4.2 remite a la residencia habitual de quien realiza la prestación característica.",
@@ -558,7 +558,7 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La sumisión expresa del art. 25 Bruselas I bis consiste en:",
+    "question": "En un contrato internacional, las partes acuerdan que los litigios se resolverán ante los tribunales de Madrid. ¿Qué efecto tiene esa cláusula?",
     "options": [
       "Elegir la ley sustantiva del contrato",
       "Acordar qué tribunales conocerán de las controversias",
@@ -612,12 +612,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El fuero general del art. 4 Bruselas I bis se basa en:",
+    "question": "Si no hay pacto de foro ni una regla de competencia exclusiva, ¿cuál es el fuero general para demandar a una empresa?",
     "options": [
-      "Lugar de celebración",
-      "Domicilio del demandado",
-      "Residencia del vendedor",
-      "Lugar del daño económico"
+      "El lugar de celebración del contrato",
+      "El domicilio de la empresa demandada",
+      "La residencia del vendedor",
+      "El lugar donde se produjo el daño económico"
     ],
     "answer": 1,
     "explanation": "El domicilio del demandado es el fuero general.",
@@ -666,12 +666,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuál es la relación correcta entre los fueros de los arts. 4 y 7 Bruselas I bis?",
+    "question": "En un litigio contractual, el demandante puede tener como opciones el domicilio del demandado y, si se cumplen ciertos requisitos, el lugar de cumplimiento. ¿Cómo se relacionan esos fueros?",
     "options": [
-      "El art. 7 solo opera si el art. 4 es imposible",
-      "Pueden ofrecer foros alternativos al demandante si se cumplen sus requisitos",
-      "El art. 4 desaparece cuando hay contrato",
-      "El art. 7 sustituye toda sumisión expresa"
+      "El lugar de cumplimiento solo vale si no se conoce el domicilio del demandado",
+      "Pueden ofrecer foros alternativos si se cumplen sus requisitos",
+      "El domicilio deja de contar cuando existe un contrato",
+      "El lugar de cumplimiento desplaza cualquier pacto de jurisdicción"
     ],
     "answer": 1,
     "explanation": "El fuero especial puede coexistir como alternativa al foro general, salvo que intervengan otras reglas prioritarias.",
@@ -720,12 +720,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuál de estas materias figura entre las competencias exclusivas del art. 24 Bruselas I bis?",
+    "question": "¿Cuál de estos litigios puede quedar reservado a los tribunales del Estado donde se encuentra el registro correspondiente?",
     "options": [
-      "Incumplimiento de una compraventa ordinaria",
-      "Validez de inscripciones en registros públicos",
-      "Cobro de una comisión de agencia",
-      "Daños por retraso en transporte"
+      "Un incumplimiento ordinario de una compraventa",
+      "La validez de una inscripción en un registro público",
+      "El cobro de una comisión de agencia",
+      "Una reclamación por retraso en el transporte"
     ],
     "answer": 1,
     "explanation": "La validez de inscripciones registrales es una competencia exclusiva.",
@@ -1386,12 +1386,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una compraventa de un bien adquirido para uso personal queda, como regla del art. 2.a CISG:",
+    "question": "Una persona compra una nevera para su casa a un vendedor que sabe que el uso será personal. ¿Puede regirse esa compraventa por la Convención de Viena?",
     "options": [
-      "Incluida porque es una compraventa",
-      "Excluida, con el matiz del conocimiento del destino por el vendedor",
-      "Incluida si se paga por transferencia",
-      "Excluida solo si hay garantía"
+      "Sí, cualquier venta internacional queda cubierta",
+      "No, si el vendedor conocía el destino personal al contratar",
+      "Sí, siempre que el pago se haga por transferencia",
+      "No, toda venta a una persona física queda fuera aunque el vendedor lo ignore"
     ],
     "answer": 1,
     "explanation": "Las compras para uso personal, familiar o doméstico quedan fuera en las condiciones del art. 2.a.",
@@ -1404,12 +1404,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuál de estas operaciones está expresamente excluida por el art. 2 CISG?",
+    "question": "Dos empresas de países distintos acuerdan comprar una máquina en una subasta pública. ¿Se aplica, en principio, la Convención de Viena a esa compraventa?",
     "options": [
-      "Venta ordinaria B2B de maquinaria",
-      "Venta en subasta",
-      "Venta de componentes industriales",
-      "Venta mayorista de alimentos"
+      "Sí, toda compraventa internacional queda cubierta",
+      "No, las ventas en subasta quedan fuera",
+      "Sí, siempre que la máquina sea nueva",
+      "Depende únicamente del país donde se entregue"
     ],
     "answer": 1,
     "explanation": "Las ventas en subasta están excluidas.",
@@ -1422,12 +1422,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una venta judicial de mercancías:",
+    "question": "Un juzgado organiza la venta forzosa de mercancías a un comprador establecido en otro país. ¿Entra normalmente esa compraventa en la Convención de Viena?",
     "options": [
-      "Está excluida de la CISG",
-      "Queda incluida si las partes son empresas",
-      "Se rige por Roma I como compraventa CISG obligatoria",
-      "Solo está excluida si es internacional"
+      "No, las ventas judiciales quedan fuera",
+      "Sí, porque comprador y vendedor están en Estados distintos",
+      "Sí, si las mercancías son maquinaria",
+      "Depende de que el pago se haga antes de la entrega"
     ],
     "answer": 0,
     "explanation": "El art. 2 excluye ventas judiciales.",
@@ -1440,12 +1440,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La venta de electricidad bajo la CISG:",
+    "question": "Dos empresas de países distintos pactan el suministro transfronterizo de electricidad. ¿Qué respuesta describe mejor el ámbito de la Convención de Viena?",
     "options": [
-      "Está incluida como mercadería",
-      "Está expresamente excluida",
-      "Solo está excluida en B2C",
-      "Depende del Incoterm"
+      "Se aplica porque la electricidad se vende por precio",
+      "No se aplica a la compraventa de electricidad",
+      "Se aplica solo si la red pertenece al vendedor",
+      "Depende de que la electricidad cruce una frontera"
     ],
     "answer": 1,
     "explanation": "La electricidad aparece entre las exclusiones del art. 2.",
@@ -1638,12 +1638,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué debe contener una oferta suficientemente precisa según el art. 14 CISG?",
+    "question": "Una empresa ofrece a otra 100 sacos de harina y un precio que puede calcularse con una referencia de mercado identificada. ¿Qué permite considerar suficientemente precisa esa oferta?",
     "options": [
-      "Mercaderías y elementos que permitan determinar cantidad y precio",
-      "Únicamente el nombre del producto",
-      "Ley aplicable y tribunal",
-      "Incoterm y seguro obligatoriamente"
+      "Que identifique las mercancías y permita determinar cantidad y precio",
+      "Que incluya siempre el tribunal competente",
+      "Que indique obligatoriamente el Incoterm y el seguro",
+      "Que contenga solo la descripción general del producto"
     ],
     "answer": 0,
     "explanation": "Debe designar mercaderías y fijar o permitir determinar cantidad y precio.",
@@ -1674,12 +1674,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuándo produce efecto una oferta según el art. 15 CISG?",
+    "question": "Una oferta se envía por correo electrónico, pero el mensaje todavía no ha llegado a un sistema accesible para el destinatario. ¿Cuándo empieza a producir efectos, como regla general?",
     "options": [
-      "Cuando se redacta",
-      "Cuando se envía",
+      "Cuando el oferente la redacta",
+      "Cuando pulsa «enviar»",
       "Cuando llega al destinatario",
-      "Cuando se paga una señal"
+      "Cuando el destinatario paga una señal"
     ],
     "answer": 2,
     "explanation": "La oferta surte efecto al llegar al destinatario.",
@@ -1782,12 +1782,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Según el art. 18 CISG, el silencio del destinatario:",
+    "question": "Un vendedor envía una oferta con precio y plazo de aceptación. El comprador no contesta, aunque conserva el mensaje. ¿Qué efecto tiene ese silencio por sí solo?",
     "options": [
-      "Constituye aceptación en toda relación mercantil",
-      "Por sí solo no constituye aceptación",
-      "Equivale a aceptación si la oferta era escrita",
-      "Produce contrato si hay precio"
+      "Acepta la oferta por tratarse de una relación mercantil",
+      "No constituye aceptación por sí solo",
+      "Acepta si la oferta se envió por escrito",
+      "Perfecciona el contrato cuando incluye un precio"
     ],
     "answer": 1,
     "explanation": "Silencio o inacción, por sí solos, no constituyen aceptación.",
@@ -1818,12 +1818,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuándo se perfecciona el contrato bajo el art. 23 CISG?",
+    "question": "El comprador comunica que acepta una oferta y esa aceptación produce efecto conforme a las reglas de la Convención. ¿Cuándo queda perfeccionado el contrato?",
     "options": [
-      "Cuando se emite la oferta",
-      "Cuando la aceptación surte efecto conforme a la Convención",
-      "Cuando se factura",
-      "Cuando se entrega la mercancía"
+      "Al emitirse la oferta",
+      "Cuando la aceptación produce efecto",
+      "Al expedirse la factura",
+      "Al entregarse las mercancías"
     ],
     "answer": 1,
     "explanation": "El contrato se perfecciona cuando la aceptación se hace efectiva.",
@@ -1980,12 +1980,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Según el art. 30 CISG, las obligaciones principales del vendedor incluyen:",
+    "question": "En una compraventa internacional, ¿cuáles son las prestaciones principales del vendedor?",
     "options": [
-      "Entregar mercaderías, transmitir la propiedad y entregar documentos relacionados",
-      "Asegurar siempre la mercancía y pagar todos los aranceles",
+      "Entregar las mercancías, transmitir la propiedad y facilitar los documentos relacionados",
+      "Contratar siempre el transporte y pagar todos los aranceles",
       "Registrar la marca y financiar al comprador",
-      "Elegir ley y tribunal"
+      "Elegir la ley aplicable y el tribunal"
     ],
     "answer": 0,
     "explanation": "El art. 30 formula esas obligaciones básicas, aunque la CISG no regula los efectos reales de la transmisión de propiedad.",
@@ -1998,12 +1998,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cómo se concilia que el art. 30 mencione transmitir la propiedad con que la CISG no regule sus efectos?",
+    "question": "El vendedor se obliga a transmitir la propiedad de las mercancías. ¿Qué afirmación refleja el alcance de esa obligación en la Convención?",
     "options": [
-      "La CISG impone la obligación, pero los efectos reales de la transmisión se remiten al derecho pertinente",
-      "Existe una contradicción que invalida el art. 30",
-      "La propiedad se transmite siempre con la entrega",
-      "La propiedad se transmite siempre con el riesgo"
+      "La obligación contractual existe, pero los efectos reales se rigen por el derecho pertinente",
+      "La propiedad se transmite siempre al entregar las mercancías",
+      "La propiedad y el riesgo pasan necesariamente al mismo tiempo",
+      "La Convención resuelve todos los efectos reales de la propiedad"
     ],
     "answer": 0,
     "explanation": "La obligación contractual existe, pero el art. 4.b excluye de la CISG los efectos sobre la propiedad.",
@@ -2088,12 +2088,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Un contrato fija un periodo de entrega del 1 al 15 de junio, sin indicar quién elige el día. ¿Qué regla del art. 33 debe considerarse?",
+    "question": "El contrato permite entregar la mercancía entre el 1 y el 15 de junio, pero no dice quién elige el día. ¿Qué regla general debe considerarse?",
     "options": [
-      "El vendedor puede entregar dentro del periodo, salvo que las circunstancias indiquen que la elección corresponde al comprador",
-      "El comprador elige siempre",
-      "La entrega debe hacerse el día 1",
-      "El plazo es inválido"
+      "El vendedor puede elegir dentro del periodo, salvo que las circunstancias indiquen que corresponde al comprador",
+      "El comprador elige siempre el día",
+      "La entrega debe hacerse necesariamente el día 1",
+      "El periodo es inválido si no se fija una fecha exacta"
     ],
     "answer": 0,
     "explanation": "La CISG permite cumplimiento durante el periodo con ese matiz.",
@@ -2142,12 +2142,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 35 CISG exige conformidad respecto de:",
+    "question": "Un contrato exige 500 botellas de un litro y el vendedor entrega 500 botellas de 0,75 litros. ¿Qué aspecto de la conformidad está en cuestión?",
     "options": [
-      "Cantidad, calidad, tipo, envase y embalaje",
-      "Solo cantidad y precio",
-      "Solo calidad subjetiva",
-      "Solo documentación aduanera"
+      "La cantidad, calidad, tipo o presentación acordados",
+      "Solo el precio facturado",
+      "Únicamente la documentación aduanera",
+      "La elección del tribunal competente"
     ],
     "answer": 0,
     "explanation": "La conformidad abarca múltiples aspectos materiales y de presentación.",
@@ -2286,12 +2286,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué obligación central impone el art. 53 al comprador?",
+    "question": "En una compraventa internacional, ¿qué obligaciones básicas corresponden al comprador?",
     "options": [
-      "Pagar el precio y recibir las mercaderías",
-      "Contratar seguro y transporte",
-      "Elegir árbitro",
-      "Registrar la mercancía"
+      "Pagar el precio y hacerse cargo de las mercancías",
+      "Contratar siempre el seguro y el transporte",
+      "Elegir al árbitro y registrar las mercancías",
+      "Transmitir la propiedad al vendedor"
     ],
     "answer": 0,
     "explanation": "Pago y recepción son obligaciones principales del comprador.",
@@ -2322,14 +2322,14 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Por qué el art. 55 debe leerse junto al art. 14?",
+    "question": "Las partes han concluido válidamente una compraventa, pero no fijaron el precio. ¿Qué puede ocurrir?",
     "options": [
-      "Porque hay que coordinar la regla de precio supletorio con la exigencia de precisión de la oferta",
-      "Porque ambos regulan jurisdicción",
-      "Porque ambos transmiten el riesgo",
-      "Porque uno deroga al otro"
+      "El contrato es inválido en todos los casos",
+      "Puede aplicarse un precio habitual para operaciones comparables",
+      "El tribunal fija siempre el precio libremente",
+      "El precio queda determinado automáticamente por el Incoterm"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "La formación del contrato y la determinación del precio plantean una tensión que debe analizarse conjuntamente.",
     "difficulty": "hard",
     "key": false,
@@ -2340,12 +2340,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En defecto de pacto, el lugar de pago del art. 57 es, en principio:",
+    "question": "El contrato no indica dónde debe pagarse el precio y no exige que el pago coincida con la entrega. ¿Dónde debe pagarse, en principio?",
     "options": [
-      "El establecimiento del vendedor, salvo pago contra entrega en otro lugar",
-      "El domicilio del comprador",
-      "El banco del transportista",
-      "La aduana de exportación"
+      "En el establecimiento del vendedor",
+      "En el domicilio del comprador",
+      "En la sede del transportista",
+      "En la aduana de exportación"
     ],
     "answer": 0,
     "explanation": "Esa es la regla supletoria, con el matiz del pago contra entrega.",
@@ -2376,12 +2376,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 54 obliga al comprador, además de entregar el dinero, a:",
+    "question": "Además de transferir el dinero, ¿qué debe hacer el comprador para que el pago pueda realizarse?",
     "options": [
-      "Realizar los actos y formalidades necesarios para posibilitar el pago",
-      "Contratar al porteador",
-      "Solicitar arbitraje",
-      "Emitir certificado de origen"
+      "Completar los actos y formalidades necesarios para efectuarlo",
+      "Contratar al transportista en todos los casos",
+      "Solicitar una resolución judicial",
+      "Emitir el certificado de origen"
     ],
     "answer": 0,
     "explanation": "La obligación de pago incluye las gestiones necesarias para que pueda efectuarse.",
@@ -2430,12 +2430,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 38 exige examinar las mercaderías:",
+    "question": "El comprador recibe las mercancías. ¿Cuándo debe examinarlas, atendiendo a las circunstancias del caso?",
     "options": [
-      "En el plazo más breve posible atendidas las circunstancias",
-      "Exactamente en 24 horas",
-      "Dentro de dos años",
-      "Solo tras requerimiento del vendedor"
+      "En el plazo más breve posible",
+      "Exactamente dentro de 24 horas",
+      "En todo caso, dentro de dos años",
+      "Solo después de que lo requiera el vendedor"
     ],
     "answer": 0,
     "explanation": "El plazo depende de las circunstancias y debe ser lo más breve posible.",
@@ -2466,12 +2466,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El comprador descubre un defecto y solo comunica «la mercancía está mal». ¿Qué exigencia del art. 39 puede fallar?",
+    "question": "El comprador descubre defectos, pero solo avisa al vendedor: «la mercancía está mal», sin describirlos. ¿Qué problema puede plantearse?",
     "options": [
-      "Especificar la naturaleza de la falta de conformidad",
-      "Pagar la comisión del agente",
-      "Indicar el tribunal competente",
-      "Aportar sentencia judicial"
+      "El aviso no identifica la naturaleza de la falta de conformidad",
+      "El comprador no ha pagado la comisión del agente",
+      "El aviso no señala el tribunal competente",
+      "El comprador no ha presentado una sentencia"
     ],
     "answer": 0,
     "explanation": "La notificación debe describir suficientemente la naturaleza de la falta.",
@@ -2520,12 +2520,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 44 CISG permite, en ciertos supuestos:",
+    "question": "Un comprador no notificó un defecto a tiempo, pero acredita una razón justificada. ¿Qué posibilidad contempla la Convención en ciertos supuestos?",
     "options": [
-      "Excusar razonablemente la falta de notificación con remedios limitados",
-      "Eliminar el contrato por silencio",
-      "Transferir la propiedad",
-      "Elegir tribunal"
+      "Puede conservar algunos remedios limitados",
+      "Puede resolver automáticamente cualquier contrato",
+      "Puede transferir la propiedad al vendedor",
+      "Puede elegir unilateralmente el tribunal"
     ],
     "answer": 0,
     "explanation": "El art. 44 establece una válvula limitada ante excusa razonable.",
@@ -2610,12 +2610,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En una compraventa con transporte y sin pacto distinto, el art. 67 sitúa ordinariamente el riesgo:",
+    "question": "El vendedor entrega mercancías identificadas al primer porteador y las partes no pactaron cuándo pasa el riesgo. ¿Cuál es el punto de partida general?",
     "options": [
-      "Al entregar las mercaderías al primer porteador, con los matices de lugar específico e identificación",
-      "Al llegar al destino final",
-      "Al emitir la factura",
-      "Al pagar el comprador"
+      "El riesgo pasa con la entrega al primer porteador, con los matices aplicables",
+      "El riesgo pasa al llegar al destino final",
+      "El riesgo pasa cuando se emite la factura",
+      "El riesgo pasa cuando el comprador paga"
     ],
     "answer": 0,
     "explanation": "La regla general se vincula al primer porteador, salvo obligaciones de entrega en lugar específico.",
@@ -2646,12 +2646,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En una venta de mercaderías durante el tránsito, el art. 68 CISG:",
+    "question": "Una empresa compra mercancías que ya están en tránsito. Las partes no pactaron expresamente cuándo pasa el riesgo. ¿Qué criterio debe analizarse?",
     "options": [
-      "Contiene una regla específica que puede situar el riesgo desde la celebración, con matices",
-      "Aplica siempre la entrega al primer porteador",
-      "Sitúa el riesgo en destino",
-      "Excluye toda venta en tránsito"
+      "Puede pasar desde la celebración, atendiendo a las circunstancias y al conocimiento de las partes",
+      "Pasa siempre al entregar al primer porteador",
+      "Pasa siempre cuando llega a destino",
+      "La venta en tránsito queda fuera de la Convención"
     ],
     "answer": 0,
     "explanation": "El art. 68 tiene un régimen especial con matices según circunstancias y conocimiento.",
@@ -2664,12 +2664,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En otros casos sin transporte, el art. 69 puede vincular el riesgo a:",
+    "question": "Las mercancías están identificadas y listas para ser recogidas en el almacén del vendedor, pero el comprador no las retira. ¿Qué puede determinar el paso del riesgo?",
     "options": [
-      "Que el comprador se haga cargo o, en ciertos supuestos, incumpla al no retirar bienes puestos a su disposición",
-      "La emisión de factura",
-      "El registro de propiedad",
-      "La elección de ley"
+      "Que el comprador se haga cargo o incumpla al no recogerlas tras su puesta a disposición",
+      "La fecha en que se emite la factura",
+      "La inscripción de la propiedad",
+      "La elección de ley aplicable"
     ],
     "answer": 0,
     "explanation": "La regla depende de puesta a disposición y recepción en los términos del artículo.",
@@ -2808,12 +2808,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Cuándo es esencial un incumplimiento según el art. 25 CISG?",
+    "question": "Un retraso priva al comprador de una ventaja esencial que podía esperar del contrato, y esa consecuencia era previsible. ¿Qué relevancia puede tener?",
     "options": [
-      "Cuando causa una privación sustancial de lo que la otra parte podía esperar, con el matiz de previsibilidad",
-      "Cuando existe cualquier retraso",
-      "Cuando supera un 5 % del precio",
-      "Cuando la parte perjudicada lo califica como esencial"
+      "Puede constituir un incumplimiento esencial",
+      "Todo retraso es esencial automáticamente",
+      "Un retraso nunca permite resolver",
+      "La calificación depende solo del porcentaje del precio"
     ],
     "answer": 0,
     "explanation": "La esencialidad depende de la privación sustancial y del criterio de previsibilidad previsto en el artículo.",
@@ -2952,12 +2952,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "La reducción del precio del art. 50 busca:",
+    "question": "El comprador recibe mercancías no conformes que valen menos de lo pactado y solicita una reducción del precio. ¿Qué finalidad tiene este remedio?",
     "options": [
-      "Ajustar el precio a la diferencia de valor entre lo entregado y lo conforme",
+      "Ajustar el precio a la diferencia de valor",
       "Sancionar al vendedor",
-      "Sustituir los daños en todo caso",
-      "Cancelar la jurisdicción"
+      "Sustituir siempre cualquier indemnización",
+      "Cambiar la competencia judicial"
     ],
     "answer": 0,
     "explanation": "Es un remedio de reajuste económico por falta de conformidad.",
@@ -2970,12 +2970,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué artículo se asocia principalmente a la resolución por el comprador?",
+    "question": "El vendedor no entrega las mercancías y tampoco cumple dentro del plazo adicional que le concedió el comprador. ¿Qué remedio puede plantearse?",
     "options": [
-      "Art. 49 CISG, en relación con el art. 25 y otros supuestos",
-      "Art. 57 CISG",
-      "Art. 67 CISG",
-      "Art. 14 CISG"
+      "Resolver el contrato, si concurren los requisitos aplicables",
+      "Resolver siempre por cualquier retraso mínimo",
+      "Reducir el precio, pero nunca resolver",
+      "Resolver solo si el vendedor lo acepta"
     ],
     "answer": 0,
     "explanation": "El art. 49 regula la resolución por el comprador.",
@@ -3078,12 +3078,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "En una compraventa con entregas sucesivas, un incumplimiento afecta a una entrega. ¿Qué artículo ayuda a determinar si se resuelve esa entrega o más?",
+    "question": "Un contrato prevé entregas mensuales y una remesa llega tarde. Antes de terminar todo el contrato, ¿qué debe valorar el comprador?",
     "options": [
-      "Art. 73 CISG",
-      "Art. 31 CISG",
-      "Art. 14 CISG",
-      "Art. 85 CISG"
+      "Si el incumplimiento afecta solo a esa entrega o también compromete otras",
+      "Solo la fecha de pago de la última remesa",
+      "La nacionalidad del transportista",
+      "La moneda usada para facturar"
     ],
     "answer": 0,
     "explanation": "El art. 73 regula contratos de entregas sucesivas.",
@@ -3114,12 +3114,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 71 permite principalmente:",
+    "question": "Antes de la fecha de entrega aparecen indicios suficientes de que el vendedor podría incumplir gravemente. ¿Qué puede hacer la parte afectada?",
     "options": [
-      "Suspender el cumplimiento ante un riesgo manifiesto de incumplimiento sustancial",
-      "Resolver cualquier contrato por mera sospecha",
-      "Modificar el precio",
-      "Embargar bienes"
+      "Suspender su cumplimiento y pedir garantías en las condiciones aplicables",
+      "Resolver siempre por una mera sospecha",
+      "Modificar unilateralmente el precio",
+      "Embargar directamente las mercancías"
     ],
     "answer": 0,
     "explanation": "La suspensión protege frente a deterioro grave de capacidad o comportamiento de la contraparte.",
@@ -3150,11 +3150,11 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué comprende la indemnización del art. 74 CISG?",
+    "question": "Al calcular los daños por incumplimiento, ¿qué pérdidas pueden incluirse si se cumplen los límites aplicables?",
     "options": [
-      "Daño emergente y lucro cesante, con límite de previsibilidad",
-      "Solo daño emergente",
-      "Solo lucro cesante",
+      "La pérdida sufrida y la ganancia dejada de obtener, con el límite de previsibilidad",
+      "Solo los gastos ya pagados",
+      "Solo los beneficios futuros",
       "Daños punitivos automáticos"
     ],
     "answer": 0,
@@ -3204,12 +3204,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El límite de previsibilidad del art. 74 se valora principalmente:",
+    "question": "¿En qué momento se valora principalmente si una pérdida era previsible para la parte incumplidora?",
     "options": [
-      "En el momento de celebrar el contrato",
-      "En el momento de demandar",
-      "Tras la sentencia",
-      "Cuando se paga la indemnización"
+      "Al celebrar el contrato",
+      "Al presentar la demanda",
+      "Después de dictarse sentencia",
+      "Al pagar la indemnización"
     ],
     "answer": 0,
     "explanation": "La pérdida indemnizable debe ser la que el incumplidor previó o debió prever al contratar como posible consecuencia.",
@@ -3240,12 +3240,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 75 permite, tras resolución y operación sustitutiva razonable:",
+    "question": "Tras resolver el contrato, el comprador adquiere mercancías sustitutivas de forma razonable a un precio mayor. ¿Qué diferencia puede reclamar como daño?",
     "options": [
-      "Reclamar la diferencia entre precio contractual y precio de la operación sustitutiva, además de otros daños admisibles",
-      "Cobrar el doble del precio",
-      "Imponer daños punitivos",
-      "Exigir el precio corriente aunque hubo compra sustitutiva"
+      "La diferencia entre el precio pactado y el de la compra sustitutiva, más otros daños admisibles",
+      "El doble del precio original",
+      "Una penalización automática",
+      "El precio corriente aunque haya hecho una compra sustitutiva"
     ],
     "answer": 0,
     "explanation": "La transacción sustitutiva razonable proporciona una medida específica de daño.",
@@ -3258,11 +3258,11 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Si no existe una operación sustitutiva pertinente, el art. 76 puede utilizar:",
+    "question": "El contrato se resuelve y no hay una compra sustitutiva pertinente. ¿Qué referencia puede ayudar a calcular la diferencia de precio?",
     "options": [
-      "El precio corriente en las condiciones del artículo",
-      "El precio que proponga el perito sin referencia",
-      "El precio inicial duplicado",
+      "El precio corriente en las condiciones del caso",
+      "El precio que proponga cualquier perito",
+      "El doble del precio inicial",
       "El precio de cualquier país"
     ],
     "answer": 0,
@@ -3276,12 +3276,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 77 impone a la parte perjudicada:",
+    "question": "El comprador podía adoptar medidas razonables para limitar las pérdidas causadas por el incumplimiento, pero no lo hizo. ¿Qué efecto puede tener?",
     "options": [
-      "Adoptar medidas razonables para mitigar la pérdida",
-      "Renunciar a toda indemnización",
-      "Resolver siempre antes de reclamar",
-      "Aceptar cualquier sustitución"
+      "La indemnización puede reducirse por la pérdida que pudo evitarse",
+      "Debe renunciar a toda indemnización",
+      "Debe resolver siempre antes de reclamar",
+      "Debe aceptar cualquier sustitución ofrecida"
     ],
     "answer": 0,
     "explanation": "La falta de mitigación puede reducir la indemnización.",
@@ -3384,12 +3384,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Según el art. 79 CISG, un impedimento puede exonerar de daños cuando es:",
+    "question": "Una prohibición imprevista impide cumplir y no podía evitarse razonablemente. ¿Qué debe acreditarse para que pueda exonerarse la responsabilidad por daños?",
     "options": [
-      "Ajeno al control, imprevisible razonablemente al contratar e inevitable o insuperable en los términos del artículo",
-      "Simplemente caro",
-      "Causado por la propia parte",
-      "Previsible y evitable"
+      "Que el impedimento escapaba al control y era imprevisible e inevitable en los términos aplicables",
+      "Que cumplir se volvió simplemente más caro",
+      "Que la propia parte causó el impedimento",
+      "Que el riesgo ya se había transmitido"
     ],
     "answer": 0,
     "explanation": "Esos son los elementos centrales de la exoneración.",
@@ -3420,12 +3420,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "Una parte afectada por un impedimento del art. 79 debe:",
+    "question": "Una empresa no puede cumplir temporalmente por un impedimento externo. ¿Qué debe comunicar a la otra parte?",
     "options": [
-      "Notificar el impedimento y sus efectos en los términos exigidos",
-      "Guardar silencio hasta que termine",
-      "Demandar al transportista antes de avisar",
-      "Modificar el contrato unilateralmente"
+      "El impedimento y sus efectos dentro del plazo exigible",
+      "Nada hasta que el impedimento termine",
+      "Una demanda contra el transportista antes de avisar",
+      "Un cambio unilateral del contrato"
     ],
     "answer": 0,
     "explanation": "La notificación es parte relevante del régimen del impedimento.",
@@ -3492,12 +3492,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 80 CISG expresa que:",
+    "question": "El comprador bloquea el acceso al muelle y luego reclama daños por el retraso en la descarga. ¿Qué regla responde mejor al caso?",
     "options": [
-      "Una parte no puede invocar el incumplimiento ajeno en la medida en que lo causó con su propia acción u omisión",
-      "Toda parte puede suspender por mera sospecha",
-      "El comprador asume todo riesgo después de pagar",
-      "La ley del foro prevalece"
+      "No puede imputar al vendedor el incumplimiento que él mismo causó",
+      "Puede reclamar siempre, porque el vendedor organizó el transporte",
+      "El riesgo elimina cualquier efecto de la conducta del comprador",
+      "La ley del foro determina automáticamente la responsabilidad"
     ],
     "answer": 0,
     "explanation": "La propia conducta causal limita la posibilidad de imputar incumplimiento a la otra parte.",
@@ -3510,12 +3510,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El comprador bloquea el acceso al muelle y después reclama daños por retraso en la descarga. ¿Qué artículo ofrece la respuesta conceptual más directa?",
+    "question": "El comprador no facilita los planos acordados, la producción se retrasa y después reclama daños al vendedor. ¿Qué debe tenerse en cuenta?",
     "options": [
-      "Art. 80 CISG",
-      "Art. 14 CISG",
-      "Art. 4 Roma I",
-      "Art. 25 Bruselas I bis"
+      "El comprador no puede atribuir al vendedor el retraso que causó",
+      "El vendedor responde siempre por cualquier retraso",
+      "La entrega de planos solo afecta a la propiedad",
+      "La reclamación se resuelve eligiendo el Incoterm"
     ],
     "answer": 0,
     "explanation": "No puede imputarse a la otra parte el incumplimiento causado por la propia conducta.",
@@ -4608,12 +4608,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "¿Qué distingue la indemnización de clientela de la del art. 29 por daños?",
+    "question": "Al terminar una agencia, ¿qué diferencia hay entre la indemnización por clientela y la compensación de ciertos gastos no amortizados?",
     "options": [
-      "La primera protege el valor de la clientela creada; la segunda puede compensar gastos no amortizados en ciertos supuestos de terminación de agencia indefinida",
-      "Son idénticas",
-      "La segunda es siempre de tres meses",
-      "La primera solo existe por incumplimiento"
+      "Una atiende al valor de los clientes aportados; la otra, a gastos que pueden quedar sin amortizar",
+      "Son dos nombres para la misma indemnización",
+      "La segunda siempre equivale a tres meses de comisión",
+      "La primera solo puede pedirse si hubo incumplimiento"
     ],
     "answer": 0,
     "explanation": "Tienen presupuestos y finalidades diferentes.",
@@ -5040,12 +5040,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "El art. 278 CCom reconoce al comisionista, en términos estudiados:",
+    "question": "Un comisionista acredita gastos y desembolsos realizados por cuenta del comitente. ¿Qué puede reclamar?",
     "options": [
-      "Reembolso de gastos y desembolsos justificados más interés legal desde que se hicieron hasta el reintegro",
-      "Indemnización por clientela",
-      "Preaviso de seis meses",
-      "Comisión tres meses después"
+      "El reembolso justificado y, en su caso, el interés legal",
+      "Una indemnización por clientela",
+      "Un preaviso de seis meses",
+      "Una comisión fija de tres meses"
     ],
     "answer": 0,
     "explanation": "La comisión tiene un régimen de gastos distinto al de agencia.",
@@ -5652,12 +5652,12 @@
     "subjectName": "Contratación Internacional Derecho"
   },
   {
-    "question": "CASO INTEGRADO. El vendedor incumple, el comprador podría comprar sustitución a precio razonable pero espera hasta que el mercado se dispara. ¿Qué artículos deben conectarse?",
+    "question": "CASO INTEGRADO. El vendedor incumple y el comprador retrasa una compra sustitutiva que podía hacer razonablemente antes de que subieran los precios. ¿Qué efecto puede tener?",
     "options": [
-      "Arts. 74/75 con el deber de mitigación del art. 77",
-      "Arts. 14 y 18",
-      "Arts. 31 y 33",
-      "Arts. 85 y 88 únicamente"
+      "Puede reducirse la indemnización por no limitar razonablemente la pérdida",
+      "El vendedor pierde automáticamente todo derecho",
+      "El comprador recupera cualquier precio posterior",
+      "Se modifica el momento de transmisión del riesgo"
     ],
     "answer": 0,
     "explanation": "La cuantificación de daños y la operación sustitutiva se someten al deber de mitigación.",
