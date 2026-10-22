@@ -1,0 +1,4429 @@
+[
+  {
+    "id": "ti-001",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué función cumplen los Incoterms® 2020 en una compraventa internacional?",
+    "options": [
+      "Transmitir la propiedad del producto",
+      "Elegir la ley aplicable al litigio",
+      "Determinar el precio obligatorio de venta",
+      "Repartir costes, gestiones y riesgos logísticos"
+    ],
+    "answer": 3,
+    "explanation": "Delimitan obligaciones logísticas, sin regular el conjunto del contrato.",
+    "source": "Presentación del profesor, diap. 7-10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-002",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Cuál de estas cuestiones NO queda regulada por un Incoterm?",
+    "options": [
+      "La responsabilidad por el despacho",
+      "El reparto de costes del transporte",
+      "El momento de transmisión de propiedad",
+      "El lugar de entrega pactado"
+    ],
+    "answer": 2,
+    "explanation": "Los Incoterms no deciden cuándo se transfiere la propiedad de los bienes.",
+    "source": "Presentación del profesor, diap. 8",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-003",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Cuántos Incoterms comprende la versión de 2020?",
+    "options": [
+      "Doce términos",
+      "Once términos",
+      "Diez términos",
+      "Nueve términos"
+    ],
+    "answer": 1,
+    "explanation": "La versión 2020 mantiene once Incoterms.",
+    "source": "Presentación del profesor, diap. 9",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-004",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Cuántos Incoterms® 2020 son válidos para cualquier modalidad de transporte?",
+    "options": [
+      "Seis términos",
+      "Cinco términos",
+      "Siete términos",
+      "Cuatro términos"
+    ],
+    "answer": 2,
+    "explanation": "EXW, FCA, CPT, CIP, DAP, DPU y DDP son polivalentes.",
+    "source": "Presentación del profesor, diap. 9",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-005",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué grupo contiene exclusivamente Incoterms marítimos o fluviales?",
+    "options": [
+      "EXW, FCA, CPT y CIP",
+      "FAS, FOB, CFR y CIF",
+      "CPT, CIP, DAP y DDP",
+      "FOB, FCA, CFR y DAP"
+    ],
+    "answer": 1,
+    "explanation": "Solo FAS, FOB, CFR y CIF son exclusivos de transporte marítimo/fluvial.",
+    "source": "Presentación del profesor, diap. 9",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-006",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué denominación reemplazó a DAT en los Incoterms® 2020?",
+    "options": [
+      "DPU",
+      "DAP",
+      "DDP",
+      "CIP"
+    ],
+    "answer": 0,
+    "explanation": "DAT pasó a denominarse DPU, con entrega descargada en lugar convenido.",
+    "source": "Presentación del profesor, diap. 9, 54",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-007",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué grupo de Incoterms implica que el vendedor paga el transporte principal, aunque el riesgo se transmita antes del destino?",
+    "options": [
+      "Grupo E",
+      "Grupo F",
+      "Grupo C",
+      "Grupo D"
+    ],
+    "answer": 2,
+    "explanation": "Los términos C separan contratación/pago del transporte y transferencia del riesgo.",
+    "source": "Presentación del profesor, diap. 35-46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-008",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "En una operación CIF, el vendedor paga el flete. ¿Se transmite por ello el riesgo al llegar el barco a destino?",
+    "options": [
+      "Sí, tras el despacho de importación",
+      "No, se transmite en fábrica sin carga",
+      "No, se transmite al embarcar en origen",
+      "Sí, al entrar en el puerto de destino"
+    ],
+    "answer": 2,
+    "explanation": "El pago del flete hasta destino no cambia el punto de riesgo de CIF.",
+    "source": "Presentación del profesor, diap. 35, 43",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-009",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué determina, como regla general, el momento de transmisión del riesgo entre vendedor y comprador?",
+    "options": [
+      "El cumplimiento de la entrega convenida",
+      "La aceptación del crédito documentario",
+      "La fecha del pago internacional",
+      "La fecha de emisión de la factura"
+    ],
+    "answer": 0,
+    "explanation": "El riesgo se transmite con la entrega definida por el Incoterm.",
+    "source": "Presentación del profesor, diap. 10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-010",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué dato debe quedar bien identificado para aplicar correctamente el punto de riesgo de una venta FCA?",
+    "options": [
+      "El tipo de cambio bancario",
+      "El margen comercial del vendedor",
+      "La divisa usada en factura",
+      "El lugar exacto de entrega"
+    ],
+    "answer": 3,
+    "explanation": "Sin identificar el punto FCA, el momento de entrega puede ser ambiguo.",
+    "source": "Presentación del profesor, diap. 10, 21",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-011",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué término del grupo E identifica la obligación mínima del vendedor?",
+    "options": [
+      "CPT",
+      "EXW",
+      "FOB",
+      "FCA"
+    ],
+    "answer": 1,
+    "explanation": "EXW pone la mercancía a disposición sin cargarla ni despacharla de exportación.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-012",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Cuál de las siguientes agrupaciones corresponde a los términos de llegada?",
+    "options": [
+      "EXW, FCA y FAS",
+      "FOB, CFR y CIF",
+      "DAP, DPU y DDP",
+      "CPT, CIP y FCA"
+    ],
+    "answer": 2,
+    "explanation": "En el grupo D el vendedor conserva el riesgo hasta el lugar de entrega en destino.",
+    "source": "Presentación del profesor, diap. 49-58",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-013",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "Un comprador paga 1.000 € de flete incluidos en el precio de compra. ¿Qué describe esta situación?",
+    "options": [
+      "Ausencia de coste de transporte",
+      "Transporte gratuito por la naviera",
+      "Pago indirecto mediante el precio",
+      "Cesión automática de riesgo al vendedor"
+    ],
+    "answer": 2,
+    "explanation": "El coste está incorporado al precio de la mercancía, en vez de abonarse al transportista.",
+    "source": "Presentación del profesor, diap. 8 y clase",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-014",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Qué expresión identifica una condición Incoterms bien delimitada?",
+    "options": [
+      "DDP sin país ni dirección concretos",
+      "CIP aeropuerto de Madrid, Incoterms 2020",
+      "FOB almacén del cliente por avión",
+      "CIP, entrega internacional sin ciudad"
+    ],
+    "answer": 1,
+    "explanation": "La regla, el lugar designado y la versión evitan ambigüedades.",
+    "source": "Presentación del profesor, diap. 9-10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-015",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Fundamentos de Incoterms",
+    "question": "¿Cuál de estos Incoterms es polivalente y pertenece al grupo F?",
+    "options": [
+      "FAS",
+      "CFR",
+      "FCA",
+      "FOB"
+    ],
+    "answer": 2,
+    "explanation": "FCA puede emplearse por carretera, aire o mar, entre otros modos.",
+    "source": "Presentación del profesor, diap. 9,21",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-016",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En una venta EXW fábrica, ¿qué debe hacer el vendedor para realizar la entrega ordinaria?",
+    "options": [
+      "Cargar y despachar la exportación",
+      "Poner la mercancía disponible, sin cargar",
+      "Entregar el pedido descargado en destino",
+      "Pagar el transporte principal a destino"
+    ],
+    "answer": 1,
+    "explanation": "En EXW la entrega se realiza al poner el producto a disposición del comprador.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-017",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En EXW, ¿a quién corresponde en principio la carga en el vehículo que recoge la mercancía?",
+    "options": [
+      "Al vendedor",
+      "Al transitario de destino",
+      "A la aseguradora",
+      "Al comprador"
+    ],
+    "answer": 3,
+    "explanation": "El vendedor no tiene obligación de carga en EXW.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-018",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "¿Quién asume, como regla Incoterms EXW, la gestión del despacho de exportación?",
+    "options": [
+      "La compañía naviera",
+      "El comprador",
+      "El banco emisor",
+      "El vendedor"
+    ],
+    "answer": 1,
+    "explanation": "El comprador debe ocuparse de la exportación según EXW.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-019",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "¿Qué dos cuestiones soluciona FCA fábrica frente a EXW, según el profesor?",
+    "options": [
+      "Descarga en destino y aranceles",
+      "Carga del vehículo y exportación",
+      "Pago de flete y gastos de destino",
+      "Seguro y despacho de importación"
+    ],
+    "answer": 1,
+    "explanation": "En FCA fábrica el vendedor carga y despacha de exportación.",
+    "source": "Presentación del profesor, diap. 15,21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-020",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En FCA fábrica, ¿cuándo se considera entregada la mercancía al transportista nombrado?",
+    "options": [
+      "Cuando sale del puerto de destino",
+      "Al terminar el despacho de importación",
+      "Una vez cargada en el vehículo receptor",
+      "Cuando queda sin cargar en el almacén"
+    ],
+    "answer": 2,
+    "explanation": "La carga sobre el medio de recogida forma parte de la entrega FCA en fábrica.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-021",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "¿Quién tramita ordinariamente el despacho de exportación en FCA?",
+    "options": [
+      "La aseguradora",
+      "El comprador",
+      "El vendedor",
+      "El receptor final"
+    ],
+    "answer": 2,
+    "explanation": "FCA impone al vendedor el despacho aduanero de exportación.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-022",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "Una venta FCA designa una terminal de terceros. ¿Dónde entrega el vendedor?",
+    "options": [
+      "En destino, tras pagar aranceles",
+      "En la terminal, siempre ya descargado",
+      "En su fábrica, sin cargar el transporte",
+      "En terminal de tercero, sobre vehículo sin descargar"
+    ],
+    "answer": 3,
+    "explanation": "En FCA a tercero la entrega se realiza lista para descarga, pero sin descargar.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-023",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "¿Qué coste adicional asume el vendedor cuando se pasa de FCA fábrica a FCA terminal de origen?",
+    "options": [
+      "El transporte hasta la terminal",
+      "El flete intercontinental completo",
+      "Los tributos de importación",
+      "La descarga final al cliente"
+    ],
+    "answer": 0,
+    "explanation": "La variante FCA en tercero requiere transportar hasta el punto pactado.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-024",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "Un proveedor entrega piezas en FCA aeropuerto de origen. ¿Puede aplicarse FCA a esta expedición aérea?",
+    "options": [
+      "No, solo se permite en ferrocarril",
+      "No, FCA es exclusivo marítimo",
+      "Sí, pero únicamente con ICC A",
+      "Sí, es un Incoterm polivalente"
+    ],
+    "answer": 3,
+    "explanation": "FCA sirve para transporte aéreo y otros modos.",
+    "source": "Presentación del profesor, diap. 9,21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-025",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "Un contrato indica «FOB aeropuerto». ¿Cuál es el problema?",
+    "options": [
+      "FOB no se aplica a transporte aéreo",
+      "FOB incluye despacho de importación",
+      "FOB siempre obliga a asegurar ICC A",
+      "FOB exige descargar el avión al llegar"
+    ],
+    "answer": 0,
+    "explanation": "FOB es marítimo; FCA aeropuerto es una formulación adecuada.",
+    "source": "Presentación del profesor, diap. 21,30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-026",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En FCA terminal de origen, ¿qué diferencia clave existe frente a FCA fábrica?",
+    "options": [
+      "La exportación pasa al comprador",
+      "El comprador paga la descarga final",
+      "Cambia el lugar y la forma de entrega",
+      "El seguro se vuelve obligatorio"
+    ],
+    "answer": 2,
+    "explanation": "En tercero, el vendedor lleva la mercancía y no la descarga; en fábrica, carga.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-027",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "Una empresa quiere controlar documentalmente el despacho de exportación sin pagar el transporte principal. ¿Qué término recomienda el profesor?",
+    "options": [
+      "FCA fábrica",
+      "DDP destino",
+      "CIP destino",
+      "EXW fábrica"
+    ],
+    "answer": 0,
+    "explanation": "FCA permite tramitar exportación sin pagar el transporte internacional.",
+    "source": "Presentación del profesor, diap. 15,21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-028",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En una venta FCA almacén de un operador en Barcelona, ¿quién contrata el transporte principal posterior?",
+    "options": [
+      "La naviera siempre",
+      "El comprador",
+      "La aduana española",
+      "El vendedor"
+    ],
+    "answer": 1,
+    "explanation": "FCA pertenece al grupo F: el principal se contrata por comprador.",
+    "source": "Presentación del profesor, diap. 21",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-029",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "¿Qué riesgo operativo menciona el profesor al utilizar EXW para el exportador?",
+    "options": [
+      "Pagar los aranceles de importación",
+      "No controlar la prueba de exportación",
+      "Tener que asegurar la carga con ICC A",
+      "Asumir la descarga en casa del cliente"
+    ],
+    "answer": 1,
+    "explanation": "Al no gestionar exportación, el vendedor puede tener dificultades documentales.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-030",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "EXW y FCA",
+    "question": "En una operación EXW, ¿quién contrata ordinariamente el transporte desde la fábrica?",
+    "options": [
+      "El comprador",
+      "El consignatario marítimo",
+      "El organismo aduanero",
+      "El vendedor"
+    ],
+    "answer": 0,
+    "explanation": "Al comprador le corresponde organizar el transporte desde el punto de puesta a disposición.",
+    "source": "Presentación del profesor, diap. 15",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-031",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Dónde se produce la entrega de una mercancía vendida en FAS?",
+    "options": [
+      "En la puerta de la fábrica",
+      "A bordo del buque en el puerto",
+      "Al costado del buque en el puerto",
+      "En el almacén del destinatario"
+    ],
+    "answer": 2,
+    "explanation": "FAS significa Free Alongside Ship: entrega junto al buque.",
+    "source": "Presentación del profesor, diap. 26",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-032",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "En una operación FOB, ¿qué hito transmite el riesgo al comprador?",
+    "options": [
+      "La carga efectiva a bordo del buque",
+      "La descarga del buque en destino",
+      "La salida de la fábrica del vendedor",
+      "La llegada al puerto de destino"
+    ],
+    "answer": 0,
+    "explanation": "En FOB el vendedor entrega una vez la mercancía está a bordo en origen.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-033",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Quién contrata ordinariamente el flete marítimo principal en FOB?",
+    "options": [
+      "El vendedor",
+      "El comprador",
+      "El consignatario de destino",
+      "La autoridad portuaria"
+    ],
+    "answer": 1,
+    "explanation": "FOB forma parte del grupo F: flete principal a cuenta del comprador.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-034",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Qué término asigna al vendedor la colocación a bordo, pero no el flete principal?",
+    "options": [
+      "FAS",
+      "DAP",
+      "CFR",
+      "FOB"
+    ],
+    "answer": 3,
+    "explanation": "En FOB la entrega exige mercancía a bordo y el comprador paga el flete.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-035",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "En FAS, ¿quién asume normalmente la operación de carga desde el muelle al buque?",
+    "options": [
+      "El asegurador",
+      "El vendedor",
+      "El receptor final",
+      "El comprador"
+    ],
+    "answer": 3,
+    "explanation": "FAS entrega al costado; la carga a bordo queda por cuenta del comprador.",
+    "source": "Presentación del profesor, diap. 26",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-036",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿En cuál de estos casos es apropiado utilizar FOB según el modo de transporte?",
+    "options": [
+      "Carga marítima convencional",
+      "Transporte internacional por camión",
+      "Carga aérea de mensajería",
+      "Entrega nacional por furgoneta"
+    ],
+    "answer": 0,
+    "explanation": "FOB se reserva a transporte marítimo o por vías navegables interiores.",
+    "source": "Presentación del profesor, diap. 9,30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-037",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Qué Incoterm marítimo es habitual en carga convencional entregada en primera línea de muelle?",
+    "options": [
+      "FAS",
+      "DAP",
+      "CIP",
+      "EXW"
+    ],
+    "answer": 0,
+    "explanation": "FAS encaja con carga no contenerizada que se entrega al costado del barco.",
+    "source": "Presentación del profesor, diap. 26",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-038",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "Una grúa comienza a elevar una pieza desde el muelle, pero aún no está a bordo. ¿Se ha producido entrega FOB?",
+    "options": [
+      "Sí, desde que comenzó la izada",
+      "No, todavía no se ha embarcado",
+      "No, debe desembarcarse en destino",
+      "Sí, al recibirla el consignatario"
+    ],
+    "answer": 1,
+    "explanation": "FOB exige que la mercancía quede efectivamente cargada a bordo.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-039",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Qué parte realiza ordinariamente el despacho de exportación en una venta FOB?",
+    "options": [
+      "El comprador",
+      "El asegurador",
+      "El banco confirmador",
+      "El vendedor"
+    ],
+    "answer": 3,
+    "explanation": "En FOB la exportación es obligación del vendedor.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-040",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "Un fabricante vende mercancía por avión y quiere entregar en el aeropuerto de origen. ¿Qué término es apropiado?",
+    "options": [
+      "CFR aeropuerto",
+      "FOB aeropuerto",
+      "FAS aeropuerto",
+      "FCA aeropuerto"
+    ],
+    "answer": 3,
+    "explanation": "FCA es polivalente y permite designar un aeropuerto de origen.",
+    "source": "Presentación del profesor, diap. 21,30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-041",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "¿Cuál es la diferencia esencial entre FAS y FOB?",
+    "options": [
+      "En FOB se descarga en destino; en FAS no",
+      "En FAS hay seguro obligatorio; en FOB no",
+      "En FAS se paga siempre el flete; en FOB no",
+      "En FOB se entrega a bordo; en FAS al costado"
+    ],
+    "answer": 3,
+    "explanation": "El punto de entrega cambia del costado del buque a bordo.",
+    "source": "Presentación del profesor, diap. 26,30",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-042",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "FAS y FOB",
+    "question": "En FOB, la mercancía sufre daños una vez está cargada a bordo en el puerto de salida. ¿Quién soporta el riesgo ordinario?",
+    "options": [
+      "El consignatario del puerto",
+      "El vendedor",
+      "La terminal por definición",
+      "El comprador"
+    ],
+    "answer": 3,
+    "explanation": "La entrega FOB ya se completó al embarcar; el riesgo corresponde al comprador.",
+    "source": "Presentación del profesor, diap. 30",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-043",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "Una venta CFR Valencia desde Shanghái sufre una pérdida en alta mar tras el embarque. ¿Quién soporta el riesgo?",
+    "options": [
+      "El comprador",
+      "La aseguradora necesariamente",
+      "El vendedor",
+      "La autoridad portuaria"
+    ],
+    "answer": 0,
+    "explanation": "En CFR el vendedor paga el flete, pero el riesgo pasa a bordo en origen.",
+    "source": "Presentación del profesor, diap. 35",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-044",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué gasto principal asume el vendedor en CFR que no tiene que asumir en FOB?",
+    "options": [
+      "La descarga en el almacén final",
+      "El flete marítimo hasta destino",
+      "El transporte interior en destino",
+      "Los aranceles del país comprador"
+    ],
+    "answer": 1,
+    "explanation": "CFR añade al valor FOB el flete marítimo acordado.",
+    "source": "Presentación del profesor, diap. 35",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-045",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué diferencia esencial existe entre CFR y CIF?",
+    "options": [
+      "CIF transfiere el riesgo al llegar",
+      "CFR entrega descargado en destino",
+      "CFR se aplica al transporte aéreo",
+      "CIF exige contratar seguro al vendedor"
+    ],
+    "answer": 3,
+    "explanation": "CIF incorpora obligación de seguro, sin alterar el punto de riesgo de CFR.",
+    "source": "Presentación del profesor, diap. 35,43",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-046",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué cobertura mínima de Institute Cargo Clauses exige CIF en Incoterms 2020?",
+    "options": [
+      "ICC A",
+      "ICC C",
+      "ICC Air",
+      "ICC B"
+    ],
+    "answer": 1,
+    "explanation": "El mínimo exigido bajo CIF es ICC C, salvo pacto de mayor protección.",
+    "source": "Presentación del profesor, diap. 43",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-047",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué cobertura mínima de Institute Cargo Clauses exige CIP en Incoterms 2020?",
+    "options": [
+      "ICC C",
+      "ICC A",
+      "ICC D",
+      "ICC B"
+    ],
+    "answer": 1,
+    "explanation": "CIP exige el nivel ICC A, más amplio que el mínimo de CIF.",
+    "source": "Presentación del profesor, diap. 46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-048",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué Incoterm polivalente obliga al vendedor a pagar transporte principal sin seguro obligatorio?",
+    "options": [
+      "CFR",
+      "CIP",
+      "CIF",
+      "CPT"
+    ],
+    "answer": 3,
+    "explanation": "CPT paga el transporte hasta el lugar pactado, sin obligación Incoterms de seguro.",
+    "source": "Presentación del profesor, diap. 39",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-049",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué Incoterm polivalente añade un seguro al transporte principal pagado por vendedor?",
+    "options": [
+      "DAP",
+      "CPT",
+      "CIP",
+      "FCA"
+    ],
+    "answer": 2,
+    "explanation": "CIP es Carriage and Insurance Paid To.",
+    "source": "Presentación del profesor, diap. 46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-050",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "En CPT, ¿qué relación existe entre lugar de entrega y lugar de destino contratado?",
+    "options": [
+      "Solo pueden ser dos puertos marítimos",
+      "Ambos están siempre en destino final",
+      "Deben coincidir siempre exactamente",
+      "Pueden ser puntos geográficos distintos"
+    ],
+    "answer": 3,
+    "explanation": "El riesgo pasa al entregar al transportista, aunque el vendedor pague hasta destino.",
+    "source": "Presentación del profesor, diap. 39",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-051",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "Una venta CIP JFK entrega al primer transportista en Shanghái. ¿Cuándo se transmite el riesgo si no se pactó otra entrega?",
+    "options": [
+      "Al descargar la mercancía en JFK",
+      "Tras pagar aranceles estadounidenses",
+      "Al entregar al transportista en origen",
+      "Al aterrizar el avión en Nueva York"
+    ],
+    "answer": 2,
+    "explanation": "El riesgo CIP se transmite en origen, en el punto de entrega al transportista.",
+    "source": "Presentación del profesor, diap. 46",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-052",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué par de Incoterms se reserva exclusivamente al transporte marítimo?",
+    "options": [
+      "FCA y CPT",
+      "CIP y CIF",
+      "CFR y CIF",
+      "CPT y CIP"
+    ],
+    "answer": 2,
+    "explanation": "CFR y CIF son exclusivos marítimos; CPT y CIP son polivalentes.",
+    "source": "Presentación del profesor, diap. 9",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-053",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué afirmación sobre el seguro en CIF y CIP es correcta?",
+    "options": [
+      "Solo existe seguro tras el despacho de importación",
+      "El vendedor conserva el riesgo hasta destino",
+      "Vendedor lo contrata; comprador soporta el riesgo",
+      "El comprador siempre lo contrata y paga"
+    ],
+    "answer": 2,
+    "explanation": "En ambos términos el vendedor asegura un riesgo que ya soporta el comprador.",
+    "source": "Presentación del profesor, diap. 43,46",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-054",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué diferencia aparece en Incoterms 2020 entre los mínimos de seguro CIF y CIP?",
+    "options": [
+      "CIF requiere ICC C; CIP requiere ICC A",
+      "Ambos prohíben mejorar la cobertura",
+      "Ambos requieren solo cobertura ICC B",
+      "CIF requiere ICC A; CIP requiere ICC C"
+    ],
+    "answer": 0,
+    "explanation": "CIP exige ICC A; CIF mantiene ICC C.",
+    "source": "Presentación del profesor, diap. 43,46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-055",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué porcentaje mínimo del valor CIP se indica como suma asegurada?",
+    "options": [
+      "110 %",
+      "105 %",
+      "100 %",
+      "120 %"
+    ],
+    "answer": 0,
+    "explanation": "El material exige asegurar al menos el 110% del valor CIP.",
+    "source": "Presentación del profesor, diap. 46,68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-056",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué porcentaje mínimo del valor CIF se indica como suma asegurada?",
+    "options": [
+      "110 %",
+      "100 %",
+      "125 %",
+      "95 %"
+    ],
+    "answer": 0,
+    "explanation": "Según la presentación, el seguro CIF parte del 110% del valor CIF.",
+    "source": "Presentación del profesor, diap. 43,68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-057",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "En una venta CIF, ¿pueden las partes convenir un seguro ICC A en lugar de ICC C?",
+    "options": [
+      "No, CIF prohíbe la cobertura ICC A",
+      "No, solo podría elegirse ICC B",
+      "Sí, pero solo si se usa un avión",
+      "Sí, es una cobertura superior al mínimo"
+    ],
+    "answer": 3,
+    "explanation": "El mínimo ICC C puede mejorarse mediante pacto de cobertura mayor.",
+    "source": "Presentación del profesor, diap. 43",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-058",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué diferencia de entrega distingue CIF de CIP, además del modo de transporte?",
+    "options": [
+      "CIF entrega en fábrica; CIP en terminal",
+      "CIF entrega descargado; CIP en destino",
+      "CIF entrega a bordo; CIP al transportista",
+      "CIF entrega en aduana; CIP en muelle"
+    ],
+    "answer": 2,
+    "explanation": "CIF se entrega a bordo del buque de origen; CIP al transportista en origen.",
+    "source": "Presentación del profesor, diap. 43,46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-059",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Qué afirmación resume mejor los Incoterms del grupo C?",
+    "options": [
+      "El comprador paga el principal y despacha exportación",
+      "El comprador paga el principal y asume riesgo en destino",
+      "El vendedor paga el principal y soporta todo el riesgo",
+      "Vendedor paga flete; comprador asume riesgo en viaje"
+    ],
+    "answer": 3,
+    "explanation": "Los términos C separan costes de transporte principal y transferencia de riesgo.",
+    "source": "Presentación del profesor, diap. 35-46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-060",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "En una venta CFR, ¿está obligado el vendedor a contratar seguro de mercancías por el solo Incoterm?",
+    "options": [
+      "No, CFR no impone ese seguro",
+      "Sí, con nivel mínimo ICC A",
+      "Sí, con nivel mínimo ICC C",
+      "Solo si el envío pesa más de 1 t"
+    ],
+    "answer": 0,
+    "explanation": "CFR incorpora coste y flete; a diferencia de CIF, no impone seguro.",
+    "source": "Presentación del profesor, diap. 35",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-061",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "En una venta CPT, ¿está obligado el vendedor a contratar seguro por los Incoterms?",
+    "options": [
+      "No, a diferencia del término CIP",
+      "Solo si la ruta es multimodal",
+      "Sí, siempre con cobertura ICC A",
+      "Sí, siempre con cobertura ICC C"
+    ],
+    "answer": 0,
+    "explanation": "La obligación formal de asegurar corresponde a CIP, no a CPT.",
+    "source": "Presentación del profesor, diap. 39,46",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-062",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Cuál es el lugar de referencia correcto para indicar CFR?",
+    "options": [
+      "Un puerto de destino",
+      "Una terminal aeroportuaria",
+      "Una fábrica del vendedor",
+      "Un almacén de destino sin puerto"
+    ],
+    "answer": 0,
+    "explanation": "CFR designa el puerto de destino del flete marítimo.",
+    "source": "Presentación del profesor, diap. 35",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-063",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "CFR, CPT, CIF y CIP",
+    "question": "¿Cuál es la recomendación comercial general del profesor respecto a la negociación de costes?",
+    "options": [
+      "Comprar siempre CIP y vender siempre DPU",
+      "Comprar siempre DDP y vender siempre EXW",
+      "Comprar siempre CIF y vender siempre FOB",
+      "Comprar F y vender C, si resulta conveniente"
+    ],
+    "answer": 3,
+    "explanation": "Es una preferencia empresarial sobre control de transporte, no una regla jurídica.",
+    "source": "Presentación del profesor, diap. 130-136 y clase",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-064",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En DAP, ¿en qué estado se entrega normalmente la mercancía en el lugar pactado?",
+    "options": [
+      "A bordo del buque en origen",
+      "Sin cargar en la fábrica del vendedor",
+      "Sobre el vehículo, preparada para descargar",
+      "Descargada y colocada en el almacén"
+    ],
+    "answer": 2,
+    "explanation": "DAP obliga a poner la mercancía a disposición sobre el medio de transporte, lista para descarga.",
+    "source": "Presentación del profesor, diap. 50",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-065",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "¿Qué Incoterm exige al vendedor descargar en el punto de entrega de destino?",
+    "options": [
+      "CIP",
+      "DAP",
+      "DDP",
+      "DPU"
+    ],
+    "answer": 3,
+    "explanation": "DPU incluye entrega descargada; DAP y DDP no.",
+    "source": "Presentación del profesor, diap. 54",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-066",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En una venta DAP Madrid desde México, ¿quién despacha ordinariamente la importación?",
+    "options": [
+      "El asegurador",
+      "El vendedor",
+      "El comprador",
+      "La naviera"
+    ],
+    "answer": 2,
+    "explanation": "En DAP la importación y sus tributos corresponden al comprador.",
+    "source": "Presentación del profesor, diap. 50",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-067",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En una venta DDP Madrid, ¿quién asume ordinariamente el despacho y los derechos de importación?",
+    "options": [
+      "El transportista",
+      "El consignatario",
+      "El vendedor",
+      "El comprador"
+    ],
+    "answer": 2,
+    "explanation": "DDP requiere al vendedor despachar y pagar importación.",
+    "source": "Presentación del profesor, diap. 58",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-068",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "¿Cuál es la diferencia de entrega entre DAP y DPU en destino?",
+    "options": [
+      "En DPU el comprador carga en fábrica",
+      "En DPU el vendedor descarga la mercancía",
+      "En DAP el comprador paga el flete",
+      "En DAP el vendedor paga los aranceles"
+    ],
+    "answer": 1,
+    "explanation": "Solo DPU exige la entrega ya descargada.",
+    "source": "Presentación del profesor, diap. 50,54",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-069",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "¿Qué Incoterm asigna al vendedor la mayor carga de gestiones y tributos de importación?",
+    "options": [
+      "CFR",
+      "DDP",
+      "DAP",
+      "FCA"
+    ],
+    "answer": 1,
+    "explanation": "DDP suma a la entrega en destino el despacho e impuestos de importación.",
+    "source": "Presentación del profesor, diap. 58",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-070",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "Una expedición DAP se deteriora durante el transporte principal antes de llegar al lugar pactado. ¿Quién soporta el riesgo ordinario?",
+    "options": [
+      "El vendedor",
+      "El importador siempre",
+      "La autoridad aduanera",
+      "El comprador"
+    ],
+    "answer": 0,
+    "explanation": "Los Incoterms D mantienen el riesgo en el vendedor hasta la entrega de destino.",
+    "source": "Presentación del profesor, diap. 50",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-071",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "Una venta DPU almacén de destino llega intacta, pero se daña mientras el vendedor descarga. ¿De quién es el riesgo ordinario?",
+    "options": [
+      "Del asegurador automáticamente",
+      "Del consignatario marítimo",
+      "Del comprador",
+      "Del vendedor"
+    ],
+    "answer": 3,
+    "explanation": "DPU no se entrega hasta que el vendedor termina la descarga.",
+    "source": "Presentación del profesor, diap. 54",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-072",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En una venta DDP, ¿debe el vendedor descargar obligatoriamente la mercancía en destino?",
+    "options": [
+      "No, porque entrega a bordo en origen",
+      "Sí, como regla de todos los términos D",
+      "No, salvo pacto específico de descarga",
+      "Sí, siempre que sea un contenedor"
+    ],
+    "answer": 2,
+    "explanation": "DDP entrega lista para descarga; DPU es la que impone descargar.",
+    "source": "Presentación del profesor, diap. 54,58",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-073",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En una venta DAP, ¿quién asume ordinariamente los aranceles de importación?",
+    "options": [
+      "La línea aérea",
+      "El vendedor",
+      "El banco emisor",
+      "El comprador"
+    ],
+    "answer": 3,
+    "explanation": "El comprador tramita importación y abona derechos de importación.",
+    "source": "Presentación del profesor, diap. 50",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-074",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "¿Qué advertencia hace el profesor sobre DAP cuando el comprador retrasa el despacho de importación?",
+    "options": [
+      "Puede generar almacenaje a cargo del vendedor",
+      "Traslada automáticamente el riesgo al banco",
+      "Siempre extingue el contrato de compraventa",
+      "Convierte la venta DAP en un término CIF"
+    ],
+    "answer": 0,
+    "explanation": "El vendedor puede afrontar costes de almacenaje por trámites que depende del comprador.",
+    "source": "Presentación del profesor, diap. 50 y clase",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-075",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "Para evitar disputas por almacenaje en DAP, ¿qué medida recomienda el profesor?",
+    "options": [
+      "No identificar el almacén de destino",
+      "Pactar plazos y repercusión de demoras",
+      "Eliminar la obligación de emitir facturas",
+      "Sustituir todos los envíos por EXW"
+    ],
+    "answer": 1,
+    "explanation": "Conviene definir contractualmente consecuencias de retrasos aduaneros.",
+    "source": "Presentación del profesor, diap. 50 y clase",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-076",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En Incoterms 2020, ¿puede designarse DPU en una fábrica del comprador y no solo en una terminal?",
+    "options": [
+      "Sí, pero sin descargar la mercancía",
+      "No, únicamente en una terminal portuaria",
+      "Sí, cualquier lugar adecuado para descargar",
+      "No, solo en una terminal aérea"
+    ],
+    "answer": 2,
+    "explanation": "DPU sustituyó DAT y permite cualquier lugar de destino que admita descarga.",
+    "source": "Presentación del profesor, diap. 54",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-077",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "¿Qué diferencia principal distingue DDP de DAP?",
+    "options": [
+      "DDP exige al comprador descargar en origen",
+      "DAP obliga a contratar un seguro ICC A",
+      "DAP transfiere el riesgo en el puerto de origen",
+      "DDP asigna importación y tributos al vendedor"
+    ],
+    "answer": 3,
+    "explanation": "La importación es obligación del vendedor en DDP y del comprador en DAP.",
+    "source": "Presentación del profesor, diap. 50,58",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-078",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "DAP, DPU y DDP",
+    "question": "En una operación DDP con IVA recuperable, ¿qué debe revisar el exportador según la presentación?",
+    "options": [
+      "El número de precintos del contenedor",
+      "La clase ICC mínima del seguro CIF",
+      "La conversión de m³ a kilos volumétricos",
+      "El impacto fiscal del IVA en el destino"
+    ],
+    "answer": 3,
+    "explanation": "La diapositiva sobre impacto fiscal destaca que DDP requiere atención al IVA.",
+    "source": "Presentación del profesor, diap. 58-60",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-079",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Por qué contratar un seguro de mercancías si ya existe responsabilidad del transportista?",
+    "options": [
+      "Porque sustituye al contrato de transporte",
+      "Porque elimina la obligación de embalar",
+      "Porque la responsabilidad del porteador es limitada",
+      "Porque siempre se indemniza todo el valor"
+    ],
+    "answer": 2,
+    "explanation": "Los convenios limitan la responsabilidad: puede resultar insuficiente para cubrir el valor.",
+    "source": "Presentación del profesor, diap. 63-66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-080",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Quién es el tomador de un seguro de transporte?",
+    "options": [
+      "Quien siempre transporta físicamente",
+      "Quien certifica el origen preferencial",
+      "Quien contrata la póliza y asume la prima",
+      "Quien emite la factura comercial"
+    ],
+    "answer": 2,
+    "explanation": "El tomador contrata y asume el pago del seguro.",
+    "source": "Presentación del profesor, diap. 69",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-081",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Quién es el asegurado en un contrato de seguro de mercancías?",
+    "options": [
+      "Quien necesariamente cobra el flete",
+      "Quien realiza el despacho de exportación",
+      "Quien emite el conocimiento de embarque",
+      "Quien tiene el interés económico asegurado"
+    ],
+    "answer": 3,
+    "explanation": "El asegurado es titular del interés asegurable sobre la mercancía.",
+    "source": "Presentación del profesor, diap. 69-70",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-082",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué figura debe abonar la indemnización ante un siniestro cubierto?",
+    "options": [
+      "El asegurador",
+      "El consignatario",
+      "El expedidor",
+      "El tomador"
+    ],
+    "answer": 0,
+    "explanation": "El asegurador es la entidad que asume el riesgo asegurado.",
+    "source": "Presentación del profesor, diap. 69,72",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-083",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Quién recibe la indemnización de la póliza cuando corresponde según su designación?",
+    "options": [
+      "El beneficiario",
+      "El agente IATA",
+      "El consignatario",
+      "El transportista"
+    ],
+    "answer": 0,
+    "explanation": "Beneficiario designa a quien corresponde percibir la prestación por siniestro.",
+    "source": "Presentación del profesor, diap. 69",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-084",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Pueden tomador, asegurado y beneficiario ser personas diferentes?",
+    "options": [
+      "Sí, pueden ocuparlo personas distintas",
+      "Sí, pero únicamente en DDP",
+      "No, deben coincidir siempre",
+      "No, solo pueden existir dos figuras"
+    ],
+    "answer": 0,
+    "explanation": "El material diferencia funciones y contempla figuras separadas.",
+    "source": "Presentación del profesor, diap. 67,69",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-085",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué requisito expresa la existencia de interés asegurable?",
+    "options": [
+      "Un perjuicio económico si la mercancía se pierde",
+      "La tenencia obligatoria de un B/L original",
+      "El pago de una prima por el transportista",
+      "La presencia de un agente en el puerto"
+    ],
+    "answer": 0,
+    "explanation": "La pérdida debe suponer una lesión patrimonial para el titular del interés.",
+    "source": "Presentación del profesor, diap. 70",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-086",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "En una compraventa CIF correctamente entregada en origen, ¿quién soporta el riesgo asegurado durante el viaje?",
+    "options": [
+      "El agente IATA",
+      "El comprador",
+      "El vendedor",
+      "El consignatario"
+    ],
+    "answer": 1,
+    "explanation": "Aunque lo paga y contrata el vendedor, el seguro protege el riesgo del comprador.",
+    "source": "Presentación del profesor, diap. 43,67",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-087",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "En una venta DAP pendiente de entregar en destino, ¿quién mantiene el interés por los daños de transporte?",
+    "options": [
+      "El puerto",
+      "La aduana",
+      "El vendedor",
+      "El comprador"
+    ],
+    "answer": 2,
+    "explanation": "El vendedor conserva el riesgo hasta la entrega en destino.",
+    "source": "Presentación del profesor, diap. 50,67",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-088",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué nivel ICC tiene la cobertura ordinaria más amplia de los tres tipos generales?",
+    "options": [
+      "ICC B",
+      "ICC D",
+      "ICC A",
+      "ICC C"
+    ],
+    "answer": 2,
+    "explanation": "ICC A funciona como cobertura amplia sujeta a exclusiones.",
+    "source": "Presentación del profesor, diap. 79-80",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-089",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué orden expresa, en general, una mayor amplitud de cobertura ICC?",
+    "options": [
+      "B, luego C y luego A",
+      "A, luego C y luego B",
+      "C, luego B y luego A",
+      "A, luego B y luego C"
+    ],
+    "answer": 3,
+    "explanation": "A es la más amplia de las tres; C es la más restringida.",
+    "source": "Presentación del profesor, diap. 79-80",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-090",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Un seguro de transporte se denomina «todo riesgo». ¿Qué conclusión es correcta?",
+    "options": [
+      "Garantiza todo retraso sin excepción",
+      "Elimina los límites del transporte",
+      "Cubre necesariamente cualquier guerra",
+      "Sigue sujeto a exclusiones pactadas"
+    ],
+    "answer": 3,
+    "explanation": "ICC A es una cobertura extensa, pero no ilimitada.",
+    "source": "Presentación del profesor, diap. 79-82",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-091",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué riesgo suele figurar como exclusión en el temario de la cobertura ICC ordinaria?",
+    "options": [
+      "Varada de un barco en ruta",
+      "Incendio accidental del buque",
+      "Abordaje de buques en alta mar",
+      "Vicio propio de la mercancía"
+    ],
+    "answer": 3,
+    "explanation": "El material destaca vicio propio y embalaje inadecuado entre las exclusiones.",
+    "source": "Presentación del profesor, diap. 73-80",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-092",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué extensión adicional recomienda el profesor estudiar junto a ICC A cuando corresponda?",
+    "options": [
+      "Tipos de cambio",
+      "Guerra y huelga",
+      "Crédito y caución",
+      "Responsabilidad fiscal"
+    ],
+    "answer": 1,
+    "explanation": "La presentación propone ICC A/ICC Air más guerra y huelga cuando sea necesario.",
+    "source": "Presentación del profesor, diap. 82",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-093",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué riesgo suele quedar excluido de la cobertura general según las diapositivas?",
+    "options": [
+      "Incendio del medio transportador",
+      "Pérdida atribuible al retraso",
+      "Accidente de transporte cubierto",
+      "Sacrificio cubierto por avería gruesa"
+    ],
+    "answer": 1,
+    "explanation": "El retraso se presenta como una exclusión habitual de la póliza general.",
+    "source": "Presentación del profesor, diap. 73-82",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-094",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué debe hacer el asegurado tras conocer un siniestro de transporte?",
+    "options": [
+      "Destruir el embalaje y el justificante",
+      "Avisar pronto y reducir el daño",
+      "Cobrar primero y reclamar después",
+      "Esperar sin actuar al fin del viaje"
+    ],
+    "answer": 1,
+    "explanation": "El asegurado informa, minimiza el perjuicio y conserva pruebas del siniestro.",
+    "source": "Presentación del profesor, diap. 71,81",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-095",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué derecho puede ejercer el asegurador después de indemnizar a su asegurado?",
+    "options": [
+      "Anular el contrato de compraventa",
+      "Subrogarse frente al responsable del daño",
+      "Retirar la mercancía de la aduana sin permiso",
+      "Sustituir unilateralmente al destinatario"
+    ],
+    "answer": 1,
+    "explanation": "La subrogación permite reclamar contra quienes hayan causado el perjuicio.",
+    "source": "Presentación del profesor, diap. 72",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-096",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué concepto describe la prima del seguro?",
+    "options": [
+      "El valor comercial de la carga",
+      "El precio pagado por la cobertura",
+      "El capital máximo indemnizable",
+      "La franquicia de la póliza"
+    ],
+    "answer": 1,
+    "explanation": "La prima es el coste de contratar seguro, no el valor asegurado.",
+    "source": "Presentación del profesor, diap. 69",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-097",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Una carga vale 40.000 € en condiciones CIF. ¿Qué capital mínimo resulta del 110 % indicado?",
+    "options": [
+      "44.000 €",
+      "42.000 €",
+      "46.000 €",
+      "40.000 €"
+    ],
+    "answer": 0,
+    "explanation": "40.000 × 1,10 = 44.000 €, que es suma asegurada, no prima.",
+    "source": "Presentación del profesor, diap. 68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-098",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Una mercancía CIF vale 20.000 € y su seguro cuesta 150 €. ¿Cuál es la suma mínima asegurada del 110 %?",
+    "options": [
+      "22.000 €",
+      "22.150 €",
+      "20.000 €",
+      "20.150 €"
+    ],
+    "answer": 0,
+    "explanation": "110 % de 20.000 = 22.000 €. La prima no se confunde con el capital cubierto.",
+    "source": "Presentación del profesor, diap. 68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-099",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Según el criterio práctico de clase, ¿qué valor se asegura habitualmente en una operación DAP?",
+    "options": [
+      "El 110 % del valor EXW",
+      "El 120 % del valor FOB",
+      "El 90 % del valor CIF",
+      "El 100 % del valor DAP"
+    ],
+    "answer": 3,
+    "explanation": "El profesor indica cobertura del 100% del valor DAP para los términos D.",
+    "source": "Presentación del profesor, diap. 68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-100",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Según las diapositivas, ¿sobre qué base propone asegurar una operación FOB cuando el comprador contrata la póliza?",
+    "options": [
+      "El 100 % del valor EXW de la factura",
+      "El 110 % del coste de la prima del seguro",
+      "110 % del valor DDP estimado, sin IVA deducible",
+      "El 100 % de los aranceles de importación"
+    ],
+    "answer": 2,
+    "explanation": "El criterio docente para EXW a CFR/CPT es reconstruir el valor DDP recuperable.",
+    "source": "Presentación del profesor, diap. 68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-101",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué describe la avería gruesa en el transporte marítimo?",
+    "options": [
+      "La pérdida de un paquete por hurto",
+      "Un sacrificio para salvar buque y carga",
+      "El deterioro ordinario por almacenamiento",
+      "La rotura accidental de un bulto en muelle"
+    ],
+    "answer": 1,
+    "explanation": "Es un sacrificio o gasto extraordinario en beneficio de buque y cargas involucradas.",
+    "source": "Presentación del profesor, diap. 76-77",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-102",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Cómo se distribuye normalmente el sacrificio admitido en avería gruesa?",
+    "options": [
+      "Exclusivamente al capitán responsable",
+      "Por mitades entre vendedor y comprador",
+      "Proporcionalmente entre intereses beneficiados",
+      "Únicamente al propietario del bulto dañado"
+    ],
+    "answer": 2,
+    "explanation": "El coste se reparte entre los intereses de la aventura común conforme al régimen aplicable.",
+    "source": "Presentación del profesor, diap. 76-77",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-103",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "¿Qué situación puede dar lugar a una pérdida total constructiva?",
+    "options": [
+      "Reparación o salvamento económicamente inviables",
+      "Solo un golpe sin daños económicos",
+      "Únicamente una entrega con retraso",
+      "La llegada intacta pero fuera de plazo"
+    ],
+    "answer": 0,
+    "explanation": "Existe pérdida total constructiva cuando recuperar o reparar resulta inviable económicamente.",
+    "source": "Presentación del profesor, diap. 78",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-104",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Seguro y protección de la mercancía",
+    "question": "Una mercancía presenta embalaje manifiestamente insuficiente y se rompe por ese motivo. ¿Qué concepto del seguro resulta relevante?",
+    "options": [
+      "Transferencia de riesgos por CIF",
+      "Avería gruesa marítima necesaria",
+      "Exclusión por insuficiencia de embalaje",
+      "Cobertura automática de todo perjuicio"
+    ],
+    "answer": 2,
+    "explanation": "La insuficiencia de embalaje es una exclusión destacada en el material.",
+    "source": "Presentación del profesor, diap. 73-80",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-105",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué significan las siglas DEG en responsabilidad del transporte?",
+    "options": [
+      "Derechos especiales de gestión",
+      "Documentos especiales de granel",
+      "Declaraciones europeas de garantía",
+      "Derechos especiales de giro"
+    ],
+    "answer": 3,
+    "explanation": "Son la unidad de cuenta del FMI usada en límites de responsabilidad.",
+    "source": "Presentación del profesor, diap. 65-66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-106",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿De qué institución proceden los derechos especiales de giro?",
+    "options": [
+      "De la Organización Mundial del Comercio",
+      "Del Fondo Monetario Internacional",
+      "De la Agencia Tributaria Española",
+      "De la Cámara de Comercio Internacional"
+    ],
+    "answer": 1,
+    "explanation": "El DEG es una unidad de cuenta creada por el FMI.",
+    "source": "Presentación del profesor, diap. 65-66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-107",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Es fijo en euros el contravalor de un DEG?",
+    "options": [
+      "No, su valor cambia",
+      "Sí, siempre es un euro",
+      "No existe cambio con euros",
+      "Sí, siempre es 1,20 euros"
+    ],
+    "answer": 0,
+    "explanation": "El DEG se valora en relación con una cesta de divisas y fluctúa.",
+    "source": "Presentación del profesor, diap. 65-66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-108",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Según la cifra que recalcó el profesor en clase, ¿cuál es el límite aéreo por kilogramo?",
+    "options": [
+      "17 DEG/kg",
+      "8,33 DEG/kg",
+      "26 DEG/kg",
+      "2 DEG/kg"
+    ],
+    "answer": 2,
+    "explanation": "La diapositiva-resumen y la transcripción repiten 26; otra diapositiva conserva 22.",
+    "source": "Presentación del profesor, diap. 66,74 y clase",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-109",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "En CMR internacional, ¿cuál es el límite ordinario por pérdida de carga señalado en el curso?",
+    "options": [
+      "17 DEG por kilogramo bruto",
+      "2 DEG por kilogramo bruto",
+      "8,33 DEG por kilogramo bruto",
+      "26 DEG por kilogramo bruto"
+    ],
+    "answer": 2,
+    "explanation": "CMR: 8,33 DEG/kg bruto según la presentación.",
+    "source": "Presentación del profesor, diap. 66,73",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-110",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "En La Haya–Visby, ¿qué regla utiliza el curso para hallar el límite marítimo por pérdida?",
+    "options": [
+      "Mayor de 26 DEG/bulto y 8,33 DEG/kg",
+      "Menor de 26 DEG/bulto y 17 DEG/kg",
+      "Menor de 666,67 DEG/bulto y 2 DEG/kg",
+      "Mayor de 666,67 DEG/bulto y 2 DEG/kg"
+    ],
+    "answer": 3,
+    "explanation": "Se aplica el mayor resultado entre los dos criterios alternativos.",
+    "source": "Presentación del profesor, diap. 66,75",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-111",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Se pierde un bulto marítimo de 100 kg bajo La Haya–Visby. ¿Qué límite aritmético corresponde?",
+    "options": [
+      "833 DEG",
+      "100 DEG",
+      "200 DEG",
+      "666,67 DEG"
+    ],
+    "answer": 3,
+    "explanation": "2 × 100 = 200 DEG; prevalecen 666,67 DEG por bulto.",
+    "source": "Presentación del profesor, diap. 75",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-112",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Se pierde un bulto marítimo de 500 kg bajo La Haya–Visby. ¿Qué límite aritmético corresponde?",
+    "options": [
+      "666,67 DEG",
+      "833 DEG",
+      "1.000 DEG",
+      "500 DEG"
+    ],
+    "answer": 2,
+    "explanation": "2 × 500 = 1.000 DEG, superior a 666,67 DEG por bulto.",
+    "source": "Presentación del profesor, diap. 75",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-113",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Se pierden 60 kg de mercancía en carretera internacional bajo CMR. ¿Cuál es el techo aritmético ordinario?",
+    "options": [
+      "600,00 DEG",
+      "510,00 DEG",
+      "480,00 DEG",
+      "499,80 DEG"
+    ],
+    "answer": 3,
+    "explanation": "60 × 8,33 = 499,80 DEG, sin prejuzgar el daño probado.",
+    "source": "Presentación del profesor, diap. 66,73",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-114",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Según la diapositiva-resumen, ¿qué unidad emplea el límite nacional por carretera?",
+    "options": [
+      "Un tercio del IPREM diario por kilogramo",
+      "Ocho DEG por kilogramo transportado",
+      "Una mitad del IPREM diario por vehículo",
+      "Dos tercios del IPREM diario por bulto"
+    ],
+    "answer": 0,
+    "explanation": "El material vincula carretera nacional con un tercio del IPREM diario por kg.",
+    "source": "Presentación del profesor, diap. 66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-115",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué debe hacer el destinatario si observa daños evidentes cuando recibe la mercancía?",
+    "options": [
+      "Firmar conforme y desechar embalajes",
+      "Pedir al banco que emita un nuevo AWB",
+      "Formular reserva o constancia en la entrega",
+      "Esperar sin anotación a que venza el plazo"
+    ],
+    "answer": 2,
+    "explanation": "Los daños aparentes deben reseñarse al recibir, para preservar la prueba.",
+    "source": "Presentación del profesor, diap. 66,81 y clase",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-116",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "En CMR, ¿qué plazo de reservas por daños no aparentes explica el profesor?",
+    "options": [
+      "Catorce días sin excepción",
+      "Veintiún días sin excepción",
+      "Siete días según el convenio",
+      "Dos días según el convenio"
+    ],
+    "answer": 2,
+    "explanation": "El curso marca siete días, con precisión de laborables en la presentación.",
+    "source": "Presentación del profesor, diap. 66,183",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-117",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué límite de indemnización por retraso menciona la clase para carretera internacional CMR?",
+    "options": [
+      "El precio del transporte",
+      "El capital social de la naviera",
+      "Un tercio del valor del vehículo",
+      "El doble del valor de carga"
+    ],
+    "answer": 0,
+    "explanation": "El límite ordinario por retraso en CMR se vincula al porte satisfecho.",
+    "source": "Presentación del profesor, diap. 65-66,183",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-118",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué documento suele justificar la expedición en una reclamación aérea?",
+    "options": [
+      "El CMR",
+      "El B/L",
+      "El VGM",
+      "El AWB"
+    ],
+    "answer": 3,
+    "explanation": "El conocimiento aéreo acredita contrato y recepción del envío.",
+    "source": "Presentación del profesor, diap. 74,149",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-119",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué documento acompaña una reclamación de transporte marítimo según la modalidad ordinaria estudiada?",
+    "options": [
+      "El CMR",
+      "El AWB",
+      "El IPREM",
+      "El B/L"
+    ],
+    "answer": 3,
+    "explanation": "El Bill of Lading documenta el transporte marítimo.",
+    "source": "Presentación del profesor, diap. 75,95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-120",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "Si una mercancía vale mucho más que el límite legal por kg del transportista, ¿qué medida comercial resulta lógica?",
+    "options": [
+      "Confiar en indemnización ilimitada",
+      "Asegurar adecuadamente el valor económico",
+      "Reducir el peso declarado en la carga",
+      "Eliminar la documentación de transporte"
+    ],
+    "answer": 1,
+    "explanation": "El valor asegurado puede proteger la parte no cubierta por los límites del porteador.",
+    "source": "Presentación del profesor, diap. 63-68",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-121",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué diferencia existe entre una reserva por daño y la prescripción de la acción judicial?",
+    "options": [
+      "Solo existe plazo si hay seguro ICC C",
+      "Son plazos distintos con finalidades distintas",
+      "La reserva sustituye la póliza de seguro",
+      "Ambos vencen siempre el día de entrega"
+    ],
+    "answer": 1,
+    "explanation": "Una reserva documenta un daño; la prescripción limita el ejercicio de la acción.",
+    "source": "Presentación del profesor, diap. 65-66",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-122",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Responsabilidad, DEG y reservas",
+    "question": "¿Qué mide el límite ordinario CMR de 8,33 DEG/kg?",
+    "options": [
+      "La indemnización máxima por peso bruto afectado",
+      "La tarifa mínima de combustible del camión",
+      "El coste fijo de cada kilogramo transportado",
+      "La prima obligatoria del seguro de carga"
+    ],
+    "answer": 0,
+    "explanation": "Es un límite de responsabilidad, no una cotización del servicio.",
+    "source": "Presentación del profesor, diap. 66,73",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-123",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué significa TEU en el transporte marítimo de contenedores?",
+    "options": [
+      "Unidad de peso neto de un contenedor",
+      "Unidad equivalente a contenedor de 20 pies",
+      "Documento de terminal europea unificada",
+      "Tarifa especial de unidades embarcadas"
+    ],
+    "answer": 1,
+    "explanation": "Un TEU representa capacidad equivalente a un contenedor de 20 pies.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-124",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿A cuántos TEU equivale un contenedor estándar de 40 pies?",
+    "options": [
+      "3 TEU",
+      "4 TEU",
+      "2 TEU",
+      "1 TEU"
+    ],
+    "answer": 2,
+    "explanation": "Un contenedor de 40 pies equivale a dos unidades TEU.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-125",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué diferencia geométrica principal hay entre un contenedor 20’ DV y un 40’ DV?",
+    "options": [
+      "El 20’ tiene el doble de longitud que el 40’",
+      "El 20’ tiene aproximadamente el doble de altura",
+      "El 40’ tiene aproximadamente el doble de anchura",
+      "El 40’ tiene aproximadamente el doble de longitud"
+    ],
+    "answer": 3,
+    "explanation": "El 40 pies mide unos 12 metros de largo frente a los aproximadamente 6 del 20 pies.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-126",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué diferencia principal hay entre un contenedor 40’ DV y uno 40’ High Cube?",
+    "options": [
+      "El Dry Van es mucho más largo",
+      "El High Cube tiene mayor altura",
+      "El Dry Van siempre pesa el doble",
+      "El High Cube es mucho más ancho"
+    ],
+    "answer": 1,
+    "explanation": "Ambos tienen longitud similar; el High Cube añade altura y capacidad cúbica.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-127",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué contenedor conviene valorar para una carga muy voluminosa que no necesita refrigeración?",
+    "options": [
+      "Reefer de 20’",
+      "20’ Dry Van",
+      "40’ High Cube",
+      "20’ cisterna"
+    ],
+    "answer": 2,
+    "explanation": "El 40’ High Cube aporta más volumen interior por su altura.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-128",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Para qué se utiliza habitualmente un contenedor reefer?",
+    "options": [
+      "Para transportar carga exclusivamente a granel",
+      "Para transportar vehículos sin plataforma",
+      "Para eliminar toda manipulación portuaria",
+      "Para controlar la temperatura de la carga"
+    ],
+    "answer": 3,
+    "explanation": "El reefer es un contenedor refrigerado o con control térmico.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-129",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué característica define un contenedor Open Top?",
+    "options": [
+      "Dispone de apertura superior",
+      "Carece de plataforma inferior",
+      "Tiene doble longitud estándar",
+      "Solo permite carga líquida"
+    ],
+    "answer": 0,
+    "explanation": "El Open Top permite introducir o sobresalir carga por arriba según diseño.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-130",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué característica define un contenedor Flat Rack?",
+    "options": [
+      "Cisterna flexible para líquidos",
+      "Unidad cerrada de carga refrigerada",
+      "Contenedor estándar sin abertura",
+      "Plataforma abierta para carga voluminosa"
+    ],
+    "answer": 3,
+    "explanation": "El Flat Rack sirve a cargas que requieren estructura de plataforma abierta.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-131",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "Una maquinaria industrial sobresale lateralmente de las dimensiones de un contenedor cerrado. ¿Qué tipo puede considerarse?",
+    "options": [
+      "Flat Rack",
+      "Dry Van",
+      "Reefer",
+      "Flexitank"
+    ],
+    "answer": 0,
+    "explanation": "La plataforma Flat Rack admite ciertas cargas sobredimensionadas, sujetas a operación especial.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-132",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Un contenedor 40’ admite automáticamente el doble de peso útil que uno de 20’?",
+    "options": [
+      "No, siempre soporta menos peso total",
+      "No, duplica más bien longitud y volumen",
+      "Sí, porque cambia el ancho al doble",
+      "Sí, siempre duplica carga máxima"
+    ],
+    "answer": 1,
+    "explanation": "Tamaño volumétrico y masa útil no crecen proporcionalmente.",
+    "source": "Presentación del profesor, diap. 85-87 y clase",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-133",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué significa Dry Van (DV) en los contenedores?",
+    "options": [
+      "Contenedor cerrado de carga general",
+      "Contenedor abierto sin techo",
+      "Tanque de líquidos refrigerados",
+      "Plataforma sin laterales"
+    ],
+    "answer": 0,
+    "explanation": "DV identifica el contenedor estándar cerrado para carga seca general.",
+    "source": "Presentación del profesor, diap. 85-87",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-134",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "En una expedición marítima, ¿qué es el trincaje de la carga?",
+    "options": [
+      "Su sujeción para impedir desplazamientos",
+      "El pesaje oficial del buque completo",
+      "La emisión de un B/L negociable",
+      "La liquidación de impuestos en destino"
+    ],
+    "answer": 0,
+    "explanation": "El trincaje inmoviliza la carga para reducir desplazamientos.",
+    "source": "Presentación del profesor, diap. 88",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-135",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué indica un precinto de contenedor correctamente colocado?",
+    "options": [
+      "Que nunca será necesario pasar aduanas",
+      "Un cierre cuya apertura puede detectarse",
+      "El peso bruto verificado de la mercancía",
+      "El precio CIF de la expedición"
+    ],
+    "answer": 1,
+    "explanation": "El precinto proporciona evidencia sobre la apertura del contenedor.",
+    "source": "Presentación del profesor, diap. 88 y clase",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-136",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué siglas se usan para identificar el puerto de carga marítima?",
+    "options": [
+      "POD",
+      "VGM",
+      "THC",
+      "POL"
+    ],
+    "answer": 3,
+    "explanation": "POL significa Port of Loading.",
+    "source": "Presentación del profesor, diap. 91",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-137",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué siglas se usan para el puerto de destino o descarga marítima?",
+    "options": [
+      "POD",
+      "IPREM",
+      "POL",
+      "IATA"
+    ],
+    "answer": 0,
+    "explanation": "POD identifica Port of Destination/Discharge.",
+    "source": "Presentación del profesor, diap. 91",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-138",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué significa THC en una cotización portuaria de contenedor?",
+    "options": [
+      "Tributo comercial de importación",
+      "Tarifa de seguro del contenedor",
+      "Cargo por manipulaciones de terminal",
+      "Tasa de hidrocarburos de cabotaje"
+    ],
+    "answer": 2,
+    "explanation": "THC hace referencia a Terminal Handling Charge.",
+    "source": "Presentación del profesor, diap. 26,91-93",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-139",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué significa BAF en una cotización de flete marítimo?",
+    "options": [
+      "Recargo vinculado al combustible",
+      "Seguro adicional de mercancías",
+      "Certificado de pesaje verificado",
+      "Pago por derechos de importación"
+    ],
+    "answer": 0,
+    "explanation": "BAF es un recargo de combustible del flete.",
+    "source": "Presentación del profesor, diap. 103-128",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-140",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué documento técnico acredita la masa bruta verificada de un contenedor cuando se exige?",
+    "options": [
+      "AWB",
+      "CIM",
+      "VGM",
+      "ICC"
+    ],
+    "answer": 2,
+    "explanation": "VGM alude a Verified Gross Mass, un dato de pesaje del contenedor.",
+    "source": "Presentación del profesor, diap. 103-128",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-141",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué describe un servicio marítimo con transbordo?",
+    "options": [
+      "El contenedor viaja siempre en un solo buque",
+      "El cliente descarga siempre la mercancía",
+      "La carga cambia de buque en un puerto intermedio",
+      "El vendedor entrega obligatoriamente en DDP"
+    ],
+    "answer": 2,
+    "explanation": "Con transbordo, la mercancía pasa por una conexión intermedia.",
+    "source": "Presentación del profesor, diap. 91",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-142",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿En qué tres segmentos ordena el curso una cotización logística completa?",
+    "options": [
+      "Origen, tramo internacional y destino",
+      "Póliza, factura comercial y garantía",
+      "Fábrica, contrato bancario y asegurador",
+      "Importación, venta minorista y consumo"
+    ],
+    "answer": 0,
+    "explanation": "La cadena logística se divide en costes de origen, transporte principal y destino.",
+    "source": "Presentación del profesor, diap. 91",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-143",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Contenedores y operativa marítima",
+    "question": "¿Qué término indica que sábados, domingos y festivos no cuentan en el cómputo contractual indicado?",
+    "options": [
+      "BAF",
+      "VGM",
+      "THC",
+      "SSHEX"
+    ],
+    "answer": 3,
+    "explanation": "SSHEX significa Saturdays, Sundays and Holidays Excepted.",
+    "source": "Presentación del profesor, diap. notas de clase",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-144",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué documento demuestra la recepción/embarque de mercancías en transporte marítimo?",
+    "options": [
+      "Bill of Lading (B/L)",
+      "Carta de porte CMR",
+      "Certificado IATA",
+      "Air Waybill (AWB)"
+    ],
+    "answer": 0,
+    "explanation": "El B/L documenta contrato marítimo y recepción o embarque.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-145",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué siglas identifican el conocimiento marítimo emitido por la naviera o su agente?",
+    "options": [
+      "MAWB",
+      "HBL",
+      "MBL",
+      "HAWB"
+    ],
+    "answer": 2,
+    "explanation": "MBL es Master Bill of Lading.",
+    "source": "Presentación del profesor, diap. 96",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-146",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué siglas identifican el conocimiento marítimo emitido por el transitario en nombre propio?",
+    "options": [
+      "AWB",
+      "HBL",
+      "MAWB",
+      "MBL"
+    ],
+    "answer": 1,
+    "explanation": "HBL es House Bill of Lading, emitido por el transitario.",
+    "source": "Presentación del profesor, diap. 97",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-147",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Quién figura como transportista contractual en un Master Bill of Lading de la presentación?",
+    "options": [
+      "La aseguradora",
+      "La compañía naviera",
+      "El banco emisor",
+      "El destinatario comercial"
+    ],
+    "answer": 1,
+    "explanation": "El Master B/L se emite por la línea naviera o su agente.",
+    "source": "Presentación del profesor, diap. 96",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-148",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Contra quién dirige el cliente su reclamación contractual si su transporte está documentado por un House B/L emitido por un transitario?",
+    "options": [
+      "Contra el comprador final",
+      "Contra el transitario emisor",
+      "Contra el agente IATA",
+      "Contra la agencia tributaria"
+    ],
+    "answer": 1,
+    "explanation": "El emisor del HBL asume frente a su cliente la posición de transportista contractual.",
+    "source": "Presentación del profesor, diap. 97",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-149",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué documento marítimo suele ofrecer mayor flexibilidad contractual en las expediciones consolidadas?",
+    "options": [
+      "CMR de carretera",
+      "Master B/L",
+      "AWB de línea aérea",
+      "House B/L"
+    ],
+    "answer": 3,
+    "explanation": "El transitario puede emitir House B/L con mayor flexibilidad documental.",
+    "source": "Presentación del profesor, diap. 97",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-150",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué figura suele aparecer como shipper en el MBL si existe además un HBL en el esquema de la presentación?",
+    "options": [
+      "Asegurador de la carga",
+      "Importador final",
+      "Transitario de origen",
+      "Banco del comprador"
+    ],
+    "answer": 2,
+    "explanation": "En consolidación con HBL, el MBL suele identificar al transitario en origen.",
+    "source": "Presentación del profesor, diap. 96",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-151",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué figura suele aparecer como consignee en el MBL si se emite asimismo un HBL?",
+    "options": [
+      "Asegurador principal",
+      "Transitario de destino",
+      "Exportador comercial",
+      "Agencia tributaria"
+    ],
+    "answer": 1,
+    "explanation": "El MBL de una operación con HBL puede designar al transitario de destino.",
+    "source": "Presentación del profesor, diap. 96",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-152",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "En un B/L marítimo, ¿qué significa «shipper»?",
+    "options": [
+      "Embarcador o expedidor",
+      "Aduana de destino",
+      "Beneficiario del seguro",
+      "Banco del comprador"
+    ],
+    "answer": 0,
+    "explanation": "Shipper identifica al embarcador declarado en el conocimiento.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-153",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "En un B/L, ¿qué significa «consignee»?",
+    "options": [
+      "Tomador del seguro",
+      "Receptor o consignatario",
+      "Agente de navegación",
+      "Operador de la grúa"
+    ],
+    "answer": 1,
+    "explanation": "Consignee señala a quien se consigna la entrega.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-154",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué función tiene el campo «notify» de un B/L?",
+    "options": [
+      "Nombrar al asegurador de transporte",
+      "Identificar a la persona que debe ser avisada",
+      "Determinar el tipo de cambio de la prima",
+      "Indicar la tonelada máxima del contenedor"
+    ],
+    "answer": 1,
+    "explanation": "Notify es la parte a la que deben notificarse determinados hitos de la carga.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-155",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué significa «full set of B/L» en documentación marítima?",
+    "options": [
+      "Juego completo de originales emitidos",
+      "Relación detallada de todos los bultos",
+      "Listado de seguros contratados en ruta",
+      "Factura que incorpora el flete completo"
+    ],
+    "answer": 0,
+    "explanation": "El full set agrupa los originales del conocimiento de embarque.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-156",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué caracteriza a un conocimiento marítimo negociable frente a un sea waybill?",
+    "options": [
+      "Puede incorporar el derecho a la entrega",
+      "Se emite exclusivamente por un agente IATA",
+      "Se limita siempre al transporte por avión",
+      "Carece de valor documental sobre la carga"
+    ],
+    "answer": 0,
+    "explanation": "Un B/L negociable puede actuar como título representativo; un sea waybill no.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-157",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Qué opción corresponde a un documento marítimo normalmente no negociable?",
+    "options": [
+      "Sea Waybill",
+      "Conocimiento original a la orden",
+      "B/L original endosable",
+      "B/L negociable a la orden"
+    ],
+    "answer": 0,
+    "explanation": "El Sea Waybill no funciona como título negociable a la orden.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-158",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "¿Por qué puede interesar un House B/L en una venta con crédito documentario?",
+    "options": [
+      "Porque impide el control aduanero de carga",
+      "Por la flexibilidad en el condicionado documental",
+      "Porque sustituye al contrato de compraventa",
+      "Porque siempre elimina toda reserva bancaria"
+    ],
+    "answer": 1,
+    "explanation": "El profesor menciona mayor flexibilidad documental ante condiciones bancarias.",
+    "source": "Presentación del profesor, diap. 97",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-159",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Conocimiento marítimo B/L",
+    "question": "Según el temario, ¿qué relación de conversión peso/volumen se usa en transporte marítimo de carga general?",
+    "options": [
+      "1 m³ equivale a 26 kg",
+      "1 m³ equivale a 167 kg",
+      "1 m³ equivale a 333 kg",
+      "1 m³ equivale a 1.000 kg"
+    ],
+    "answer": 3,
+    "explanation": "En la tarifa marítima de referencia se compara 1 m³ con una tonelada.",
+    "source": "Presentación del profesor, diap. 95",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-160",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué significa GSA en el contexto de transporte aéreo comercial?",
+    "options": [
+      "Gestor de seguro aduanero",
+      "Agente general de ventas",
+      "Garantía sanitaria aeroportuaria",
+      "Guía de seguridad aérea"
+    ],
+    "answer": 1,
+    "explanation": "GSA refiere a General Sales Agent de una compañía aérea.",
+    "source": "Presentación del profesor, diap. 139",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-161",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué función caracteriza a un consolidador aéreo?",
+    "options": [
+      "Emitir exclusivamente certificados sanitarios",
+      "Vender exclusivamente seguros de comercio",
+      "Agrupar envíos de diferentes clientes",
+      "Autorizar la entrada de mercancías en aduana"
+    ],
+    "answer": 2,
+    "explanation": "El consolidador reúne envíos de diversos clientes y gestiona capacidad de carga.",
+    "source": "Presentación del profesor, diap. 139,151",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-162",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Cuál es una función expresamente atribuida al agente IATA?",
+    "options": [
+      "Emitir conocimientos aéreos",
+      "Aprobar impuestos de importación",
+      "Resolver litigios judiciales de carga",
+      "Fijar el tipo de cambio del DEG"
+    ],
+    "answer": 0,
+    "explanation": "El agente IATA interviene en la emisión del AWB.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-163",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Al preparar un envío aéreo, ¿qué debe comprobarse en el marcaje de los bultos?",
+    "options": [
+      "Que todas las etiquetas sean antiguas",
+      "Que falte el nombre del destinatario",
+      "Que las señas concuerden con el AWB",
+      "Que solo figure el peso de la factura"
+    ],
+    "answer": 2,
+    "explanation": "Las señas del destinatario deben coincidir con el conocimiento aéreo.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-164",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Según la presentación, ¿qué debe hacerse con etiquetas antiguas de un bulto aéreo?",
+    "options": [
+      "Mantenerlas siempre a la vista",
+      "Usarlas como sustituto del AWB",
+      "Colocarlas sobre la etiqueta nueva",
+      "Anularlas para evitar confusión"
+    ],
+    "answer": 3,
+    "explanation": "La diapositiva de agente IATA exige anular antiguas marcas y etiquetas.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-165",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Cuál de estos datos aparece entre los mínimos de identificación de un bulto aéreo?",
+    "options": [
+      "Capital social del comprador",
+      "Precio unitario de fabricación",
+      "Número del conocimiento aéreo",
+      "Cuenta bancaria del expedidor"
+    ],
+    "answer": 2,
+    "explanation": "El número AWB debe figurar en la etiqueta identificativa de la expedición.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-166",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué otra información exige la etiqueta de identificación aérea según el curso?",
+    "options": [
+      "Beneficio del exportador",
+      "Destino y total de bultos",
+      "Tipo arancelario de aduana",
+      "Valor asegurado en la póliza"
+    ],
+    "answer": 1,
+    "explanation": "La línea aérea exige, entre otros, destino y total de bultos.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-167",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué finalidad tiene el embalaje revisado por el agente IATA?",
+    "options": [
+      "Eliminar el despacho de importación",
+      "Resistir los incidentes normales del transporte",
+      "Impedir la inspección aeroportuaria",
+      "Sustituir el seguro de mercancía contratado"
+    ],
+    "answer": 1,
+    "explanation": "La preparación de la carga debe soportar las exigencias ordinarias del transporte.",
+    "source": "Presentación del profesor, diap. 141",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-168",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Cuál es la secuencia lógica en un transporte aéreo exportador?",
+    "options": [
+      "Importación, vuelo, exportación y recogida",
+      "Recogida, exportación, vuelo e importación",
+      "Entrega, despacho importación, recogida y vuelo",
+      "Vuelo, exportación, recogida y entrega"
+    ],
+    "answer": 1,
+    "explanation": "La cadena aérea parte de origen, se despacha, vuela y pasa aduana en destino.",
+    "source": "Presentación del profesor, diap. 143",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-169",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué concepto forma parte de los gastos de origen de una cotización aérea?",
+    "options": [
+      "Descarga en el almacén del destinatario",
+      "Arancel de importación del comprador",
+      "IVA de consumo final del importador",
+      "Recogida y manipulaciones aeroportuarias"
+    ],
+    "answer": 3,
+    "explanation": "La recogida, AWB, exportación y handling se agrupan como gastos de origen.",
+    "source": "Presentación del profesor, diap. 146",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-170",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "En una cotización aérea, ¿qué se compara para obtener el peso tasable?",
+    "options": [
+      "Peso real y peso volumétrico",
+      "Cantidad de palés y número de AWB",
+      "Peso neto y valor CIF",
+      "Flete mínimo y coste del seguro"
+    ],
+    "answer": 0,
+    "explanation": "El peso tarifario se basa en el mayor entre peso real y volumen equivalente.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-171",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué equivalencia de clase se utiliza para peso volumétrico aéreo?",
+    "options": [
+      "167 kg por m³",
+      "500 kg por m³",
+      "1.000 kg por m³",
+      "333 kg por m³"
+    ],
+    "answer": 0,
+    "explanation": "El ejemplo del profesor transforma 1 m³ en 167 kg aéreos.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-172",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Una carga ocupa 3 m³ y pesa 300 kg. ¿Qué peso volumétrico aéreo resulta con factor 167?",
+    "options": [
+      "501 kg",
+      "600 kg",
+      "300 kg",
+      "450 kg"
+    ],
+    "answer": 0,
+    "explanation": "3 × 167 = 501 kg volumétricos, mayor que el peso real.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-173",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Una expedición aérea pesa 500 kg reales y equivale a 334 kg volumétricos. ¿Qué peso tasable se utiliza?",
+    "options": [
+      "334 kg",
+      "834 kg",
+      "500 kg",
+      "417 kg"
+    ],
+    "answer": 2,
+    "explanation": "En el supuesto de tarifa estudiado se elige el mayor, aquí 500 kg.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-174",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Un envío aéreo tiene dos palés de 1,20 × 0,80 × 1,30 m. ¿Qué volumen conjunto resulta aproximadamente?",
+    "options": [
+      "3,00 m³",
+      "2,50 m³",
+      "1,25 m³",
+      "2,00 m³"
+    ],
+    "answer": 1,
+    "explanation": "2 × 1,20 × 0,80 × 1,30 = 2,496 m³, aproximadamente 2,50.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-175",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "Un envío tiene 250 kg reales y 418 kg volumétricos. ¿Qué peso guía la cotización aérea del ejemplo?",
+    "options": [
+      "250 kg",
+      "334 kg",
+      "668 kg",
+      "418 kg"
+    ],
+    "answer": 3,
+    "explanation": "El ejemplo MAD–JFK utiliza los 418 kg equivalentes por ser el peso tasable mayor.",
+    "source": "Presentación del profesor, diap. 147",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-176",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "En la tarifa aérea del material, ¿qué indica una tarifa «MIN»?",
+    "options": [
+      "Seguro mínimo ICC A",
+      "Límite de responsabilidad civil",
+      "Peso mínimo del contenedor",
+      "Importe mínimo del flete"
+    ],
+    "answer": 3,
+    "explanation": "MIN es el flete mínimo aplicable a una expedición.",
+    "source": "Presentación del profesor, diap. 146-147",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-177",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué categorías de agentes diferencia la presentación aérea?",
+    "options": [
+      "Aduana, asegurador, banco y vendedor",
+      "Naviera, consignatario, estibador y piloto",
+      "GSA, IATA, no IATA y consolidadores",
+      "Puerto, terminal, armador y capitán"
+    ],
+    "answer": 2,
+    "explanation": "La diapositiva 139 enumera esos cuatro grupos de agentes aéreos.",
+    "source": "Presentación del profesor, diap. 139",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-178",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Transporte aéreo y agentes IATA",
+    "question": "¿Qué aspecto es compatible con un envío aéreo consolidado?",
+    "options": [
+      "Compartir espacio aéreo entre expediciones",
+      "Usar obligatoriamente un B/L marítimo",
+      "Prohibir cualquier conocimiento House",
+      "Entregar siempre en condiciones FOB"
+    ],
+    "answer": 0,
+    "explanation": "La consolidación agrupa expediciones y puede documentarse con House y Master AWB.",
+    "source": "Presentación del profesor, diap. 139,151",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-179",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué documento constituye prueba habitual del contrato de transporte aéreo?",
+    "options": [
+      "B/L",
+      "AWB",
+      "CMR",
+      "VGM"
+    ],
+    "answer": 1,
+    "explanation": "AWB documenta la relación de transporte aéreo.",
+    "source": "Presentación del profesor, diap. 149",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-180",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Cuál es la naturaleza general del AWB según la presentación?",
+    "options": [
+      "No negociable",
+      "Título marítimo a la orden",
+      "Título negociable al portador",
+      "Certificado de seguro obligatorio"
+    ],
+    "answer": 0,
+    "explanation": "El conocimiento aéreo es un documento no negociable.",
+    "source": "Presentación del profesor, diap. 149",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-181",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué significan las siglas MAWB?",
+    "options": [
+      "Master Air Waybill",
+      "Manual Air Weight Bill",
+      "Main Agency Warehousing Bill",
+      "Maritime Air Waybill"
+    ],
+    "answer": 0,
+    "explanation": "MAWB identifica el conocimiento aéreo Master.",
+    "source": "Presentación del profesor, diap. 150",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-182",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué significan las siglas HAWB?",
+    "options": [
+      "House Air Waybill",
+      "Home Agency Warehousing Bill",
+      "Handling Air Weight Bill",
+      "Harbour Air Waybill"
+    ],
+    "answer": 0,
+    "explanation": "HAWB es el conocimiento aéreo House de transitario.",
+    "source": "Presentación del profesor, diap. 151",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-183",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Quién emite el Master Air Waybill en nombre de la aerolínea según el temario?",
+    "options": [
+      "La aduana del país de destino",
+      "El agente IATA autorizado",
+      "El banco de la empresa vendedora",
+      "El importador de la carga"
+    ],
+    "answer": 1,
+    "explanation": "El MAWB se emite por agente IATA actuando para la compañía aérea.",
+    "source": "Presentación del profesor, diap. 150",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-184",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Quién actúa como transportista del MAWB en el esquema estudiado?",
+    "options": [
+      "La compañía aérea",
+      "El transitario emisor del HAWB",
+      "El asegurador de mercancías",
+      "La autoridad aeroportuaria"
+    ],
+    "answer": 0,
+    "explanation": "El MAWB vincula al cliente o agentes con el porteador aéreo.",
+    "source": "Presentación del profesor, diap. 150",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-185",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Quién emite un House Air Waybill en nombre propio?",
+    "options": [
+      "La autoridad aduanera",
+      "La naviera",
+      "El transitario",
+      "El banco del comprador"
+    ],
+    "answer": 2,
+    "explanation": "El HAWB pertenece a la documentación emitida por el transitario.",
+    "source": "Presentación del profesor, diap. 151",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-186",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Contra quién se formula la reclamación contractual correspondiente a un HAWB emitido por un transitario?",
+    "options": [
+      "Contra el consignatario marítimo",
+      "Contra el transitario",
+      "Contra la naviera",
+      "Contra el banco emisor"
+    ],
+    "answer": 1,
+    "explanation": "El transitario es el porteador contractual frente al cliente bajo su HAWB.",
+    "source": "Presentación del profesor, diap. 151",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-187",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "En una operación con MAWB y HAWB, ¿quiénes aparecen habitualmente en el MAWB como shipper y consignee?",
+    "options": [
+      "Aduana de origen y de llegada",
+      "Aseguradora y banco confirmador",
+      "Transitarios de origen y destino",
+      "Exportador e importador siempre"
+    ],
+    "answer": 2,
+    "explanation": "La presentación usa transitario origen y transitario destino en el Master cuando hay House.",
+    "source": "Presentación del profesor, diap. 150",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-188",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "Sin documento HAWB, ¿quiénes suelen constar en el MAWB como expedidor y destinatario?",
+    "options": [
+      "Banco y compañía aseguradora",
+      "Exportador e importador",
+      "Naviera y agente marítimo",
+      "Transitario origen y destino siempre"
+    ],
+    "answer": 1,
+    "explanation": "Si no existe House, el Master refleja exportador e importador según el profesor.",
+    "source": "Presentación del profesor, diap. 150",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-189",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué diferencia contractual existe entre MAWB y HAWB?",
+    "options": [
+      "HAWB acredita flete marítimo y MAWB aéreo",
+      "MAWB: aerolínea; HAWB: transitario",
+      "MAWB es siempre negociable y HAWB no",
+      "HAWB transfiere la propiedad y MAWB no"
+    ],
+    "answer": 1,
+    "explanation": "El Master vincula a la aerolínea, el House al transitario.",
+    "source": "Presentación del profesor, diap. 150-151",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-190",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué razón puede aconsejar emitir HAWB en lugar de operar solo con MAWB?",
+    "options": [
+      "Sustitución del documento por un CMR",
+      "Mayor flexibilidad con crédito documentario",
+      "Exención automática de todos los aranceles",
+      "Obligación de negociar el AWB al portador"
+    ],
+    "answer": 1,
+    "explanation": "El House facilita condiciones contractuales o documentales particulares.",
+    "source": "Presentación del profesor, diap. 151",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-191",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué documento aéreo suele viajar con la expedición y no funciona como título negociable?",
+    "options": [
+      "Conocimiento marítimo endosado",
+      "Certificado a la orden",
+      "AWB",
+      "B/L a la orden"
+    ],
+    "answer": 2,
+    "explanation": "La presentación indica que el AWB no es negociable y normalmente acompaña a la carga.",
+    "source": "Presentación del profesor, diap. 149",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-192",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Documentos AWB y MAWB/HAWB",
+    "question": "¿Qué dato identifica normalmente el campo consignee del AWB?",
+    "options": [
+      "Destinatario de la carga",
+      "Código de clasificación fiscal",
+      "Cantidad de divisa asegurada",
+      "Tarifa pactada por aduana"
+    ],
+    "answer": 0,
+    "explanation": "Consignee señala al receptor que consta en el conocimiento aéreo.",
+    "source": "Presentación del profesor, diap. 149",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-193",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué convención regula los aspectos principales del transporte internacional por carretera estudiado?",
+    "options": [
+      "Institute Cargo Clauses",
+      "Convenio CMR",
+      "Reglas de La Haya–Visby",
+      "Convenio de Montreal"
+    ],
+    "answer": 1,
+    "explanation": "El CMR regula derechos, obligaciones y responsabilidad en transporte internacional por carretera.",
+    "source": "Presentación del profesor, diap. 182-183",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-194",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué documento sirve de carta de porte en carretera internacional en el curso?",
+    "options": [
+      "AWB",
+      "B/L",
+      "CMR",
+      "VGM"
+    ],
+    "answer": 2,
+    "explanation": "La carta de porte CMR prueba los datos esenciales del transporte por carretera.",
+    "source": "Presentación del profesor, diap. 187-188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-195",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿La carta de porte CMR es negociable como un B/L marítimo a la orden?",
+    "options": [
+      "Sí, siempre por endoso en reverso",
+      "Sí, como un título al portador",
+      "Solo si el camión cruza una frontera",
+      "No, es documento no negociable"
+    ],
+    "answer": 3,
+    "explanation": "La presentación califica la carta de porte CMR como no negociable.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-196",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué información debe poder identificarse en un CMR bien completado?",
+    "options": [
+      "Solo nombre del banco y SWIFT",
+      "Solo seguro, prima y beneficiario",
+      "Exclusivamente matrícula del buque",
+      "Expedidor, receptor, origen y destino"
+    ],
+    "answer": 3,
+    "explanation": "El CMR recoge partes, mercancía y localizaciones de recogida y entrega.",
+    "source": "Presentación del profesor, diap. 183,188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-197",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Por qué es importante conservar un CMR firmado en una entrega intracomunitaria?",
+    "options": [
+      "Sustituye cualquier contrato de seguro",
+      "Convierte automáticamente la venta en DDP",
+      "Elimina toda prueba adicional posible",
+      "Puede probar salida y entrega de mercancías"
+    ],
+    "answer": 3,
+    "explanation": "El curso recalca el valor probatorio del CMR para la exención de IVA, sin exclusividad absoluta.",
+    "source": "Presentación del profesor, diap. 188 y clase",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-198",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "En una entrega intracomunitaria, ¿qué afirmación documental es más prudente?",
+    "options": [
+      "El CMR puede contribuir a probar el transporte",
+      "El CMR es un título de propiedad negociable",
+      "El CMR es siempre el único justificante legal",
+      "El CMR elimina la obligación de acreditar la entrega"
+    ],
+    "answer": 0,
+    "explanation": "El CMR tiene utilidad probatoria importante; la exclusividad documental sería incorrecta.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-199",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué modalidad de carga por carretera agrupa expediciones de distintos clientes?",
+    "options": [
+      "Camión completo dedicado",
+      "Buque de línea regular",
+      "Grupaje o consolidado",
+      "Transporte aéreo urgente"
+    ],
+    "answer": 2,
+    "explanation": "En grupaje se comparten capacidad y operativa entre expediciones.",
+    "source": "Presentación del profesor, diap. 185",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-200",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué modalidad reserva normalmente todo el camión para una única expedición?",
+    "options": [
+      "Envío aéreo parcelado",
+      "Grupaje compartido",
+      "Consolidado de palés",
+      "Camión completo"
+    ],
+    "answer": 3,
+    "explanation": "Camión completo se contrapone a grupaje en el material.",
+    "source": "Presentación del profesor, diap. 185",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-201",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué equivalencia volumétrica utiliza el temario para carretera internacional?",
+    "options": [
+      "1 m³ equivale a 333 kg",
+      "1 m³ equivale a 26 kg",
+      "1 m³ equivale a 1.000 kg",
+      "1 m³ equivale a 167 kg"
+    ],
+    "answer": 0,
+    "explanation": "El documento CMR incluye conversión de 333 kg/m³ para este cálculo de clase.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-202",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "Una partida por carretera ocupa 2 m³. ¿Qué peso volumétrico resulta al aplicar 333 kg/m³?",
+    "options": [
+      "333 kg",
+      "500 kg",
+      "1.000 kg",
+      "666 kg"
+    ],
+    "answer": 3,
+    "explanation": "2 m³ × 333 kg/m³ = 666 kg equivalentes.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-203",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué equivalencia aparece en la presentación para metro lineal de carga en carretera?",
+    "options": [
+      "1.750 kg por metro lineal",
+      "1.000 kg por metro lineal",
+      "167 kg por metro lineal",
+      "333 kg por metro lineal"
+    ],
+    "answer": 0,
+    "explanation": "La diapositiva CMR también señala 1.750 kg por metro lineal.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-204",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Qué convenio se estudia para facilitar tránsito internacional por carretera, sin despachar en cada país atravesado?",
+    "options": [
+      "CIF",
+      "ICC",
+      "AWB",
+      "TIR"
+    ],
+    "answer": 3,
+    "explanation": "El convenio TIR facilita determinadas operaciones de tránsito aduanero.",
+    "source": "Presentación del profesor, diap. 182",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-205",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "¿Cuál de estos hechos puede ser regulado por el Convenio CMR?",
+    "options": [
+      "Traslado de propiedad en una compraventa",
+      "Elección del seguro ICC para CIP",
+      "Número máximo de originales de B/L",
+      "Responsabilidad y reservas por daños"
+    ],
+    "answer": 3,
+    "explanation": "CMR aborda contrato, responsabilidad, reservas y límites.",
+    "source": "Presentación del profesor, diap. 183",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-206",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Carretera y carta de porte CMR",
+    "question": "Una partida por carretera llega con bultos dañados visibles. ¿Qué actuación inmediata encaja con el temario?",
+    "options": [
+      "Esperar 21 días para abrirlos",
+      "Presentar un B/L marítimo nuevo",
+      "Hacer constar reservas al recibir",
+      "Firmar conforme sin revisar los bultos"
+    ],
+    "answer": 2,
+    "explanation": "La constancia inmediata del daño aparente protege la prueba.",
+    "source": "Presentación del profesor, diap. 183",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "ti-207",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "¿Qué asociación de modo y documento es correcta?",
+    "options": [
+      "Aéreo: AWB",
+      "Carretera: B/L",
+      "Marítimo: CMR",
+      "Aéreo: CIM"
+    ],
+    "answer": 0,
+    "explanation": "El conocimiento aéreo se denomina AWB.",
+    "source": "Presentación del profesor, diap. 95,149,188",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-208",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "Al relacionar los principales modos de transporte y sus documentos, ¿qué pareja es válida para el marítimo?",
+    "options": [
+      "Marítimo: CIM",
+      "Carretera: AWB",
+      "Marítimo: B/L",
+      "Aéreo: CMR"
+    ],
+    "answer": 2,
+    "explanation": "El documento marítimo de referencia es el Bill of Lading.",
+    "source": "Presentación del profesor, diap. 95,149,188",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-209",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "¿Qué documento se conoce por las siglas CIM?",
+    "options": [
+      "Carta de porte por carretera internacional",
+      "Carta de porte marítima internacional",
+      "Carta de porte ferroviaria internacional",
+      "Conocimiento aéreo de línea regular"
+    ],
+    "answer": 2,
+    "explanation": "CIM identifica la carta de porte ferroviaria; se incluye solo por tu petición documental.",
+    "source": "Presentación del profesor, diap. 203",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-210",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "Si una operación está documentada con un CMR, ¿qué modo de transporte refleja?",
+    "options": [
+      "Transporte aéreo",
+      "Transporte ferroviario",
+      "Carretera internacional",
+      "Transporte marítimo"
+    ],
+    "answer": 2,
+    "explanation": "CMR es la carta de porte por carretera internacional.",
+    "source": "Presentación del profesor, diap. 188",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-211",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "¿Qué pareja documental puede coexistir en una expedición aérea consolidada?",
+    "options": [
+      "CMR y B/L siempre",
+      "MBL y HBL siempre",
+      "CIM y VGM siempre",
+      "MAWB y HAWB"
+    ],
+    "answer": 3,
+    "explanation": "MAWB y HAWB documentan relaciones contractuales diferenciadas.",
+    "source": "Presentación del profesor, diap. 150-151",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-212",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Identificación documental (incluido CIM)",
+    "question": "¿Qué pareja documental puede coexistir en un envío marítimo gestionado por un transitario?",
+    "options": [
+      "MAWB y HAWB",
+      "AWB y HAWB",
+      "CMR y CIM",
+      "MBL y HBL"
+    ],
+    "answer": 3,
+    "explanation": "Los conocimientos Master y House pueden coexistir en la misma operación marítima.",
+    "source": "Presentación del profesor, diap. 96-97",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-213",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el ejercicio marítimo de vino, ¿cuál es el precio EXW Madrid si mercancía y embalaje son 60.000 y 1.000 USD?",
+    "options": [
+      "61.850 USD",
+      "61.000 USD",
+      "60.000 USD",
+      "61.140 USD"
+    ],
+    "answer": 1,
+    "explanation": "EXW del ejercicio suma mercancía (60.000) y embalaje (1.000).",
+    "source": "Presentación del profesor, diap. 103-107",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-214",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Si el EXW del ejercicio de vino es 61.000 USD, cargar cuesta 90 y exportar cuesta 50, ¿qué precio FCA fábrica resulta?",
+    "options": [
+      "61.710 USD",
+      "61.050 USD",
+      "61.090 USD",
+      "61.140 USD"
+    ],
+    "answer": 3,
+    "explanation": "61.000 + 90 + 50 = 61.140 USD para FCA fábrica.",
+    "source": "Presentación del profesor, diap. 109-110",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-215",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Partiendo de FCA fábrica 61.140 USD, ¿qué precio FCA puerto resulta con transporte interior de 710 USD?",
+    "options": [
+      "61.850 USD",
+      "62.140 USD",
+      "61.430 USD",
+      "61.710 USD"
+    ],
+    "answer": 0,
+    "explanation": "61.140 + 710 = 61.850 USD.",
+    "source": "Presentación del profesor, diap. 112-113",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-216",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el caso del vino, ¿qué precio FOB Valencia obtiene la presentación después de añadir gastos portuarios?",
+    "options": [
+      "63.286 USD",
+      "62.186 USD",
+      "63.636 USD",
+      "61.850 USD"
+    ],
+    "answer": 1,
+    "explanation": "El ejercicio resuelto sitúa FOB Valencia en 62.186 USD.",
+    "source": "Presentación del profesor, diap. 115-116",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-217",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Si el precio FOB de vino es 62.186 USD y se añaden flete 950 y BAF 150, ¿cuál es el CFR?",
+    "options": [
+      "62.336 USD",
+      "63.636 USD",
+      "63.136 USD",
+      "63.286 USD"
+    ],
+    "answer": 3,
+    "explanation": "62.186 + 950 + 150 = 63.286 USD.",
+    "source": "Presentación del profesor, diap. 118-119",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-218",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Si CFR Veracruz vale 63.286 USD y la prima CIF son 350 USD, ¿qué precio CIF arroja el supuesto?",
+    "options": [
+      "64.286 USD",
+      "63.286 USD",
+      "63.636 USD",
+      "63.586 USD"
+    ],
+    "answer": 2,
+    "explanation": "La cotización comercial suma prima 350 al precio CFR: 63.636 USD.",
+    "source": "Presentación del profesor, diap. 121-122",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-219",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "¿Cuál es la diferencia económica entre una cotización CIF de 63.636 USD y su correspondiente CFR de 63.286 USD?",
+    "options": [
+      "1.100 USD de traslado",
+      "950 USD de flete",
+      "350 USD de prima",
+      "150 USD de recargo"
+    ],
+    "answer": 2,
+    "explanation": "La diferencia es la prima de seguro CIF del ejercicio.",
+    "source": "Presentación del profesor, diap. 119-122",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-220",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el ejercicio del vino, ¿cuál es el precio DAP Ciudad de México obtenido?",
+    "options": [
+      "73.306 USD",
+      "62.186 USD",
+      "65.016 USD",
+      "63.636 USD"
+    ],
+    "answer": 2,
+    "explanation": "La solución resuelta indica 65.016 USD para DAP.",
+    "source": "Presentación del profesor, diap. 124-125",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-221",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el ejercicio del vino, ¿cuál es el precio DDP Ciudad de México obtenido?",
+    "options": [
+      "73.306 USD",
+      "63.636 USD",
+      "65.016 USD",
+      "74.306 USD"
+    ],
+    "answer": 0,
+    "explanation": "El ejercicio con despacho, tributos y prima DDP asciende a 73.306 USD.",
+    "source": "Presentación del profesor, diap. 127-128",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-222",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Al pasar de DAP a DDP con distintas primas en los ejercicios, ¿qué operación evita contar dos seguros?",
+    "options": [
+      "Descontar los aranceles al vendedor",
+      "Duplicar la prima DAP y no sumar DDP",
+      "Retirar la prima DAP y sumar la de DDP",
+      "Mantener ambas primas en el precio final"
+    ],
+    "answer": 2,
+    "explanation": "En los casos del profesor se sustituye la prima del término de partida por la nueva.",
+    "source": "Presentación del profesor, diap. 125-128",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-223",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Un precio DAP incluye 325 USD de seguro. Para obtener DDP con prima 365 USD, ¿cómo tratar esas primas?",
+    "options": [
+      "Restar 325 y añadir 365 USD",
+      "Ignorar ambas primas siempre",
+      "Restar 365 y mantener 325 USD",
+      "Sumar 325 y añadir 365 USD"
+    ],
+    "answer": 0,
+    "explanation": "Cuando cambian los riesgos o las coberturas no se acumulan primas de pólizas distintas.",
+    "source": "Presentación del profesor, diap. 125-128",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-224",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el supuesto de joyería aérea, ¿cuál es el precio EXW Shanghái calculado?",
+    "options": [
+      "40.330 USD",
+      "40.300 USD",
+      "41.410 USD",
+      "40.380 USD"
+    ],
+    "answer": 1,
+    "explanation": "EXW incluye mercancía y embalaje por 40.300 USD.",
+    "source": "Presentación del profesor, diap. 155-160",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-225",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el supuesto de joyería aérea, ¿cuál es el precio FCA fábrica Shanghái?",
+    "options": [
+      "40.380 USD",
+      "40.330 USD",
+      "41.735 USD",
+      "40.300 USD"
+    ],
+    "answer": 1,
+    "explanation": "Se añaden carga y exportación al EXW para obtener FCA fábrica.",
+    "source": "Presentación del profesor, diap. 162-163",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-226",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el supuesto de joyería aérea, ¿cuál es el precio FCA aeropuerto Shanghái?",
+    "options": [
+      "41.410 USD",
+      "40.380 USD",
+      "40.330 USD",
+      "41.735 USD"
+    ],
+    "answer": 1,
+    "explanation": "Se incorpora el traslado al aeropuerto de origen al FCA fábrica.",
+    "source": "Presentación del profesor, diap. 165-166",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-227",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el supuesto de joyería aérea, ¿cuál es el precio CPT aeropuerto JFK Nueva York?",
+    "options": [
+      "41.735 USD",
+      "42.085 USD",
+      "40.380 USD",
+      "41.410 USD"
+    ],
+    "answer": 3,
+    "explanation": "El resultado del escandallo aéreo CPT es 41.410 USD.",
+    "source": "Presentación del profesor, diap. 168-169",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-228",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Un precio CPT JFK es 41.410 USD y la prima CIP indicada es 325 USD. ¿Cuál es el precio CIP?",
+    "options": [
+      "41.410 USD",
+      "41.735 USD",
+      "41.685 USD",
+      "42.085 USD"
+    ],
+    "answer": 1,
+    "explanation": "41.410 + 325 = 41.735 USD, conforme al ejercicio.",
+    "source": "Presentación del profesor, diap. 171-172",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-229",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el ejercicio aéreo, ¿cuál es el precio DAP Pensilvania indicado por el profesor?",
+    "options": [
+      "42.085 USD",
+      "43.535 USD",
+      "41.410 USD",
+      "41.735 USD"
+    ],
+    "answer": 0,
+    "explanation": "El caso resuelto da 42.085 USD en DAP.",
+    "source": "Presentación del profesor, diap. 174-175",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-230",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "En el ejercicio aéreo, ¿cuál es el precio DDP Pensilvania indicado por el profesor?",
+    "options": [
+      "42.085 USD",
+      "44.535 USD",
+      "41.735 USD",
+      "43.535 USD"
+    ],
+    "answer": 3,
+    "explanation": "El ejercicio de joyería concluye con precio DDP 43.535 USD.",
+    "source": "Presentación del profesor, diap. 177-178",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-231",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "Un proveedor oferta CIF Valencia por 16.375 USD y gestionar desde FOB cuesta 16.097,74 USD. ¿Qué ahorro resulta?",
+    "options": [
+      "227,26 USD",
+      "277,26 USD",
+      "177,26 USD",
+      "377,26 USD"
+    ],
+    "answer": 1,
+    "explanation": "16.375 − 16.097,74 = 277,26 USD a favor de gestionar el transporte.",
+    "source": "Presentación del profesor, diap. 130-136",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-232",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "¿Por qué el profesor prefiere a menudo comprar FOB o FCA frente a aceptar CIF del proveedor?",
+    "options": [
+      "Se elimina siempre todo coste del transporte",
+      "Da mayor control sobre transporte y seguro",
+      "El vendedor retiene el riesgo hasta destino en FOB",
+      "Es obligatorio por los Incoterms 2020"
+    ],
+    "answer": 1,
+    "explanation": "Se busca control de proveedor logístico, coste y seguro; no es una obligación jurídica.",
+    "source": "Presentación del profesor, diap. 130-136",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "ti-233",
+    "subject": "logistica",
+    "subjectName": "Logística y Transporte Internacional",
+    "topic": "Cotizaciones y cálculo de precios",
+    "question": "¿Qué diferencia hay entre el capital asegurado y la prima de seguro de una mercancía?",
+    "options": [
+      "El capital es el flete y la prima el arancel",
+      "El capital es el embalaje y la prima el peso",
+      "El capital es el IVA y la prima el seguro social",
+      "El capital es el riesgo cubierto y la prima el precio"
+    ],
+    "answer": 3,
+    "explanation": "El capital asegurado mide importe cubierto; la prima es lo abonado por la póliza.",
+    "source": "Presentación del profesor, diap. 68-69",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  }
+]
