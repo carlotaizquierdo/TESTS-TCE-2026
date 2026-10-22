@@ -1,49 +1,31 @@
-# TESTS TCE 2026
+# Tests TCE 2026 · Contratación y Logística
 
-Aplicación de estudio para el Programa de Técnicos de Comercio Exterior 2026.
+Aplicación de práctica para el Programa de Técnicos de Comercio Exterior 2026.
 
-## Funcionamiento
-- Tests de 4 opciones.
-- +1 respuesta correcta.
-- -0,33 respuesta incorrecta.
-- 0 en blanco.
-- Selección de asignaturas, dificultad y número de preguntas.
-- Cada intento genera una tanda nueva a partir de conceptos del temario, con variación de formulación, distractores y orden.
-- Evita repetir en exceso conceptos vistos recientemente.
-- Prioriza contenido marcado como EXAMEN/clave y conceptos fallados.
-- Repetición de falladas.
-- Historial y estadísticas guardadas localmente en el dispositivo.
-- Sincronización opcional con Google Sheets: registra cada test por asignatura, nota, aciertos/fallos y marca automáticamente "Test hecho" en el plan de repaso.
-- Carga local de PDF, DOCX y TXT para crear ejercicios sin coste de IA.
-- PWA instalable en iPad mediante Safari > Compartir > Añadir a pantalla de inicio.
+## Materias disponibles
+- **Contratación Internacional**: 320 preguntas del banco preexistente \(`data/derecho.json`\).
+- **Logística y Transporte Internacional (Incoterms® 2020)**: 233 preguntas, organizadas en 14 bloques \(`data/logistica.json`\).
 
-## Temario inicial
-1. Estrategias de Negocios Internacionales (I y II)
-2. Cross Cultural
-3. COCIM (Presentación)
-4. Internet como Fuente de Información de Comercio Internacional (I y II)
-5. Protocolo (I y II)
-6. Instrumentos de Análisis Económicos
-7. Instituciones Multilaterales / Taller de Multilaterales (I y II)
-8. Fundamentos de Economía
-9. Contratación Internacional Derecho
-10. Cómo hablar en público
+Solo se presentan esas dos materias en el selector. Los bancos antiguos de otras asignaturas se conservan en el historial del repositorio y en sus archivos sin cargarse en la aplicación.
 
-## Publicación gratuita
-Para GitHub Pages gratuito con una cuenta personal, lo más sencillo es mantener el repositorio público y después activar Pages desde Settings > Pages, rama main, carpeta /(root).
+## Funciones
 
-La generación local no requiere API ni servicio de IA de pago. Puede añadirse más adelante un proveedor con cuota gratuita para preguntas más sofisticadas.
+- Cuatro alternativas por pregunta, con orden barajado.
+- Aciertos +1, errores −0,33, blancos 0.
+- Selección de asignatura, número de preguntas y dificultad.
+- Corrección, explicación y repaso de fallos al terminar.
+- Estadísticas por las dos asignaturas, y guardado local del historial.
+- Sincronización opcional de resultados con Google Sheets.
+- Diseño responsive e instalable desde el navegador.
 
+## Alcance de Logística
 
-## Sincronización con Google Sheets
-La web sigue siendo estática y gratuita en GitHub Pages. Para escribir en una hoja privada de Google Sheets se usa un Web App gratuito de Google Apps Script.
+Incluye Incoterms® 2020, costes y riesgos, seguros, responsabilidad del transportista y DEG, documentación AWB/B/L/CMR, identificación de CIM, agentes IATA, contenedores 20' y 40', transporte marítimo, aéreo y carretera, y casos de cálculo.
 
-1. Abre la hoja de seguimiento en Google Sheets.
-2. Ve a **Extensiones > Apps Script**.
-3. Copia el contenido de `google-apps-script/Code.gs` en `Code.gs`.
-4. Ve a **Implementar > Nueva implementación > Aplicación web**.
-5. Selecciona **Ejecutar como: Tú** y **Quién tiene acceso: Cualquiera**.
-6. Copia la URL terminada en `/exec`.
-7. En Tests TCE abre **Estadísticas > Google Sheets**, pega la URL y pulsa **Guardar conexión**.
+Se excluyen mercancías especiales y el desarrollo del ferrocarril, siguiendo las indicaciones del profesor. El AWB y el CMR son no negociables; determinados B/L marítimos sí pueden serlo.
 
-La URL del Web App se guarda únicamente en `localStorage` del dispositivo y no se publica en el repositorio.
+## Publicar / abrir
+
+El repositorio puede servirse desde GitHub Pages mediante `Settings > Pages > Deploy from a branch > main > /(root)`. Su página mantiene la misma dirección si ya estaba configurada.
+
+Las estadísticas y la conexión con Sheets se guardan en el navegador. No se borran los intentos anteriores del dispositivo, aunque la vista filtra otras asignaturas.
