@@ -1,26 +1,7 @@
-const BANK_FILES=[
-  "estrategias","cross","cocim","internet","protocolo","instrumentos","organismos","fundamentos","derecho","hablar_publico",
-  "fiscalidad2","ferias2","vui2","promocion2","economia_madrid2","riesgo_pais2","riesgos_contractuales2","analisis_financiero2"
-];
+const BANK_FILES=["derecho","logistica"];
 const LABELS={
-  estrategias:"Estrategias de Negocios Internacionales (I y II)",
-  cross:"Cross Cultural",
-  cocim:"COCIM (Presentación)",
-  internet:"Internet como Fuente de Información de Comercio Internacional (I y II)",
-  protocolo:"Protocolo (I y II)",
-  instrumentos:"Instrumentos de Análisis Económicos",
-  organismos:"Instituciones Multilaterales / Taller de Multilaterales (I y II)",
-  fundamentos:"Fundamentos de Economía",
-  derecho:"Contratación Internacional Derecho",
-  hablar_publico:"Cómo hablar en público",
-  fiscalidad2:"2º parcial · Fiscalidad Internacional",
-  ferias2:"2º parcial · Ferias Internacionales",
-  vui2:"2º parcial · Ventanilla Única Internacional",
-  promocion2:"2º parcial · Instrumentos de Promoción Exterior",
-  economia_madrid2:"2º parcial · Economía de la Comunidad de Madrid",
-  riesgo_pais2:"2º parcial · Riesgo País",
-  riesgos_contractuales2:"2º parcial · Multilaterales · Riesgos Contractuales",
-  analisis_financiero2:"2º parcial · Análisis Financiero y Valoración"
+  derecho:"Contratación Internacional",
+  logistica:"Logística y Transporte Internacional · Incoterms® 2020"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
@@ -38,24 +19,11 @@ async function loadBanks(){
   buildSubjects();
 }
 function buildSubjects(){
-  const built=BANK_FILES.map((k,i)=>{
-    const approvedCount=bank.filter(q=>q.subject===k&&q.approved===true).length;
-    const main=`
-      <label class="subject"><input type="checkbox" value="${k}" ${i<3?"checked":""}>
-      <span><strong>${LABELS[k]}</strong><small class="muted"> ${approvedCount} preguntas aprobadas</small></span></label>
-    `;
-    if(k!=="estrategias") return main;
-    const part2Count=bank.filter(q=>q.subject==="estrategias"&&q.approved===true&&q.part===2).length;
-    return main+`
-      <label class="subject"><input type="checkbox" value="estrategias2">
-      <span><strong>Estrategias · 2ª parte</strong><small class="muted"> ${part2Count} preguntas específicas</small></span></label>
-    `;
+  $("subjects").innerHTML=BANK_FILES.map((k,i)=>{
+    const n=bank.filter(q=>q.subject===k&&q.approved===true).length;
+    return `<label class="subject"><input type="checkbox" value="${k}" ${i===0?"checked":""}>
+      <span><strong>${LABELS[k]}</strong><small class="muted">${n} preguntas aprobadas</small></span></label>`;
   }).join("");
-  const local=localDocs.map(d=>`
-    <label class="subject"><input type="checkbox" value="local:${d.id}">
-    <span><strong>${esc(d.subject)}</strong><small class="muted"> ${esc(d.name)} · generación nueva desde el documento</small></span></label>
-  `).join("");
-  $("subjects").innerHTML=built+local;
 }
 document.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
 function showView(id){
@@ -265,9 +233,9 @@ function renderStats(){
   const per={};
   h.forEach(x=>{
     if(Array.isArray(x.perSubject)&&x.perSubject.length){
-      x.perSubject.forEach(p=>{per[p.key]??={n:0,sum:0,name:p.name||LABELS[p.key]||p.key};per[p.key].n++;per[p.key].sum+=p.grade});
+      x.perSubject.filter(p=>BANK_FILES.includes(p.key)).forEach(p=>{per[p.key]??={n:0,sum:0,name:p.name||LABELS[p.key]||p.key};per[p.key].n++;per[p.key].sum+=p.grade});
     }else{
-      (x.subjects||[]).forEach(s=>{per[s]??={n:0,sum:0,name:LABELS[s]||s};per[s].n++;per[s].sum+=x.grade});
+      (x.subjects||[]).filter(s=>BANK_FILES.includes(s)).forEach(s=>{per[s]??={n:0,sum:0,name:LABELS[s]||s};per[s].n++;per[s].sum+=x.grade});
     }
   });
   const worst=Object.entries(m).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([id,n])=>({q:bank.find(x=>x.id===id),n})).filter(x=>x.q);
