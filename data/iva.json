@@ -1,0 +1,458 @@
+[
+  {
+    "id": "iva-001",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Operaciones nacionales",
+    "question": "Una consultora española factura a otra empresa española 1.000 € más IVA. ¿Cómo declara el vendedor la cuota?",
+    "options": [
+      "Como IVA devengado en el modelo 303",
+      "Como IVA deducible en el modelo 303",
+      "Como operación exenta en el modelo 349",
+      "Como IVA diferido en la casilla 77"
+    ],
+    "answer": 0,
+    "explanation": "Operaciones nacionales: el vendedor repercute el IVA y lo declara como devengado.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-002",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Operaciones nacionales",
+    "question": "Una empresa española recibe una factura nacional con IVA por un servicio afecto a su actividad y tiene derecho a deducción. ¿Qué tratamiento procede?",
+    "options": [
+      "Declararlo como recargo de equivalencia",
+      "Deducir el IVA soportado en el modelo 303",
+      "Ingresarlo mediante el modelo 380",
+      "Declararlo como exportación exenta"
+    ],
+    "answer": 1,
+    "explanation": "El receptor puede deducir el IVA soportado si cumple los requisitos de deducibilidad.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-003",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Recargo de equivalencia",
+    "question": "Un mayorista español vende a un minorista sujeto al recargo de equivalencia. ¿Qué debe figurar en la factura según el resumen?",
+    "options": [
+      "Solo recargo de equivalencia",
+      "Solo IVA, sin recargo adicional",
+      "IVA y recargo de equivalencia",
+      "Ninguna cuota de IVA ni recargo"
+    ],
+    "answer": 2,
+    "explanation": "El proveedor repercute IVA y recargo de equivalencia al minorista acogido.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-004",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Recargo de equivalencia",
+    "question": "Un minorista en recargo de equivalencia paga IVA y recargo a su proveedor. ¿Qué puede hacer ordinariamente con esas cuotas?",
+    "options": [
+      "Deducir ambas en el modelo 303",
+      "Recuperarlas todas mediante el 349",
+      "Compensarlas con el IVA diferido",
+      "No deducirlas como IVA soportado ordinario"
+    ],
+    "answer": 3,
+    "explanation": "El resumen señala que el minorista no recupera las cuotas pagadas por el procedimiento ordinario.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-005",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Operaciones intracomunitarias",
+    "question": "Una empresa española entrega bienes a una empresa francesa con NIF-IVA válido, y los bienes salen de España hacia Francia. ¿Qué factura corresponde en el supuesto del temario?",
+    "options": [
+      "Factura sin IVA por entrega intracomunitaria exenta",
+      "Factura con IVA español repercutido",
+      "Factura con IVA francés repercutido",
+      "Factura con recargo de equivalencia"
+    ],
+    "answer": 0,
+    "explanation": "El resumen exige identificar a ambas partes y acreditar la salida intracomunitaria para la exención.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-006",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Operaciones intracomunitarias",
+    "question": "Una empresa española compra bienes a un proveedor alemán que factura sin IVA. Tiene derecho a deducción íntegra. ¿Qué declara en España?",
+    "options": [
+      "Solo IVA deducible sin devengo",
+      "IVA devengado y deducible por adquisición intracomunitaria",
+      "IVA de importación pagado en aduana",
+      "Una exportación exenta en el 349"
+    ],
+    "answer": 1,
+    "explanation": "La adquisición intracomunitaria exige autorrepercusión y, si procede, deducción simultánea.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-007",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Servicios de transporte",
+    "question": "Una empresa española contrata un servicio de transporte con una empresa española para su actividad. ¿Cómo se factura según el supuesto general del resumen?",
+    "options": [
+      "Sin IVA por ser un transporte",
+      "Con IVA diferido en la aduana",
+      "Con IVA español que podrá deducirse si procede",
+      "Con un recargo aduanero del 3 %"
+    ],
+    "answer": 2,
+    "explanation": "El documento distingue transporte prestado por empresa española y por operador de otro Estado miembro.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-008",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Exportaciones",
+    "question": "Una empresa española vende mercancía a un comprador de Chile y acredita su salida de la UE mediante el despacho correspondiente. ¿Qué tratamiento tiene la venta?",
+    "options": [
+      "Sujeta a IVA nacional ordinario",
+      "Sujeta al recargo de equivalencia",
+      "Asimilada a una compra intracomunitaria",
+      "Exenta de IVA por exportación"
+    ],
+    "answer": 3,
+    "explanation": "La exención por exportación requiere acreditar el despacho y la salida del territorio correspondiente.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-009",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Importaciones",
+    "question": "Una empresa importa mercancías de un tercer país sin acogerse al IVA diferido. ¿Cuándo abona normalmente el IVA de importación?",
+    "options": [
+      "En el despacho de importación",
+      "Al presentar el modelo 349",
+      "Solo al revender la mercancía",
+      "Al emitir una factura de exportación"
+    ],
+    "answer": 0,
+    "explanation": "El resumen describe el ingreso en aduana y la posible deducción posterior en el 303.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-010",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "IVA diferido",
+    "question": "Una importadora acogida al IVA diferido recibe una liquidación aduanera de 2.100 €. ¿Qué caracteriza al sistema?",
+    "options": [
+      "El IVA queda exento definitivamente",
+      "Declara el IVA de importación en el modelo 303",
+      "Debe pagar de nuevo en aduana y en el 303",
+      "Sustituye el IVA por el arancel"
+    ],
+    "answer": 1,
+    "explanation": "El diferimiento desplaza el ingreso a la autoliquidación periódica; la cuota puede ser deducible si procede.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-011",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "IVA diferido",
+    "question": "Una empresa con derecho íntegro a deducción difiere 4.200 € de IVA de importación. ¿Cuál es el efecto neto de esa cuota en su autoliquidación, sin otras operaciones?",
+    "options": [
+      "4.200 € a ingresar sin deducción",
+      "4.200 € a devolver automáticamente",
+      "Cero euros tras devengo y deducción",
+      "8.400 € a ingresar por duplicado"
+    ],
+    "answer": 2,
+    "explanation": "La cuota diferida se incorpora como pendiente de ingreso y puede deducirse en la misma autoliquidación.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-012",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "IVA diferido",
+    "question": "En el sistema de IVA diferido, ¿en qué casilla identifica el resumen la cuota de importación pendiente de ingreso?",
+    "options": [
+      "Casilla 77 del modelo 349",
+      "Casilla 33 del modelo 380",
+      "Casilla 77 del modelo 390",
+      "Casilla 77 del modelo 303"
+    ],
+    "answer": 3,
+    "explanation": "El documento sitúa la cuota diferida pendiente de ingreso en la casilla 77 del modelo 303.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-013",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una pyme entra en el régimen de devolución mensual de IVA mencionado en el material. ¿Qué sistema de información debe utilizar según el resumen?",
+    "options": [
+      "Suministro Inmediato de Información (SII)",
+      "Sistema TIR de tránsito",
+      "Declaración ENS de seguridad",
+      "Documento DAE de exportación"
+    ],
+    "answer": 0,
+    "explanation": "El resumen relaciona devolución mensual y diferimiento con la obligación de declarar mediante el SII.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-014",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una empresa española necesita presentar su autoliquidación periódica de IVA. ¿Qué modelo identifica el temario?",
+    "options": [
+      "Modelo 349",
+      "Modelo 303",
+      "Modelo 380",
+      "Modelo 308"
+    ],
+    "answer": 1,
+    "explanation": "El modelo 303 se emplea para la autoliquidación mensual o trimestral del IVA.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-015",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una sociedad informa de sus operaciones intracomunitarias en la declaración recapitulativa. ¿Qué modelo utiliza?",
+    "options": [
+      "Modelo 303",
+      "Modelo 380",
+      "Modelo 349",
+      "Modelo 390"
+    ],
+    "answer": 2,
+    "explanation": "El resumen asigna al 349 la declaración recapitulativa de operaciones intracomunitarias.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-016",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Un minorista en recargo de equivalencia devuelve IVA a un viajero no residente en la UE por compras elegibles. ¿Qué modelo cita el temario para solicitar el reembolso?",
+    "options": [
+      "Modelo 309",
+      "Modelo 347",
+      "Modelo 360",
+      "Modelo 308"
+    ],
+    "answer": 3,
+    "explanation": "El documento menciona el 308 para solicitudes de devolución del recargo en estas operaciones.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-017",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Un extractor retira mercancías de un depósito distinto del aduanero. ¿Qué modelo menciona el resumen para el IVA de extracción?",
+    "options": [
+      "Modelo 380",
+      "Modelo 349",
+      "Modelo 360",
+      "Modelo 347"
+    ],
+    "answer": 0,
+    "explanation": "El resumen identifica el modelo 380 para la operación de extracción del DDA, con particularidades.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-018",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una empresa española solicita recuperar IVA soportado en otro Estado miembro mediante el procedimiento previsto. ¿Qué modelo señala el temario?",
+    "options": [
+      "Modelo 308",
+      "Modelo 360",
+      "Modelo 309",
+      "Modelo 380"
+    ],
+    "answer": 1,
+    "explanation": "El documento menciona el modelo 360 para solicitudes de devolución de cuotas soportadas fuera de España.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-019",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una empresa realiza ventas a distancia comprendidas en los regímenes especiales de ventanilla única. ¿Qué modelo identifica el resumen?",
+    "options": [
+      "Modelo 390",
+      "Modelo 347",
+      "Modelo 369",
+      "Modelo 309"
+    ],
+    "answer": 2,
+    "explanation": "El modelo 369 se asocia a la autoliquidación de los regímenes especiales de ventanilla única.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-020",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Base imponible importación",
+    "question": "Al calcular el IVA de importación, una empresa conoce valor en aduana, arancel y determinados gastos accesorios. ¿Cuál es la idea correcta?",
+    "options": [
+      "La base coincide solo con el precio EXW",
+      "La base excluye cualquier derecho aduanero",
+      "La base se limita al peso bruto importado",
+      "La base puede incluir aranceles y gastos accesorios previstos"
+    ],
+    "answer": 3,
+    "explanation": "El resumen incluye valor en aduana, derechos y gastos adicionales en la base de IVA a la importación.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-021",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Cálculo IVA",
+    "question": "Una empresa tiene un IVA devengado de 3.000 € y cuotas deducibles de 1.900 € en el período, sin ajustes. ¿Qué resultado aritmético obtiene?",
+    "options": [
+      "1.100 € a ingresar",
+      "1.900 € a ingresar",
+      "3.000 € a devolver",
+      "4.900 € a ingresar"
+    ],
+    "answer": 0,
+    "explanation": "La cuota neta se obtiene restando el IVA deducible al devengado: 3.000 − 1.900.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-022",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Operaciones intracomunitarias",
+    "question": "Una empresa recibe una factura de un operador intracomunitario por un servicio sujeto a inversión del sujeto pasivo en España. ¿Cuál es la mecánica que expone el resumen?",
+    "options": [
+      "Pagar el IVA español al proveedor extranjero",
+      "Declarar el IVA devengado y, si procede, deducible",
+      "Presentar un DUA de importación por el servicio",
+      "Declarar exclusivamente el IVA en el modelo 380"
+    ],
+    "answer": 1,
+    "explanation": "El resumen explica la inversión del sujeto pasivo como devengo y deducción en la autoliquidación.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-023",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Exportaciones",
+    "question": "Una empresa vende a un cliente de fuera de la UE pero la mercancía no sale del territorio correspondiente. ¿Puede presumirse la exención por exportación?",
+    "options": [
+      "Sí, por la residencia del comprador",
+      "Sí, por facturar en moneda extranjera",
+      "No; debe acreditarse la salida exigida",
+      "Sí, por utilizar un Incoterm marítimo"
+    ],
+    "answer": 2,
+    "explanation": "La exención de exportación no se basa solo en la nacionalidad o residencia del comprador.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "iva-024",
+    "subject": "iva",
+    "subjectName": "IVA · Comercio exterior",
+    "topic": "Modelos y obligaciones",
+    "question": "Una empresa quiere identificar el resumen anual de IVA en el temario. ¿Qué modelo debe seleccionar?",
+    "options": [
+      "Modelo 303",
+      "Modelo 349",
+      "Modelo 369",
+      "Modelo 390"
+    ],
+    "answer": 3,
+    "explanation": "El documento identifica el 390 como resumen anual del IVA.",
+    "source": "2026-10-19 IVA RESUMEN.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
