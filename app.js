@@ -1,7 +1,9 @@
-const BANK_FILES=["derecho","logistica"];
+const BANK_FILES=["derecho","logistica","iva","aduanas"];
 const LABELS={
   derecho:"Contratación Internacional",
-  logistica:"Logística y Transporte Internacional · Incoterms® 2020"
+  logistica:"Logística y Transporte Internacional · Incoterms® 2020",
+  iva:"IVA · Comercio exterior",
+  aduanas:"Regímenes Aduaneros"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
