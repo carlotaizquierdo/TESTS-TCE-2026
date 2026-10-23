@@ -1,4 +1,4 @@
-# Tests TCE 2026 · Contratación y Logística
+# Tests TCE 2026 · Contratación, Logística, IVA y Aduanas
 
 Aplicación de práctica para el Programa de Técnicos de Comercio Exterior 2026.
 
@@ -6,7 +6,7 @@ Aplicación de práctica para el Programa de Técnicos de Comercio Exterior 2026
 - **Contratación Internacional**: 320 preguntas del banco preexistente \(`data/derecho.json`\).
 - **Logística y Transporte Internacional (Incoterms® 2020)**: 233 preguntas, organizadas en 14 bloques \(`data/logistica.json`\).
 
-Solo se presentan esas dos materias en el selector. Los bancos antiguos de otras asignaturas se conservan en el historial del repositorio y en sus archivos sin cargarse en la aplicación.
+Se presentan estas cuatro materias en el selector, con bancos independientes. Los bancos antiguos de otras asignaturas se conservan en el historial del repositorio y en sus archivos sin cargarse en la aplicación.
 
 ## Funciones
 
@@ -29,3 +29,8 @@ Se excluyen mercancías especiales y el desarrollo del ferrocarril, siguiendo la
 El repositorio puede servirse desde GitHub Pages mediante `Settings > Pages > Deploy from a branch > main > /(root)`. Su página mantiene la misma dirección si ya estaba configurada.
 
 Las estadísticas y la conexión con Sheets se guardan en el navegador. No se borran los intentos anteriores del dispositivo, aunque la vista filtra otras asignaturas.
+
+- **IVA · Comercio exterior**: 24 casos prácticos del archivo «2026-10-19 IVA RESUMEN.pdf» (`data/iva.json`).
+- **Regímenes Aduaneros**: 28 casos prácticos del archivo «2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf» (`data/aduanas.json`).
+
+Las 52 preguntas nuevas tienen cuatro alternativas y respuesta correcta equilibrada A/B/C/D. Están fundamentadas en los resúmenes del curso, no constituyen una actualización normativa exhaustiva.
