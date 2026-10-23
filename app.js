@@ -13,8 +13,11 @@ const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\
 
 async function loadBanks(){
   const chunks=await Promise.all(BANK_FILES.map(async f=>{
-    const r=await fetch("data/"+f+".json");
-    return r.json();
+    const r=await fetch("data/"+f+".json?v=20261023b",{cache:"no-store"});
+    if(!r.ok)throw new Error("No se pudo cargar "+f+" (HTTP "+r.status+")");
+    const data=await r.json();
+    if(!Array.isArray(data))throw new Error("Formato incorrecto en "+f);
+    return data;
   }));
   bank=chunks.flat();
   localDocs=await loadLocalDocs();
@@ -379,6 +382,10 @@ $("generateBtn").addEventListener("click",async()=>{
 let deferredPrompt=null;
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredPrompt=e;$("installBtn").classList.remove("hidden")});
 $("installBtn").addEventListener("click",async()=>{if(deferredPrompt){deferredPrompt.prompt();deferredPrompt=null}else alert("En iPad: Safari → Compartir → Añadir a pantalla de inicio.")});
-if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");
+if("serviceWorker" in navigator){navigator.serviceWorker.getRegistrations().then(rs=>Promise.all(rs.map(r=>r.unregister()))).catch(console.warn)}
 refreshSheetsUi();
-loadBanks();
+loadBanks().catch(err=>{
+  console.error("Error al cargar bancos de preguntas:",err);
+  const target=document.getElementById("subjects");
+  if(target)target.innerHTML=`<p role="alert" style="padding:1rem;border:1px solid #b42318;border-radius:8px">No se han podido cargar las preguntas: ${esc(err.message)}. Recarga la página o ábrela en Safari.</p>`;
+});
