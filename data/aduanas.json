@@ -1,0 +1,534 @@
+[
+  {
+    "id": "adu-001",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Gestión aduanera",
+    "question": "Un buque con mercancía de terceros países se dirige al primer puerto de entrada en la UE. ¿Qué declaración previa de seguridad identifica el temario?",
+    "options": [
+      "ENS",
+      "DDT",
+      "DAE",
+      "DVD"
+    ],
+    "answer": 0,
+    "explanation": "El resumen asigna la ENS a la información previa de seguridad de la carga antes de la entrada.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-002",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Gestión aduanera",
+    "question": "Una aeronave está próxima a llegar al primer aeropuerto de la UE. ¿Qué comunicación de llegada menciona el material?",
+    "options": [
+      "T-2",
+      "AN",
+      "EUR-1",
+      "ATA"
+    ],
+    "answer": 1,
+    "explanation": "El resumen distingue la ENS previa y el aviso de llegada AN.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-003",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósito temporal",
+    "question": "Un envío queda en depósito temporal tras su llegada y no se vincula aún a otro régimen. ¿Qué plazo máximo destaca el resumen?",
+    "options": [
+      "30 días",
+      "60 días",
+      "90 días",
+      "180 días"
+    ],
+    "answer": 2,
+    "explanation": "El documento fija 90 días para solicitar un régimen aduanero desde la situación de depósito temporal.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-004",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Controles paraaduaneros",
+    "question": "Una empresa necesita un documento sanitario preceptivo para despachar una partida. ¿Qué servicio se encarga de ese control según el temario?",
+    "options": [
+      "Compañía aseguradora",
+      "Agente general de ventas",
+      "Transportista contractual",
+      "Servicio paraaduanero competente"
+    ],
+    "answer": 3,
+    "explanation": "Sanidad, veterinaria, fitosanitario y SOIVRE figuran como servicios paraaduaneros.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-005",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Gestión aduanera",
+    "question": "Una sociedad va a actuar como importadora en la UE. ¿Qué identificador aduanero exige el resumen antes de despachar?",
+    "options": [
+      "EORI",
+      "AWB",
+      "CMR",
+      "VGM"
+    ],
+    "answer": 0,
+    "explanation": "El material indica que el operador debe contar con EORI para realizar despachos aduaneros.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-006",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Tránsito",
+    "question": "Una mercancía no perteneciente a la Unión llega a Rotterdam, pero se quiere despachar en Madrid. ¿Qué tránsito corresponde en el supuesto del temario?",
+    "options": [
+      "Tránsito interno T2",
+      "Tránsito externo T1",
+      "Exportación definitiva",
+      "Perfeccionamiento pasivo"
+    ],
+    "answer": 1,
+    "explanation": "El T1 permite trasladar mercancía no perteneciente a la Unión bajo control aduanero hasta otra aduana.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-007",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Tránsito",
+    "question": "Una mercancía de la Unión viaja entre dos puntos de la UE atravesando un tercer país, en un caso amparado por el régimen descrito. ¿Qué tránsito se estudia?",
+    "options": [
+      "Tránsito externo T1",
+      "Importación temporal",
+      "Tránsito interno T2",
+      "Despacho a consumo"
+    ],
+    "answer": 2,
+    "explanation": "El resumen identifica el T2 para determinados recorridos de mercancías de la Unión por terceros territorios.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-008",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Tránsito",
+    "question": "Una operación de tránsito necesita el documento que acompaña el movimiento en el sistema aduanero descrito. ¿Qué sigla cita el profesor?",
+    "options": [
+      "DAE",
+      "AWB",
+      "B/L",
+      "DAT"
+    ],
+    "answer": 3,
+    "explanation": "El DAT se menciona como documento de acompañamiento de tránsito en el resumen.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-009",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Tránsito",
+    "question": "Un transportista realiza un tránsito internacional acogido al convenio TIR. ¿Qué documento identifica el material?",
+    "options": [
+      "Cuaderno TIR",
+      "Conocimiento AWB",
+      "Certificado VGM",
+      "Modelo 349"
+    ],
+    "answer": 0,
+    "explanation": "El cuaderno TIR documenta los movimientos acogidos al sistema TIR.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-010",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Destinos especiales",
+    "question": "Una empresa importa temporalmente una máquina para exhibirla en una feria y reexportarla sin transformarla. ¿Qué régimen encaja mejor?",
+    "options": [
+      "Perfeccionamiento activo",
+      "Importación temporal",
+      "Despacho a consumo",
+      "Depósito distinto del aduanero"
+    ],
+    "answer": 1,
+    "explanation": "La admisión temporal permite la entrada para usos limitados y posterior reexportación en condiciones aplicables.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-011",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Destinos especiales",
+    "question": "Una empresa necesita documentar una entrada temporal para feria en un país adherido al convenio correspondiente. ¿Qué documento facilita el trámite?",
+    "options": [
+      "Modelo 390",
+      "Documento CIM",
+      "Cuaderno ATA",
+      "Certificado EUR-1"
+    ],
+    "answer": 2,
+    "explanation": "El material cita el cuaderno ATA para determinadas importaciones/exportaciones temporales.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-012",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Destinos especiales",
+    "question": "Una máquina se importa temporalmente para ser alquilada durante dos meses. El resumen menciona una liquidación parcial del 3 % mensual de derechos teóricos. ¿Cuánto representa en dos meses?",
+    "options": [
+      "El 3 % de esos derechos",
+      "El 9 % de esos derechos",
+      "El 100 % de esos derechos",
+      "El 6 % de esos derechos"
+    ],
+    "answer": 3,
+    "explanation": "En el supuesto docente de importación temporal con exención parcial, 3 % por mes × 2 = 6 %.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-013",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Destinos especiales",
+    "question": "Una mercancía importada disfruta de arancel reducido por destinarse a un uso industrial específico bajo vigilancia aduanera. ¿Qué régimen describe el supuesto?",
+    "options": [
+      "Destino final",
+      "Tránsito T1",
+      "Exportación temporal",
+      "Depósito temporal"
+    ],
+    "answer": 0,
+    "explanation": "El destino final permite determinados derechos reducidos o nulos condicionados a un uso bajo control.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-014",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Perfeccionamiento",
+    "question": "Una fábrica española importa componentes para transformarlos y reexportar el producto resultante. ¿Qué régimen permite suspender derechos conforme a sus requisitos?",
+    "options": [
+      "Perfeccionamiento pasivo",
+      "Perfeccionamiento activo",
+      "Admisión temporal de feria",
+      "Despacho a consumo"
+    ],
+    "answer": 1,
+    "explanation": "El RPA cubre importaciones para reparación, transformación o incorporación con posterior ultimación.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-015",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Perfeccionamiento",
+    "question": "Una empresa española envía maquinaria propia a un tercer país para repararla y luego reimportarla. ¿Qué régimen debe examinar?",
+    "options": [
+      "Perfeccionamiento activo",
+      "Tránsito interno T2",
+      "Perfeccionamiento pasivo",
+      "Depósito aduanero"
+    ],
+    "answer": 2,
+    "explanation": "El RPP contempla la salida temporal para transformación o reparación fuera del territorio aduanero.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-016",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Perfeccionamiento",
+    "question": "Una empresa quiere importar productos para transformarlos en España y venderlos aquí, en vez de reexportarlos. ¿Qué aspecto debe prever?",
+    "options": [
+      "La devolución automática de todo arancel",
+      "La aplicación obligatoria de un T2",
+      "La exención permanente del IVA de importación",
+      "La liquidación de derechos al despacho a libre práctica"
+    ],
+    "answer": 3,
+    "explanation": "El resumen distingue el destino de productos transformados que finalmente permanecen en la UE.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-017",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Perfeccionamiento",
+    "question": "Una empresa reimporta una máquina tras reparación en garantía en el exterior. ¿Qué figura especial menciona el material para ciertos supuestos de sustitución?",
+    "options": [
+      "Intercambios estándar",
+      "Depósito temporal",
+      "Tránsito T2",
+      "Venta en consigna"
+    ],
+    "answer": 0,
+    "explanation": "El resumen cita intercambios estándar para determinadas operaciones de reparación y sustitución.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-018",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Un importador quiere almacenar mercancía de terceros países sin despacharla a libre práctica ni ingresar aún los derechos de importación. ¿Qué régimen resulta adecuado?",
+    "options": [
+      "Depósito distinto del aduanero",
+      "Depósito aduanero",
+      "Despacho a consumo",
+      "Exportación definitiva"
+    ],
+    "answer": 1,
+    "explanation": "El DA permite almacenamiento bajo régimen aduanero suspensivo de derechos de importación.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-019",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Una empresa guarda mercancía ya despachada a libre práctica en un almacén fiscal con suspensión de IVA. ¿Qué figura describe el material?",
+    "options": [
+      "Depósito temporal",
+      "Tránsito externo T1",
+      "Depósito distinto del aduanero",
+      "Admisión temporal"
+    ],
+    "answer": 2,
+    "explanation": "El DDA es un régimen fiscal distinto del depósito aduanero y puede suspender el IVA.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-020",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Una empresa vende mercancía dentro de un DDA a otra empresa española. ¿Qué caracteriza la venta según el resumen?",
+    "options": [
+      "Exige liquidar siempre IVA en la entrada",
+      "Obliga a exportar la mercancía",
+      "Convierte la mercancía en no comunitaria",
+      "Puede realizarse sin repercutir IVA mientras permanece vinculada"
+    ],
+    "answer": 3,
+    "explanation": "El resumen indica que pueden realizarse ventas dentro del DDA con el tratamiento fiscal previsto.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-021",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Una mercancía no perteneciente a la Unión permanece en un depósito aduanero porque todavía no se conoce su destino comercial. ¿Qué ventaja ofrece?",
+    "options": [
+      "Posponer la liquidación de derechos hasta su ultimación",
+      "Convertirla automáticamente en mercancía de la Unión",
+      "Evitar todo control aduanero de la mercancía",
+      "Sustituir el EORI por el documento CMR"
+    ],
+    "answer": 0,
+    "explanation": "El DA permite mantener la mercancía bajo control sin pagar aún derechos de importación.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-022",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Una empresa introduce mercancía en un DDA y posteriormente la extrae al mercado interior. ¿Qué hecho exige examinar el IVA correspondiente?",
+    "options": [
+      "La emisión de la ENS",
+      "La extracción del depósito",
+      "El pesaje VGM del contenedor",
+      "La presentación del cuaderno TIR"
+    ],
+    "answer": 1,
+    "explanation": "La extracción del DDA activa el tratamiento de IVA y la documentación fiscal descrita.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-023",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Exportación",
+    "question": "Una empresa exporta mercancía por una aduana distinta de la aduana de salida efectiva de la UE. ¿Qué documento acompaña el movimiento según el temario?",
+    "options": [
+      "DAT",
+      "DDT",
+      "DAE",
+      "ENS"
+    ],
+    "answer": 2,
+    "explanation": "El documento de acompañamiento de exportación DAE se menciona para salida indirecta.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-024",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Libre práctica",
+    "question": "Una mercancía importada adquiere estatuto de mercancía de la Unión tras pagar derechos, pero el tratamiento del IVA debe analizarse aparte. ¿Qué operación se ha realizado?",
+    "options": [
+      "Exportación temporal",
+      "Tránsito externo T1",
+      "Entrada en depósito temporal",
+      "Despacho a libre práctica"
+    ],
+    "answer": 3,
+    "explanation": "El despacho a libre práctica confiere estatuto de la Unión; el IVA se rige por reglas propias.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-025",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Zonas francas",
+    "question": "Un operador introduce mercancía en una zona franca directamente desde un tercer país. ¿Qué documentación de entrada señala el material?",
+    "options": [
+      "DDT y declaración de vinculación a zona franca",
+      "Únicamente modelo 349",
+      "Solo certificado de origen EUR-1",
+      "AWB y modelo 390 como régimen"
+    ],
+    "answer": 0,
+    "explanation": "El resumen menciona DDT y declaración de vinculación al régimen de zona franca para acceso directo.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-026",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Destinos especiales",
+    "question": "Una empresa importa temporalmente un equipo para una exposición y después lo devuelve al extranjero. ¿Qué condición material resalta el resumen?",
+    "options": [
+      "Debe transformarse en un producto nuevo",
+      "Debe reexportarse esencialmente el mismo equipo",
+      "Debe venderse antes de la salida",
+      "Debe incorporarse a mercancía de la Unión"
+    ],
+    "answer": 1,
+    "explanation": "El material exige identidad de la mercancía, con mantenimiento o conservación permitidos.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-027",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Perfeccionamiento",
+    "question": "Una mercancía está bajo RPA y se pretende exportar el producto compensador con prueba de origen preferencial. ¿Qué regla advierte el resumen que debe comprobarse?",
+    "options": [
+      "Regla de los 90 días de DDT",
+      "Cuaderno ATA para ferias",
+      "No drawback cuando resulte aplicable",
+      "Recargo de equivalencia"
+    ],
+    "answer": 2,
+    "explanation": "El documento alerta sobre la regla no drawback en acuerdos preferenciales cuando sea aplicable.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "adu-028",
+    "subject": "aduanas",
+    "subjectName": "Regímenes Aduaneros",
+    "topic": "Depósitos",
+    "question": "Una empresa compra una gran partida sin saber aún si se destinará a venta interior o reexportación. ¿Qué figura del temario permite esperar sin despacho definitivo?",
+    "options": [
+      "Despacho a consumo",
+      "Exportación definitiva",
+      "Destino final industrial",
+      "Depósito aduanero"
+    ],
+    "answer": 3,
+    "explanation": "El DA permite posponer la decisión comercial y la liquidación aduanera mientras está bajo régimen.",
+    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]
