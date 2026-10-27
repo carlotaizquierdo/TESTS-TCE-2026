@@ -1,477 +1,3403 @@
 [
-  {
-    "id": "e3-log-001",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "CIF: riesgo y gastos",
-    "question": "Una bodega española vende vino a México bajo CIF Veracruz. El comprador exige al vendedor que asuma el riesgo hasta que el contenedor llegue a Veracruz porque paga el flete. ¿Qué debe explicarse?",
-    "options": [
-      "El riesgo se transmite cuando la mercancía pasa la aduana mexicana.",
-      "El riesgo pasa al comprador al embarcar en origen, pese al flete pagado.",
-      "El riesgo pasa en el puerto de destino junto con el pago del flete.",
-      "El riesgo se transmite al entregar el contenedor vacío al transportista."
-    ],
-    "answer": 1,
-    "explanation": "En CIF el vendedor contrata transporte y seguro hasta destino, pero la entrega y transmisión del riesgo se producen a bordo del buque en origen.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-002",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Seguro CIF",
-    "question": "Un comprador contrata CIF para un cargamento de piezas muy frágiles. Cree que el seguro obligatorio cubre daños por casi cualquier causa. ¿Qué advertencia es correcta?",
-    "options": [
-      "El seguro mínimo CIF puede ser limitado y conviene ampliarlo.",
-      "Exigir que el vendedor asegure con ICC(A) por haberse pactado un puerto de destino.",
-      "Considerar equivalente la cobertura mínima obligatoria de los términos CIF y CIP.",
-      "Presumir que una póliza marítima cubre todo retraso o defecto de embalaje."
-    ],
-    "answer": 0,
-    "explanation": "CIF exige generalmente cobertura mínima ICC(C), a diferencia de la cobertura amplia ICC(A) de CIP en Incoterms 2020; cabe pactar otra cobertura.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-003",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "CIP: riesgo y gastos",
-    "question": "Una empresa vende máquinas con CIP terminal de destino y se niega a pagar seguro porque el comprador acepta el riesgo desde el primer transportista. ¿Qué se ha confundido?",
-    "options": [
-      "El comprador paga seguro y flete al recibir en terminal de destino.",
-      "El vendedor soporta el riesgo hasta que la mercancía se descargue en destino.",
-      "La entrega jurídica se pospone hasta el pago de la prima aseguradora.",
-      "El vendedor paga flete y seguro, pero el riesgo pasa al primer porteador."
-    ],
-    "answer": 3,
-    "explanation": "En CIP el vendedor contrata transporte y seguro hasta destino pactado aunque la entrega y riesgo se transmitan antes.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-004",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "FCA almacén",
-    "question": "Una empresa vende FCA en sus instalaciones; el comprador remite un camión que debe cargarse allí. ¿Qué obligación se deduce del lugar FCA acordado?",
-    "options": [
-      "El comprador carga la mercancía dentro de las instalaciones del vendedor.",
-      "El vendedor descarga la mercancía en el destino final del trayecto.",
-      "El vendedor carga los bienes en el vehículo aportado por el comprador.",
-      "El comprador tramita el despacho de exportación del vendedor."
-    ],
-    "answer": 2,
-    "explanation": "En FCA instalaciones del vendedor, este realiza la carga al vehículo del comprador; además corresponde al vendedor el despacho de exportación.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-005",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "EXW frente FCA",
-    "question": "Una empresa vende EXW Madrid a un comprador de fuera de la UE, pero el vendedor español necesita justificar la exención de exportación y controla la operativa de aduanas. ¿Qué alternativa reduce la dificultad?",
-    "options": [
-      "Mantener EXW y considerar que el Incoterm es prueba suficiente de salida.",
-      "FCA en instalaciones con despacho a cargo del vendedor.",
-      "Utilizar DDP como única forma de facturar exportaciones sin IVA.",
-      "Aplicar CIF Madrid aunque el transporte final sea terrestre."
-    ],
-    "answer": 1,
-    "explanation": "En EXW el comprador se ocupa de la exportación; FCA puede facilitar que el vendedor gestione el despacho y obtenga documentación de salida.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-006",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Selección Incoterm",
-    "question": "Una expedición de maquinaria viaja por carretera desde Madrid hasta París. Las partes proponen FOB París porque desean que el vendedor pague gastos hasta salida. ¿Qué objeción principal procede?",
-    "options": [
-      "FOB exige entrega a bordo, no en un trayecto por carretera.",
-      "FOB es equivalente a FCA con entrega en el domicilio del comprador.",
-      "FOB se adapta si se indica un punto exacto de destino en Francia.",
-      "FOB puede usarse con carretera si se contrata seguro adicional."
-    ],
-    "answer": 0,
-    "explanation": "Los términos FAS, FOB, CFR y CIF se diseñan para transporte marítimo o vías navegables interiores, no para carretera.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-007",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "DAP y DPU",
-    "question": "Se pacta DAP almacén del comprador. El camión llega al punto convenido, listo para descarga. El comprador exige al vendedor que descargue la mercancía sin coste. ¿Qué procede?",
-    "options": [
-      "La descarga corresponde al vendedor por tratarse de un término D.",
-      "La descarga corresponde al transportista por cobrar el flete principal.",
-      "La descarga corresponde al vendedor si la importación ya fue despachada.",
-      "La descarga corresponde al comprador salvo pacto distinto."
-    ],
-    "answer": 3,
-    "explanation": "En DAP, el vendedor entrega cuando pone la mercancía a disposición, lista para descargar; DPU sí exige descarga al vendedor.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-008",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "DPU",
-    "question": "Una empresa vende DPU centro logístico, pero el lugar elegido no dispone de equipo de descarga ni acceso a grúa. ¿Qué problema contractual debía resolver antes?",
-    "options": [
-      "La ausencia de obligación de transporte principal del vendedor.",
-      "La atribución al comprador del despacho de exportación.",
-      "La disponibilidad de medios de descarga que asume el vendedor.",
-      "La transmisión del riesgo al entregar a primer porteador."
-    ],
-    "answer": 2,
-    "explanation": "DPU obliga al vendedor a entregar descargado; la idoneidad del punto de entrega es esencial para ejecutarlo.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-009",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "DDP",
-    "question": "Una pyme española vende DDP a un comprador canadiense. No dispone de registro ni representante para despachar en Canadá. ¿Qué riesgo oculta la cotización?",
-    "options": [
-      "Asumir solo el riesgo hasta entregar la carga al primer transportista.",
-      "Asumir la importación sin capacidad legal para efectuar el despacho.",
-      "Convertir al comprador en responsable de exportación desde España.",
-      "Eliminar automáticamente todos los controles sanitarios aplicables."
-    ],
-    "answer": 1,
-    "explanation": "DDP impone al vendedor el despacho de importación y tributos pertinentes; debe evaluar si puede cumplirlos en el país de destino.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-010",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "CPT",
-    "question": "Un fabricante vende CPT Chicago y un siniestro ocurre durante la travesía marítima, tras entregar la carga al primer transportista. ¿Quién soporta contractualmente el riesgo ordinario?",
-    "options": [
-      "El comprador desde la entrega al primer transportista.",
-      "El vendedor, porque contrató el flete hasta Chicago.",
-      "El vendedor, porque CPT exige asegurar toda la mercancía.",
-      "El transportista, por atribución automática de la compraventa."
-    ],
-    "answer": 0,
-    "explanation": "En CPT el vendedor paga transporte hasta destino pero el riesgo se transmite al entregar la mercancía al porteador inicial.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-011",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Contenedores e Incoterms",
-    "question": "Una fábrica vende FOB Valencia mercancía en contenedor. Entrega el contenedor cerrado en una terminal varios días antes del embarque. ¿Qué dificultad plantea FOB en esta operativa?",
-    "options": [
-      "FOB transmite el riesgo en cuanto se cierra el contenedor en fábrica.",
-      "FOB obliga al comprador a presentar el contenedor ante aduana de origen.",
-      "FOB prohíbe documentar un envío con conocimiento de embarque.",
-      "La entrega en terminal precede al embarque; FCA se ajusta mejor."
-    ],
-    "answer": 3,
-    "explanation": "En cargas contenerizadas recibidas en terminal, FCA puede reflejar mejor el punto de entrega que FOB, ligado a estar a bordo.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-012",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Escandallo",
-    "question": "Un comprador exige que la factura proforma indique un único precio CIF final. El exportador solo conoce el coste de fábrica y el flete, pero desconoce seguro y costes portuarios aplicables. ¿Qué debe hacer?",
-    "options": [
-      "Cotizar el precio EXW y escribir CIF sin variar la cifra.",
-      "Añadir solo el IVA interior para convertir un precio EXW en CIF.",
-      "Incluir todos los costes exigibles en el precio CIF.",
-      "Sumar el despacho de importación como coste obligatorio del vendedor CIF."
-    ],
-    "answer": 2,
-    "explanation": "El precio ofertado debe reflejar las prestaciones del Incoterm concreto: flete, seguro y costes a cargo del vendedor según el pacto.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-013",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Seguro ICC",
-    "question": "Una póliza de transporte anuncia cobertura ICC(A). Un daño se produce por embalaje insuficiente imputable al asegurado. ¿Qué afirmación evita un error frecuente?",
-    "options": [
-      "Considerar indemnizable cualquier daño material por existir cobertura ICC(A).",
-      "ICC(A) mantiene exclusiones, por ejemplo las de embalaje insuficiente.",
-      "Presumir incluidos los vicios propios al contratar una póliza de amplio alcance.",
-      "Tratar las condiciones ICC(A) como sustitutas de los deberes del asegurado."
-    ],
-    "answer": 1,
-    "explanation": "La cobertura ICC(A) es amplia pero no universal; hay exclusiones y deberes del asegurado.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-014",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Siniestros",
-    "question": "Una caja de componentes se moja al descargar y el comprador espera semanas para avisar, sin fotos ni anotaciones en el documento de transporte. ¿Qué actuación habría protegido mejor sus derechos?",
-    "options": [
-      "Anotar reservas y conservar pruebas dentro de los plazos.",
-      "Pagar al transportista una comisión para que reconozca el siniestro.",
-      "Solicitar una nueva factura antes de dejar constancia de la avería.",
-      "Esperar a que el asegurador decida si el daño es visible u oculto."
-    ],
-    "answer": 0,
-    "explanation": "La constatación del estado de la carga, la protesta en plazo y la conservación de evidencias facilitan las acciones ante porteador y asegurador.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-015",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Peso tasable aéreo",
-    "question": "Una carga aérea pesa 180 kg de peso bruto y ocupa 2,4 m³. El transitario usa factor volumétrico de 167 kg/m³. ¿Qué peso facturable resultará?",
-    "options": [
-      "180 kg, porque el peso real se declara en la guía aérea.",
-      "240 kg, porque debe calcularse cien kilos por metro cúbico.",
-      "Aproximadamente 360 kg, por duplicarse el peso bruto.",
-      "Aproximadamente 401 kg, por prevalecer el peso volumétrico."
-    ],
-    "answer": 3,
-    "explanation": "El peso volumétrico es 2,4 × 167 = 400,8 kg; se factura el mayor entre real y volumétrico.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-016",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "HAWB/MAWB",
-    "question": "Un transitario consolida varios expedidores en un vuelo y emite documentos individuales para cada cliente mientras la aerolínea documenta el conjunto. ¿Qué pareja de documentos explica la operación?",
-    "options": [
-      "MAWB a cada cargador y HAWB único para toda la aerolínea.",
-      "Conocimiento marítimo individual y carta CMR maestra.",
-      "HAWB por cargador y MAWB por envío consolidado.",
-      "Carta CIM individual y AWB negociable general."
-    ],
-    "answer": 2,
-    "explanation": "El agente consolidador expide House Air Waybills y el transportista aéreo maneja Master Air Waybill.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-017",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Documentos de transporte",
-    "question": "Un proveedor exige un documento de transporte que permita transmitir mercancía durante un viaje marítimo mediante entrega del título, si se emite a la orden. ¿Cuál debe considerar?",
-    "options": [
-      "Un sea waybill nominativo entregado al comprador con confirmación de embarque.",
-      "El B/L marítimo negociable emitido a la orden.",
-      "Un AWB emitido con instrucciones de entrega directa al consignatario.",
-      "Un B/L nominativo sin emisión negociable a la orden del tenedor."
-    ],
-    "answer": 1,
-    "explanation": "Determinados B/L emitidos a la orden pueden ser negociables y funcionar como títulos representativos; AWB y CMR no lo son.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-018",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Bill of Lading",
-    "question": "Una carga embarca con B/L 'shipped on board', mientras otra cuenta solo con constancia de recepción del contenedor en terminal. ¿Por qué importa la diferencia?",
-    "options": [
-      "El B/L con anotación 'on board' acredita el embarque efectivo.",
-      "La recepción en terminal equivale siempre a embarque cuando existe reserva de bodega.",
-      "El conocimiento a bordo acredita que la mercancía ha llegado a destino.",
-      "El B/L no puede contener fecha de embarque si se usa un contenedor."
-    ],
-    "answer": 0,
-    "explanation": "La anotación 'on board' acredita la carga a bordo, relevante para cumplimiento documental y términos marítimos.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-019",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "CMR",
-    "question": "Un transportista de carretera acepta una carga en Madrid para Lyon. El cargador sostiene que la carta CMR transfirió la propiedad al destinatario. ¿Qué análisis es apropiado?",
-    "options": [
-      "La CMR es un título negociable equivalente al B/L a la orden.",
-      "La CMR se emite exclusivamente para operaciones domésticas españolas.",
-      "La CMR determina el pago de aranceles y no la relación de transporte.",
-      "La CMR acredita el transporte, no transmite el dominio."
-    ],
-    "answer": 3,
-    "explanation": "La carta de porte CMR es un documento de transporte, distinto de los pactos de transmisión del dominio.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-020",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Contenedores",
-    "question": "Un contenedor de 40 pies tiene más longitud y capacidad cúbica que uno de 20 pies, pero el exportador pretende cargar el doble de peso neto pesado. ¿Qué debe comprobar?",
-    "options": [
-      "La superficie pintada del contenedor como índice legal de su carga.",
-      "La equivalencia de dos TEU como autorización para duplicar el peso.",
-      "El peso máximo y la carga útil de esa unidad.",
-      "La categoría de mercancía como único criterio de masa permitida."
-    ],
-    "answer": 2,
-    "explanation": "El tamaño cúbico no permite deducir proporcionalmente la carga útil; los límites de peso se consultan en la placa y datos del equipo.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-021",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Capital asegurado",
-    "question": "Se exporta maquinaria con valor de factura de 10.000 euros y se contrata seguro de carga solo por 6.000 euros. La mercancía se pierde completamente. ¿Qué problema principal existe?",
-    "options": [
-      "Entender que el precio total de venta se pagará aunque el capital asegurado sea menor.",
-      "Puede haber infraseguro respecto del interés económico expuesto.",
-      "Suponer que una pérdida total permite actualizar después el capital de la póliza.",
-      "Reclamar el valor de factura íntegro al porteador, sin atender a límites legales."
-    ],
-    "answer": 1,
-    "explanation": "El capital asegurado insuficiente puede limitar la indemnización en función de la póliza y de las reglas aplicables.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-022",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Documentación modal",
-    "question": "Una venta FCA aeropuerto Madrid requiere que el comprador obtenga un conocimiento aéreo; propone exigir al vendedor un B/L 'on board'. ¿Qué aspecto de la operación es incoherente?",
-    "options": [
-      "Se están confundiendo documentos de modos de transporte distintos.",
-      "El B/L es obligatorio para mercancía aérea de importe elevado.",
-      "El AWB acredita dominio y sustituye la factura comercial.",
-      "El vendedor FCA debe contratar un buque por exigencia bancaria."
-    ],
-    "answer": 0,
-    "explanation": "El B/L es documento marítimo, mientras que el AWB documenta el transporte aéreo.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-023",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "CFR",
-    "question": "La naviera cobra flete hasta Veracruz y el consignatario cobra manipulación y despacho de importación allí. En una venta CFR Veracruz, ¿qué distinción procede?",
-    "options": [
-      "El vendedor debe contratar además seguro ICC(A) para todo el trayecto.",
-      "El comprador soporta el flete principal por utilizar un término de la familia C.",
-      "El vendedor debe pagar aranceles de importación por incluir gastos hasta destino.",
-      "El vendedor paga el flete principal, pero el comprador tramita la importación."
-    ],
-    "answer": 3,
-    "explanation": "CFR obliga al vendedor al flete hasta puerto convenido, pero no al seguro ni al despacho de importación.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-log-024",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Transporte multimodal",
-    "question": "Un transporte cubre carretera, barco y carretera. El exportador exige usar CIF por ser la operación mayoritariamente marítima. ¿Qué enfoque es más prudente?",
-    "options": [
-      "Elegir CIF, que regula por igual la entrega en todos los medios.",
-      "Elegir FOB para que el vendedor gestione la última carretera.",
-      "Optar por CPT o CIP, según las obligaciones deseadas.",
-      "Utilizar FAS aunque la carga se entregue al primer camión."
-    ],
-    "answer": 2,
-    "explanation": "Los términos marítimos describen una entrega ligada al buque; en contratos multimodales puede convenir un Incoterm polivalente.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-log-025",
-    "subject": "logistica",
-    "subjectName": "Logística y transporte internacional",
-    "topic": "Reclamación del seguro",
-    "question": "Un exportador contrata un seguro de transporte, pero tras un daño destruye el embalaje dañado y no conserva fotografías. ¿Cuál es el riesgo?",
-    "options": [
-      "Hacer que el daño desaparezca del ámbito de la compraventa.",
-      "Dificultar la prueba del siniestro y el reclamo al asegurador.",
-      "Transferir al comprador toda obligación de transporte posterior.",
-      "Perder automáticamente el derecho a reclamar frente al vendedor."
-    ],
-    "answer": 1,
-    "explanation": "La documentación y conservación de evidencias, comunicación oportuna y mitigación del daño son relevantes para gestionar el siniestro.",
-    "source": "Tercer parcial / Apuntes Transporte Internacional e Incoterms 2020 - Oposición",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  }
+ {
+  "question": "Un exportador de Jaén vende aceite a Japón y quiere usar un Incoterm para todo el envío, que va por barco en contenedor desde Algeciras. Su compañero le dice que los Incoterms los aprueba la ONU. ¿Quién los elabora?",
+  "options": [
+   "La CNUDMI/UNCITRAL de las Naciones Unidas",
+   "La Organización Mundial de Comercio",
+   "La Comisión Europea, mediante un reglamento",
+   "La Cámara de Comercio Internacional"
+  ],
+  "answer": 3,
+  "explanation": "Los Incoterms son reglas de la Cámara de Comercio Internacional para interpretar términos comerciales. Se aplican porque las partes las pactan.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-001",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Dos empresas firman «FOB Valencia, Incoterms® 2020» y discuten en qué momento el comprador pasa a ser propietario de la mercancía. ¿Qué dice el Incoterm?",
+  "options": [
+   "Que la propiedad pasa al quedar la mercancía a bordo",
+   "Que la propiedad pasa cuando el comprador paga el flete principal",
+   "Nada: los Incoterms no regulan la propiedad",
+   "Que la propiedad pasa al llegar al puerto de destino"
+  ],
+  "answer": 2,
+  "explanation": "Los Incoterms reparten costes, gestiones y riesgo, pero no regulan la transmisión del dominio, el precio, la jurisdicción ni todas las consecuencias del incumplimiento.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-002",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Cuál de estas cuestiones SÍ regula un Incoterm?",
+  "options": [
+   "Quién despacha la exportación y dónde pasa el riesgo",
+   "La ley aplicable al contrato y el tribunal que resolverá los conflictos",
+   "El precio de la mercancía y su forma de pago",
+   "El momento en que se transmite la propiedad"
+  ],
+  "answer": 0,
+  "explanation": "Los Incoterms regulan reparto de gastos, gestiones (embalaje, carga, aduanas, transporte, seguro) y punto de entrega que fija el riesgo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-003",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Un contrato dice solo «FCA». El vendedor entiende que entrega en su almacén y el comprador, en la terminal de Barajas. ¿Qué faltaba en la cláusula?",
+  "options": [
+   "Indicar el lugar preciso y la versión de los Incoterms",
+   "Indicar el porcentaje de seguro mínimo del 110 %",
+   "Indicar el nombre del transportista y la matrícula",
+   "Nada: FCA se entrega por defecto en el almacén del vendedor"
+  ],
+  "answer": 0,
+  "explanation": "Un término completo identifica regla, lugar preciso y versión: «FCA almacén del vendedor, Madrid, Incoterms® 2020». Sin lugar, el punto de entrega y de riesgo queda abierto.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-004",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Cuántos Incoterms® 2020 son polivalentes y cuántos solo marítimos o fluviales?",
+  "options": [
+   "Siete polivalentes y cuatro marítimos",
+   "Cuatro polivalentes y siete marítimos",
+   "Seis polivalentes y cinco marítimos",
+   "Ocho polivalentes y tres marítimos"
+  ],
+  "answer": 0,
+  "explanation": "Polivalentes: EXW, FCA, CPT, CIP, DAP, DPU y DDP. Marítimos o fluviales: FAS, FOB, CFR y CIF.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-005",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Una empresa envía piezas por avión desde Barajas y quiere que el comprador asuma el riesgo desde que entrega la carga en el aeropuerto. Propone «FOB aeropuerto de Madrid». ¿Qué le dices?",
+  "options": [
+   "Que FOB es marítimo: debe usar FCA aeropuerto de Madrid",
+   "Que es correcto: FOB vale para cualquier modo de transporte",
+   "Que debe usar FAS aeropuerto, que es el equivalente aéreo",
+   "Que debe usar CFR, porque el vendedor entrega en origen"
+  ],
+  "answer": 0,
+  "explanation": "No existe «FOB aeropuerto». Para entregar en un aeropuerto de origen se utiliza FCA.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-006",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Cuál de estos grupos contiene SOLO Incoterms marítimos o fluviales?",
+  "options": [
+   "FCA, FOB, CPT y CIF",
+   "FAS, FOB, CPT y CIP",
+   "FAS, FOB, CFR y CIF",
+   "EXW, FAS, FOB y CFR"
+  ],
+  "answer": 2,
+  "explanation": "Los cuatro marítimos son FAS, FOB, CFR y CIF. FCA, CPT, CIP y EXW son polivalentes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-007",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Qué tienen en común CPT, CIP, CFR y CIF?",
+  "options": [
+   "El vendedor soporta el riesgo de la mercancía hasta el lugar de destino pactado",
+   "El comprador contrata y paga el transporte principal",
+   "El vendedor debe contratar un seguro de transporte a favor del comprador",
+   "El vendedor paga el transporte principal y el riesgo pasa en origen"
+  ],
+  "answer": 3,
+  "explanation": "Son la familia C: el vendedor paga el transporte principal hasta destino, pero el riesgo se transmite antes, en origen. Solo CIF y CIP obligan a asegurar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-008",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Qué familia de Incoterms deja el transporte principal a cargo del comprador?",
+  "options": [
+   "La F: FCA, FAS y FOB",
+   "La C: CPT, CIP, CFR y CIF",
+   "La D: DAP, DPU y DDP",
+   "La E y la D a la vez"
+  ],
+  "answer": 0,
+  "explanation": "En la familia F (FCA, FAS, FOB) el transporte principal corresponde al comprador.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-009",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿En qué familia de Incoterms el vendedor conserva el riesgo hasta el punto de entrega en destino?",
+  "options": [
+   "La C: CFR, CIF, CPT y CIP",
+   "La D: DAP, DPU y DDP",
+   "La F: FCA, FAS y FOB",
+   "La E: solo EXW"
+  ],
+  "answer": 1,
+  "explanation": "En los términos D la llegada al lugar convenido es esencial para completar la entrega, y el riesgo es del vendedor hasta ese punto.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-010",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "En Incoterms 2010 existía DAT. ¿Qué pasó con él en la versión 2020?",
+  "options": [
+   "Desapareció y se integró dentro del DAP actual",
+   "Se convirtió en DDP con derechos ya pagados",
+   "Se mantuvo igual pero solo para el transporte aéreo",
+   "Pasó a llamarse DPU y puede usarse fuera de terminales"
+  ],
+  "answer": 3,
+  "explanation": "DAT pasó a ser DPU (entregado en lugar descargado), que puede designarse en un almacén o fábrica, no solo en una terminal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-011",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "En «CIF Veracruz, Incoterms 2020» con embarque en Valencia, ¿qué indica la palabra Veracruz?",
+  "options": [
+   "El lugar donde el riesgo pasa del vendedor al comprador",
+   "El lugar donde el vendedor despacha la importación",
+   "El puerto donde el comprador contrata el seguro",
+   "El puerto hasta el que el vendedor contrata y paga el flete"
+  ],
+  "answer": 3,
+  "explanation": "En los términos C el lugar nombrado es el destino del transporte pagado por el vendedor. El riesgo pasó al quedar la mercancía a bordo en Valencia.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-012",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Un alumno razona: «En CPT París el vendedor paga el camión hasta París, así que el riesgo es suyo hasta París». ¿Dónde está el error?",
+  "options": [
+   "Ninguno: en CPT el riesgo pasa en el lugar de destino que se nombra",
+   "Confunde quién paga el transporte con quién soporta el riesgo",
+   "CPT solo se puede usar en transporte marítimo o fluvial",
+   "En CPT el transporte lo paga el comprador"
+  ],
+  "answer": 1,
+  "explanation": "Coste y riesgo son preguntas distintas. En CPT el vendedor paga hasta París, pero el riesgo pasa al entregar al primer transportista en origen.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-013",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Para resolver casi cualquier supuesto de Incoterms, los apuntes proponen cuatro preguntas. ¿Cuál NO es una de ellas?",
+  "options": [
+   "¿Quién contrata el transporte principal?",
+   "¿Dónde se entrega y cambia el riesgo?",
+   "¿Quién despacha exportación e importación?",
+   "¿Quién es el propietario de la mercancía?"
+  ],
+  "answer": 3,
+  "explanation": "Las cuatro preguntas son: quién contrata el transporte principal, quién paga cada partida, dónde se entrega y cambia el riesgo, y quién despacha. La propiedad no la regulan los Incoterms.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-014",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Un vendedor ofrece una máquina a 10.000 € EXW o a 11.500 € CPT destino. ¿Qué explica la diferencia?",
+  "options": [
+   "Que en CPT el vendedor asume el riesgo hasta el lugar de destino",
+   "Que en CPT se incluye un seguro a todo riesgo",
+   "Los servicios logísticos que paga el vendedor en CPT",
+   "Que en CPT la propiedad se transmite en el destino"
+  ],
+  "answer": 2,
+  "explanation": "El segundo precio incorpora servicios logísticos (transporte hasta destino). No cambia el riesgo, que en CPT pasa en origen.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-015",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿En qué tres tramos divide el curso cualquier operación de transporte internacional?",
+  "options": [
+   "Fábrica, aduana y almacén del cliente",
+   "Embalaje, flete y seguro de la carga",
+   "Origen, transporte principal y destino",
+   "Exportación, tránsito e importación"
+  ],
+  "answer": 2,
+  "explanation": "Toda operación se divide en ORIGEN → TRANSPORTE PRINCIPAL → DESTINO, y los Incoterms reparten costes, gestiones y riesgo en esa cadena.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-016",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Un transitario emite la factura del transporte al vendedor, aunque el coste acaba repercutido en el precio al comprador. ¿Qué idea ilustra?",
+  "options": [
+   "Quien realiza una gestión no es por fuerza quien la paga",
+   "Que el transitario se convierte en parte de la compraventa",
+   "Que el riesgo pasa al transitario mientras dura el transporte",
+   "Que el comprador soporta el riesgo desde que se emite la factura del transporte"
+  ],
+  "answer": 0,
+  "explanation": "«Quién realiza» una gestión no equivale necesariamente a «quién debe pagarla» en la compraventa.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-017",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Qué diferencia al transitario del porteador?",
+  "options": [
+   "El transitario conduce el vehículo; el porteador solo cobra el flete pactado",
+   "Son lo mismo: dos nombres para quien conduce o navega",
+   "El transitario organiza; el porteador asume el contrato de transporte",
+   "El transitario representa a la naviera en el puerto de llegada"
+  ],
+  "answer": 2,
+  "explanation": "El porteador asume contractualmente el transporte. El transitario organiza transportes y servicios y, según cómo contrate, puede ser intermediario o porteador contractual.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-018",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "En el puerto de Valencia, ¿quién representa a la naviera para las gestiones documentales y operativas del buque?",
+  "options": [
+   "El agente de aduanas",
+   "El transitario del cliente",
+   "El consignatario del buque",
+   "El shipper del contrato"
+  ],
+  "answer": 2,
+  "explanation": "El consignatario del buque representa al armador o naviera en puerto (operaciones, manifiesto, comercialización del servicio).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-019",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Desde qué año existen los Incoterms y qué edición se estudia?",
+  "options": [
+   "Desde 1980; se estudia la edición 2010",
+   "Desde 1936; se estudia la edición 2020",
+   "Desde 1919; se estudia la edición 2000",
+   "Desde 1953; se estudia la edición 2020"
+  ],
+  "answer": 1,
+  "explanation": "La primera edición apareció en 1936; el curso estudia Incoterms® 2020.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-020",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Un comprador quiere controlar el transporte internacional y la elección del seguro. Según la recomendación del profesor, ¿cómo le conviene comprar y vender?",
+  "options": [
+   "Comprar en C y vender en F",
+   "Comprar y vender en EXW",
+   "Comprar en D y vender en E",
+   "Comprar en F y vender en C"
+  ],
+  "answer": 3,
+  "explanation": "«Comprar F y vender C» es una recomendación de gestión para controlar el transporte, no una obligación de los Incoterms.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-021",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "¿Por qué «comprar F y vender C» no es una regla jurídica?",
+  "options": [
+   "Porque la CCI la prohibió expresamente en la versión de 2020",
+   "Es una preferencia de gestión que los Incoterms no imponen",
+   "Porque solo se aplica en transporte aéreo",
+   "Porque obliga a contratar una cobertura ICC A"
+  ],
+  "answer": 1,
+  "explanation": "Es una recomendación comercial del profesor para controlar el servicio y el coste, no una obligación de las reglas.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-022",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "En un caso de examen, un comprador adquiere CIF Valencia una carga de Shanghái. ¿Desde cuándo soporta el riesgo?",
+  "options": [
+   "Desde que el buque atraca en el puerto de Valencia",
+   "Desde que se descarga en su almacén de Valencia",
+   "Desde que paga la factura del proveedor chino",
+   "Desde que la mercancía queda a bordo en Shanghái"
+  ],
+  "answer": 3,
+  "explanation": "En CIF el riesgo pasa a bordo del buque en el puerto de embarque, aunque el vendedor pague flete y seguro hasta Valencia.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-023",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Fundamentos de Incoterms"
+ },
+ {
+  "question": "Venta EXW fábrica Toledo. El pedido está embalado y separado para su recogida; al cargarlo en el camión del comprador, la carretilla del vendedor lo rompe. ¿Quién soporta el daño según la regla?",
+  "options": [
+   "El vendedor: en EXW debe cargar la mercancía",
+   "El transportista del comprador, por estar presente",
+   "El vendedor, hasta despachar la exportación",
+   "El comprador: la entrega EXW ya se había producido"
+  ],
+  "answer": 3,
+  "explanation": "En EXW el vendedor entrega poniendo la mercancía a disposición, sin cargarla. Por eso el profesor recomienda FCA fábrica, que obliga al vendedor a cargar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-024",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Por qué desaconseja el profesor vender en EXW en muchas exportaciones?",
+  "options": [
+   "Porque EXW obliga al vendedor a pagar el flete principal hasta destino",
+   "Porque EXW solo sirve para el transporte marítimo",
+   "El vendedor no controla la carga ni la exportación",
+   "Porque en EXW el vendedor asume el riesgo hasta destino"
+  ],
+  "answer": 2,
+  "explanation": "En EXW la carga y el despacho de exportación los hace el comprador, lo que deja al vendedor sin control. FCA fábrica corrige ambos problemas.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-025",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta «FCA almacén del vendedor, Segovia». Llega el camión del comprador. ¿Quién debe cargar la mercancía y quién despacha la exportación?",
+  "options": [
+   "El comprador carga y el vendedor despacha la exportación",
+   "El vendedor carga y el vendedor despacha la exportación",
+   "El vendedor carga y el comprador despacha la exportación",
+   "El comprador carga y el comprador despacha la exportación"
+  ],
+  "answer": 1,
+  "explanation": "En FCA en instalaciones del vendedor, este carga el vehículo que recoge y hace la exportación. El riesgo pasa al completar esa carga.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-026",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta «FCA terminal de carga de Barajas». El vendedor lleva la mercancía en su furgoneta. Al descargarla con la carretilla de la terminal se cae. ¿Quién soporta el daño?",
+  "options": [
+   "El vendedor: en FCA debe descargar en el punto pactado",
+   "El vendedor, porque el riesgo pasa al despegar el avión",
+   "El comprador: el vendedor entrega sin descargar",
+   "La aerolínea, porque la terminal es de su propiedad"
+  ],
+  "answer": 2,
+  "explanation": "En FCA en instalaciones de un tercero, el vendedor entrega sobre su medio de transporte, listo para descargar. La descarga ya no le corresponde.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-027",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué Incoterm propone el profesor como alternativa a EXW para que el vendedor cargue y haga la exportación?",
+  "options": [
+   "FAS fábrica",
+   "CPT fábrica",
+   "FCA fábrica",
+   "DAP fábrica"
+  ],
+  "answer": 2,
+  "explanation": "FCA fábrica obliga al vendedor a cargar el vehículo y a despachar la exportación, los dos puntos débiles de EXW.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-028",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta FAS puerto de Bilbao de una pieza industrial. El vendedor la deja en el muelle junto al buque; al izarla a bordo con la grúa, se golpea. ¿Quién soporta el daño?",
+  "options": [
+   "El vendedor: en FAS debe dejar la mercancía a bordo del buque designado",
+   "El vendedor, hasta que el buque zarpe del puerto",
+   "La naviera, porque la grúa es del puerto",
+   "El comprador: en FAS se entrega al costado del buque"
+  ],
+  "answer": 3,
+  "explanation": "FAS entrega al costado del buque; FOB, a bordo. Desde el muelle, la carga a bordo y el riesgo son del comprador.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-029",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta FOB Valencia de una máquina. La grúa la está elevando desde el muelle y, antes de quedar a bordo, cae al agua. ¿Quién soporta la pérdida?",
+  "options": [
+   "El vendedor: la entrega FOB no se había completado",
+   "El comprador: el riesgo pasa al empezar la carga",
+   "El comprador, porque ya había contratado el flete",
+   "A partes iguales entre vendedor y comprador"
+  ],
+  "answer": 0,
+  "explanation": "En FOB la entrega se produce cuando la mercancía queda a bordo. Si cae antes, el riesgo seguía siendo del vendedor.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-030",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Una empresa entrega un contenedor en la terminal de Algeciras tres días antes de que salga el buque y quiere que el riesgo pase en ese momento. ¿Qué Incoterm describe mejor esa entrega?",
+  "options": [
+   "FOB puerto de Algeciras",
+   "FAS puerto de Algeciras",
+   "FCA terminal Algeciras",
+   "CFR puerto de Algeciras"
+  ],
+  "answer": 2,
+  "explanation": "FOB entrega a bordo. Si el contenedor se entrega antes en la terminal, FCA describe mejor el punto real de entrega.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-031",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta CFR Valencia desde Shanghái. El contenedor se pierde en un temporal en el Índico. El proveedor pagó el flete hasta Valencia. ¿Quién soporta la pérdida?",
+  "options": [
+   "El proveedor, porque pagó el flete hasta el puerto de Valencia",
+   "La naviera, porque la pérdida ocurrió durante la travesía",
+   "El proveedor, salvo que el comprador hubiera asegurado",
+   "El comprador, desde que la carga quedó a bordo en Shanghái"
+  ],
+  "answer": 3,
+  "explanation": "En CFR el vendedor paga el flete, pero el riesgo pasa a bordo en origen. Coste y riesgo divergen.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-032",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué diferencia hay entre CFR y CIF?",
+  "options": [
+   "CIF traslada el riesgo al puerto de destino",
+   "CIF añade un seguro a cargo del vendedor",
+   "CIF obliga al vendedor a despachar la importación en destino",
+   "CIF puede usarse también en avión y camión"
+  ],
+  "answer": 1,
+  "explanation": "CIF tiene la misma entrega y riesgo que CFR; añade la obligación del vendedor de asegurar a favor del comprador.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-033",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta CIF Veracruz desde Valencia. ¿Qué cobertura mínima y qué capital debe contratar el vendedor según el material?",
+  "options": [
+   "ICC A por el 110 % del valor CIF",
+   "ICC C por el 100 % del valor FOB",
+   "ICC A por el 100 % del valor DDP",
+   "ICC C por el 110 % del valor CIF"
+  ],
+  "answer": 3,
+  "explanation": "CIF exige cobertura mínima ICC C y capital mínimo del 110 % del valor CIF. CIP exige ICC A.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-034",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta CIP aeropuerto JFK con entrega al transportista en Shanghái. ¿Cuál es la combinación correcta?",
+  "options": [
+   "Cualquier modo, riesgo en origen e ICC A al 110 %",
+   "Solo marítimo, riesgo a bordo e ICC C al 110 %",
+   "Cualquier modo, riesgo en JFK e ICC A al 100 %",
+   "Solo aéreo, riesgo en origen e ICC B al 110 %"
+  ],
+  "answer": 0,
+  "explanation": "CIP es polivalente, el riesgo pasa al entregar al transportista en origen y exige cobertura mínima ICC A por el 110 % del valor CIP.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-035",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta CPT París con entrega al primer transportista en Guadalajara. El camión sufre un accidente en Burdeos. ¿Qué pasa?",
+  "options": [
+   "El riesgo es del comprador, aunque el vendedor paga el porte",
+   "El riesgo es del vendedor hasta que el camión llegue a París y se descargue",
+   "El contrato se resuelve y el vendedor devuelve el precio",
+   "El riesgo es del transportista por haberse accidentado"
+  ],
+  "answer": 0,
+  "explanation": "En CPT el vendedor paga el transporte hasta destino, pero el riesgo pasa con la entrega inicial al transportista.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-036",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué obligación añade CIP respecto a CPT?",
+  "options": [
+   "Que el vendedor soporte el riesgo hasta destino",
+   "Que el vendedor contrate un seguro de la mercancía",
+   "Que el vendedor despache la importación",
+   "Que el vendedor descargue en el destino"
+  ],
+  "answer": 1,
+  "explanation": "CIP = CPT + seguro contratado por el vendedor (mínimo ICC A, 110 %). El riesgo sigue pasando en origen.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-037",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "En CIP el seguro cubre el viaje hasta el destino. ¿Retrasa eso el traspaso del riesgo al comprador?",
+  "options": [
+   "Sí: el riesgo pasa donde termina la cobertura del seguro",
+   "Sí: el riesgo pasa cuando el comprador cobra el seguro",
+   "No: el seguro llega a destino, pero el riesgo pasó en origen",
+   "Depende de si el seguro es ICC A o es ICC C"
+  ],
+  "answer": 2,
+  "explanation": "No hay que confundir el alcance del seguro con el punto jurídico de transmisión del riesgo.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-038",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta DAP almacén de Lyon. El camión llega con la mercancía lista para descargar. ¿Quién descarga y quién despacha la importación si hiciera falta?",
+  "options": [
+   "El vendedor descarga y el comprador despacha la importación",
+   "El vendedor descarga y el vendedor despacha la importación",
+   "El comprador descarga y el comprador despacha la importación",
+   "El comprador descarga y el vendedor despacha la importación"
+  ],
+  "answer": 2,
+  "explanation": "En DAP el vendedor entrega sobre el vehículo, listo para descargar. La descarga, el despacho de importación y los tributos son del comprador.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-039",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta DAP almacén de Lyon. El camión vuelca en la autopista antes de llegar. ¿Quién soporta la pérdida?",
+  "options": [
+   "El comprador: el riesgo pasó al cargar el camión en origen",
+   "El vendedor: en DAP el riesgo es suyo hasta el lugar pactado",
+   "El comprador, porque es quien debe descargar al llegar",
+   "El transportista, por ser quien conducía el camión"
+  ],
+  "answer": 1,
+  "explanation": "En los términos D el vendedor soporta el riesgo hasta la entrega en destino.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-040",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta DPU planta industrial de Sevilla. La máquina se daña mientras el personal del vendedor la descarga. ¿Quién soporta el daño?",
+  "options": [
+   "El comprador: el riesgo pasó al llegar el camión",
+   "El vendedor: en DPU la entrega exige descargar",
+   "El comprador, porque la planta es de su propiedad",
+   "A medias, porque la descarga es una tarea común"
+  ],
+  "answer": 1,
+  "explanation": "DPU es el único Incoterm 2020 que obliga al vendedor a descargar. Hasta terminar la descarga, el riesgo es suyo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-041",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Cuál es el único Incoterm 2020 que obliga por defecto al vendedor a descargar en destino?",
+  "options": [
+   "DAP",
+   "DPU",
+   "DDP",
+   "CPT"
+  ],
+  "answer": 1,
+  "explanation": "Solo DPU exige entrega descargada. DAP y DDP entregan sobre el vehículo, listo para descargar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-042",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Una empresa de Madrid vende «DDP almacén del cliente, Casablanca». ¿Qué asume el vendedor según la regla?",
+  "options": [
+   "Transporte y descarga, pero no la importación",
+   "Transporte, importación y derechos e impuestos",
+   "Solo el transporte; el despacho de importación corresponde al comprador",
+   "Transporte y exportación, pero no los derechos"
+  ],
+  "answer": 1,
+  "explanation": "DDP es la máxima obligación del vendedor: transporta, despacha la importación y paga derechos e impuestos. La descarga es del comprador salvo pacto.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-043",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Un contrato dice «DDP, IVA de importación a cargo del importador». ¿Cómo debe entenderse?",
+  "options": [
+   "Es la regla estándar del DDP en la versión de Incoterms 2020",
+   "Es contradictorio y anula el Incoterm pactado",
+   "Es una modificación que hay que pactar expresamente",
+   "Es lo mismo que pactar un DAP sin más"
+  ],
+  "answer": 2,
+  "explanation": "La regla DDP asigna los tributos de importación al vendedor. Que el IVA lo pague el importador es una modificación contractual expresa.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-044",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Antes de aceptar vender DDP a un país lejano, ¿qué debe comprobar el vendedor según los apuntes?",
+  "options": [
+   "Que puede actuar como importador en el país de destino",
+   "Que el comprador tiene un seguro ICC A contratado",
+   "Que el transporte se hace en contenedor de 40 pies",
+   "Que la mercancía viaja en un buque de bandera de la UE"
+  ],
+  "answer": 0,
+  "explanation": "En DDP el vendedor asume la importación, por lo que debe poder actuar como importador conforme a la normativa del destino.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-045",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "En una venta DAP, el comprador tarda en despachar la importación y se acumulan gastos de almacenaje. ¿Qué recomienda el profesor?",
+  "options": [
+   "Cambiar a EXW para evitar demoras de importación",
+   "Que el vendedor asuma las demoras por ser su riesgo",
+   "Regular en el contrato plazos y costes de las demoras",
+   "Esperar a que el transportista resuelva la incidencia con la aduana de destino"
+  ],
+  "answer": 2,
+  "explanation": "En DAP/DPU las demoras de importación pueden generar costes: conviene regular expresamente plazos y gastos en el contrato.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-046",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué diferencia esencial hay entre DAP y DDP?",
+  "options": [
+   "En DDP el riesgo pasa al comprador en el país de origen",
+   "En DDP la importación y los tributos pasan al vendedor",
+   "En DDP el vendedor debe descargar la mercancía en el lugar de destino pactado",
+   "En DDP el comprador contrata el transporte principal"
+  ],
+  "answer": 1,
+  "explanation": "DAP y DDP entregan igual (sobre el vehículo). La diferencia es que en DDP importación y tributos son del vendedor.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-047",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué Incoterm supone la máxima obligación logística y aduanera para el vendedor?",
+  "options": [
+   "DDP",
+   "DPU",
+   "CIP",
+   "DAP"
+  ],
+  "answer": 0,
+  "explanation": "DDP: transporte hasta destino, importación y derechos e impuestos a cargo del vendedor.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-048",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué Incoterm tiene la mínima obligación para el vendedor?",
+  "options": [
+   "FCA",
+   "EXW",
+   "FAS",
+   "FOB"
+  ],
+  "answer": 1,
+  "explanation": "EXW es la regla de menor obligación logística para el vendedor: pone la mercancía a disposición, sin cargar ni despachar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-049",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Venta de maquinaria por carretera de Madrid a Oporto con entrega en el almacén del cliente. El vendedor quiere asumir el riesgo hasta allí, pero no descargar ni importar. ¿Qué Incoterm encaja?",
+  "options": [
+   "CPT almacén del cliente, Oporto",
+   "DPU almacén del cliente, Oporto",
+   "FCA almacén del vendedor, Madrid",
+   "DAP almacén del cliente, Oporto"
+  ],
+  "answer": 3,
+  "explanation": "DAP: riesgo del vendedor hasta el lugar pactado, entregando sobre el vehículo sin descargar. CPT pasaría el riesgo en origen; DPU obligaría a descargar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-050",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Un exportador vende por barco y quiere pagar el flete hasta destino pero que el comprador asegure por su cuenta. ¿Qué Incoterm le encaja?",
+  "options": [
+   "CIF",
+   "CFR",
+   "FOB",
+   "DAP"
+  ],
+  "answer": 1,
+  "explanation": "CFR: el vendedor paga el flete marítimo hasta destino y no tiene obligación de asegurar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-051",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "En una venta FOB, el comprador contrata un seguro que solo cubre desde que el buque sale del puerto. ¿Qué riesgo corre?",
+  "options": [
+   "Ninguno: en FOB el riesgo pasa cuando zarpa el buque",
+   "Que el vendedor le reclame después la prima del seguro",
+   "Que el seguro se anule por no ser ICC C",
+   "Dejar sin cobertura el tramo desde que está a bordo"
+  ],
+  "answer": 3,
+  "explanation": "En FOB el riesgo pasa al quedar a bordo; un seguro que empieza al zarpar deja un tramo sin cobertura. Por eso hay que revisar el alcance de la póliza.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-052",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "¿Qué comparación es correcta?",
+  "options": [
+   "FOB y CFR transmiten el riesgo en el mismo punto",
+   "FAS y FOB transmiten el riesgo en el mismo punto",
+   "CPT y DAP transmiten el riesgo en el mismo punto",
+   "CIF y DDP transmiten el riesgo en el mismo punto"
+  ],
+  "answer": 0,
+  "explanation": "FOB y CFR comparten el punto de riesgo (a bordo en origen); en CFR el vendedor paga además el flete.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-053",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Una operación aérea va de Shanghái a Pensilvania. ¿Qué secuencia de Incoterms usó el profesor en el escandallo?",
+  "options": [
+   "EXW, FCA, CPT, CIP, DAP y DDP",
+   "EXW, FAS, FOB, CFR, CIF y DDP",
+   "EXW, FOB, CPT, CIF, DAP y DDP",
+   "FCA, FOB, CFR, CIP, DPU y DDP"
+  ],
+  "answer": 0,
+  "explanation": "En aéreo no se aplica FOB ni CIF: la secuencia válida es EXW, FCA, CPT, CIP, DAP y DDP.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-054",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Una operación marítima va de Madrid a México por Valencia. ¿Qué secuencia de precios construyó el profesor?",
+  "options": [
+   "EXW, FCA, FOB, CFR, CIF, DAP y DDP",
+   "EXW, FCA, CPT, CIP, DAP, DPU y DDP",
+   "EXW, FAS, FOB, CIF, CIP, DAP y DDP",
+   "FCA, FOB, CFR, CPT, CIF, DAP y DDP"
+  ],
+  "answer": 0,
+  "explanation": "En el caso del vino Madrid → México los precios suben por EXW, FCA fábrica, FCA puerto, FOB, CFR, CIF, DAP y DDP.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-055",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Los once Incoterms en supuestos"
+ },
+ {
+  "question": "Un transportista por carretera pierde 100 kg de maquinaria que valen 18.000 €. Su límite es 8,33 DEG/kg. ¿Por qué conviene además un seguro de mercancías?",
+  "options": [
+   "Porque el transportista no responde de las pérdidas en carretera internacional",
+   "Porque el seguro sustituye al contrato de transporte y a la carta CMR",
+   "Porque el límite del porteador solo se aplica en el transporte aéreo",
+   "Porque la responsabilidad del porteador está muy limitada"
+  ],
+  "answer": 3,
+  "explanation": "El techo orientativo sería 833 DEG, muy inferior a 18.000 €. El seguro protege el valor económico que interesa recuperar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-056",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "En una venta CIF, el vendedor contrata y paga la póliza y el comprador soporta el riesgo durante la travesía. ¿Qué figuras ocupa cada uno?",
+  "options": [
+   "Vendedor asegurado; comprador tomador y beneficiario",
+   "Vendedor tomador; comprador asegurado y beneficiario",
+   "Vendedor beneficiario; comprador tomador y asegurado",
+   "Vendedor tomador y beneficiario; comprador asegurado"
+  ],
+  "answer": 1,
+  "explanation": "Tomador es quien contrata y paga la prima; asegurado, quien tiene el interés económico; beneficiario, quien cobra la indemnización. En CIF/CIP el vendedor asegura un riesgo que es del comprador.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-057",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "En un seguro de transporte, ¿quién es el tomador?",
+  "options": [
+   "Quien contrata la póliza y paga la prima",
+   "Quien soporta el perjuicio si se pierde la mercancía",
+   "Quien cobra la indemnización si hay un siniestro",
+   "La compañía que asume el riesgo cubierto"
+  ],
+  "answer": 0,
+  "explanation": "El tomador contrata y paga; el asegurado tiene el interés; el beneficiario cobra; el asegurador asume el riesgo.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-058",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Qué es el interés asegurable?",
+  "options": [
+   "El porcentaje de recargo que se aplica sobre el valor de factura",
+   "El tipo de interés que cobra la aseguradora por aplazar el pago de la prima",
+   "El derecho de la aseguradora a reclamar al transportista culpable",
+   "La relación económica que hace que su pérdida perjudique"
+  ],
+  "answer": 3,
+  "explanation": "Es la relación económica legítima entre el asegurado y la mercancía. El Incoterm ayuda a ver quién la tiene en cada fase.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-059",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Pueden coincidir tomador, asegurado y beneficiario en la misma persona?",
+  "options": [
+   "No: la ley exige que sean tres personas distintas",
+   "No: el tomador no puede cobrar la indemnización",
+   "Sí, pero solo en las ventas en términos D",
+   "Sí, pueden ser una, dos o tres personas distintas"
+  ],
+  "answer": 3,
+  "explanation": "Pueden ser tres partes, dos o una. Son funciones distintas aunque recaigan en la misma persona.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-060",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Una póliza tiene un capital asegurado de 20.000 € y una prima del 0,4 %. Se pierde la mercancía por un riesgo cubierto. ¿Qué es correcto?",
+  "options": [
+   "La póliza solo indemniza 80 €, que es lo que se pagó de prima",
+   "La prima es de 80 € y la indemnización depende del daño y la póliza",
+   "La aseguradora paga de forma automática los 20.000 € del capital",
+   "La prima es de 800 € y la indemnización es de 20.000 € fijos"
+  ],
+  "answer": 1,
+  "explanation": "Prima ≠ capital. 0,4 % de 20.000 € = 80 € de prima. La indemnización se calcula según daño real, capital, franquicias y exclusiones.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-061",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Tras pagar al asegurado, la aseguradora demanda al transportista que causó el daño. ¿Cómo se llama ese derecho?",
+  "options": [
+   "Franquicia",
+   "Avería gruesa",
+   "Subrogación",
+   "Interés asegurable"
+  ],
+  "answer": 2,
+  "explanation": "La subrogación permite al asegurador, tras indemnizar, reclamar al responsable en lugar del asegurado.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-062",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Una póliza prevé que los primeros 500 € de cualquier daño los asuma el asegurado. ¿Qué figura es?",
+  "options": [
+   "Una franquicia",
+   "Una exclusión",
+   "Una subrogación",
+   "Una prima"
+  ],
+  "answer": 0,
+  "explanation": "La franquicia es la parte del daño que queda a cargo del asegurado según el condicionado.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-063",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Ordena las Institute Cargo Clauses de mayor a menor cobertura.",
+  "options": [
+   "ICC A, ICC B, ICC C",
+   "ICC C, ICC B, ICC A",
+   "ICC B, ICC A, ICC C",
+   "ICC A, ICC C, ICC B"
+  ],
+  "answer": 0,
+  "explanation": "ICC A es la cobertura más amplia; ICC B, intermedia; ICC C, la más restringida.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-064",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Un vendedor CIF dice: «Como CIF incluye la palabra seguro, debo contratar la cobertura ICC A». ¿Es correcto?",
+  "options": [
+   "Sí: CIF y CIP exigen ambos como mínimo la cobertura ICC A al 110 %",
+   "No: CIF exige ICC B, que es la cobertura intermedia",
+   "No: CIF exige como mínimo ICC C; la A es del CIP",
+   "Sí, pero solo por el 100 % del valor de la factura"
+  ],
+  "answer": 2,
+  "explanation": "CIF: mínimo ICC C y 110 %. CIP: mínimo ICC A y 110 %. Las partes pueden pactar más.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-065",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Una carga asegurada con ICC A llega dañada por un embalaje insuficiente del vendedor. ¿Qué ocurre previsiblemente?",
+  "options": [
+   "Se indemniza: ICC A es todo riesgo y lo cubre todo",
+   "Se indemniza solo si se pactó además la cláusula adicional de huelga",
+   "No se indemniza: el embalaje insuficiente está excluido",
+   "Se indemniza al 110 % por ser una cobertura amplia"
+  ],
+  "answer": 2,
+  "explanation": "«Todo riesgo» no significa cualquier daño. Embalaje insuficiente, vicio propio, mermas y retraso son exclusiones relevantes.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-066",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Cuál de estos sucesos NO suele cubrir ni siquiera un seguro ICC A?",
+  "options": [
+   "La rotura de los bultos en el trayecto",
+   "La mojadura de la carga por agua de mar",
+   "La caída de un bulto durante la carga",
+   "Las mermas naturales de la mercancía"
+  ],
+  "answer": 3,
+  "explanation": "Las mermas naturales, el vicio propio y el embalaje insuficiente quedan excluidos. Rotura, mojadura o caída pueden estar cubiertas en ICC A aunque no en C.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-067",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Una exportación pasa por una zona de conflicto. ¿Qué recomienda el profesor además de ICC A?",
+  "options": [
+   "Nada más: la cobertura ICC A ya incluye los riesgos de guerra y huelga",
+   "Añadir expresamente las cláusulas de guerra y huelga",
+   "Cambiar a ICC C, que es la que cubre guerra",
+   "Pedir al transportista que asuma ese riesgo"
+  ],
+  "answer": 1,
+  "explanation": "Guerra (War) y huelga (Strike) requieren extensión expresa; no se incluyen por el mero hecho de contratar ICC A.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-068",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "En transporte aéreo, ¿qué cláusula equipara el material en amplitud a la ICC A marítima?",
+  "options": [
+   "ICC C Air",
+   "ICC B",
+   "ICC Air",
+   "ICC Strike"
+  ],
+  "answer": 2,
+  "explanation": "ICC Air es la referencia de seguro aéreo de amplitud equiparable a ICC A.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-069",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Venta FOB de 15.000 €. Los costes hasta destino no recuperables son 3.000 €. Según la pauta del profesor, ¿qué capital conviene asegurar?",
+  "options": [
+   "16.500 €",
+   "18.000 €",
+   "19.800 €",
+   "15.000 €"
+  ],
+  "answer": 2,
+  "explanation": "Para EXW-CFR se asegura el 110 % del valor final estimado (DDP sin IVA deducible): 110 % de 18.000 € = 19.800 €.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-070",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Mercancía EXW de 10.000 USD con 2.500 USD de gastos logísticos y de importación no recuperables. ¿Qué capital de referencia propone la pauta de clase?",
+  "options": [
+   "12.500 USD",
+   "13.750 USD",
+   "11.000 USD",
+   "11.250 USD"
+  ],
+  "answer": 1,
+  "explanation": "Valor final 12.500 USD × 110 % = 13.750 USD. Se asegura el último valor que se quiere recuperar, no solo el precio de fábrica.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-071",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Qué valor se asegura en una venta DAP, DPU o DDP según el esquema de clase?",
+  "options": [
+   "El 110 % del valor CIF, igual que en los términos C",
+   "El 100 % del valor de entrega",
+   "El 110 % del valor EXW más el flete principal",
+   "El 150 % del valor DDP para cubrir los tributos"
+  ],
+  "answer": 1,
+  "explanation": "En los términos D se asegura el 100 % del valor DAP/DPU/DDP; en EXW-CFR el 110 % del valor DDP estimado y en CIF/CIP el 110 % del valor CIF/CIP.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-072",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Por qué se suele asegurar el 110 % y no el 100 % del valor en los términos E, F y C?",
+  "options": [
+   "El 10 % adicional cubre el IVA de importación",
+   "El 10 % adicional es la prima de la aseguradora",
+   "El 10 % adicional cubre el lucro cesante",
+   "El 10 % adicional cubre la franquicia del asegurado"
+  ],
+  "answer": 2,
+  "explanation": "El 10 % adicional se aplica para el lucro cesante. El IVA, si es recuperable, no se asegura.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-073",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Al calcular el capital asegurado en una importación, ¿se incluye el IVA de importación?",
+  "options": [
+   "No, si es deducible para el importador",
+   "Sí, se asegura con el IVA incluido",
+   "Sí, porque forma parte del valor DDP",
+   "No, porque los seguros no cubren tributos"
+  ],
+  "answer": 0,
+  "explanation": "Se asegura sin IVA si este es recuperable: el IVA deducible no es una pérdida económica.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-074",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Un buque se incendia y el capitán ordena tirar por la borda parte de la carga para salvar el barco y el resto de mercancías. ¿Quién soporta esa pérdida?",
+  "options": [
+   "Todos los intereses salvados contribuyen: es avería gruesa",
+   "Solo el dueño de la carga lanzada, por ser avería particular",
+   "La naviera, porque el capitán tomó la decisión",
+   "La aseguradora del buque, sin intervenir los cargadores"
+  ],
+  "answer": 0,
+  "explanation": "La avería gruesa es un sacrificio voluntario y razonable para salvar la expedición común. Su coste se reparte entre los intereses beneficiados.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-075",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Un contenedor llega con daños que solo afectan a la mercancía de un cargador, sin ningún sacrificio común. ¿Qué tipo de avería es?",
+  "options": [
+   "Avería gruesa",
+   "Avería particular",
+   "Pérdida total",
+   "Vicio propio de la carga"
+  ],
+  "answer": 1,
+  "explanation": "La avería particular afecta a bienes determinados sin el reparto común propio de la avería gruesa.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-076",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Un buque encallado es técnicamente reparable, pero rescatarlo y repararlo costaría más que su valor asegurado. ¿Qué figura es?",
+  "options": [
+   "Avería gruesa común",
+   "Pérdida total constructiva",
+   "Avería particular del buque",
+   "Lucro cesante del armador"
+  ],
+  "answer": 1,
+  "explanation": "Hay pérdida total constructiva cuando, sin desaparición física completa, recuperar o reparar es económicamente inviable.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-077",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Llega un envío con varios bultos rotos. ¿Qué debe hacer el destinatario?",
+  "options": [
+   "Aceptarlo sin reservas en la entrega y reclamar más tarde solo al seguro",
+   "Reservar en la entrega, avisar al seguro y guardar pruebas",
+   "Devolverlo al transportista sin firmar ningún documento",
+   "Esperar a desembalar para no retrasar la descarga"
+  ],
+  "answer": 1,
+  "explanation": "Hay que reconocer la carga, consignar los daños aparentes al recibir, hacer reservas, informar al asegurador, minimizar el daño y conservar documentación.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-078",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Cuál es una obligación del asegurado en el seguro de transporte?",
+  "options": [
+   "Declarar bien el riesgo y avisar del siniestro",
+   "Indemnizar al transportista si hay un retraso en la entrega final",
+   "Pagar la indemnización cuando se produzca un siniestro",
+   "Subrogarse frente al responsable una vez cobrado el daño"
+  ],
+  "answer": 0,
+  "explanation": "El asegurado paga la prima, declara las circunstancias del riesgo, informa del siniestro y minimiza el daño. El asegurador indemniza y puede subrogarse.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-079",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Qué diferencia hay entre un seguro puerta a puerta y uno puerto a puerto?",
+  "options": [
+   "El puerta a puerta solo cubre el tramo marítimo",
+   "El puerto a puerto puede dejar fuera los tramos terrestres",
+   "Son lo mismo con distinto nombre comercial",
+   "El puerto a puerto incluye la cláusula de guerra sin pactarla expresamente"
+  ],
+  "answer": 1,
+  "explanation": "El puerta a puerta cubre el trayecto completo definido en la póliza; el puerto a puerto puede limitarse al tramo principal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-080",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "En una venta DAP, ¿quién tiene interés en asegurar el viaje y suele ser beneficiario?",
+  "options": [
+   "El vendedor, que soporta el riesgo hasta destino",
+   "El comprador, que paga los tributos de importación",
+   "El banco que financia la operación, por regla general",
+   "El transportista, que responde de la mercancía"
+  ],
+  "answer": 0,
+  "explanation": "En los términos D el vendedor asume el riesgo, contrata el seguro y es beneficiario. No hay que suponer que un banco es beneficiario.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-081",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "El profesor dijo que no compraría CIF. ¿Por qué?",
+  "options": [
+   "Porque en CIF el riesgo de la mercancía es del vendedor hasta el destino",
+   "Porque CIF solo permite asegurar el 100 % del valor",
+   "Paga un seguro mínimo y tendría que volver a asegurar",
+   "Porque CIF obliga al comprador a pagar la exportación"
+  ],
+  "answer": 2,
+  "explanation": "En CIF el vendedor asegura con ICC C, que es restringida; el comprador acaba pagando dos veces si quiere una cobertura adecuada.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-082",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "Daños por fenómenos extraordinarios como catástrofes naturales quedan fuera de muchas pólizas ordinarias. ¿Qué organismo señalaron los apuntes para esos riesgos?",
+  "options": [
+   "La Cámara de Comercio Internacional de París",
+   "La Dirección General de Aduanas",
+   "El Fondo Monetario Internacional",
+   "El Consorcio de Compensación de Seguros"
+  ],
+  "answer": 3,
+  "explanation": "En las notas de clase, las causas de fuerza mayor no cubiertas remiten al Consorcio de Compensación de Seguros.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-083",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Seguro de transporte"
+ },
+ {
+  "question": "¿Qué es el DEG que aparece en los límites de responsabilidad del transportista?",
+  "options": [
+   "Una moneda de la UE equivalente a un euro y medio",
+   "Un recargo de combustible que cobra la naviera",
+   "Un seguro obligatorio que paga el transportista",
+   "Una unidad de cuenta del FMI"
+  ],
+  "answer": 3,
+  "explanation": "El DEG (derecho especial de giro, SDR) es la unidad de cuenta del FMI. Su contravalor en euros varía: no hay un cambio fijo que memorizar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-084",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un compañero memoriza «1 DEG = 1,20 €» para el examen. ¿Qué le dices?",
+  "options": [
+   "Que el contravalor del DEG varía y no hay cambio fijo",
+   "Que es correcto: el DEG tiene un valor fijo en euros",
+   "Que el DEG equivale a un dólar estadounidense",
+   "Que el DEG solo se usa en transporte por carretera"
+  ],
+  "answer": 0,
+  "explanation": "El DEG es una unidad de cuenta cuyo contravalor cambia con la cotización de la cesta de divisas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-085",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Según el cuadro de cinco cifras del profesor, ¿cuál es el límite de responsabilidad en carretera internacional (CMR)?",
+  "options": [
+   "8,33 DEG/kg bruto",
+   "17 DEG por kg bruto",
+   "26 DEG por kg bruto",
+   "2 DEG por kg bruto"
+  ],
+  "answer": 0,
+  "explanation": "Aéreo 26 DEG/kg; marítimo, el mayor de 666,67 DEG/bulto o 2 DEG/kg; CMR 8,33 DEG/kg; ferrocarril 17 DEG/kg; carretera nacional, 1/3 del IPREM diario por kg.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-086",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué cifra tomó el profesor como referencia para el límite en transporte aéreo, pese a la errata de una diapositiva?",
+  "options": [
+   "26 DEG por kg",
+   "22 DEG por kg",
+   "17 DEG por kg",
+   "8,33 DEG por kg"
+  ],
+  "answer": 0,
+  "explanation": "La diapositiva 74 conserva 22 DEG/kg, pero la diapositiva 66 y la explicación de clase usan 26 DEG/kg. Para el examen: 26.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-087",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En un transporte por carretera internacional se pierden 125 kg de mercancía. ¿Cuál es el techo orientativo de responsabilidad del porteador?",
+  "options": [
+   "1.041,25 DEG",
+   "833,00 DEG",
+   "250,00 DEG",
+   "3.250,00 DEG"
+  ],
+  "answer": 0,
+  "explanation": "125 kg × 8,33 DEG/kg = 1.041,25 DEG. Es un máximo: no da derecho automático a cobrarlo si el daño probado es menor.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-088",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Se pierde por mar un bulto de 200 kg bajo La Haya-Visby. ¿Cuál es el límite según el material?",
+  "options": [
+   "666,67 DEG, porque es mayor que 400 DEG",
+   "400 DEG, porque se aplica el límite por kilo",
+   "1.066,67 DEG, suma de ambos límites",
+   "200 DEG, uno por cada kilo perdido"
+  ],
+  "answer": 0,
+  "explanation": "Se calcula 666,67 DEG por bulto y 2 DEG/kg (200 × 2 = 400) y se elige el mayor: 666,67 DEG.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-089",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Se pierde por mar un bulto de 500 kg bajo La Haya-Visby. ¿Cuál es el límite?",
+  "options": [
+   "666,67 DEG, que es el límite por bulto",
+   "1.666,67 DEG, sumando los dos límites",
+   "4.165 DEG, aplicando 8,33 DEG por kilo",
+   "1.000 DEG, porque supera los 666,67 DEG"
+  ],
+  "answer": 3,
+  "explanation": "500 × 2 = 1.000 DEG frente a 666,67 DEG por bulto: se aplica el mayor, 1.000 DEG.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-090",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Las Reglas de Hamburgo fijan 835 DEG por unidad o 2,5 DEG/kg. ¿Cómo se relacionan con La Haya-Visby?",
+  "options": [
+   "Se suman a los límites de La Haya-Visby en todo transporte marítimo",
+   "Son regímenes alternativos, no acumulables",
+   "Se aplican en el tramo terrestre de un envío marítimo",
+   "Sustituyen a La Haya-Visby solo en contenedores"
+  ],
+  "answer": 1,
+  "explanation": "Hamburgo y La Haya-Visby son regímenes marítimos alternativos, no límites acumulables.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-091",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En un transporte nacional por carretera entre Madrid y Zaragoza, ¿qué referencia usa el cuadro de clase para el límite de responsabilidad?",
+  "options": [
+   "8,33 DEG por kilogramo, como el CMR",
+   "17 DEG por kilogramo, como el ferrocarril",
+   "7 euros fijos por cada bulto transportado",
+   "Un tercio del IPREM diario por kilogramo"
+  ],
+  "answer": 3,
+  "explanation": "La carretera nacional usa como referencia 1/3 del IPREM diario por kg, salvo pacto válido. No se aplica el CMR.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-092",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un transportista llega dos días tarde y el cliente exige una indemnización automática. ¿Qué dicen los apuntes?",
+  "options": [
+   "El transportista debe indemnizar con el valor total de la carga retrasada",
+   "El retraso se indemniza con 8,33 DEG por kilo y por día",
+   "El seguro ICC A cubre los retrasos en la entrega",
+   "No es automática: hay que probar el daño y cumplir plazos"
+  ],
+  "answer": 3,
+  "explanation": "Un retraso no implica automáticamente indemnización: hay que examinar el convenio, acreditar el daño y respetar los plazos. Los seguros excluyen el retraso.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-093",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En el CMR, ¿con qué se relaciona el límite de indemnización por retraso según el material?",
+  "options": [
+   "Con el precio del transporte",
+   "Con el valor de la mercancía",
+   "Con el peso bruto de la carga",
+   "Con el IPREM diario vigente"
+  ],
+  "answer": 0,
+  "explanation": "En CMR el límite por retraso se expresa en relación con el precio del transporte.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-094",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un camión CMR entrega unas cajas aparentemente intactas. Al desembalar, el cliente encuentra piezas rotas. Según el cuadro de clase, ¿de qué plazo dispone para la reserva?",
+  "options": [
+   "14 días naturales",
+   "21 días naturales",
+   "24 horas",
+   "7 días laborables"
+  ],
+  "answer": 3,
+  "explanation": "Daño no aparente: CMR 7 días (laborables según la presentación); aéreo 14 días naturales. Para retraso, 21 días en aéreo y CMR.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-095",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Llega por avión una carga sin daños visibles, pero al abrirla hay mercancía dañada. ¿Qué plazo de reserva recoge el cuadro de clase?",
+  "options": [
+   "7 días laborables",
+   "14 días naturales",
+   "60 días naturales",
+   "3 días hábiles"
+  ],
+  "answer": 1,
+  "explanation": "En aéreo, el daño no aparente se reserva en 14 días naturales; el daño aparente, en el momento de la entrega.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-096",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Si el daño es evidente al recibir la mercancía, ¿cuándo hay que hacer la reserva?",
+  "options": [
+   "En el momento de la entrega, en el documento",
+   "En los 7 días siguientes, por carta certificada al transportista",
+   "En los 14 días siguientes, ante la aseguradora",
+   "Cuando se haya desembalado toda la mercancía"
+  ],
+  "answer": 0,
+  "explanation": "Los daños aparentes se consignan al acto de entrega, declarando la mercancía como no conforme.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-097",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué diferencia hay entre el plazo de reserva y el de prescripción?",
+  "options": [
+   "Son el mismo plazo, con distinto nombre según el modo de transporte",
+   "La reserva es para el seguro y la prescripción para el banco",
+   "La prescripción es más corta que la reserva",
+   "La reserva avisa del daño; la prescripción limita la demanda"
+  ],
+  "answer": 3,
+  "explanation": "No hay que confundir el plazo para formular una reserva con el plazo de prescripción para ejercitar acciones.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-098",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Relaciona cada modo con su documento de transporte habitual.",
+  "options": [
+   "Marítimo AWB, aéreo B/L, carretera CIM",
+   "Marítimo CMR, aéreo AWB, carretera B/L",
+   "Marítimo B/L, aéreo CIM, carretera AWB",
+   "Marítimo B/L, aéreo AWB, carretera CMR"
+  ],
+  "answer": 3,
+  "explanation": "B/L (conocimiento de embarque) en marítimo, AWB (conocimiento aéreo) en aéreo, CMR en carretera internacional y CIM en ferrocarril.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-099",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Cuál de estos documentos puede ser negociable y transmitirse por endoso?",
+  "options": [
+   "Un AWB emitido por la aerolínea",
+   "Una carta de porte CMR",
+   "Un B/L emitido a la orden",
+   "Un Sea Waybill de la naviera"
+  ],
+  "answer": 2,
+  "explanation": "El B/L a la orden puede ser negociable. El AWB, el CMR y el Sea Waybill no lo son.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-100",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué tres funciones cumple el B/L?",
+  "options": [
+   "Fija el precio, transmite la propiedad y asegura la carga durante todo el viaje",
+   "Sustituye al DUA, paga los aranceles y acredita el origen de la mercancía",
+   "Acredita la exportación, fija el Incoterm y prueba el seguro contratado",
+   "Prueba el contrato, acredita la recepción y puede representar la carga"
+  ],
+  "answer": 3,
+  "explanation": "El B/L es prueba del contrato de transporte, recibo de la mercancía y, en forma negociable, título que legitima para reclamar la entrega.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-101",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En una operación con B/L negociable, el comprador quiere retirar la carga. ¿Qué necesita?",
+  "options": [
+   "Solo una copia del B/L enviada por correo electrónico",
+   "La factura comercial del vendedor",
+   "El AWB emitido en origen por el transitario",
+   "El juego de originales o un original endosado"
+  ],
+  "answer": 3,
+  "explanation": "Con B/L negociable se necesita el juego de originales o uno endosado (firmado por detrás). Funciona «como un cheque al portador».",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-102",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un exportador pide un Sea Waybill en vez de un B/L. ¿Qué cambia?",
+  "options": [
+   "El Sea Waybill no es negociable",
+   "El Sea Waybill es negociable y se transmite por endoso",
+   "El Sea Waybill solo sirve para transporte aéreo",
+   "El Sea Waybill no prueba el contrato de transporte"
+  ],
+  "answer": 0,
+  "explanation": "El Sea Waybill es un documento marítimo no negociable; no por ello pierde su valor probatorio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-103",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué significa que un B/L sea «clean on board»?",
+  "options": [
+   "Que el flete se ha pagado íntegramente en el puerto de origen",
+   "Que la mercancía ha pasado la inspección aduanera",
+   "Que el contenedor ha sido limpiado antes de cargar",
+   "Que consta a bordo sin reservas sobre su estado"
+  ],
+  "answer": 3,
+  "explanation": "On board indica embarque; clean, que no hay reservas sobre el estado aparente de la mercancía o el embalaje.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-104",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En un B/L, ¿quién es la «notify party»?",
+  "options": [
+   "El dueño legal de la mercancía embarcada en el buque",
+   "El banco que paga el crédito documentario",
+   "El capitán del buque que firma el B/L",
+   "Quien debe recibir el aviso de llegada"
+  ],
+  "answer": 3,
+  "explanation": "La notify recibe el aviso de llegada; no por ello es titular de la mercancía. Shipper es el embarcador y consignee el destinatario.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-105",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Tres exportadores contratan con el mismo transitario y su carga viaja consolidada en un contenedor. Uno sufre daños y quiere reclamar según su HBL. ¿A quién reclama?",
+  "options": [
+   "A la naviera que emitió el MBL",
+   "Al transitario que emitió el HBL",
+   "Al consignatario del buque",
+   "A los otros dos exportadores"
+  ],
+  "answer": 1,
+  "explanation": "El HBL lo emite el transitario en nombre propio y frente al cliente es el porteador contractual. El MBL vincula a la naviera con el transitario.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-106",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué diferencia un Master B/L de un House B/L?",
+  "options": [
+   "El MBL es negociable y el HBL es una simple copia sin ningún valor",
+   "El MBL se usa en aéreo y el HBL en transporte marítimo",
+   "El MBL lo emite el comprador y el HBL el vendedor",
+   "El MBL lo emite la naviera; el HBL, el transitario"
+  ],
+  "answer": 3,
+  "explanation": "MBL: naviera o su agente, que es porteador contractual. HBL: transitario en nombre propio. «House» no significa falso ni sin valor.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-107",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué afirmación sobre el AWB es correcta?",
+  "options": [
+   "Prueba el contrato y la recepción; no es negociable",
+   "Es negociable si lo emite un agente IATA autorizado por la aerolínea",
+   "Es negociable si el expedidor es expedidor conocido",
+   "Representa la mercancía y se transmite por endoso"
+  ],
+  "answer": 0,
+  "explanation": "El AWB es prueba del contrato de transporte aéreo y recibo de la mercancía, pero no es título valor ni negociable.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-108",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un transitario consolida varios envíos en un vuelo. ¿Qué documentos aparecen?",
+  "options": [
+   "Un HBL de la naviera y un MBL del transitario para cada cliente",
+   "Un MAWB de la aerolínea y un HAWB del transitario para cada cliente",
+   "Un único AWB negociable que se endosa a cada cliente",
+   "Un CMR por cada cliente y un MAWB de la terminal aérea"
+  ],
+  "answer": 1,
+  "explanation": "En consolidación aérea coexisten el MAWB (aerolínea) y los HAWB (transitario). Ninguno es negociable.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-109",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Una empresa es «expedidor conocido» en carga aérea. ¿Qué consecuencia tiene sobre su AWB?",
+  "options": [
+   "El AWB pasa a ser negociable y se puede endosar",
+   "Ninguna: es una categoría de seguridad",
+   "Ya no necesita AWB para enviar mercancías por avión",
+   "Su AWB vale también como carta de porte CMR"
+  ],
+  "answer": 1,
+  "explanation": "Expedidor conocido/desconocido es una cuestión de seguridad aeroportuaria; afecta a controles (y costes de inspección), no a la naturaleza del AWB.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-110",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué es la carta de porte CMR?",
+  "options": [
+   "El documento no negociable que prueba el contrato por carretera",
+   "Un título negociable que representa la mercancía en carretera",
+   "El régimen de tránsito aduanero para camiones precintados",
+   "El seguro obligatorio del transporte internacional de mercancías por carretera"
+  ],
+  "answer": 0,
+  "explanation": "El CMR es convenio y carta de porte. La carta prueba el contrato y la recepción; no es negociable.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-111",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "En una venta de Madrid a Lyon por camión, el profesor insistió en el CMR firmado. ¿Por qué?",
+  "options": [
+   "Porque sustituye a la factura en las entregas intracomunitarias",
+   "Porque permite pagar el arancel de la mercancía en destino",
+   "Porque prueba el transporte a otro Estado para la exención de IVA",
+   "Porque transmite la propiedad de la mercancía al comprador"
+  ],
+  "answer": 2,
+  "explanation": "El CMR firmado es una prueba importante del transporte fuera de España para la entrega intracomunitaria exenta. Decir que es el «único» medio sería demasiado absoluto.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-112",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué diferencia hay entre CMR y TIR?",
+  "options": [
+   "CMR es para camiones de la UE y TIR para los de fuera",
+   "TIR regula la responsabilidad del porteador y CMR el seguro de la carga",
+   "CMR regula el contrato; TIR facilita el tránsito aduanero",
+   "Son dos nombres para el mismo documento de transporte"
+  ],
+  "answer": 2,
+  "explanation": "El CMR regula el contrato de transporte internacional por carretera. El TIR es un régimen de tránsito aduanero internacional.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-113",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "¿Qué documento acompaña un transporte internacional por ferrocarril?",
+  "options": [
+   "El conocimiento AWB",
+   "La carta de porte CMR",
+   "La carta de porte CIM",
+   "El Sea Waybill"
+  ],
+  "answer": 2,
+  "explanation": "CIM es la carta de porte ferroviaria internacional, no negociable. El profesor excluyó el desarrollo del ferrocarril, pero pidió recordar la sigla y la cifra.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-114",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un banco recibe un B/L en un crédito documentario. ¿Qué papel tiene por ello en el transporte?",
+  "options": [
+   "Pasa a ser porteador contractual de la mercancía embarcada",
+   "Ninguno: no le hace transportista ni asegurador",
+   "Se convierte en beneficiario del seguro de la carga",
+   "Asume el riesgo de la mercancía durante la travesía"
+  ],
+  "answer": 1,
+  "explanation": "Hay que separar la función documental, la obligación de transporte y el pago. El banco no se convierte en transportista.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-115",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Responsabilidad, DEG y documentos de transporte"
+ },
+ {
+  "question": "Un exportador envía azulejos, una carga muy pesada pero que ocupa poco. Duda entre un 20' y un 40'. ¿Qué es más razonable según clase?",
+  "options": [
+   "El 40', porque soporta el doble de peso que un contenedor de 20'",
+   "El 40' High Cube, porque es el más alto de todos",
+   "El 20': con carga densa llega antes al límite de peso",
+   "El reefer, porque protege mejor la carga pesada"
+  ],
+  "answer": 2,
+  "explanation": "Un 40' no duplica la carga útil del 20' (≈ 20-21 t frente a ≈ 23 t); duplica la longitud y el volumen. Para productos densos interesa el 20'; para volumétricos, el 40'.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-116",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Un compañero dice que un 40' carga el doble de toneladas que un 20'. ¿Qué es correcto?",
+  "options": [
+   "Es correcto: un 40' admite el doble de peso",
+   "Un 40' es más ancho y más alto que un 20', pero igual de largo",
+   "Un 40' carga menos peso y menos volumen que un 20'",
+   "Duplica longitud y volumen, no la carga útil"
+  ],
+  "answer": 3,
+  "explanation": "El 40' mide ≈ 12 m frente a ≈ 6 m y tiene mucho más volumen, con anchura nominal similar; su peso máximo no es el doble.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-117",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una naviera mueve 3 contenedores de 20' y 2 de 40'. ¿Cuántos TEU son?",
+  "options": [
+   "5 TEU",
+   "8 TEU",
+   "7 TEU",
+   "10 TEU"
+  ],
+  "answer": 2,
+  "explanation": "Un 20' = 1 TEU y un 40' = 2 TEU: 3 × 1 + 2 × 2 = 7 TEU.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-118",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué mide el TEU?",
+  "options": [
+   "El peso máximo que puede cargar un contenedor de 20'",
+   "El volumen de mercancía de un palé europeo estándar",
+   "El tiempo de tránsito entre el puerto de carga y el puerto de destino",
+   "Capacidad o tráfico en contenedores equivalentes de 20'"
+  ],
+  "answer": 3,
+  "explanation": "TEU (twenty-foot equivalent unit) cuantifica capacidad o tráfico portuario; no es una unidad de peso.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-119",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Un fabricante de colchones (ligeros y voluminosos) quiere aprovechar al máximo el volumen. ¿Qué contenedor encaja mejor?",
+  "options": [
+   "Un 20' Dry Van",
+   "Un Flat Rack",
+   "Un 40' High Cube",
+   "Un Open Top de 20'"
+  ],
+  "answer": 2,
+  "explanation": "El High Cube tiene la longitud de un 40' pero más altura y, por tanto, más volumen: ideal para mercancía voluminosa.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-120",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué indica la expresión «High Cube» en un contenedor?",
+  "options": [
+   "Que está refrigerado por dentro",
+   "Que tiene el techo abierto",
+   "Que no tiene paredes laterales",
+   "Que es más alto que el estándar"
+  ],
+  "answer": 3,
+  "explanation": "HC remite a la altura (más volumen). Reefer es temperatura controlada; Open Top, techo abierto; Flat Rack, plataforma sin laterales.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-121",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una empresa exporta fruta que debe viajar a 4 °C. ¿Qué contenedor necesita y en qué tamaño suele usarse?",
+  "options": [
+   "Open Top, normalmente de 20'",
+   "Flat Rack, normalmente de 40'",
+   "Reefer, normalmente de 40'",
+   "Dry Van, normalmente de 20'"
+  ],
+  "answer": 2,
+  "explanation": "El reefer controla temperatura (y a veces humedad o atmósfera). Según clase, se usa sobre todo en 40'; el de 20' casi no se usa.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-122",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Hay que enviar una prensa industrial que no cabe por las puertas ni por la altura de un contenedor cerrado. ¿Qué equipo se usa?",
+  "options": [
+   "Reefer",
+   "Flat Rack",
+   "High Cube",
+   "Dry Van"
+  ],
+  "answer": 1,
+  "explanation": "El Flat Rack es una plataforma para cargas sobredimensionadas (out of gauge). La naviera puede cobrar el espacio que esa carga impide usar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-123",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una carga debe introducirse con grúa desde arriba, porque no entra por las puertas. ¿Qué contenedor se elige?",
+  "options": [
+   "Reefer",
+   "Dry Van",
+   "Tank container",
+   "Open Top"
+  ],
+  "answer": 3,
+  "explanation": "El Open Top tiene techo abierto o cubierto con lona extraíble, para carga que se introduce por arriba.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-124",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Al cerrar un contenedor se coloca un precinto numerado. Si se abre en tránsito, ¿qué ocurre con él?",
+  "options": [
+   "Se vuelve a cerrar con el mismo precinto",
+   "No se puede reutilizar: es de un solo uso",
+   "Se sustituye por uno del mismo número",
+   "Se mantiene, porque solo es decorativo"
+  ],
+  "answer": 1,
+  "explanation": "El precinto es un cierre de seguridad identificable y de un solo uso; su número permite verificar la integridad entre origen y destino.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-125",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué es el trincaje?",
+  "options": [
+   "Pesar el contenedor para certificar su masa bruta",
+   "Sujetar la carga para que no se desplace en el viaje",
+   "Colocar la mercancía para aprovechar el espacio",
+   "Cobrar un recargo por la manipulación en terminal"
+  ],
+  "answer": 1,
+  "explanation": "Trincar es sujetar la carga al vehículo, buque o contenedor. La estiba es la colocación; el VGM, la masa verificada.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-126",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En una cotización marítima aparece «BAF». ¿A qué corresponde?",
+  "options": [
+   "Un recargo por variación de la moneda",
+   "Un recargo ligado al combustible",
+   "Una tasa de seguridad portuaria",
+   "El cargo por manipular en terminal"
+  ],
+  "answer": 1,
+  "explanation": "BAF: recargo de combustible. CAF: ajuste monetario. ISPS: seguridad portuaria. THC: manipulación en terminal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-127",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué es el THC de una cotización marítima?",
+  "options": [
+   "El recargo por el combustible del buque",
+   "La tasa por emitir el conocimiento de embarque",
+   "El peso bruto verificado del contenedor",
+   "El cargo por manipulaciones en la terminal"
+  ],
+  "answer": 3,
+  "explanation": "THC = Terminal Handling Charge, cargo por manipular la carga en terminal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-128",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Antes de embarcar un contenedor, la naviera exige el «VGM». ¿Qué es?",
+  "options": [
+   "El precio del flete marítimo del contenedor",
+   "El número del precinto de seguridad colocado",
+   "El recargo por demoras en la devolución del equipo",
+   "La masa bruta verificada del contenedor cargado"
+  ],
+  "answer": 3,
+  "explanation": "VGM (Verified Gross Mass) es la masa bruta verificada; no tiene que ver con el precio del flete.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-129",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Un contrato de fletamento pacta plazos con la cláusula SSHEX. ¿Qué significa?",
+  "options": [
+   "Que se cuentan todos los días naturales sin excepción",
+   "Que el flete se paga a la llegada del buque",
+   "Que el buque puede hacer escala sin avisar",
+   "Que no se cuentan sábados, domingos ni festivos"
+  ],
+  "answer": 3,
+  "explanation": "SSHEX = Saturdays, Sundays and Holidays Excepted: esos días no computan.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-130",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "El importador tarda en devolver el contenedor vacío a la naviera y le cobran por días de más. ¿Cómo se llaman esos cargos?",
+  "options": [
+   "BAF y CAF de la naviera",
+   "Demurrage y detention",
+   "THC e ISPS del puerto",
+   "FCL y LCL del envío"
+  ],
+  "answer": 1,
+  "explanation": "Demurrage y detention son cargos por superar los periodos de uso o permanencia de los equipos. Las demoras suelen darse en las importaciones.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-131",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una pyme envía 4 palés que comparten contenedor con mercancía de otros clientes. ¿Cómo se llama esa modalidad?",
+  "options": [
+   "LCL o grupaje",
+   "FCL o contenedor completo",
+   "FEU o contenedor doble",
+   "Flat Rack o carga suelta"
+  ],
+  "answer": 0,
+  "explanation": "LCL (Less than Container Load) es grupaje marítimo; FCL (Full Container Load), contenedor completo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-132",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Cuál es, según el material, el puerto español con más tráfico de contenedores?",
+  "options": [
+   "Valencia",
+   "Barcelona",
+   "Algeciras",
+   "Bilbao"
+  ],
+  "answer": 2,
+  "explanation": "En clase se citó Algeciras como el mayor (unos 5 millones de TEU), seguido de Valencia y Barcelona.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-133",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Se envían por avión 2 palés de 1,20 × 0,80 × 1,30 m que pesan 250 kg en total. Con la equivalencia aérea de clase, ¿sobre qué peso se factura?",
+  "options": [
+   "250 kg, el peso real de báscula",
+   "Unos 832 kg, a 333 kg por m³",
+   "Unos 418 kg, el peso volumétrico",
+   "Unos 2.500 kg, a 1.000 kg por m³"
+  ],
+  "answer": 2,
+  "explanation": "Volumen ≈ 2,50 m³ × 167 = 418 kg. El peso tasable es el mayor entre real (250) y volumétrico (418).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-134",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué equivalencias peso/volumen usa el curso para cada modo?",
+  "options": [
+   "Aéreo 333, carretera 167 y marítimo 1.000 kg por m³",
+   "Aéreo 1.000, carretera 333 y marítimo 167 kg por m³",
+   "Aéreo 167, carretera 333 y marítimo 1.000 kg por m³",
+   "Aéreo 167, carretera 1.000 y marítimo 333 kg por m³"
+  ],
+  "answer": 2,
+  "explanation": "Aéreo 1 m³ ≈ 167 kg; carretera internacional 1 m³ ≈ 333 kg; marítimo 1 m³ ≈ 1.000 kg. No mezclar los divisores.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-135",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una carga por carretera ocupa 3 m³ y pesa 600 kg. Con el criterio de clase, ¿cuál es su peso volumétrico?",
+  "options": [
+   "501 kg",
+   "999 kg",
+   "600 kg",
+   "3.000 kg"
+  ],
+  "answer": 1,
+  "explanation": "3 m³ × 333 kg/m³ = 999 kg. Si la tarifa lo establece, se cobra sobre el mayor entre real y volumétrico.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-136",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué es el peso tasable en carga aérea?",
+  "options": [
+   "El peso real de báscula sin embalaje",
+   "El mayor entre el peso real y el volumétrico",
+   "El menor entre el peso real y el volumétrico",
+   "La media entre el peso real y el volumétrico"
+  ],
+  "answer": 1,
+  "explanation": "El peso tasable (chargeable weight) es el mayor de los dos; no es necesariamente el que marca la báscula.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-137",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En carretera aparece una tarifa por «metro lineal» de 1.750 kg. ¿Para qué sirve?",
+  "options": [
+   "Para cobrar el espacio que ocupa una carga poco pesada",
+   "Para limitar el peso máximo legal del camión",
+   "Para calcular el límite CMR de responsabilidad del porteador por kilo",
+   "Para fijar el número de palés que caben en un 40'"
+  ],
+  "answer": 0,
+  "explanation": "El metro lineal mide la longitud ocupada en el vehículo y permite facturar cargas que consumen espacio aunque pesen poco.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-138",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué es un agente IATA?",
+  "options": [
+   "La compañía aérea que transporta físicamente la mercancía en el vuelo",
+   "El representante comercial de una aerolínea en un país",
+   "Un operador acreditado que gestiona carga aérea y emite el AWB",
+   "El organismo público que controla los aeropuertos"
+  ],
+  "answer": 2,
+  "explanation": "El agente IATA emite el AWB, entrega documentación, marca bultos y revisa etiquetas. El GSA es el agente general de ventas de una aerolínea.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-139",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Una aerolínea extranjera nombra a una empresa española para vender sus servicios de carga en España. ¿Qué figura es?",
+  "options": [
+   "Un agente IATA consolidador de carga",
+   "Un GSA, agente general de ventas",
+   "Un consignatario de buques",
+   "Un transitario no IATA"
+  ],
+  "answer": 1,
+  "explanation": "El GSA (General Sales Agent) representa a la aerolínea para la venta de sus servicios en un territorio; es el «consignatario» del avión.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-140",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué hace un consolidador aéreo?",
+  "options": [
+   "Representa a la aerolínea en las ventas de carga de un territorio",
+   "Controla los rayos X de los expedidores desconocidos",
+   "Compra espacio al por mayor y agrupa envíos",
+   "Emite los B/L de la naviera para los envíos aéreos"
+  ],
+  "answer": 2,
+  "explanation": "Los consolidadores son agentes IATA que compran espacio al por mayor (planchas) y lo reparten entre clientes, con MAWB y HAWB.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-141",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué cuatro condiciones necesita el ferrocarril para ser competitivo, según las notas?",
+  "options": [
+   "Distancia, volumen, regularidad y equilibrio ida-vuelta",
+   "Rapidez, precio bajo, poca carga y trayectos cortos",
+   "Puerto cercano, contenedor reefer, seguro y aduana",
+   "Carga peligrosa, urgencia, carga suelta y destino en zonas rurales"
+  ],
+  "answer": 0,
+  "explanation": "Según las notas de clase, el ferrocarril necesita distancia, volumen, regularidad y equilibrio en la ida y vuelta.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-142",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En el caso del vino Madrid → México, el precio EXW es 61.000 USD. Se añaden 90 USD de carga y 50 USD de despacho de exportación. ¿Cuál es el precio FCA fábrica?",
+  "options": [
+   "61.090 USD",
+   "61.850 USD",
+   "61.140 USD",
+   "61.050 USD"
+  ],
+  "answer": 2,
+  "explanation": "FCA fábrica = 61.000 + 90 + 50 = 61.140 USD. Sumando 710 de transporte interior se llega a FCA puerto Valencia, 61.850.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-143",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En el mismo caso, el CFR Veracruz es 63.286 USD y la prima CIF es 350 USD. ¿Cuál es el precio CIF?",
+  "options": [
+   "63.286 USD",
+   "63.636 USD",
+   "63.611 USD",
+   "64.000 USD"
+  ],
+  "answer": 1,
+  "explanation": "CIF = CFR + prima del seguro CIF: 63.286 + 350 = 63.636 USD.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-144",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Para pasar de DAP 65.016 USD (con prima DAP 325) a DDP, se añaden despacho 450, arancel 1.800, IVA 6.000 y prima DDP 365. ¿Cuál es el DDP?",
+  "options": [
+   "73.631 USD",
+   "73.266 USD",
+   "73.306 USD",
+   "72.941 USD"
+  ],
+  "answer": 2,
+  "explanation": "Se quita la prima DAP y se pone la DDP: 65.016 − 325 + 450 + 1.800 + 6.000 + 365 = 73.306 USD. Las primas se sustituyen, no se suman.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-145",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En un escandallo con primas distintas para CIF, DAP y DDP, ¿qué hay que hacer con la prima al pasar de un término a otro?",
+  "options": [
+   "Sumar las tres primas en el precio DDP final",
+   "Mantener solo la prima CIF en todos los precios siguientes",
+   "Sustituir la prima anterior por la nueva",
+   "Eliminar el seguro, porque lo paga el comprador"
+  ],
+  "answer": 2,
+  "explanation": "Cada precio usa su propia prima: nunca se suman la prima vieja y la nueva.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-146",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Un proveedor chino ofrece FOB Shanghái 14.420 USD o CIF Valencia 16.375 USD. Con su transitario, el comprador calcula un CIF de 16.097,74 USD. ¿Qué concluye el caso?",
+  "options": [
+   "Organizar él el transporte le ahorra 277,26 USD y le da más control",
+   "Comprar CIF es mejor porque el vendedor asume el riesgo del viaje",
+   "Las dos opciones cuestan lo mismo porque el flete es idéntico",
+   "Comprar FOB le sale 1.955 USD más caro que comprar en CIF"
+  ],
+  "answer": 0,
+  "explanation": "16.375 − 16.097,74 = 277,26 USD de ahorro, además de elegir el seguro. En CIF el riesgo del viaje sería del comprador igualmente.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-147",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "En el caso aéreo Shanghái → Pensilvania, el DDP lo asume el vendedor. ¿Quién paga la descarga final según el material?",
+  "options": [
+   "El vendedor",
+   "La aerolínea",
+   "El comprador",
+   "El transitario"
+  ],
+  "answer": 2,
+  "explanation": "En DDP el vendedor entrega listo para descargar; en el caso, la descarga final es del comprador.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-148",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "¿Qué es un escandallo?",
+  "options": [
+   "La lista de bultos con pesos y medidas para la aduana",
+   "El desglose de costes para obtener un precio en un punto logístico",
+   "La póliza de seguro que fija las coberturas de la carga durante el viaje",
+   "El documento que acredita la salida de la mercancía"
+  ],
+  "answer": 1,
+  "explanation": "El escandallo desglosa costes por tramos (origen, principal, destino) para construir precios EXW, FCA, FOB… DDP.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-149",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Contenedores, tarifas y escandallo"
+ },
+ {
+  "question": "Un vendedor de Murcia pone la mercancía en el muelle de Cartagena junto al barco, despachada de exportación, y el comprador se encarga de subirla a bordo y del flete. ¿Qué Incoterm describe la operación?",
+  "options": [
+   "FAS Cartagena",
+   "FOB Cartagena",
+   "FCA Cartagena",
+   "CFR Cartagena"
+  ],
+  "answer": 0,
+  "explanation": "Entrega al costado del buque, exportación del vendedor y carga a bordo del comprador: FAS.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-150",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un vendedor despacha la exportación, carga el contenedor a bordo en Bilbao y paga el flete hasta Nueva York, sin seguro. ¿Qué Incoterm es?",
+  "options": [
+   "CIF Nueva York",
+   "FOB Bilbao",
+   "CFR Nueva York",
+   "CPT Nueva York"
+  ],
+  "answer": 2,
+  "explanation": "Entrega a bordo en origen y flete pagado hasta destino, sin obligación de seguro: CFR (marítimo).",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-151",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un vendedor entrega por camión en su almacén de Zaragoza al transportista, paga el porte y el seguro hasta Milán. ¿Qué Incoterm es?",
+  "options": [
+   "CIF Milán",
+   "CPT Milán",
+   "CIP Milán",
+   "DAP Milán"
+  ],
+  "answer": 2,
+  "explanation": "Transporte y seguro pagados hasta destino con entrega al transportista en origen, en modo terrestre: CIP.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-152",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un vendedor lleva la mercancía hasta el almacén del cliente en Burdeos, la descarga y deja la importación al cliente. ¿Qué Incoterm es?",
+  "options": [
+   "DPU almacén del cliente, Burdeos",
+   "DAP almacén del cliente, Burdeos",
+   "DDP almacén del cliente, Burdeos",
+   "CPT almacén del cliente, Burdeos"
+  ],
+  "answer": 0,
+  "explanation": "Entrega en destino ya descargada, con la importación a cargo del comprador: DPU.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-153",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un vendedor llega a destino, paga aranceles e impuestos de importación y deja el camión listo para descargar. ¿Qué Incoterm es y quién descarga?",
+  "options": [
+   "DPU; descarga el vendedor",
+   "DDP; descarga el comprador",
+   "DAP; descarga el vendedor",
+   "DDP; descarga el vendedor"
+  ],
+  "answer": 1,
+  "explanation": "DDP entrega sobre el vehículo listo para descargar, con importación y tributos del vendedor; la descarga es del comprador salvo pacto.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-154",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un comprador CIF quiere que su proveedor asegure con ICC A en lugar de la cobertura mínima. ¿Es posible?",
+  "options": [
+   "No: en CIF la cobertura es la ICC C y no se puede cambiar",
+   "No: la ICC A solo puede contratarse en ventas CIP",
+   "Sí, pero entonces la operación pasa a ser una venta CIP",
+   "Sí: las partes pueden pactar una cobertura más amplia"
+  ],
+  "answer": 3,
+  "explanation": "CIF exige como mínimo ICC C y 110 %, pero las partes pueden acordar una cobertura superior.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-155",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "En una importación CIF, la mercancía se moja en la travesía. El daño está cubierto por la póliza ICC C. ¿Quién reclama a la aseguradora?",
+  "options": [
+   "El vendedor, porque pagó la prima del seguro",
+   "La naviera, porque el daño ocurrió a bordo",
+   "El banco, porque es el beneficiario habitual",
+   "El comprador, como asegurado y beneficiario"
+  ],
+  "answer": 3,
+  "explanation": "En CIF el vendedor es tomador; el comprador, que soporta el riesgo desde el embarque, es quien se beneficia del seguro.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-156",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un importador compra FOB Shanghái. El contenedor se cae al agua durante la carga, antes de quedar a bordo. ¿Quién debía tener asegurado ese momento?",
+  "options": [
+   "El comprador, porque contrata el transporte principal",
+   "El vendedor, porque el riesgo aún era suyo",
+   "La naviera, porque la grúa estaba operando",
+   "Nadie: es un riesgo excluido en las pólizas"
+  ],
+  "answer": 1,
+  "explanation": "En FOB el riesgo pasa al quedar a bordo; antes de eso es del vendedor, que tiene el interés en asegurar ese tramo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-157",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una empresa importa en EXW y quiere asegurar la mercancía. ¿Desde cuándo tiene interés asegurable?",
+  "options": [
+   "Desde la puesta a disposición en origen",
+   "Desde que la mercancía llega al puerto de destino pactado",
+   "Desde que se despacha la importación en destino",
+   "Desde que se carga a bordo del buque en origen"
+  ],
+  "answer": 0,
+  "explanation": "En EXW el comprador soporta el riesgo desde la puesta a disposición en origen, así que le interesa asegurar desde ahí.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-158",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una exportación por carretera de Madrid a Lisboa se documenta con carta de porte nacional. ¿Qué error hay?",
+  "options": [
+   "Al ser un transporte internacional, procede el CMR",
+   "Ninguno: la carta de porte nacional sirve en la UE",
+   "Debería ir con un AWB, porque cruza la frontera portuguesa",
+   "Debería ir con B/L, porque Lisboa tiene puerto marítimo"
+  ],
+  "answer": 0,
+  "explanation": "La carta de porte nacional documenta transporte interior; Madrid–Lisboa es internacional y se rige por el CMR.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-159",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "¿Quién emite el CMR según las notas de clase?",
+  "options": [
+   "El transportista o su conductor",
+   "La aduana de salida del camión",
+   "El banco del vendedor",
+   "La Cámara de Comercio local"
+  ],
+  "answer": 0,
+  "explanation": "En las notas: el camión debe ir acompañado del CMR, que emite el chófer (el porteador).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-160",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un HBL marítimo y un HAWB aéreo tienen algo en común. ¿Qué?",
+  "options": [
+   "Ambos los emite la compañía que realiza el transporte",
+   "Los emite el transitario en nombre propio",
+   "Ambos son títulos negociables por endoso",
+   "Ambos sustituyen al documento aduanero"
+  ],
+  "answer": 1,
+  "explanation": "«House» remite a la relación del transitario con su cliente, como porteador contractual. «Master» a la del transportista principal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-161",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una naviera quiere cobrar el espacio que un Flat Rack sobredimensionado impide usar a otros contenedores. ¿Es coherente con lo explicado?",
+  "options": [
+   "Sí: con carga out of gauge se cobra el espacio perdido",
+   "No: el Flat Rack no paga flete por ser una plataforma",
+   "No: el espacio que se pierde lo paga la terminal portuaria de carga",
+   "Sí, pero solo si la carga es refrigerada"
+  ],
+  "answer": 0,
+  "explanation": "Con carga sobredimensionada en Flat Rack la naviera puede cobrar el espacio que esa carga impide aprovechar.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-162",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "¿Qué diferencia hay entre estiba y trincaje?",
+  "options": [
+   "La estiba coloca la carga; el trincaje la sujeta",
+   "La estiba la paga el comprador; el trincaje el vendedor",
+   "La estiba es aérea y el trincaje es marítimo",
+   "Son dos nombres de la misma operación"
+  ],
+  "answer": 0,
+  "explanation": "Estiba: colocación y distribución de la carga. Trincaje: sujeción para evitar desplazamientos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-163",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "En una cotización marítima aparecen POL Valencia y POD Veracruz. ¿Qué significan?",
+  "options": [
+   "Puerto de carga Valencia y puerto de descarga Veracruz",
+   "Puerto de descarga Valencia y puerto de carga Veracruz",
+   "Póliza de Valencia y documento de Veracruz",
+   "Precio en origen en Valencia y precio en destino en Veracruz"
+  ],
+  "answer": 0,
+  "explanation": "POL = port of loading (carga); POD = port of discharge (descarga o destino).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-164",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un transit time de 28 días aparece en la oferta de la naviera. ¿Qué es?",
+  "options": [
+   "El plazo máximo garantizado de entrega en destino",
+   "La duración estimada del trayecto",
+   "El tiempo libre antes de que la naviera cobre demurrage",
+   "El plazo para reservar daños no aparentes"
+  ],
+  "answer": 1,
+  "explanation": "El transit time es una estimación. Por eso, según las notas, por retraso no suele cobrarse indemnización.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-165",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una carga aérea ocupa 3 m³ y pesa 400 kg. ¿Sobre qué peso se factura con la equivalencia de clase?",
+  "options": [
+   "501 kg",
+   "400 kg",
+   "999 kg",
+   "3.000 kg"
+  ],
+  "answer": 0,
+  "explanation": "3 m³ × 167 = 501 kg de peso volumétrico, mayor que los 400 kg reales: se factura sobre 501 kg.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-166",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una carga aérea ocupa 1 m³ y pesa 300 kg. ¿Sobre qué peso se factura?",
+  "options": [
+   "167 kg, el volumétrico",
+   "333 kg, el terrestre",
+   "467 kg, la suma",
+   "300 kg, el peso real"
+  ],
+  "answer": 3,
+  "explanation": "El volumétrico sería 167 kg; como el real (300 kg) es mayor, se factura sobre 300 kg.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-167",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Se pierden por avión 40 kg de mercancía. Con la cifra de clase, ¿cuál es el límite orientativo?",
+  "options": [
+   "333,20 DEG",
+   "880 DEG",
+   "680 DEG",
+   "1.040 DEG"
+  ],
+  "answer": 3,
+  "explanation": "40 kg × 26 DEG/kg = 1.040 DEG (con 22 DEG/kg, la errata de la diapositiva, saldrían 880).",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-168",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "En el escandallo marítimo del profesor, ¿qué conceptos convierten el FCA puerto de Valencia en FOB Valencia?",
+  "options": [
+   "B/L, ISPS, tasa T-3, VGM y manipulaciones",
+   "El flete marítimo y el recargo BAF que cobra la naviera",
+   "Prima del seguro CIF y gastos de destino",
+   "Arancel, IVA y despacho de importación"
+  ],
+  "answer": 0,
+  "explanation": "FOB = FCA puerto + B/L 60 + ISPS 20 + T-3 66 + VGM 40 + manipulaciones 150 = 62.186 USD. El flete y el BAF llevan a CFR.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-169",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "En el mismo escandallo, ¿qué se suma al FOB para llegar al CFR Veracruz?",
+  "options": [
+   "La prima del seguro CIF",
+   "El despacho de exportación",
+   "El flete y el recargo BAF",
+   "El arancel de importación"
+  ],
+  "answer": 2,
+  "explanation": "CFR = FOB 62.186 + flete 950 + BAF 150 = 63.286 USD.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-170",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "En el caso del vino, el enunciado da 60 USD de vaciado final del contenedor en destino. ¿Se suma al precio DDP?",
+  "options": [
+   "Sí: en DDP el vendedor asume todos los costes",
+   "No: en DDP el vendedor entrega sin descargar",
+   "Sí, porque forma parte del despacho de importación",
+   "Solo la mitad, porque se reparte entre las partes"
+  ],
+  "answer": 1,
+  "explanation": "En DDP la entrega es lista para descargar; el vaciado no se incluye en el precio DDP del caso.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-171",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Para calcular un precio CIF, un alumno suma los gastos de terminal y transporte en el país de destino. ¿Qué error comete?",
+  "options": [
+   "Ninguno: el CIF incluye todos los gastos hasta el almacén del comprador",
+   "CIF nombra el puerto de destino del flete, no el almacén final",
+   "Debería sumar también el arancel y el IVA de la importación en destino",
+   "Debería restar el flete, porque en CIF lo paga el comprador"
+  ],
+  "answer": 1,
+  "explanation": "No hay que sumar gastos de destino para obtener un CIF: eso correspondería a DAP o DDP.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-172",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un contenedor ya está en el patio de la terminal de Valencia pero aún no se ha cargado en el buque. En una venta FOB, ¿se ha producido la entrega?",
+  "options": [
+   "Sí: la recepción en terminal equivale a bordo",
+   "Sí, si el comprador ya ha pagado el flete",
+   "Depende del número de TEU del contenedor",
+   "No: en FOB la entrega exige que esté a bordo"
+  ],
+  "answer": 3,
+  "explanation": "Que la terminal haya recibido el contenedor no significa que esté «a bordo». Por eso con contenedores suele preferirse FCA.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-173",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "¿Cuál de estas es una naviera de las que se citaron en clase?",
+  "options": [
+   "IATA",
+   "GSA",
+   "MSC",
+   "CMR"
+  ],
+  "answer": 2,
+  "explanation": "Se citaron Maersk, MSC, CMA CGM, COSCO y Hapag-Lloyd. IATA es la asociación aérea; GSA, un agente; CMR, un convenio.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-174",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Un contenedor es propiedad del propio exportador («shipper own container»). ¿Qué dijeron las notas?",
+  "options": [
+   "Es lo más habitual en el transporte marítimo actual",
+   "Es obligatorio para la mercancía refrigerada",
+   "Es raro: casi todos son de navieras o alquilados",
+   "Solo se usa para transportar mercancía peligrosa"
+  ],
+  "answer": 2,
+  "explanation": "Los contenedores son principalmente de las navieras o se alquilan; los del propio cargador suelen ser viejos o de chatarra.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-175",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "¿Por qué el transporte por carretera no suele ser multimodal, según las notas?",
+  "options": [
+   "Porque el CMR prohíbe combinarlo con otros modos",
+   "Porque los camiones no pueden subir a los barcos ni a los trenes de carga",
+   "Porque lo que manda es el vehículo que traslada la carga",
+   "Porque el seguro ICC no cubre los tramos combinados"
+  ],
+  "answer": 2,
+  "explanation": "En las notas: el terrestre no suele ser multimodal; lo relevante es el vehículo que traslada la mercancía.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-176",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una empresa vende a Alemania por camión y conserva un CMR sin firma de recepción del cliente. ¿Qué riesgo tiene?",
+  "options": [
+   "Que la venta pase a ser una exportación fuera de la UE",
+   "Que el transportista pierda su límite de responsabilidad por kilo transportado",
+   "Que el comprador pueda negarse a pagar el precio pactado",
+   "Que la prueba del transporte para la exención sea más débil"
+  ],
+  "answer": 3,
+  "explanation": "La constancia de recepción hace el CMR más concluyente como prueba del transporte a otro Estado miembro.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-177",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una importación DAP se retrasa en la aduana de destino por falta de un certificado del comprador y se generan gastos de almacenaje. ¿Quién debería asumirlos según la lógica DAP?",
+  "options": [
+   "El vendedor, que soporta el riesgo hasta destino",
+   "El transportista, que custodia la mercancía",
+   "La aduana, por retrasar el levante",
+   "El comprador, que debía despachar la importación"
+  ],
+  "answer": 3,
+  "explanation": "En DAP el despacho de importación es del comprador. Aun así, el profesor aconseja regularlo expresamente en el contrato.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-178",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ },
+ {
+  "question": "Una compra FCA aeropuerto de Shanghái: ¿quién contrata y paga el vuelo a Madrid?",
+  "options": [
+   "El vendedor",
+   "La aerolínea",
+   "El comprador",
+   "El transitario chino"
+  ],
+  "answer": 2,
+  "explanation": "En los términos F el transporte principal es del comprador.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Transporte Internacional e Incoterms 2020 (R. Gutiérrez de Mesa)",
+  "id": "ti-179",
+  "subject": "logistica",
+  "subjectName": "Logística y Transporte Internacional · Incoterms® 2020",
+  "topic": "Casos mixtos de logística"
+ }
 ]

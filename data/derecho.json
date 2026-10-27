@@ -1,477 +1,3602 @@
 [
-  {
-    "id": "e3-con-001",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Ley y jurisdicción",
-    "question": "Un fabricante español vende equipos a una empresa alemana. El contrato elige derecho neerlandés y tribunales de Madrid. Tras una avería, el comprador afirma que elegir Madrid obliga a aplicar derecho español. ¿Qué debe responder el vendedor?",
-    "options": [
-      "Que el foro pactado y la ley material elegida cumplen funciones distintas.",
-      "Que los tribunales españoles deben aplicar su derecho material en contratos internacionales.",
-      "Que la ley elegida solo rige cuando también se litiga en ese mismo país.",
-      "Que la elección de tribunales desplaza la elección de ley salvo en arbitraje."
-    ],
-    "answer": 0,
-    "explanation": "La competencia judicial determina quién resuelve; la ley aplicable determina con qué normas se resuelve el fondo.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-002",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Conflicto de leyes",
-    "question": "Una empresa española compra maquinaria a un fabricante portugués sin pactar ley. El contrato presenta vínculos comerciales con ambos países, pero ninguno claramente excepcional. ¿Qué conexión ofrece el punto de partida de Roma I?",
-    "options": [
-      "El domicilio de la compradora española.",
-      "La residencia habitual del vendedor portugués.",
-      "El puerto convenido para descargar la maquinaria.",
-      "El lugar desde el que se realizó la transferencia."
-    ],
-    "answer": 1,
-    "explanation": "En una compraventa sin elección de ley, la conexión de partida es la residencia habitual del vendedor, salvo reglas correctoras aplicables.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-003",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Distribución y Roma I",
-    "question": "Una sociedad española acuerda que un distribuidor colombiano compre sus productos y los revenda en nombre propio. No se elige ley. ¿Qué dato apunta inicialmente a la ley aplicable?",
-    "options": [
-      "El país de fabricación de los productos.",
-      "El domicilio del fabricante que concede la distribución.",
-      "La residencia habitual del distribuidor colombiano.",
-      "La moneda fijada para los pedidos."
-    ],
-    "answer": 2,
-    "explanation": "Roma I da una regla especial para distribución: residencia habitual del distribuidor, con posibles excepciones.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-004",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Franquicia y Roma I",
-    "question": "Una empresa concede a una sociedad japonesa el derecho a explotar un modelo de franquicia, sin elegir ley. ¿Por qué sería precipitado aplicar directamente la ley del franquiciador?",
-    "options": [
-      "Porque la franquicia se rige por el lugar de pago de cánones.",
-      "Porque toda franquicia exige acudir a la ley del país del tribunal.",
-      "Porque una franquicia queda excluida de las normas europeas de conflicto.",
-      "Porque la conexión ordinaria atiende al franquiciado."
-    ],
-    "answer": 3,
-    "explanation": "Roma I distingue franquicia de otros contratos y usa como regla de partida la residencia habitual del franquiciado.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-005",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Arbitraje",
-    "question": "Dos empresas de países diferentes acuerdan que sus controversias se resuelvan por arbitraje institucional en París. Una quiere demandar directamente ante un juzgado por ser más barato. ¿Qué se debe examinar primero?",
-    "options": [
-      "La eficacia del convenio arbitral y su alcance.",
-      "La solvencia del centro arbitral frente a las partes.",
-      "La ley del país donde se fabriquen las mercancías.",
-      "El coste medio de los tribunales estatales competentes."
-    ],
-    "answer": 0,
-    "explanation": "Un convenio arbitral válido y aplicable exige analizar el cauce pactado antes de decidir acudir a la jurisdicción estatal.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-006",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Ejecución de laudos",
-    "question": "Una compañía española obtiene un laudo contra su comprador en un país parte del Convenio de Nueva York. El deudor alega que el árbitro valoró mal una prueba y exige repetir el litigio. ¿Qué distingue el reconocimiento del laudo?",
-    "options": [
-      "Permite reabrir la prueba si el deudor mantiene una discrepancia sustancial.",
-      "No se reabre el fondo; solo cabe valorar causas tasadas para denegarlo.",
-      "Exige celebrar una segunda audiencia arbitral ante el tribunal de ejecución.",
-      "Permite sustituir la decisión por la valoración comercial del juez local."
-    ],
-    "answer": 1,
-    "explanation": "El Convenio de Nueva York articula el reconocimiento y la ejecución con motivos limitados de oposición, no una segunda instancia sobre el fondo.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-007",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Formación CISG",
-    "question": "Una oferta fija 400 unidades, precio unitario, entrega en Bilbao y plazo de aceptación. El comprador responde dentro de plazo, pero exige 20% menos de precio. ¿Qué efecto tiene la respuesta?",
-    "options": [
-      "Forma el contrato al respetar las unidades y el plazo.",
-      "Confirma la oferta original y desplaza la negociación de precio.",
-      "Es una contraoferta que no acepta los términos propuestos.",
-      "Obliga al vendedor a entregar mientras renegocian el precio."
-    ],
-    "answer": 2,
-    "explanation": "Una modificación sustancial del precio impide tratar la respuesta como aceptación pura de la oferta.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-008",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Formación CISG",
-    "question": "Un proveedor envía una oferta que llega el lunes. El comprador manda aceptación el martes y esta llega el jueves, después de que el vendedor cambie de opinión el miércoles. Si la oferta seguía vigente y no era válidamente revocada, ¿qué momento interesa para la eficacia ordinaria de la aceptación?",
-    "options": [
-      "Cuando el comprador redacta la respuesta.",
-      "Cuando el banco remite el justificante de pago.",
-      "Cuando el vendedor despacha físicamente los bienes.",
-      "Cuando llega la aceptación al oferente."
-    ],
-    "answer": 3,
-    "explanation": "Como regla general de la CISG, la aceptación surte efecto cuando llega al oferente, sin confundir envío y recepción.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "medium",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-009",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Conformidad mercaderías",
-    "question": "Una empresa recibe un pedido de productos por sus usos industriales habituales; el comprador había comunicado expresamente un uso técnico especial y confiado en el criterio del vendedor. La mercancía sirve para el uso ordinario, pero no para el específico. ¿Qué aspecto decide el cumplimiento?",
-    "options": [
-      "La aptitud para el uso especial previamente comunicado al vendedor.",
-      "Basta el uso ordinario cuando la mercancía responde a estándares medios del sector.",
-      "El comprador asume la incompatibilidad si no pactó una ficha técnica firmada.",
-      "La conformidad depende del uso general previsto en el catálogo de fabricante."
-    ],
-    "answer": 0,
-    "explanation": "El examen de conformidad puede incluir un uso especial conocido por el vendedor cuando el comprador confía razonablemente en su competencia.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-010",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Conformidad mercaderías",
-    "question": "Una compradora encarga telas sobre una muestra aceptada. El lote tiene resistencia razonable para su categoría, pero su textura difiere de la muestra contractual. ¿Cuál es la mejor lectura?",
-    "options": [
-      "Basta que la calidad sea media para la categoría de telas.",
-      "La muestra puede fijar un estándar contractual que el lote incumple.",
-      "Solo es relevante si el precio era superior al de otros proveedores.",
-      "La muestra pierde fuerza una vez emitida la factura final."
-    ],
-    "answer": 1,
-    "explanation": "La conformidad no depende solo de la calidad media: las muestras o modelos convenidos también delimitan el cumplimiento.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-011",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Incumplimiento esencial",
-    "question": "El proveedor debía entregar el 10 de junio y entrega el 12; el comprador pudo ejecutar su proyecto sin perjuicio relevante. Solicita resolver el contrato por cualquier retraso. ¿Qué falta examinar?",
-    "options": [
-      "Si el retraso consta registrado por la empresa de transporte.",
-      "Si la mercancía se mantuvo almacenada con garantías adecuadas.",
-      "Si la demora produjo una privación sustancial de lo esperado.",
-      "Si el comprador había obtenido financiación para la adquisición."
-    ],
-    "answer": 2,
-    "explanation": "La resolución por incumplimiento esencial exige valorar la gravedad y la privación sustancial, no solo constatar cualquier retraso.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-012",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Incumplimiento anticipado",
-    "question": "Un distribuidor rechaza pagar porque asegura que el vendedor incumplirá el pedido de diciembre: este ha anunciado que cerrará su única fábrica y no dispone de stock. ¿Qué figura debe analizarse antes de la fecha pactada?",
-    "options": [
-      "La reducción unilateral del precio por falta de competitividad.",
-      "La compraventa de bienes futuros con entrega no documentada.",
-      "La rescisión automática por mero temor del distribuidor.",
-      "La reacción ante un incumplimiento futuro manifiesto."
-    ],
-    "answer": 3,
-    "explanation": "La CISG contempla remedios ante señales suficientemente claras de incumplimiento futuro; requieren condiciones y no una simple sospecha.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-013",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Daños y perjuicios",
-    "question": "Una empresa sufrió pérdidas por una entrega defectuosa y pretende recuperar el coste de reparación y el beneficio que dejó de obtener en ventas posteriores. ¿Qué lógica debe seguir?",
-    "options": [
-      "Distinguir daños y lucro cesante, justificando la causalidad de ambos.",
-      "Exigir exclusivamente el coste de reparación documentado.",
-      "Cobrar el margen futuro presupuestado sin demostrar su relación con el incumplimiento.",
-      "Elegir entre reparar la mercancía y reclamar cualquier pérdida financiera."
-    ],
-    "answer": 0,
-    "explanation": "La indemnización puede comprender pérdida sufrida y ganancia dejada de obtener, sujeta a causalidad, previsibilidad y prueba.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-014",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Ámbito CISG",
-    "question": "Una venta entre empresas españolas y estadounidenses se refiere a un lote de maquinaria, pero ninguna ha escrito una cláusula sobre la CISG. ¿Qué error de método debe evitarse?",
-    "options": [
-      "Comprobar los Estados y el carácter internacional de la venta.",
-      "Exigir un pacto expreso de aplicación de la CISG.",
-      "Distinguir compraventa mercantil de prestaciones de servicios.",
-      "Verificar si las partes han excluido válidamente la convención."
-    ],
-    "answer": 1,
-    "explanation": "La CISG puede resultar aplicable por sus propias condiciones, sin incorporación literal al contrato, sin perjuicio de su exclusión.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-015",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Propiedad e Incoterms",
-    "question": "Un contrato internacional de máquinas establece quién pagará aranceles bajo DDP. Surge un conflicto sobre si el comprador pasó a ser propietario antes del despacho. ¿Qué solución metodológica procede?",
-    "options": [
-      "Presumir transmisión cuando se cumpla el despacho de importación.",
-      "Identificar como propietario a quien soporte la prima de seguro.",
-      "La regla de propiedad aplicable, ajena al Incoterm.",
-      "Resolverlo según el banco que emita la orden de pago."
-    ],
-    "answer": 2,
-    "explanation": "Los Incoterms reparten obligaciones, costos y riesgos logísticos, pero no determinan por sí mismos el dominio.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-016",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Agencia y distribución",
-    "question": "Una compañía debe elegir entre agente y distribuidor para introducirse en un mercado. Quiere que el intermediario compre stock, facture al cliente final y asuma el riesgo comercial de reventa. ¿Qué encaja mejor?",
-    "options": [
-      "Una agencia en la que la empresa principal facture al cliente.",
-      "Una mediación puntual remunerada al cerrar cada contacto.",
-      "Un mandato para negociar exclusivamente sin adquirir mercancías.",
-      "Una distribución donde compra y revende productos por cuenta propia."
-    ],
-    "answer": 3,
-    "explanation": "En distribución hay doble compraventa y reventa por cuenta del distribuidor; en agencia el agente promueve o concluye operaciones por cuenta ajena.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-017",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Agencia",
-    "question": "Un agente lleva años captando clientes para una empresa. El principal rescinde y sostiene que todas las compensaciones se rigen por lo que hayan pactado, sin límites legales. ¿Qué matiz importa?",
-    "options": [
-      "Que la agencia puede estar sometida a límites legales imperativos.",
-      "En contratos de agencia todas las compensaciones se pactan a voluntad.",
-      "La indemnización por clientela depende únicamente del volumen vendido.",
-      "El agente adquiere las existencias y por eso pierde las protecciones."
-    ],
-    "answer": 0,
-    "explanation": "La Ley 12/1992 contiene normas imperativas relevantes, entre ellas condiciones de indemnización; procede estudiar sus presupuestos, no presumir libertad absoluta.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-018",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Distribución exclusiva",
-    "question": "Una empresa concede a un distribuidor exclusividad para vender en Portugal. El distribuidor afirma que la exclusividad equivale a actuar como representante legal del fabricante. ¿Qué distinción resulta esencial?",
-    "options": [
-      "La exclusividad obliga a que el fabricante facture al comprador final.",
-      "La exclusividad no convierte al distribuidor en representante.",
-      "La exclusividad convierte la reventa en una comisión de agencia.",
-      "La exclusividad impide celebrar contratos de compraventa sucesivos."
-    ],
-    "answer": 1,
-    "explanation": "La exclusividad puede pactarse dentro de una distribución; no elimina la estructura de compraventa al distribuidor y reventa a terceros.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-019",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Competencia judicial",
-    "question": "Una sociedad francesa demanda a una empresa española por un contrato comercial; ambas habían pactado válidamente los tribunales de Italia. La española afirma que solo pueden demandarla en España por su domicilio. ¿Qué circunstancia cambia el análisis?",
-    "options": [
-      "El domicilio prevalece incluso ante un acuerdo de elección de foro válido.",
-      "El lugar de pago desplaza tanto el foro pactado como el domicilio.",
-      "La sumisión expresa válida puede atribuir competencia al foro italiano.",
-      "La nacionalidad francesa del demandante determina la competencia."
-    ],
-    "answer": 2,
-    "explanation": "En Bruselas I bis, la elección válida de tribunal es un criterio central, sin confundirlo con foros generales o especiales.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-020",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Competencia judicial",
-    "question": "Una sociedad demanda ante un tribunal sin competencia inicialmente pactada. La demandada comparece y discute el fondo sin cuestionar competencia, fuera de supuestos de competencia exclusiva. ¿Qué figura hay que valorar?",
-    "options": [
-      "Una cláusula arbitral añadida al contestar la demanda.",
-      "La elección automática de la ley del país del demandante.",
-      "La nulidad de la demanda por falta de pacto escrito previo.",
-      "La sumisión tácita por comparecencia y conducta procesal."
-    ],
-    "answer": 3,
-    "explanation": "La comparecencia puede fundar competencia por sumisión tácita, con excepciones y límites.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-021",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Competencia e Incoterms",
-    "question": "Una venta pacta FCA almacén del vendedor en Zaragoza y el comprador demanda por falta de entrega. En ausencia de sumisión, ¿por qué resulta relevante ese dato al estudiar el foro especial contractual?",
-    "options": [
-      "Porque puede señalar el lugar de cumplimiento de la compraventa.",
-      "Porque FCA determina por sí solo la nacionalidad de ambas empresas.",
-      "Porque cualquier Incoterm sustituye al Reglamento Bruselas I bis.",
-      "Porque la mercancía pasa a ser propiedad del comprador en Zaragoza."
-    ],
-    "answer": 0,
-    "explanation": "El lugar de entrega de la compraventa puede ser criterio de competencia especial, y el Incoterm ayuda a identificarlo.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-022",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Reconocimiento de sentencias",
-    "question": "Una sentencia dictada en un Estado miembro de la UE debe ejecutarse sobre activos situados en otro, en materia civil y mercantil cubierta por Bruselas I bis. ¿Qué afirmación confunde dos sistemas?",
-    "options": [
-      "Revisar que la resolución esté comprendida en el ámbito material aplicable.",
-      "Exigir exequátur previo a una sentencia de otro Estado miembro.",
-      "Aportar la documentación y certificaciones que exige el Reglamento.",
-      "Considerar los motivos tasados para denegar reconocimiento o ejecución."
-    ],
-    "answer": 1,
-    "explanation": "Bruselas I bis elimina el exequátur general entre Estados miembros para resoluciones comprendidas en su ámbito.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "medium",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-023",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Redacción contractual",
-    "question": "Una empresa incorpora a su contrato un idioma de negociación, un foro y una ley aplicable. Surge una disputa sobre una cláusula redactada de modo ambiguo. ¿Qué estrategia de prevención era más útil?",
-    "options": [
-      "Elegir exclusivamente el idioma del país con mayor facturación.",
-      "Sustituir la cláusula de foro por una mención a los Incoterms.",
-      "Fijar versión lingüística prevalente y cláusulas de litigio.",
-      "Confiar en que ambas partes interpretarán igual la traducción."
-    ],
-    "answer": 2,
-    "explanation": "Una cláusula de prevalencia lingüística clara reduce incertidumbres y evita confundir idioma, ley y foro.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "e3-con-024",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Límites CISG",
-    "question": "Dos empresas celebran una compraventa internacional. Una sostiene que la CISG regula también la validez por dolo y la transmisión de propiedad. ¿Qué objeción es la más sólida?",
-    "options": [
-      "La CISG solo es un instrumento de solución de litigios sobre transporte.",
-      "La CISG sustituye la normativa interna relativa a derechos reales.",
-      "La CISG regula la validez si las partes negocian entre sociedades.",
-      "La CISG deja fuera validez y propiedad como regla general."
-    ],
-    "answer": 3,
-    "explanation": "La CISG regula formación y obligaciones sustantivas de compraventa, pero excluye en principio validez y propiedad.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": false,
-    "approved": true
-  },
-  {
-    "id": "e3-con-025",
-    "subject": "derecho",
-    "subjectName": "Contratación internacional",
-    "topic": "Denuncia defectos",
-    "question": "Una compradora descubre una posible falta de conformidad y espera varios meses antes de comunicarla, pese a haber podido examinar y describir el defecto oportunamente. ¿Qué riesgo contractual asume?",
-    "options": [
-      "Perder remedios por notificar defectos fuera de un plazo razonable.",
-      "Convertir la compraventa en un contrato de depósito comercial.",
-      "Transferir de vuelta la propiedad de forma automática al vendedor.",
-      "Obtener una prórroga del periodo de garantía por el mero retraso."
-    ],
-    "answer": 0,
-    "explanation": "El comprador debe examinar y comunicar adecuadamente la falta de conformidad dentro de los plazos y condiciones relevantes.",
-    "source": "Tercer parcial / Contratación internacional — apuntes y clase",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  }
+ {
+  "question": "Un fontanero autónomo compra en una tienda de Lisboa una lavadora para su casa en Badajoz. Un compañero de clase sostiene que es un contrato mercantil internacional. ¿Qué falla en su razonamiento?",
+  "options": [
+   "No hay elemento extranjero porque ambos son de la UE",
+   "Falta la forma escrita que exige todo contrato mercantil",
+   "No es acto de empresa: compra para su uso privado",
+   "Un autónomo no puede celebrar contratos mercantiles"
+  ],
+  "answer": 2,
+  "explanation": "El carácter mercantil depende de que el contrato sea acto de empresa, es decir, celebrado para la finalidad de la empresa. Comprar para uso doméstico no lo es, aunque el comprador sea empresario. Elemento extranjero sí hay (Portugal-España).",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-001",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos empresas con sede en Valencia firman un contrato de suministro que se ejecutará íntegramente en España, pero pactan someterlo a la ley suiza. Según el criterio amplio del manual, ¿es internacional?",
+  "options": [
+   "No, porque ambas partes tienen domicilio en España",
+   "Solo si además se paga en una divisa extranjera",
+   "Sí, basta un elemento extranjero, como la ley elegida",
+   "No, la ejecución en España impide que lo sea"
+  ],
+  "answer": 2,
+  "explanation": "El manual interpreta la internacionalidad en sentido amplio: es internacional el contrato con cualquier elemento extranjero (lugar de celebración, domicilio, ejecución, ley aplicable o tribunales).",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-002",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato entre dos sociedades no dice nada sobre un plazo de reclamación. Ordena las fuentes que consultaría un juez para un contrato mercantil interno.",
+  "options": [
+   "Pacto, CCom y leyes especiales, usos, Código Civil",
+   "Código Civil, usos de comercio, Código de Comercio, pacto",
+   "Usos de comercio, pacto, Código Civil, Código de Comercio y leyes especiales",
+   "Código de Comercio, pacto, Código Civil, usos de comercio"
+  ],
+  "answer": 0,
+  "explanation": "Los contratos mercantiles se rigen primero por lo pactado, después por el Código de Comercio y leyes mercantiles especiales, luego por los usos de comercio y, por último, por los principios generales y el Código Civil.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-003",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una exportadora y su cliente marroquí discuten un punto que el contrato regula de forma clara y detallada. ¿Qué fuente prevalece?",
+  "options": [
+   "Los usos internacionales del sector",
+   "La ley elegida mediante Roma I",
+   "Lo pactado en el propio contrato",
+   "Los Principios UNIDROIT"
+  ],
+  "answer": 2,
+  "explanation": "La autonomía de la voluntad es la primera fuente: el contrato es la ley entre las partes. La ley designada, la lex mercatoria y los contratos tipo vienen después, para lo no regulado.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-004",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una compraventa entre una empresa de Burgos y otra de Lyon nadie pactó qué usos aplicar, y surge una duda que un uso internacional muy extendido del sector resuelve. ¿Qué ocurre con ese uso?",
+  "options": [
+   "Se entiende tácitamente aceptado salvo pacto en contra",
+   "No se aplica porque no se incorporó por escrito al contrato firmado",
+   "Solo vale si lo recoge la ley francesa",
+   "Desplaza a lo que diga el contrato firmado por las partes"
+  ],
+  "answer": 0,
+  "explanation": "Los usos y costumbres internacionales son fuente supletoria y, salvo pacto en contrario, se consideran tácitamente aceptados: son usos que el contratante conocía o debía conocer.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-005",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un cliente pregunta qué son los INCOTERMS dentro del sistema de fuentes. ¿Qué le respondes?",
+  "options": [
+   "Un convenio internacional ratificado por España y publicado en el BOE",
+   "Un reglamento de la UE de aplicación directa en los Estados miembros",
+   "Usos internacionales codificados que forman parte de la lex mercatoria",
+   "Normas de conflicto que designan la ley aplicable a la compraventa"
+  ],
+  "answer": 2,
+  "explanation": "Los INCOTERMS son la manifestación más representativa de los usos y costumbres internacionales, dentro de la lex mercatoria. No son convenio, ni reglamento, ni norma de conflicto.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-006",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Sevilla vende maquinaria a un cliente de Toronto sin elegir ley. Un compañero propone resolver la ley aplicable con el art. 10.5 del Código Civil. ¿Qué le corriges?",
+  "options": [
+   "El art. 10.5 solo se aplica si ambas partes son de la UE",
+   "Al ser Canadá, debe aplicarse la norma de conflicto canadiense",
+   "El art. 10.5 se aplica, pero solo para fijar el tribunal",
+   "Para estos contratos España aplica Roma I, no el art. 10.5"
+  ],
+  "answer": 3,
+  "explanation": "Roma I tiene efecto erga omnes y desplaza las normas de conflicto del Código Civil, que solo quedan para contratos excluidos de Roma I o conflictos interregionales. Da igual que la otra parte sea de fuera de la UE.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-007",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Bilbao vende a una de Múnich sin elegir ley. En el examen te dan cuatro opciones de «ley aplicable». ¿Cuál marcas?",
+  "options": [
+   "El Reglamento Roma I",
+   "El ordenamiento jurídico español",
+   "El ordenamiento jurídico alemán",
+   "La Convención de Viena de 1980"
+  ],
+  "answer": 1,
+  "explanation": "Roma I no es la ley aplicable: es la norma que la designa. En compraventa, sin elección, se aplica la ley de residencia del vendedor (España). Viena se integra en esa ley, pero la respuesta a «qué ley» es el ordenamiento español.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-008",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Copenhague y otra de Málaga firmaron en 2025 un contrato sin elegir ley. ¿Con qué instrumento fija España la ley aplicable?",
+  "options": [
+   "Con el Convenio de Roma de 1980",
+   "Con el Reglamento Roma I",
+   "Con el Reglamento Bruselas I bis",
+   "Con el art. 10.5 del Código Civil"
+  ],
+  "answer": 0,
+  "explanation": "Roma I se aplica a contratos posteriores al 17 de diciembre de 2009, salvo a Dinamarca, que sigue con el Convenio de Roma de 1980. Bruselas I bis fija tribunales, no ley.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-009",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española firmó en 2008 un contrato con una italiana, todavía vigente. Surge un conflicto sobre la ley aplicable. ¿Qué norma europea la determina?",
+  "options": [
+   "El Reglamento Roma I, que se aplica con carácter retroactivo",
+   "El Convenio de Roma, por ser anterior a diciembre de 2009",
+   "El Reglamento Roma II, propio de obligaciones contractuales",
+   "Ninguna: entre socios de la UE rige la ley del vendedor"
+  ],
+  "answer": 1,
+  "explanation": "Roma I sustituye al Convenio de Roma para los contratos celebrados después del 17 de diciembre de 2009. Un contrato de 2008 sigue bajo el Convenio. Roma II trata obligaciones extracontractuales.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-010",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un camión de una empresa de Huesca causa un accidente en Francia y el perjudicado reclama daños. ¿Qué reglamento europeo trata la ley aplicable a este tipo de obligación?",
+  "options": [
+   "Roma II, obligaciones extracontractuales",
+   "Roma I, sobre las obligaciones contractuales de las partes",
+   "Roma III, sobre separación y divorcio",
+   "Bruselas I bis, sobre ley aplicable"
+  ],
+  "answer": 0,
+  "explanation": "Roma I regula obligaciones contractuales; Roma II, las extracontractuales (como un accidente); Roma III, divorcio y separación. Bruselas I bis trata competencia judicial, no ley aplicable.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-011",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una consultora de Madrid presta servicios de auditoría aduanera a un importador de Oporto, sin elegir ley. ¿Qué ley se aplica según Roma I?",
+  "options": [
+   "La del importador, porque es quien paga los servicios",
+   "La portuguesa, por ser el lugar donde se usa el servicio",
+   "La que tenga vínculos más estrechos, sin más criterio",
+   "La de residencia habitual de la consultora madrileña"
+  ],
+  "answer": 3,
+  "explanation": "En prestación de servicios, Roma I designa la ley de residencia habitual del prestador. Pagar el precio nunca es la prestación característica.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-012",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una cadena de restaurantes de Nueva York franquicia su marca a una empresa de Valencia, sin elegir ley. Un compañero dice que se aplica la ley de Nueva York «porque el franquiciador presta la marca». ¿Qué es correcto?",
+  "options": [
+   "Se aplica la ley de residencia del franquiciado valenciano",
+   "Se aplica la ley de Nueva York, sede del franquiciador",
+   "Se aplica la ley del lugar donde se firmó el contrato",
+   "Roma I no se aplica porque el franquiciador no es de la UE"
+  ],
+  "answer": 0,
+  "explanation": "Para la franquicia, Roma I designa la ley de residencia del franquiciado. Y Roma I tiene aplicación universal aunque una parte no sea europea.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-013",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un fabricante de Zaragoza nombra distribuidor exclusivo a una empresa de Lima, sin cláusula de ley. ¿Qué ley se aplica según Roma I?",
+  "options": [
+   "La del fabricante, que fija las condiciones",
+   "La de residencia del distribuidor peruano",
+   "La española, por ser el foro donde se demanda",
+   "La del lugar de entrega de cada pedido"
+  ],
+  "answer": 1,
+  "explanation": "En el contrato de distribución, Roma I remite a la ley de residencia del distribuidor.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-014",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un empresario de Barcelona alquila durante tres meses, para sus vacaciones, la casa de un particular inglés en Mallorca. Ambos tienen su residencia habitual en Londres. ¿Qué ley se aplica al arrendamiento?",
+  "options": [
+   "La española, por estar allí el inmueble",
+   "La de residencia habitual del propietario",
+   "La del arrendatario, que paga la renta",
+   "La del lugar de firma del contrato"
+  ],
+  "answer": 1,
+  "explanation": "Para inmuebles rige la ley del lugar donde están, pero en los arrendamientos temporales y privados de hasta seis meses consecutivos se aplica la ley de residencia habitual del propietario.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-015",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Murcia compra vino en una subasta celebrada en Burdeos por un vendedor de Oporto. ¿Qué ley rige la compraventa, sin pacto?",
+  "options": [
+   "La del país donde tiene lugar la subasta",
+   "La de residencia habitual del vendedor",
+   "La de residencia habitual del comprador",
+   "La del país de origen de la mercancía"
+  ],
+  "answer": 0,
+  "explanation": "Roma I prevé que las ventas mediante subasta se rijan por la ley del país donde se celebra la subasta, no por la regla general del vendedor.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-016",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos empresas firman un contrato mixto de licencia de software, mantenimiento y formación que no encaja en ninguno de los tipos del art. 4 de Roma I. Sin elección de ley, ¿qué criterio se usa primero?",
+  "options": [
+   "País con el que el contrato tenga los vínculos más estrechos posibles",
+   "Residencia de quien realiza la prestación característica",
+   "Ley del lugar donde se celebró y firmó el contrato",
+   "Ley común de la nacionalidad de los dos administradores firmantes"
+  ],
+  "answer": 1,
+  "explanation": "Si el contrato no encaja en los ocho tipos o los combina, se acude a la residencia de quien realiza la prestación característica. Los vínculos más estrechos son el escalón siguiente, si no hay prestación característica.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-017",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un contrato de permuta de activos entre dos empresas no es posible identificar cuál es la prestación característica. ¿Cómo se determina la ley aplicable?",
+  "options": [
+   "Por la residencia de la parte que firmó el contrato en primer lugar",
+   "Por el país con el que tenga vínculos más estrechos",
+   "Por la ley del país donde se encuentren los activos principales",
+   "Por la ley del juez que conozca del asunto"
+  ],
+  "answer": 1,
+  "explanation": "Cuando no se puede determinar la prestación característica, Roma I acude a la ley del país que presente vínculos más estrechos con el contrato.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-018",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Según el art. 4 de Roma I, una compraventa se rige por la ley del vendedor español, pero todas las circunstancias (entrega, pago, idioma, partes) apuntan con mucha más fuerza a Italia. ¿Qué permite el Reglamento?",
+  "options": [
+   "Aplicar la ley italiana por la cláusula de excepción",
+   "Nada: el art. 4 es imperativo y no admite corrección",
+   "Que el juez elija libremente la ley más justa",
+   "Aplicar la ley italiana solo si ambas partes lo piden"
+  ],
+  "answer": 0,
+  "explanation": "Roma I incluye una cláusula de excepción: si de las circunstancias resulta que el contrato tiene vínculos manifiestamente más estrechos con otro país, se aplica la ley de ese país.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-019",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una naviera griega y un cargador español pactan que su contrato se rija por el Derecho inglés. ¿Es válida la elección?",
+  "options": [
+   "No, solo puede elegirse la ley de una de las dos partes del contrato",
+   "No, porque el Reino Unido ya no forma parte de la Unión Europea",
+   "Sí, pero solo si el contrato se firma en territorio del Reino Unido",
+   "Sí, cabe elegir una ley ajena a ambos si tiene conexión con el negocio"
+  ],
+  "answer": 3,
+  "explanation": "Las partes pueden elegir una ley que no sea la de ninguna de ellas si tiene conexión y sentido, como el Derecho inglés en contratos marítimos. Lo que no cabe es una elección en fraude de ley.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-020",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor impone a su cliente que el contrato se rija por la ley de un país sin relación con la operación, «porque allí los jueces siempre dan la razón al vendedor». ¿Cómo lo calificó el profesor?",
+  "options": [
+   "Como fraude de ley, por falta de conexión legítima",
+   "Como elección válida, porque la autonomía es libre",
+   "Como sumisión tácita a los tribunales de ese país",
+   "Como elección válida si el cliente la firma"
+  ],
+  "answer": 0,
+  "explanation": "Elegir una ley sin conexión, solo para obtener ventaja, se consideró fraude de ley. La autonomía de la voluntad tiene ese límite.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-021",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un pleito ante un juzgado de Madrid, el contrato dice que se aplica la ley china, pero ninguna de las partes la alega ni la prueba. ¿Qué hará previsiblemente el juez?",
+  "options": [
+   "Buscar de oficio el Derecho chino aplicable",
+   "Resolver aplicando el Derecho español",
+   "Declararse incompetente y remitir el caso a China",
+   "Suspender el juicio hasta recibir un informe"
+  ],
+  "answer": 1,
+  "explanation": "El juez solo está obligado a conocer el Derecho español. El Derecho extranjero hay que alegarlo y probarlo; si nadie lo hace, el juez aplica el español.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-022",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa quiere que el juez de Valencia aplique el Derecho de Florida a su reclamación. ¿Qué tiene que hacer?",
+  "options": [
+   "Nada, el juez conoce de oficio todo el Derecho aplicable",
+   "Alegarlo y acreditar su contenido, por ejemplo con un perito",
+   "Pedir que un juez de Florida dicte la sentencia en España",
+   "Aportar solo la cláusula del contrato que lo designa"
+  ],
+  "answer": 1,
+  "explanation": "El Derecho extranjero se alega y se prueba. En clase se contó un caso en el que se trajo a un catedrático de EE. UU. como perito para explicar al juez el Derecho aplicable.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-023",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una sociedad de Lugo vende a un cliente mexicano. Roma I dice que se aplica la ley española, pero la norma de conflicto mexicana dice que la mexicana. ¿Por qué no pasaría esto con un cliente alemán?",
+  "options": [
+   "Porque Alemania no ha ratificado la Convención de Viena",
+   "Porque en la UE todos aplican la misma norma de conflicto",
+   "Porque con la UE se aplica la ley del comprador",
+   "Porque Roma I solo vincula a España y Alemania"
+  ],
+  "answer": 1,
+  "explanation": "Dentro de la UE no hay discordancia: todos los Estados aplican Roma I. Con un tercer país, este aplica su propia norma de conflicto y puede designar otra ley.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-024",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una exportadora de Cádiz vende a un cliente de Florida. Ambos Estados han ratificado la Convención de Viena. Si se aplica la ley española, ¿qué papel tiene la Convención?",
+  "options": [
+   "Se aplica como parte de la ley española y lo no regulado lo cubre esta",
+   "Desplaza a la ley española en todo el contrato",
+   "No se aplica porque EE. UU. tiene su propio código mercantil",
+   "Solo se aplica si las partes la citan expresamente en el contrato"
+  ],
+  "answer": 0,
+  "explanation": "La Convención forma parte del ordenamiento de cada Estado que la ratificó. Como no es completa, lo que no regula (por ejemplo, la transmisión de la propiedad) lo cubre el resto de la ley aplicable.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-025",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una cooperativa de Jaén vende aceite FOB a un comprador de Tailandia y quiere saber en qué momento pasa a ser del comprador la propiedad de la mercancía. ¿Dónde debe buscar la respuesta?",
+  "options": [
+   "En la regla FOB de los INCOTERMS",
+   "En la Convención de Viena de 1980",
+   "En las Reglas Uniformes de la CCI",
+   "En la ley aplicable al contrato"
+  ],
+  "answer": 3,
+  "explanation": "La transmisión de la propiedad no la regulan ni los INCOTERMS ni la Convención de Viena (que la excluye): depende de la ley aplicable. Esta pregunta cayó en un examen anterior.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-026",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En el caso de la cooperativa de Jaén, la ley aplicable es la española, que exige título y entrega para transmitir la propiedad. ¿Qué utilidad tiene entonces el INCOTERM pactado?",
+  "options": [
+   "Ninguna, porque la ley española no reconoce los INCOTERMS",
+   "Fija directamente el momento de la transmisión del dominio al comprador",
+   "Sustituye al contrato como título de la transmisión",
+   "Fija la puesta a disposición, que sirve como entrega"
+  ],
+  "answer": 3,
+  "explanation": "El INCOTERM no transmite la propiedad, pero sí marca cuándo se pone la mercancía a disposición del comprador, dato decisivo en ordenamientos como el español que exigen título y entrega.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-027",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un tratado internacional ratificado por España se publica en el BOE. ¿Qué efecto tiene?",
+  "options": [
+   "Necesita una ley española que lo desarrolle",
+   "Pasa a formar parte del ordenamiento interno",
+   "Solo vincula al Estado, no a las empresas",
+   "Rige solo si las partes lo pactan"
+  ],
+  "answer": 1,
+  "explanation": "La Constitución (art. 96.1) y el Código Civil (art. 1.5) establecen que los tratados válidamente celebrados, una vez publicados oficialmente, forman parte del ordenamiento interno.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-028",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un exportador cobra mediante remesa documentaria y su banco le dice que la operación se rige por las Reglas Uniformes de la CCI. ¿Qué publicación es?",
+  "options": [
+   "La 600, relativa al crédito documentario",
+   "La 522, relativa a los cobros",
+   "La 325, relativa a garantías contractuales",
+   "La 2020, relativa a las reglas Incoterms"
+  ],
+  "answer": 1,
+  "explanation": "Según el manual, las RRUU de cobros son la publicación 522; las de crédito documentario, la 600; y las de garantías contractuales, la 325.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-029",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa pacta en su contrato «FCA Incoterms» sin indicar versión. Un compañero cree que la última es la de 2010 porque lo vio en una nota del manual. ¿Cuál es la última revisión según el texto del manual?",
+  "options": [
+   "La de 2010",
+   "La de 2020",
+   "La de 2000",
+   "La de 2016"
+  ],
+  "answer": 1,
+  "explanation": "El texto del manual dice que la última revisión de los INCOTERMS es de 2020; la mención a 2010 está en una nota y es una errata a efectos de test.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-030",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una asociación sectorial publica un modelo de contrato que, a fuerza de usarse durante años, todas las empresas del sector incorporan. ¿Cómo encaja en las fuentes?",
+  "options": [
+   "Es un contrato tipo que ha acabado funcionando como costumbre",
+   "Es una norma de conflicto aprobada por un organismo privado",
+   "Es un convenio internacional que vincula a las empresas",
+   "Es una ley modelo que el legislador ha hecho obligatoria"
+  ],
+  "answer": 0,
+  "explanation": "Los contratos tipo y condiciones generales responden a la «unificación de los contratos»: modelos de asociaciones que, por su uso repetido, se convierten en normas consuetudinarias del sector.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-031",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Ante un vacío del contrato y de la ley aplicable, un árbitro quiere apoyarse en principios generales de contratación internacional aplicables a todo tipo de contratos, no solo a la compraventa. ¿Qué texto encaja?",
+  "options": [
+   "La Convención de Viena de 1980",
+   "El Convenio de Nueva York de 1958",
+   "Los Principios UNIDROIT",
+   "El Reglamento Roma I de 2008"
+  ],
+  "answer": 2,
+  "explanation": "Los Principios UNIDROIT enuncian normas comunes para todos los contratos comerciales internacionales. Viena se limita a la compraventa de mercaderías.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-032",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una negociación, la parte francesa propone que la ley aplicable sea la española y que los tribunales competentes sean los de París. ¿Es posible?",
+  "options": [
+   "No, el tribunal competente debe aplicar su propia ley",
+   "Sí, ley aplicable y tribunal competente no tienen que coincidir",
+   "Solo si se trata de un arbitraje y no de tribunales estatales",
+   "No, porque la elección de ley arrastra la del tribunal"
+  ],
+  "answer": 1,
+  "explanation": "Son cuestiones separadas. Puede haber ley española y tribunales franceses, o ley irlandesa y tribunales españoles, como se vio en clase.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-033",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Valladolid quiere demandar a su cliente de Monterrey (México) por impago. El contrato no dice nada de tribunales. ¿Qué norma usa para saber si puede demandar en España?",
+  "options": [
+   "El Reglamento Bruselas I bis de la UE",
+   "El art. 22 quinquies de la LOPJ",
+   "El Convenio de Lugano II de 2007",
+   "El Reglamento Roma I de la UE"
+  ],
+  "answer": 1,
+  "explanation": "Bruselas I bis solo opera cuando el demandado está domiciliado en la UE. Con un demandado mexicano se acude a la norma interna: art. 22 quinquies LOPJ. Roma I es de ley aplicable.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-034",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Huelva quiere demandar a su cliente de Rotterdam por una compraventa sin cláusula de tribunales. ¿Qué instrumento fija qué tribunales son competentes?",
+  "options": [
+   "El Reglamento (CE) 593/2008, Roma I",
+   "El art. 22 quinquies de la LOPJ española",
+   "El Reglamento Bruselas I bis",
+   "El Convenio de Nueva York de 1958 sobre laudos"
+  ],
+  "answer": 2,
+  "explanation": "Con el demandado domiciliado en un Estado miembro se aplica Bruselas I bis. Roma I es de ley aplicable y Nueva York, de laudos arbitrales.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-035",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Gijón demanda a un cliente con domicilio en Oslo. ¿Qué instrumento europeo de competencia judicial entra en juego?",
+  "options": [
+   "El Reglamento Bruselas I bis",
+   "El Convenio de Roma de 1980",
+   "El Convenio de Lugano II",
+   "El Convenio de Ginebra de 1961"
+  ],
+  "answer": 2,
+  "explanation": "Lugano II se aplica cuando el demandado está domiciliado en Islandia, Noruega o Suiza, que no son de la UE pero sí parte del Convenio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-036",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española tiene un litigio con una sociedad de Liechtenstein. Un compañero dice que se aplica Lugano II porque Liechtenstein está en la AELC. ¿Qué le respondes?",
+  "options": [
+   "Sí: Lugano II cubre a todos los Estados de la AELC",
+   "Sí: Liechtenstein es parte del EEE",
+   "No: se aplica el Reglamento Bruselas I bis",
+   "No: Liechtenstein no ratificó Lugano II"
+  ],
+  "answer": 3,
+  "explanation": "Lugano II se aplica a la UE más Islandia, Noruega y Suiza. Liechtenstein entró en el EEE pero no ratificó el Convenio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-037",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato entre una empresa de Alicante y otra de Milán dice: «Para cualquier controversia, las partes se someten a los juzgados de Madrid». ¿Qué figura es?",
+  "options": [
+   "Una sumisión tácita",
+   "Un convenio arbitral",
+   "Una sumisión expresa",
+   "Una competencia exclusiva"
+  ],
+  "answer": 2,
+  "explanation": "La sumisión expresa es el acuerdo de las partes que fija el tribunal competente, antes o después de surgir el conflicto.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-038",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Demandan a tu empresa en Francia, sin conexión alguna con el negocio. Tu abogado contesta defendiéndose en el fondo y no dice nada de la competencia. Pierdes. ¿Puedes alegar ahora que el tribunal francés no era competente?",
+  "options": [
+   "Sí: la falta de competencia se puede alegar en cualquier momento",
+   "Sí: Bruselas I bis anula toda sentencia de un tribunal sin conexión",
+   "No: al contestar sin impugnar hubo sumisión tácita",
+   "No, salvo que el contrato fijara los tribunales de Madrid"
+  ],
+  "answer": 2,
+  "explanation": "Comparecer y contestar sin impugnar la competencia es sumisión tácita. Lo correcto era plantear la declinatoria y contestar solo de forma subsidiaria.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-039",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Demandan a tu empresa ante un juzgado de Lisboa que crees incompetente. ¿Cómo actúas para no quedar sometido tácitamente?",
+  "options": [
+   "Contestar al fondo y dejar la falta de competencia para el recurso de apelación",
+   "No comparecer, porque la incomparecencia equivale a sumisión",
+   "Impugnar la competencia y contestar al fondo de forma subsidiaria",
+   "Presentar una contrademanda ante el mismo juzgado de Lisboa"
+  ],
+  "answer": 2,
+  "explanation": "La comparecencia que tiene por objeto impugnar la competencia no es sumisión tácita. Lo habitual es la declinatoria y, por si no prospera, contestar de forma subsidiaria.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-040",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Demandan en Dublín a una empresa domiciliada en Sevilla y esta no comparece. ¿Qué debe hacer el tribunal irlandés?",
+  "options": [
+   "Entender que hubo sumisión tácita",
+   "Examinar de oficio si es competente",
+   "Dictar sentencia en rebeldía sin más",
+   "Remitir el asunto a los tribunales de Sevilla"
+  ],
+  "answer": 1,
+  "explanation": "Si el demandado domiciliado en un Estado miembro no comparece, el tribunal debe analizar su competencia de oficio. La incomparecencia no es sumisión tácita.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-041",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de arrendamiento de una nave industrial en Toulouse entre dos empresas españolas fija como competentes los juzgados de Madrid. Surge un conflicto sobre el arrendamiento. ¿Qué tribunales conocen?",
+  "options": [
+   "Los franceses, por ser competencia exclusiva",
+   "Los de Madrid, por la sumisión expresa pactada",
+   "Los del domicilio de la empresa demandada",
+   "Los que elija la parte que demande"
+  ],
+  "answer": 0,
+  "explanation": "Los arrendamientos de inmuebles son competencia exclusiva del Estado donde está el inmueble (art. 24): no vale la sumisión expresa ni el domicilio del demandado.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-042",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una licencia de marca, las partes pactaron los tribunales de Barcelona. El conflicto versa sobre la validez del registro de la marca en Alemania. ¿Qué tribunales deciden?",
+  "options": [
+   "Los de Barcelona, por la sumisión expresa",
+   "Los del domicilio de la empresa demandada",
+   "Los de Alicante, sede de la oficina de marcas",
+   "Los alemanes, Estado del registro de la marca"
+  ],
+  "answer": 3,
+  "explanation": "La inscripción o validez de patentes y marcas es competencia exclusiva de los tribunales del Estado donde se hizo el registro. El pacto de sumisión no la desplaza.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-043",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos socios discuten sobre la validez de un acuerdo de la junta general de una sociedad con domicilio en Lisboa. El pacto de socios fija los tribunales de Madrid. ¿Quién es competente?",
+  "options": [
+   "Los de Madrid, porque hubo sumisión expresa",
+   "Los del domicilio del socio que resulte demandado en el pleito",
+   "Cualquiera de los dos, a elección del socio demandante",
+   "Los tribunales portugueses, por competencia exclusiva"
+  ],
+  "answer": 3,
+  "explanation": "La validez de las decisiones de los órganos de una sociedad es competencia exclusiva del Estado de su domicilio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-044",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Toledo obtiene una sentencia en España contra un deudor cuyos bienes están en Bélgica. ¿Qué tribunales son competentes para ejecutarla sobre esos bienes?",
+  "options": [
+   "Los belgas, Estado del lugar de ejecución",
+   "Los españoles, que dictaron la sentencia",
+   "Los que se pacten en el propio contrato",
+   "Los del domicilio de la empresa acreedora"
+  ],
+  "answer": 0,
+  "explanation": "La ejecución de resoluciones es competencia exclusiva del Estado del lugar de ejecución. Una sentencia se ejecuta donde el deudor tiene bienes.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-045",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Castellón vendió azulejos a un cliente de Lyon, con entrega pactada en Lyon, y no hubo pacto de tribunales. Quiere demandar por impago. ¿Dónde puede hacerlo según Bruselas I bis?",
+  "options": [
+   "En Castellón, por ser el domicilio del vendedor demandante",
+   "En Lyon, por domicilio del demandado o por lugar de entrega",
+   "Solo en Lyon, y solo por ser el domicilio del demandado",
+   "En cualquier Estado miembro que elija el vendedor"
+  ],
+  "answer": 1,
+  "explanation": "A falta de exclusiva y de sumisión, se puede demandar en el domicilio del demandado o, en materia contractual, en el lugar de cumplimiento; en compraventa, el de entrega. Aquí ambos foros llevan a Lyon.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-046",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa irlandesa vendió chatarra a una de Bilbao, con entrega pactada en Bilbao. El comprador no paga. ¿Dónde puede demandar el vendedor irlandés?",
+  "options": [
+   "En España, por domicilio del demandado y lugar de entrega",
+   "En Irlanda, porque el demandante es irlandés",
+   "En Irlanda, porque allí está la residencia y la ley del vendedor",
+   "En España, pero solo si hubo sumisión expresa a sus tribunales"
+  ],
+  "answer": 0,
+  "explanation": "Es el caso práctico de clase. El fuero general (domicilio del demandado) y el especial del art. 7 (lugar de entrega) apuntan a España. La ley aplicable sería la irlandesa (vendedor), pero eso no decide el tribunal.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-047",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En el mismo caso de la chatarra, el vendedor es irlandés y el pleito se tramita en Bilbao. ¿Qué ley aplicará previsiblemente el juez si alguna parte la alega y prueba?",
+  "options": [
+   "La española, por ser el foro del juicio",
+   "La española, por ser el lugar de entrega",
+   "La irlandesa, por ser la nacionalidad del demandante",
+   "La irlandesa, por ser la residencia del vendedor"
+  ],
+  "answer": 3,
+  "explanation": "La ley aplicable a la compraventa, sin elección, es la de residencia del vendedor (Irlanda). Que el tribunal sea español no cambia la ley; si nadie alega la irlandesa, el juez aplicaría la española.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-048",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una consultora de Madrid prestó servicios en Varsovia a un cliente de Berlín. Quiere demandar por impago, sin pacto de tribunales. Además de Berlín, ¿dónde puede demandar según el art. 7?",
+  "options": [
+   "En Madrid, domicilio de la consultora demandante",
+   "En cualquier ciudad donde el cliente tenga clientes",
+   "En ninguno más: en servicios solo vale el domicilio",
+   "En Varsovia, lugar donde se prestaron los servicios"
+  ],
+  "answer": 3,
+  "explanation": "En prestación de servicios, el lugar de cumplimiento del art. 7 es aquel donde se prestaron o debían prestarse.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-049",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española debe demandar a dos sociedades, una de Roma y otra de Viena, por el mismo contrato y los mismos hechos. ¿Qué permite el Reglamento?",
+  "options": [
+   "Demandar a cada una por separado en su propio domicilio",
+   "Demandar a ambas en España por ser domicilio del actor",
+   "Demandar a ambas en el domicilio de cualquiera de ellas",
+   "Demandar solo ante el Tribunal de Justicia de la UE"
+  ],
+  "answer": 2,
+  "explanation": "Con varios demandados se puede acudir al domicilio de cualquiera, si las demandas están tan vinculadas que conviene juzgarlas juntas para evitar resoluciones incompatibles.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-050",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un directivo pregunta por qué, a falta de pacto, se demanda en el domicilio del demandado. ¿Qué dos razones da el manual?",
+  "options": [
+   "Abarata el juicio y protege al demandante",
+   "Agiliza el proceso y permite elegir la ley",
+   "Facilita la ejecución y disuade de litigar",
+   "Garantiza la imparcialidad y evita apelar"
+  ],
+  "answer": 2,
+  "explanation": "El fuero del demandado da seguridad jurídica (la sentencia se ejecutará donde está el demandado sin obstáculos) y tiene efecto disuasorio, que favorece la solución negociada.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-051",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Sabes que tu cliente de Hamburgo te va a demandar. Puedes elegir entre dos foros competentes. ¿Qué táctica explicó el profesor?",
+  "options": [
+   "Demandar tú primero para fijar el foro por litispendencia",
+   "Esperar a la demanda y pedir luego el cambio de tribunal",
+   "Pactar después un arbitraje que anule la demanda previa",
+   "Contestar en Hamburgo para que luego se traslade a España"
+  ],
+  "answer": 0,
+  "explanation": "Quien demanda primero fija la competencia: la litispendencia bloquea demandas posteriores, y el otro tendrá que litigar donde tú elegiste.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-052",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un acuerdo de sumisión se cerró por teléfono y luego se confirmó por correo electrónico guardado en ambos servidores. ¿Es válido?",
+  "options": [
+   "No: la sumisión expresa exige un documento firmado a mano",
+   "Sí: verbal con confirmación escrita, y el correo cuenta como escrito",
+   "No: la sumisión verbal solo vale entre empresas del mismo país",
+   "Sí, pero solo si después se eleva a escritura pública ante notario"
+  ],
+  "answer": 1,
+  "explanation": "El pacto de sumisión puede ser verbal con confirmación escrita, y vale como escrita toda transmisión electrónica que deje un registro duradero.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-053",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española y otra argentina tienen una sentencia firme de un juzgado de Madrid. La deudora solo tiene bienes en Argentina. ¿Qué necesita la acreedora?",
+  "options": [
+   "Nada: Bruselas I bis la hace ejecutable en todo el mundo",
+   "Que el juzgado de Madrid embargue los bienes argentinos",
+   "Que la sentencia se reconozca y ejecute en Argentina",
+   "Volver a litigar el fondo ante los tribunales argentinos"
+  ],
+  "answer": 2,
+  "explanation": "Una sentencia se ejecuta donde están los bienes. Fuera de la UE hace falta homologarla (exequátur) o acudir a un convenio bilateral; Bruselas I bis solo facilita la ejecución entre Estados miembros.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-054",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Tienes una sentencia española contra un deudor chino que no tiene bienes en Europa, pero una empresa alemana le debe dinero a ese deudor. ¿Qué vía rápida explicó el profesor?",
+  "options": [
+   "Ejecutar la sentencia en China con el Convenio de Nueva York de 1958",
+   "Pedir a Bruselas I bis que obligue a China a ejecutarla",
+   "Demandar a la empresa alemana por la deuda del deudor",
+   "Embargar en la UE el crédito que le debe la empresa alemana"
+  ],
+  "answer": 3,
+  "explanation": "Bruselas I bis facilita ejecutar en otros Estados miembros; se puede ordenar a la empresa alemana que consigne en el juzgado lo que debe al deudor chino. Nueva York es para laudos, no sentencias.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-055",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos empresas pactan que cualquier conflicto lo resolverá definitivamente la Corte de Arbitraje de la CCI. ¿Cómo se llama la decisión final?",
+  "options": [
+   "Laudo arbitral",
+   "Auto de homologación",
+   "Exequátur arbitral",
+   "Sentencia firme"
+  ],
+  "answer": 0,
+  "explanation": "El convenio arbitral sustrae el conflicto a los tribunales y lo somete a una corte arbitral, cuya decisión se llama laudo o sentencia arbitral.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-056",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un empresario quiere un arbitraje y pregunta qué derecho cede al firmar la cláusula. ¿Qué le explicas?",
+  "options": [
+   "Renuncia a elegir la ley aplicable al fondo del contrato",
+   "Renuncia a acudir al juez estatal",
+   "Renuncia a recibir una indemnización por daños",
+   "Renuncia a ejecutar la decisión en otros países"
+  ],
+  "answer": 1,
+  "explanation": "El arbitraje supone renunciar al derecho a acudir a un juez estatal (tutela judicial efectiva, art. 24 CE). Por eso la sumisión debe ser expresa e inequívoca.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-057",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato fija que el árbitro resolverá «según su leal saber y entender, sin sujeción a ley estatal alguna, atendiendo a la práctica del sector». ¿Qué arbitraje es?",
+  "options": [
+   "Un arbitraje de derecho",
+   "Un arbitraje institucional",
+   "Un arbitraje de equidad",
+   "Un arbitraje ad hoc"
+  ],
+  "answer": 2,
+  "explanation": "Por su naturaleza, el arbitraje es de derecho (aplica la ley de un Estado) o de equidad (criterio más justo y práctica del tráfico). Institucional y ad hoc clasifican su organización.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-058",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Las partes eligen la Corte de Arbitraje de la CCI de París y su reglamento, y piden que se aplique el Derecho español. ¿Cómo se clasifica?",
+  "options": [
+   "Ad hoc y de equidad",
+   "Institucional y de equidad",
+   "Ad hoc y de derecho",
+   "Institucional y de derecho"
+  ],
+  "answer": 3,
+  "explanation": "Es institucional porque se acude a una institución preestablecida con su reglamento, y de derecho porque los árbitros aplicarán una ley estatal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-059",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un proyecto con un Estado, las partes diseñan en el contrato su propio tribunal (un ingeniero, un médico y un jurista) y su propio procedimiento, sin acudir a ninguna institución. ¿Qué arbitraje es?",
+  "options": [
+   "Institucional",
+   "De equidad",
+   "Judicial",
+   "Ad hoc"
+  ],
+  "answer": 3,
+  "explanation": "En el arbitraje ad hoc las partes nombran a los árbitros y estructuran el procedimiento sin someterse a reglamentos. Puede ser, a la vez, de derecho o de equidad.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-060",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un arbitraje con sede en Madrid las partes no han pactado la ley aplicable al fondo. Según la Ley 60/2003, ¿quién la fija?",
+  "options": [
+   "El juez de primera instancia",
+   "La parte que inició el arbitraje",
+   "Los propios árbitros",
+   "La Cámara de Comercio de Madrid"
+  ],
+  "answer": 2,
+  "explanation": "A falta de acuerdo entre las partes, son los árbitros quienes fijan la ley aplicable al procedimiento y al fondo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-061",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un laudo de Ginebra condena a una empresa con bienes en Brasil. Brasil ha ratificado el Convenio de Nueva York. ¿Cuál de estos motivos NO permitiría a Brasil denegar la ejecución?",
+  "options": [
+   "Que el árbitro interpretara mal el contrato",
+   "Que no se respetara el derecho de defensa",
+   "Que el laudo resolviera algo no sometido",
+   "Que el laudo estuviera anulado en Suiza"
+  ],
+  "answer": 0,
+  "explanation": "El art. V del Convenio de Nueva York enumera causas tasadas: incapacidad, invalidez del convenio, indefensión, incongruencia, irregularidad del tribunal o procedimiento, laudo no obligatorio o anulado. No permite revisar el fondo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-062",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa con bienes en 170 países duda entre tribunales estatales y arbitraje. Si lo decisivo es poder ejecutar la decisión fuera de la UE, ¿qué inclina la balanza al arbitraje?",
+  "options": [
+   "El laudo puede recurrirse en apelación ante tribunales superiores",
+   "El Convenio de Nueva York facilita ejecutar laudos en muchos países",
+   "El arbitraje no necesita ningún auxilio judicial para ejecutarse",
+   "Bruselas I bis obliga a ejecutar laudos en cualquier país del mundo"
+  ],
+  "answer": 1,
+  "explanation": "La gran ventaja del arbitraje en ejecución es el Convenio de Nueva York, ratificado por un número muy elevado de países. Aun así, la ejecución necesita auxilio judicial del país donde están los bienes.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-063",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un cliente cree que el arbitraje es más caro que los tribunales porque la corte cobra decenas de miles de euros. ¿Qué argumento dio el profesor?",
+  "options": [
+   "En conjunto suele salir más barato: hay instancia única y no hay recursos",
+   "Los tribunales cobran tasas mucho más altas que cualquier corte arbitral",
+   "El arbitraje es gratuito si se elige una institución de prestigio",
+   "La corte arbitral cobra solo a la parte que pierde el procedimiento"
+  ],
+  "answer": 0,
+  "explanation": "El arbitraje es más rápido y más barato en conjunto porque es de instancia única: se ahorran años de recursos, abogados y procuradores. Además es confidencial y más fácil de ejecutar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-064",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato somete a arbitraje «las cuestiones técnicas» y a los tribunales de Madrid «las cuestiones económicas». ¿Qué riesgo señaló el profesor?",
+  "options": [
+   "Que el laudo tenga que ser revisado después por los jueces de Madrid",
+   "Que el Convenio de Nueva York deje de ser aplicable",
+   "Que se impugne la cláusula entera por no ser clara",
+   "Que la ley aplicable cambie según quién decida"
+  ],
+  "answer": 2,
+  "explanation": "La renuncia a la tutela judicial debe ser clara. Mezclar arbitraje y tribunales invita a que el demandado intente anular la cláusula arbitral entera.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-065",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una gran empresa prefiere el arbitraje porque no quiere que una cláusula anulada de su contrato de agencia aparezca en bases de jurisprudencia. ¿Qué ventaja busca?",
+  "options": [
+   "La confidencialidad",
+   "La equidad del fallo",
+   "La doble instancia",
+   "La gratuidad"
+  ],
+  "answer": 0,
+  "explanation": "Las sentencias judiciales se publican (con el nombre de las empresas), mientras que el arbitraje puede pactarse confidencial: evita el «efecto llamada» de otros reclamantes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-066",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué convenio regula principalmente el procedimiento del arbitraje comercial internacional y complementa al de Nueva York?",
+  "options": [
+   "El Convenio de Roma de 1980",
+   "El Convenio de Ginebra de 1961",
+   "El Convenio de Lugano de 2007",
+   "La Convención de Viena de 1980"
+  ],
+  "answer": 1,
+  "explanation": "El Convenio europeo de Ginebra de 21 de abril de 1961 regula el procedimiento arbitral y se considera complemento lógico del de Nueva York de 1958.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-067",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "La ley española de arbitraje se inspiró en un texto de Naciones Unidas para uniformar el derecho procesal arbitral. ¿Cuál?",
+  "options": [
+   "Los Principios UNIDROIT de 1994",
+   "El Convenio de Ginebra de 1961",
+   "El Reglamento de arbitraje de la CCI de París",
+   "La Ley Modelo UNCITRAL de 1985"
+  ],
+  "answer": 3,
+  "explanation": "La Ley 60/2003 de Arbitraje se inspira en la Ley Modelo de UNCITRAL sobre arbitraje comercial internacional de 21 de junio de 1985.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-068",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una pyme negocia con un cliente chino: este no acepta tribunales españoles y la pyme no se fía de los chinos. ¿Qué salida planteó el profesor?",
+  "options": [
+   "Someterse a un arbitraje de una corte internacional de prestigio",
+   "Elegir la ley de un tercer país y dejar fuera los tribunales",
+   "Pactar los tribunales de ambos países a elección del actor",
+   "No pactar nada y confiar en la ejecución por Bruselas I bis"
+  ],
+  "answer": 0,
+  "explanation": "Cuando ninguna parte acepta los tribunales de la otra, el arbitraje en una corte de prestigio (como la de la CCI) suele ser la alternativa para cerrar el contrato.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-069",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un laudo dictado en Madrid debe cumplirse sobre bienes que el deudor tiene en México. ¿Ante quién se pide la ejecución?",
+  "options": [
+   "Ante la propia corte arbitral, que tiene medios de ejecución",
+   "Ante los jueces mexicanos, alegando el Convenio de Nueva York",
+   "Ante los jueces de Madrid, que embargan los bienes en México",
+   "Ante el Tribunal de Justicia de la UE, por ser laudo europeo"
+  ],
+  "answer": 1,
+  "explanation": "El laudo necesita auxilio judicial del país donde el deudor tiene bienes; se pide su reconocimiento y ejecución en México con el Convenio de Nueva York.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-070",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una bodega de Rioja vende 2.000 cajas a un distribuidor de vinos de Santiago de Chile. ¿Se aplica la Convención de Viena?",
+  "options": [
+   "Sí: es compraventa entre establecimientos de Estados distintos",
+   "No: Chile no es Estado miembro de la Unión Europea",
+   "No: el vino es un bien de consumo y queda fuera de la Convención",
+   "Solo si el contrato la menciona de forma expresa"
+  ],
+  "answer": 0,
+  "explanation": "Viena se aplica a compraventas mercantiles entre partes con establecimientos en Estados soberanos distintos. Que el producto sea vino no lo convierte en consumo: el distribuidor compra para revender.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-071",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un particular de Burgos compra por internet a una bodega chilena seis botellas para la boda de su hija; la web preguntaba si era para uso personal. ¿Se aplica Viena?",
+  "options": [
+   "No: es una compraventa para uso personal o familiar",
+   "Sí: hay establecimientos de las partes en Estados distintos",
+   "Sí: el vendedor es una empresa mercantil chilena",
+   "Solo si el precio supera un umbral mínimo"
+  ],
+  "answer": 0,
+  "explanation": "El art. 2.a) excluye las compras para uso personal, familiar o doméstico, salvo que el vendedor no supiera ni debiera saber ese uso. Aquí lo sabía.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-072",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa francesa vende un ordenador a un abogado español que no dice para qué lo quiere. El vendedor no tenía forma de saber que era para su casa. ¿Qué consecuencia tiene?",
+  "options": [
+   "Queda excluida, porque objetivamente era un uso doméstico del ordenador",
+   "Queda excluida, porque el comprador es una persona física",
+   "Puede aplicarse Viena: el vendedor no sabía ni debía saber el uso",
+   "Se aplica la Convención de Nueva York sobre consumo"
+  ],
+  "answer": 2,
+  "explanation": "La exclusión del uso personal tiene una salvedad: no opera si el vendedor, antes o al celebrar el contrato, no sabía ni debía saber que se compraba para ese uso.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-073",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estas operaciones internacionales SÍ entra en la Convención de Viena?",
+  "options": [
+   "La venta de un yate de recreo a una empresa italiana",
+   "La venta de 50 toneladas de aceite a un importador",
+   "La compra de un paquete de acciones de una sociedad suiza cotizada",
+   "La venta de electricidad a una red francesa"
+  ],
+  "answer": 1,
+  "explanation": "El art. 2 excluye buques y embarcaciones, valores mobiliarios y electricidad. El aceite vendido a un importador es la compraventa típica.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-074",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una aerolínea portuguesa compra un avión a un fabricante de Toulouse. ¿Cómo encaja en Viena?",
+  "options": [
+   "Entra: es una mercadería de alto valor entre empresas",
+   "Entra, pero solo para la formación",
+   "Queda fuera porque incluye un servicio",
+   "Queda fuera: las aeronaves están excluidas"
+  ],
+  "answer": 3,
+  "explanation": "El art. 2.e) excluye buques, embarcaciones, aerodeslizadores y aeronaves.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-075",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española compra en una subasta de Londres un lote de maquinaria. ¿Se rige por la Convención de Viena?",
+  "options": [
+   "No: las ventas en subasta están excluidas",
+   "Sí: es maquinaria industrial entre empresas",
+   "Sí, si el subastador es una empresa británica",
+   "No: Reino Unido ya no es parte de la UE"
+  ],
+  "answer": 0,
+  "explanation": "El art. 2.b) excluye las compraventas en subastas. La razón no tiene que ver con la UE: Viena es un convenio de Naciones Unidas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-076",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una marca de moda de Barcelona encarga a un taller de Marruecos 10.000 camisas y le envía la tela, los botones y los patrones. El taller pone la mano de obra. ¿Se aplica Viena?",
+  "options": [
+   "No: quien encarga aporta parte sustancial de los materiales",
+   "Sí: es un suministro de mercaderías por fabricar",
+   "Sí: el art. 3 incluye toda fabricación por encargo, aporte lo que aporte",
+   "No: Marruecos no es Estado parte de la Convención de Viena"
+  ],
+  "answer": 0,
+  "explanation": "El art. 3.1 incluye el suministro de mercaderías por fabricar, salvo que quien encarga aporte una parte sustancial de los materiales. Entonces es un arrendamiento de obra.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-077",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Valencia encarga a una fábrica turca 5.000 sillas, que la fábrica produce con sus propios materiales según el catálogo. ¿Se aplica Viena?",
+  "options": [
+   "No: las mercaderías aún no existían al contratar y no son ciertas",
+   "No: la fabricación por encargo es un servicio",
+   "Sí: es un suministro de mercaderías por fabricar",
+   "Solo si las sillas se entregan en un solo envío"
+  ],
+  "answer": 2,
+  "explanation": "El art. 3.1 extiende Viena a los suministros de mercaderías que hayan de manufacturarse o producirse, si el comprador no aporta materiales sustanciales.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-078",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa alemana vende e instala una línea de envasado en Murcia; el 80 % del precio corresponde a montaje, formación y puesta en marcha. ¿Qué dice el art. 3.2?",
+  "options": [
+   "Entra porque hay entrega de una máquina industrial",
+   "Entra solo la parte de la máquina y no la de montaje",
+   "Queda fuera si lo principal es mano de obra o servicios",
+   "Queda fuera porque las máquinas son bienes inmuebles"
+  ],
+  "answer": 2,
+  "explanation": "Viena no se aplica cuando la parte principal de las obligaciones de quien entrega consiste en suministrar mano de obra o prestar servicios: su naturaleza es de arrendamiento de obra o servicios.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-079",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de Bilbao firma con un proveedor sueco el envío mensual de piezas durante cinco años, con exclusividad en el País Vasco. ¿Qué lo distingue de una compraventa?",
+  "options": [
+   "Que el precio se paga por adelantado",
+   "Que la propiedad pasa con la firma",
+   "La estabilidad y la duración",
+   "Que no se aplica ninguna ley estatal"
+  ],
+  "answer": 2,
+  "explanation": "Compraventa y suministro se diferencian por la estabilidad y durabilidad: la compraventa es puntual; el suministro, prestaciones periódicas o continuas. Se puede pactar exclusividad territorial.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-080",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador de Lyon alega que el contrato con un vendedor de Elche es nulo por error en el consentimiento. ¿Dónde se busca la respuesta?",
+  "options": [
+   "En la Convención de Viena, que regula los vicios del consentimiento",
+   "En el Reglamento Bruselas I bis sobre nulidad",
+   "En la ley aplicable: Viena no regula la validez",
+   "En los Incoterms pactados en la factura proforma"
+  ],
+  "answer": 2,
+  "explanation": "Viena no regula la validez del contrato, de sus estipulaciones ni de los usos (art. 4). Lo cubre la ley aplicable, normalmente fijada por Roma I.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-081",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una máquina vendida por una empresa italiana explota y hiere a un operario en Zaragoza. ¿Regula Viena la responsabilidad del vendedor por esas lesiones?",
+  "options": [
+   "Sí: es una falta de conformidad cualitativa",
+   "Sí, dentro del régimen general de daños y perjuicios",
+   "No, porque el operario no firmó el contrato",
+   "No: la muerte o las lesiones quedan fuera"
+  ],
+  "answer": 3,
+  "explanation": "El art. 5 excluye la responsabilidad del vendedor por la muerte o las lesiones corporales causadas por las mercaderías.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-082",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos empresas discuten en qué momento el comprador se convierte en propietario de la mercancía. ¿Qué norma lo resuelve?",
+  "options": [
+   "La Convención de Viena, en sus arts. 67 a 70",
+   "El Incoterm pactado, que fija también la propiedad",
+   "El momento en que pasa el riesgo al comprador",
+   "La ley aplicable, porque Viena no regula la propiedad"
+  ],
+  "answer": 3,
+  "explanation": "La transmisión de la propiedad está excluida de Viena (art. 4). Ni Viena ni los Incoterms unen riesgo y propiedad: la propiedad depende de la ley aplicable.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-083",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor de Jaén y un comprador de Boston cierran la venta por teléfono, sin nada por escrito. ¿Es válido el contrato según Viena?",
+  "options": [
+   "No: Viena exige forma escrita",
+   "Solo si se eleva a escritura",
+   "Solo si lo firma un notario",
+   "Sí: rige la libertad de forma"
+  ],
+  "answer": 3,
+  "explanation": "Viena consagra la libertad de forma: el escrito no es requisito de validez, solo un medio de prueba. Aun así se recomienda firmarlo por escrito.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-084",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Si la forma no es obligatoria, ¿por qué el manual insiste en formalizar y modificar el contrato por escrito?",
+  "options": [
+   "Para tener en un solo documento los derechos y obligaciones",
+   "Porque sin escrito no se transmite el riesgo al comprador",
+   "Porque Bruselas I bis no reconoce contratos verbales",
+   "Porque así el contrato queda excluido de la Convención"
+  ],
+  "answer": 0,
+  "explanation": "La forma queda como elemento probatorio: el escrito reúne en un documento el reconocimiento de los derechos y obligaciones de cada parte.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-085",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa envía a un comprador concreto: «Ofrecemos 500 bicicletas modelo X a 180 € la unidad; si acepta, quedamos obligados». ¿Es una oferta según el art. 14?",
+  "options": [
+   "No: falta fijar el lugar y la fecha de entrega de las bicicletas",
+   "No: una oferta debe hacerla el comprador y no el vendedor",
+   "Solo si se envía en forma de factura proforma firmada",
+   "Sí: va a persona determinada, es precisa y hay intención de obligarse"
+  ],
+  "answer": 3,
+  "explanation": "La oferta del art. 14 exige destinatarios determinados, precisión (mercaderías, cantidad y precio o forma de fijarlos) e intención de quedar obligado. Puede emitirla vendedor o comprador.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-086",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un fabricante publica en su web: «Bombas hidráulicas desde 900 €, consulte disponibilidad». ¿Qué es jurídicamente?",
+  "options": [
+   "Una oferta vinculante para todo el mundo",
+   "Una aceptación anticipada de pedidos",
+   "Una contraoferta dirigida al mercado",
+   "Una invitación a negociar, no una oferta"
+  ],
+  "answer": 3,
+  "explanation": "La oferta debe dirigirse a personas determinadas y mostrar intención de obligarse. Un anuncio genérico que pide consultar es una invitación a negociar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-087",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor con una sola grúa envía la misma oferta, válida y precisa, a dos empresas, y las dos aceptan. ¿Qué ocurre según lo visto en clase?",
+  "options": [
+   "Solo vincula la oferta aceptada primero; la otra se anula sola",
+   "Ninguna es vinculante porque se ofreció la misma grúa a dos personas distintas",
+   "Ambas eran vinculantes y el que se queda sin grúa puede reclamar",
+   "El vendedor elige libremente con cuál cumple sin consecuencia"
+  ],
+  "answer": 2,
+  "explanation": "Por defecto la oferta es vinculante. Para lanzar varias y que gane el primero hay que decir que no es vinculante (invitación a negociar) o revocarla a tiempo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-088",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor envió una oferta sin plazo el lunes. El martes el comprador envía su aceptación y el miércoles recibe un correo del vendedor revocando la oferta. ¿Qué pasa?",
+  "options": [
+   "La revocación es eficaz porque la oferta no tenía plazo",
+   "La revocación llega tarde: la aceptación ya se había enviado",
+   "La revocación vale porque la aceptación aún no había llegado",
+   "Ninguna de las dos produce efectos y se negocia de nuevo"
+  ],
+  "answer": 1,
+  "explanation": "Según el art. 16, la oferta sin plazo puede revocarse si la revocación llega al destinatario antes de que este haya enviado la aceptación.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-089",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una oferta dice «válida hasta el 30 de junio». El 10 de junio el vendedor recibe una oferta mejor y quiere retirarla. ¿Puede?",
+  "options": [
+   "Sí: puede revocarla mientras no haya aceptación",
+   "Sí, si avisa con un día de antelación",
+   "No: con plazo fijo es irrevocable hasta que caduca",
+   "Sí, porque aún no se ha firmado nada"
+  ],
+  "answer": 2,
+  "explanation": "La oferta con plazo determinado no puede revocarse hasta que transcurra ese plazo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-090",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador contesta a una oferta: «Aceptamos, pero con pago a 90 días en lugar de al contado». ¿Qué ha hecho?",
+  "options": [
+   "Una aceptación con una simple sugerencia de pago",
+   "Una aceptación tácita que perfecciona el contrato con un matiz menor",
+   "Una contraoferta: cambia una condición sustancial",
+   "Una revocación de la oferta inicial del vendedor"
+  ],
+  "answer": 2,
+  "explanation": "El art. 19.3 considera sustanciales los cambios en precio, pago, calidad, cantidad, lugar y fecha de entrega, responsabilidad o controversias. La respuesta pasa a ser una nueva oferta.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-091",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estos cambios a una oferta NO aparece entre los sustanciales del art. 19.3?",
+  "options": [
+   "La fecha y el lugar de entrega de las mercancías",
+   "La forma de resolver las posibles controversias",
+   "El color del papel en que se imprimirá el pedido",
+   "La calidad y la cantidad de las mercaderías"
+  ],
+  "answer": 2,
+  "explanation": "Son sustanciales los cambios en precio, pago, calidad y cantidad, lugar y fecha de entrega, responsabilidad y solución de controversias.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-092",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador recibe una oferta y, sin contestar, transfiere el importe al vendedor. ¿Hay contrato?",
+  "options": [
+   "No: la aceptación debe ser expresa y por escrito",
+   "No: un acto del comprador no puede ser aceptación",
+   "Solo cuando el vendedor confirme que ha recibido el pago",
+   "Sí: el pago es una aceptación tácita por acto inequívoco"
+  ],
+  "answer": 3,
+  "explanation": "Toda declaración u otro acto que indique asentimiento implica aceptación. Puede ser tácita, por un acto inequívoco como el pago o el envío de la mercancía.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-093",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una aceptación se envía el día 3 y llega al oferente el día 6. Según la teoría de la recepción, ¿desde cuándo vincula?",
+  "options": [
+   "Desde el día 6, al recibirla",
+   "Desde el día 3, cuando la aceptación se envía",
+   "Desde que el oferente la lee y la firma",
+   "Desde que se entregan las mercancías"
+  ],
+  "answer": 0,
+  "explanation": "Oferta y aceptación producen efectos desde que las recibe su destinatario (teoría de la recepción).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-094",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En la práctica internacional, ¿con qué documento se suele formalizar la oferta?",
+  "options": [
+   "El conocimiento de embarque",
+   "La factura proforma",
+   "La factura comercial definitiva",
+   "El certificado de origen"
+  ],
+  "answer": 1,
+  "explanation": "La negociación previa se documenta normalmente con una oferta llamada factura proforma.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-095",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa emite ofertas a varios importadores de Vietnam sin intención real de vender todavía. ¿Qué busca, según el manual?",
+  "options": [
+   "Generar contratos vinculantes con todos los importadores a la vez",
+   "Fijar la ley aplicable antes de negociar con el cliente",
+   "Sondear el mercado: precio, normativa y competencia",
+   "Conseguir el reembolso de los gastos de la prospección"
+  ],
+  "answer": 2,
+  "explanation": "Muchas empresas emiten ofertas para sondear el mercado de destino: precio, normativa, competencia, envase, condiciones de entrega o costes de fabricación local.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-096",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Antes de un gran proyecto, dos empresas firman una carta de intenciones. ¿Qué riesgo señala el manual y cómo se evita?",
+  "options": [
+   "Que un tribunal la tenga por vinculante; se aclara por escrito que no lo es",
+   "Que se aplique Viena; se evita pactando un Incoterm desde el principio",
+   "Que caduque a los 30 días; se evita fijando un plazo de validez largo",
+   "Que se transmita el riesgo; se evita no identificando las mercancías"
+  ],
+  "answer": 0,
+  "explanation": "Algunos tribunales extranjeros consideran vinculantes los acuerdos preliminares. Se incluye un texto que diga que el documento solo establece las bases de una futura negociación.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-097",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un hotel compra a una empresa sueca un sistema de climatización con la condición de que, probado en verano, mantenga 21 °C en todas las habitaciones. ¿Qué tipo de venta es?",
+  "options": [
+   "A examen: el hotel puede rechazarlo sin dar ninguna razón al vendedor",
+   "Pura: el contrato produce efectos desde la firma",
+   "En tránsito: el riesgo pasa al celebrar el contrato",
+   "A ensayo: contrato concluido, sujeto a resultado objetivo"
+  ],
+  "answer": 3,
+  "explanation": "En la venta a ensayo el contrato está concluido y sus efectos se aplazan (condición suspensiva). El comprador rechaza según el resultado objetivo de la prueba.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-098",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una galería recibe de un proveedor japonés un lote de piezas «para su aprobación», y puede devolverlas si no le convencen, sin explicar por qué. ¿Qué tipo de venta es?",
+  "options": [
+   "A ensayo: el contrato existe pero sus efectos se aplazan",
+   "En firme: el contrato quedó perfeccionado con el envío",
+   "A examen: no hay contrato hasta que el comprador acepta",
+   "De consumo: queda fuera de la Convención de Viena"
+  ],
+  "answer": 2,
+  "explanation": "En la venta a examen o aprobación el contrato no se concluye hasta que el comprador acepta tras examinar. Su rechazo es unilateral y no necesita justificación.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-099",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una venta a ensayo, el comprador rechaza la máquina diciendo que «no le gusta», aunque superó todas las pruebas pactadas. ¿Puede?",
+  "options": [
+   "Sí: en la venta a ensayo el comprador decide libremente",
+   "Sí, si lo comunica en un plazo de 15 días desde la prueba",
+   "No: el rechazo depende del resultado objetivo de la prueba",
+   "No, salvo que el vendedor acepte una rebaja del precio"
+  ],
+  "answer": 2,
+  "explanation": "En la venta a ensayo el rechazo se basa en un resultado objetivo (cualidades pactadas o idoneidad). El rechazo libre es propio de la venta a examen.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-100",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un importador de Lima compra a una empresa de Cádiz y revende la mercancía a una tienda de Lima. ¿Qué es esa segunda venta?",
+  "options": [
+   "Una compraventa internacional sometida a Viena",
+   "Una venta en tránsito del art. 68",
+   "Una compraventa interna, no internacional",
+   "Una venta a examen por parte de la tienda"
+  ],
+  "answer": 2,
+  "explanation": "Si el comprador revende en su país, la segunda venta se hace entre partes del mismo Estado: es interna.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-101",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa con sede en Madrid negocia y firma un contrato a través de su sucursal estable de Oporto con un comprador de Lisboa. ¿Por qué podría no ser internacional para Viena?",
+  "options": [
+   "Porque la sociedad matriz está en Madrid y el comprador no tiene sede allí",
+   "Porque las sucursales no pueden celebrar compraventas internacionales",
+   "Porque Portugal no ha ratificado la Convención de Viena",
+   "Porque cuenta el establecimiento más vinculado, el de Oporto"
+  ],
+  "answer": 3,
+  "explanation": "El establecimiento es un lugar de negocios permanente. Si hay varios, cuenta el que guarde la relación más estrecha con el contrato (arts. 1 y 10). Si es Oporto, ambas partes están en Portugal.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-102",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué organismo de Naciones Unidas impulsó desde 1968 los trabajos que culminaron en la Convención de Viena de 1980?",
+  "options": [
+   "UNIDROIT",
+   "La CCI",
+   "UNCITRAL",
+   "La OMC"
+  ],
+  "answer": 2,
+  "explanation": "UNIDROIT lo intentó en 1929 y La Haya aprobó la LUFCI y la LUCI en 1964. UNCITRAL tomó el testigo en 1968 y la Conferencia de Viena aprobó la Convención el 11 de abril de 1980.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-103",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué textos se aprobaron en la Conferencia de La Haya de 1964, antecedente de Viena?",
+  "options": [
+   "La LUFCI y la LUCI",
+   "Los Incoterms y las RRUU",
+   "Los Principios UNIDROIT",
+   "La Ley Modelo UNCITRAL"
+  ],
+  "answer": 0,
+  "explanation": "En La Haya, en 1964, se aprobaron la Ley Uniforme sobre la Formación del Contrato (LUFCI) y la Ley Uniforme sobre la Compraventa Internacional (LUCI), con poco éxito.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-104",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un contrato, ¿qué apartado conviene redactar con cuidado para poder reclamar luego que el vendedor conocía el uso especial de la mercancía?",
+  "options": [
+   "El «exponen», con la actividad de cada parte",
+   "El «reunidos», con los datos personales de los firmantes",
+   "El «intervienen», con los poderes de la sociedad",
+   "La cláusula de idioma y de texto auténtico"
+  ],
+  "answer": 0,
+  "explanation": "El exponen recoge los antecedentes y la actividad de cada parte. Es opcional, pero luego sirve para exigir diligencia o un uso especial conocido por el vendedor.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-105",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española firma con una sociedad de un país que ha ratificado el Convenio de La Haya sobre la apostilla. ¿Cómo acredita el firmante extranjero sus poderes?",
+  "options": [
+   "Con el número fiscal de la sociedad extranjera",
+   "Con legalización por el consulado de su país",
+   "Con una carta firmada por el consejero delegado",
+   "Con apostilla en el documento público de poderes"
+  ],
+  "answer": 3,
+  "explanation": "Los poderes extranjeros se acreditan con apostilla si el país firmó el Convenio de La Haya (solo documentos públicos), con legalización consular si no, o otorgándolos ante el cónsul español.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-106",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de las obligaciones del vendedor es la única que la Convención de Viena desarrolla en detalle?",
+  "options": [
+   "Transmitir la propiedad",
+   "Entregar los documentos",
+   "Asegurar las mercancías",
+   "Entregar las mercaderías"
+  ],
+  "answer": 3,
+  "explanation": "El vendedor debe entregar, transmitir la propiedad y entregar los documentos, pero Viena solo desarrolla la entrega (lugar, momento y conformidad). La propiedad va a la ley aplicable.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-107",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor de Murcia y un comprador de Hamburgo no pactan lugar de entrega ni Incoterm. El vendedor contrata un camión de una empresa de transportes que lleva la carga a Hamburgo. ¿Dónde se entrega?",
+  "options": [
+   "Al ponerla en poder del primer porteador",
+   "En el almacén del comprador en Hamburgo",
+   "En la frontera entre España y Francia",
+   "En el establecimiento del vendedor"
+  ],
+  "answer": 0,
+  "explanation": "Si el contrato implica transporte, la entrega se produce al ponerla en poder del primer porteador, con independencia de quién pague el transporte.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-108",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En el contrato pactaron FCA Valencia. Un empleado dice que hay que aplicar las reglas de Viena para saber dónde se entrega. ¿Qué le dices?",
+  "options": [
+   "Viena se impone a cualquier pacto sobre la entrega",
+   "El Incoterm ya fija el lugar de entrega y prevalece",
+   "Hay que entregar en el establecimiento del comprador",
+   "El lugar lo decide el transportista que se contrate"
+  ],
+  "answer": 1,
+  "explanation": "Primero rige el lugar fijado en el contrato; pactar un Incoterm ya supone fijarlo. Las reglas de Viena solo se usan si no hay pacto.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-109",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Se venden 200 toneladas de un granel que está en un silo de Tarragona, conocido por ambas partes; el comprador lo recogerá. No hay transporte a cargo del vendedor ni pacto. ¿Dónde se entrega?",
+  "options": [
+   "En el silo de Tarragona, conocido por ambas partes",
+   "En el establecimiento del comprador, en su país",
+   "Al primer transportista que contrate el comprador para recogerla en el silo",
+   "En la sede social del vendedor, sea cual sea"
+  ],
+  "answer": 0,
+  "explanation": "Sin transporte, si la mercancía debe extraerse de una masa en un lugar conocido por las partes al contratar, se pone a disposición del comprador en ese lugar.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-110",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "No hay pacto, no hay transporte y las partes no sabían dónde estaba o se iba a fabricar la mercancía. ¿Dónde se entrega?",
+  "options": [
+   "En el establecimiento del comprador",
+   "En el establecimiento del vendedor",
+   "En el puerto más cercano al comprador",
+   "Donde decida un árbitro designado"
+  ],
+  "answer": 1,
+  "explanation": "El último escalón de la regla es el establecimiento del vendedor.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-111",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El contrato fija la entrega «entre el 1 y el 30 de septiembre». El vendedor entrega el 28. El comprador protesta porque la esperaba el día 1. ¿Quién tiene razón?",
+  "options": [
+   "El comprador: dentro de un plazo se debe entregar el primer día hábil",
+   "El comprador: el plazo se cuenta a favor del que paga",
+   "El vendedor: puede entregar en cualquier momento del plazo",
+   "Ninguno: la fecha la fija la Convención en defecto de pacto"
+  ],
+  "answer": 2,
+  "explanation": "Si se fija un plazo, el vendedor cumple entregando en cualquier momento dentro de ese plazo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-112",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El vendedor entrega un mes antes de lo pactado y el comprador acepta la mercancía. ¿Qué efecto tiene?",
+  "options": [
+   "La entrega no vale y el vendedor debe repetirla en la fecha que se pactó",
+   "El vendedor debe indemnizar por el almacenaje anticipado",
+   "El comprador conserva el derecho a rechazarla después",
+   "Asume las consecuencias y el contrato queda modificado"
+  ],
+  "answer": 3,
+  "explanation": "Ante una entrega anticipada el comprador puede aceptar o rehusar; si acepta, asume las consecuencias y el contrato queda modificado por autonomía de la voluntad.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-113",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Pediste 1.000 cajas y llegan 1.200. Te quedas todas. ¿Qué precio pagas por las 200 de más?",
+  "options": [
+   "El precio corriente de mercado",
+   "Nada: son un error del vendedor",
+   "La mitad, por no haberlas pedido",
+   "El precio unitario del contrato"
+  ],
+  "answer": 3,
+  "explanation": "Ante un exceso (art. 52.2) el comprador puede aceptarlo o rechazarlo; si lo acepta, lo paga al precio del contrato. En clase: notifícalo para evitar la factura sorpresa.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-114",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un exportador vende naranjas a una empresa alemana que las quiere para zumo, pero no lo dijo. Llegan naranjas de mesa, aptas para su uso ordinario. ¿Puede reclamar falta de conformidad?",
+  "options": [
+   "Sí: toda naranja debe ser apta para zumo",
+   "Sí: el comprador decide el uso al recibirlas",
+   "No, salvo que el precio fuera de zumo",
+   "No: el vendedor no conocía ese uso especial"
+  ],
+  "answer": 3,
+  "explanation": "La mercancía debe servir para los usos ordinarios y para el uso especial que se haya hecho saber al vendedor al contratar. Por eso conviene explicarlo en el exponen.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-115",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Compraste por una muestra que te enviaron. La partida llega de peor calidad. ¿Qué consejo práctico dio el profesor?",
+  "options": [
+   "Devolver la muestra al vendedor una vez cerrado el pedido",
+   "Pedir que la muestra se incorpore al conocimiento de embarque",
+   "Guardar muestras precintadas para comparar con el pedido",
+   "Firmar la factura proforma sobre la muestra antes del envío"
+  ],
+  "answer": 2,
+  "explanation": "Si se vendió por muestra o modelo, la calidad no puede ser inferior. Guardar muestras precintadas permite probarlo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-116",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "La mercancía llega en perfecto estado, pero un tercero reclama una patente sobre ella en el país de destino. ¿Qué tipo de conformidad está en juego?",
+  "options": [
+   "La cuantitativa",
+   "La cualitativa",
+   "La jurídica",
+   "La documental"
+  ],
+  "answer": 2,
+  "explanation": "La conformidad es cuantitativa, cualitativa y jurídica: la mercancía debe estar libre de derechos o pretensiones de terceros. El art. 42 matiza el caso de la propiedad industrial o intelectual.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-117",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El contrato fija 2 €/kg de almendra. La partida pesa 10.000 kg en bruto y 9.400 kg en neto. ¿Cuánto paga el comprador?",
+  "options": [
+   "20.000 €, porque el embalaje se factura",
+   "19.400 €, una media de bruto y neto",
+   "20.000 € menos el coste del transporte",
+   "18.800 €, porque se paga el peso neto"
+  ],
+  "answer": 3,
+  "explanation": "Si el precio se fija por peso, se entiende peso neto: el embalaje no lo paga el comprador. 9.400 × 2 = 18.800 €.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-118",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un contrato válido no se fijó el precio ni un medio para fijarlo. ¿Qué precio aplica el art. 55?",
+  "options": [
+   "El que fije unilateralmente el vendedor",
+   "El generalmente cobrado en ese tráfico",
+   "El precio de coste más un margen razonable del 10 %",
+   "El que dicte el juez según su equidad"
+  ],
+  "answer": 1,
+  "explanation": "El art. 55 remite al precio generalmente cobrado al celebrar el contrato por tales mercancías, en circunstancias semejantes y en el tráfico de que se trate.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-119",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "No se pactó dónde pagar ni pago contra documentos. ¿Dónde debe pagar el comprador?",
+  "options": [
+   "En el establecimiento del comprador",
+   "En el banco que elija el comprador",
+   "En el establecimiento del vendedor",
+   "En el lugar de destino de la carga"
+  ],
+  "answer": 2,
+  "explanation": "Sin pacto, el pago se hace en el establecimiento del vendedor; si se pactó pagar contra entrega de mercancía o documentos, donde se produzca esa entrega.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-120",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "No hay fecha de pago pactada. ¿Cuándo debe pagar el comprador según el art. 59?",
+  "options": [
+   "Cuando el vendedor pone a su disposición mercancía o documentos",
+   "Al día siguiente de recibir la factura comercial del vendedor",
+   "A los 30 días naturales desde que se celebró el contrato de compraventa",
+   "Cuando el vendedor le envíe un requerimiento de pago formal"
+  ],
+  "answer": 0,
+  "explanation": "Sin fecha, se paga cuando el vendedor pone a disposición las mercancías o sus documentos representativos. No hace falta requerimiento.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-121",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un importador de Rotterdam recibe la mercancía, no la revisa y, cinco meses después, avisa de que la mitad está defectuosa. ¿Qué riesgo corre?",
+  "options": [
+   "Ninguno: los vicios ocultos se reclaman en 4 años",
+   "Perder el derecho a invocar la falta de conformidad",
+   "Que el vendedor le cobre intereses de demora",
+   "Que el contrato se considere una venta a examen"
+  ],
+  "answer": 1,
+  "explanation": "El comprador debe examinar en el plazo más breve posible y comunicar la falta de conformidad en un plazo razonable. Si es negligente, pierde el derecho, salvo excusa razonable (art. 44).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-122",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "La mercancía viaja de Shanghái a Valencia y el comprador la reexpide a Madrid sin poder abrirla; el vendedor sabía que podía pasar. ¿Dónde debe examinarla?",
+  "options": [
+   "En Madrid, el nuevo destino",
+   "En Shanghái, al cargarla",
+   "En Valencia, al desembarcar",
+   "Donde decida el transportista"
+  ],
+  "answer": 0,
+  "explanation": "Con transporte, el examen puede aplazarse a destino; si se reexpide sin oportunidad razonable de examinarla y el vendedor lo sabía o debía saber, se aplaza al nuevo destino (art. 38).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-123",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Como Viena solo habla de «plazo razonable» para comunicar los defectos, ¿qué recomienda el manual?",
+  "options": [
+   "Fijar ese plazo en el contrato",
+   "Avisar el mismo día de la entrega",
+   "Acudir al plazo de 4 años de 1974",
+   "Dejarlo a la decisión del árbitro"
+  ],
+  "answer": 0,
+  "explanation": "El «plazo razonable» es indeterminado, por eso conviene fijarlo en el contrato. Los 4 años de la Convención de 1974 son para ejercer acciones, no para avisar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-124",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Para qué sirve el plazo de 4 años de la Convención de Nueva York de 1974?",
+  "options": [
+   "Para examinar las mercancías una vez recibidas",
+   "Para comunicar la falta de conformidad al vendedor",
+   "Para ejercer las acciones derivadas de la compraventa",
+   "Para revocar una oferta que no tenía plazo fijo"
+  ],
+  "answer": 2,
+  "explanation": "La Convención sobre la Prescripción (Nueva York, 1974) fija 4 años para ejercer las acciones (art. 8), aunque no todos los Estados de Viena la firmaron.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-125",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El comprador no recoge la mercancía a tiempo y el vendedor la tiene en su almacén. ¿Qué puede hacer el vendedor?",
+  "options": [
+   "Conservarla y retenerla hasta cobrar los gastos",
+   "Destruirla y reclamar al comprador el precio completo más los daños",
+   "Venderla sin avisar y quedarse todo lo obtenido",
+   "Devolverla al fabricante y dar el contrato por nulo"
+  ],
+  "answer": 0,
+  "explanation": "La obligación de conservar recae en quien tiene la mercancía sin correr el riesgo. El vendedor adopta medidas razonables y puede retenerla hasta que le reembolsen los gastos.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-126",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador rechaza un cargamento de fruta no conforme que está en su almacén y se va a estropear. ¿Qué puede hacer?",
+  "options": [
+   "Venderlo avisando en lo posible y retener los gastos",
+   "Esperar sin tocarlo a que el vendedor lo recoja de su almacén",
+   "Destruirlo y no pagar nada al vendedor",
+   "Consumirlo y reclamar el precio como daño"
+  ],
+  "answer": 0,
+  "explanation": "La parte cumplidora que posee las mercancías puede venderlas previa notificación y retener los gastos de conservación y venta. Con perecederos basta comunicarlo en la medida de lo posible.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-127",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Ya transmitido el riesgo al comprador, la mercancía se pierde en un incendio del puerto ajeno a ambas partes. ¿Debe pagar el comprador?",
+  "options": [
+   "No: si no hay mercancía tampoco hay precio que pagar",
+   "Sí: pasado el riesgo, la pérdida no le libera",
+   "Solo la mitad, por ser un caso fortuito",
+   "No, si todavía no era propietario de la mercancía"
+  ],
+  "answer": 1,
+  "explanation": "Desde que el riesgo pasa al comprador, la pérdida o deterioro no le liberan de pagar, salvo que se deban a un acto u omisión del vendedor (art. 66). Riesgo y propiedad van separados.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-128",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor carga en su camión 300 cajas genéricas sin marcar ni avisar al comprador de cuáles son las suyas, y se pierden. ¿Ha pasado el riesgo?",
+  "options": [
+   "Sí: pasó al entregarlas al primer porteador contratado",
+   "No: el riesgo exige mercancía identificada",
+   "Sí: pasó al cerrar el contrato de compraventa",
+   "Depende de si el comprador ya había pagado"
+  ],
+  "answer": 1,
+  "explanation": "En todos los casos la transmisión del riesgo exige una mercancía identificada con señales, documentos de expedición, comunicación al comprador o de otro modo (art. 67.2).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-129",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor entrega la mercancía al primer porteador pero conserva el conocimiento de embarque hasta cobrar. El comprador dice que el riesgo no ha pasado. ¿Tiene razón?",
+  "options": [
+   "Sí: el riesgo no pasa mientras no tenga los documentos",
+   "Sí: retener documentos equivale a no haber entregado",
+   "No: retener los documentos no impide que pase el riesgo",
+   "No, pero el riesgo solo pasa cuando el comprador paga"
+  ],
+  "answer": 2,
+  "explanation": "En la venta indirecta, que el vendedor pueda retener los documentos representativos no afecta a la transmisión del riesgo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-130",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un vendedor debe entregar la carga a un porteador en el puerto de Bilbao para que la lleve a Nueva York. ¿Cuándo pasa el riesgo?",
+  "options": [
+   "Al entregarla al porteador en Bilbao",
+   "Al salir de la fábrica del vendedor",
+   "Al llegar al puerto de Nueva York",
+   "Al firmar el contrato de compraventa"
+  ],
+  "answer": 0,
+  "explanation": "Si el vendedor debe entregar a un porteador en un lugar determinado distinto del destino, el riesgo pasa en ese lugar.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-131",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un petrolero navega de Nigeria a Algeciras y su carga se vende durante el viaje a un comprador español. ¿Cuándo pasa el riesgo?",
+  "options": [
+   "Al celebrarse el contrato",
+   "Al cargar la mercancía en Nigeria",
+   "Al descargar en Algeciras",
+   "Al pagarse el precio"
+  ],
+  "answer": 0,
+  "explanation": "En las ventas en tránsito (art. 68) el riesgo pasa al celebrar el contrato, salvo los daños que el vendedor conocía o debía conocer y no reveló.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-132",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una venta en tránsito, el vendedor sabía que parte de la carga ya se había mojado y no lo dijo. ¿Quién soporta ese daño?",
+  "options": [
+   "El comprador, porque el riesgo pasó al contratar",
+   "A medias entre comprador y vendedor",
+   "El vendedor, por haberlo ocultado",
+   "La naviera, como porteadora de la carga"
+  ],
+  "answer": 2,
+  "explanation": "La regla del art. 68 tiene una excepción: si el vendedor sabía o debía saber que había pérdida o deterioro y no lo reveló, ese riesgo es suyo.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-133",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El comprador debía recoger la mercancía en el almacén del vendedor el día 10, pero no aparece. El día 12 se inunda el almacén. ¿Quién soporta la pérdida?",
+  "options": [
+   "El vendedor: el riesgo solo pasa con la retirada efectiva de la mercancía",
+   "El vendedor, porque la tenía en su propio almacén",
+   "El comprador: el riesgo pasó cuando no la recogió",
+   "Ambos al 50 %, por ser una inundación imprevisible"
+  ],
+  "answer": 2,
+  "explanation": "En la venta directa en casa del vendedor (art. 69), si el comprador no se hace cargo a tiempo, el riesgo pasa cuando se le ponen a disposición e incumple al no recogerla. No hace falta retirada efectiva.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-134",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador encarga 1.000 maceteros para su campaña de primavera; llegan rotos la mitad y la campaña fracasa. ¿Cuándo hay incumplimiento esencial?",
+  "options": [
+   "Cuando el defecto afecta a más del 25 % de las unidades",
+   "Cuando el vendedor ha actuado con mala fe o con dolo",
+   "Si le priva sustancialmente de lo que esperaba del contrato",
+   "Cuando lo declara así un árbitro o un juez en sentencia"
+  ],
+  "answer": 2,
+  "explanation": "Es esencial el incumplimiento que priva sustancialmente de lo que se tenía derecho a esperar, salvo que el incumplidor no lo previera ni lo hubiera previsto una persona razonable.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-135",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué permite el incumplimiento esencial que no permite el incumplimiento no esencial?",
+  "options": [
+   "Pedir daños y perjuicios",
+   "Resolver el contrato",
+   "Exigir la reparación",
+   "Fijar un plazo suplementario"
+  ],
+  "answer": 1,
+  "explanation": "El incumplimiento esencial añade la posibilidad de resolver el contrato. Daños, reparación o plazo suplementario caben ante cualquier incumplimiento.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-136",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Llegan 2.000 piezas con un defecto menor que se arregla con un ajuste. El comprador exige que se las sustituyan por otras nuevas. ¿Puede?",
+  "options": [
+   "Sí: el comprador elige el remedio que prefiera",
+   "Sí, si lo pide en un plazo razonable desde el aviso",
+   "No: la sustitución exige incumplimiento esencial",
+   "No: solo cabe resolver el contrato entero"
+  ],
+  "answer": 2,
+  "explanation": "La sustitución es muy onerosa: exige incumplimiento esencial y pedirla al comunicar el defecto o en un plazo razonable. La reparación no exige incumplimiento esencial.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-137",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador descubre un defecto grave en unas telas que ya había cortado y cosido conforme a su uso normal. ¿Puede pedir la sustitución?",
+  "options": [
+   "Sí: el defecto era grave y por tanto esencial",
+   "Sí, si devuelve las prendas que ha cosido",
+   "No: solo puede pedir la reparación de las telas defectuosas",
+   "No: ya las transformó conforme a un uso normal"
+  ],
+  "answer": 3,
+  "explanation": "El art. 82.1 impide la sustitución si el comprador no puede restituir en estado sustancialmente idéntico, si se deterioraron al examinarlas o si ya las vendió, consumió o transformó antes de descubrir el defecto.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-138",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador concede al vendedor 20 días adicionales para entregar. Al día 5 se arrepiente y quiere resolver. ¿Puede?",
+  "options": [
+   "Sí: el plazo suplementario es una cortesía que el comprador puede retirar",
+   "No: el plazo le vincula, salvo que el vendedor diga que no cumplirá",
+   "Sí, si paga una penalización por la resolución anticipada",
+   "No: tras un plazo suplementario ya no cabe resolver el contrato"
+  ],
+  "answer": 1,
+  "explanation": "Una vez concedido el plazo suplementario (art. 47.1), vincula al comprador, salvo que el vendedor manifieste que no cumplirá. Conserva la indemnización por demora.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-139",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Llega un lote que, en el momento de la entrega, vale 6.000 € en vez de los 10.000 € que valdría si fuera conforme. El precio pactado era 8.000 €. ¿Cuánto debe pagar si reduce el precio?",
+  "options": [
+   "6.000 €",
+   "4.800 €",
+   "4.000 €",
+   "2.000 €"
+  ],
+  "answer": 1,
+  "explanation": "La reducción del art. 50 es proporcional: el valor real es el 60 % del conforme, así que paga el 60 % de 8.000 € = 4.800 €. Ambos valores se toman en el momento de la entrega.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-140",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador reduce el precio por un defecto y, un mes después, quiere resolver el contrato por el mismo defecto. ¿Qué dice el manual?",
+  "options": [
+   "Puede, si devuelve el importe de la reducción aplicada",
+   "No puede: reducir el precio y resolver son incompatibles",
+   "Puede, porque la resolución es un remedio superior",
+   "Puede, si el defecto es esencial y queda probado"
+  ],
+  "answer": 1,
+  "explanation": "Si opta por reducir el precio ya no puede pedir la resolución: son acciones incompatibles.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-141",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Antes de que el comprador reclame, el vendedor se ofrece a sustituir sin coste una pieza defectuosa, sin causarle molestias. ¿Puede hacerlo?",
+  "options": [
+   "No: subsanar el incumplimiento es un derecho que tiene el comprador",
+   "Solo si el contrato incluye una cláusula de garantía",
+   "No, una vez entregada la mercancía no cabe subsanar",
+   "Sí, si no causa gastos o inconvenientes excesivos"
+  ],
+  "answer": 3,
+  "explanation": "El vendedor puede subsanar unilateralmente su incumplimiento si no causa al comprador gastos o inconvenientes excesivos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-142",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿En cuál de estos casos NO puede el comprador resolver el contrato?",
+  "options": [
+   "El vendedor declara por escrito que no va a entregar la mercancía",
+   "Vence el plazo suplementario y no hay entrega",
+   "El vendedor se retrasa dos días sin perjuicio relevante",
+   "La falta de conformidad es un incumplimiento esencial"
+  ],
+  "answer": 2,
+  "explanation": "Se puede resolver si el incumplimiento es esencial, si se supera el plazo suplementario o si la otra parte declara que no cumplirá. Un retraso leve sin perjuicio no es esencial.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-143",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cómo se resuelve un contrato de compraventa internacional según Viena?",
+  "options": [
+   "Por comunicación a la otra parte, sin necesidad de juez",
+   "Por sentencia firme de un juzgado del lugar de entrega",
+   "Por laudo arbitral cuando lo pide la parte perjudicada",
+   "Por mutuo acuerdo firmado ante notario por las partes"
+  ],
+  "answer": 0,
+  "explanation": "La resolución es extrajudicial y surte efectos desde su comunicación.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-144",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato prevé 12 entregas mensuales de piezas independientes entre sí. La entrega de marzo es defectuosa y esencial. ¿Qué puede resolver el comprador?",
+  "options": [
+   "Todo el contrato",
+   "Solo la entrega de marzo",
+   "Marzo y las siguientes",
+   "Ninguna de las entregas"
+  ],
+  "answer": 1,
+  "explanation": "En entregas sucesivas cada una se considera independiente; solo se resuelve la fallida, salvo que por su interdependencia fuera esencial para la finalidad global.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-145",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Antes de la fecha de entrega, el comprador al que vas a vender entra en concurso de acreedores. ¿Qué te permite la Convención?",
+  "options": [
+   "Nada: hay que esperar a la fecha pactada de pago",
+   "Exigir el pago inmediato del precio total pactado",
+   "Resolver anticipadamente si se prevé incumplimiento esencial",
+   "Ceder el contrato a otro comprador sin pedir su consentimiento previo"
+  ],
+  "answer": 2,
+  "explanation": "La resolución anticipada cabe si hay razones suficientes para pensar que habrá un incumplimiento esencial; en clase, el concurso del comprador. También cabe suspender el cumplimiento (arts. 71 y 72).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-146",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comprador resuelve el contrato tras haber usado la maquinaria y sacado beneficio de ella. ¿Qué debe devolver?",
+  "options": [
+   "Solo la maquinaria, en el estado que esté",
+   "La maquinaria y los beneficios obtenidos",
+   "Nada, porque el incumplidor fue el vendedor",
+   "El precio, pero no la maquinaria entregada"
+  ],
+  "answer": 1,
+  "explanation": "Con la resolución se restituye lo recibido: el vendedor devuelve lo cobrado; el comprador, las mercancías y los beneficios que haya obtenido de ellas (art. 84).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-147",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un proveedor entrega tarde una máquina y la fábrica del comprador está parada una semana. ¿Cómo se clasifican el coste de alquilar otra máquina y los pedidos perdidos?",
+  "options": [
+   "Daño emergente y lucro cesante",
+   "Lucro cesante y daño moral",
+   "Daño directo y daño moral",
+   "Daño emergente y penalización"
+  ],
+  "answer": 0,
+  "explanation": "El daño emergente es la pérdida sufrida (alquiler de la máquina); el lucro cesante, la ganancia dejada de obtener (pedidos perdidos).",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-148",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Por un retraso, el comprador perdió un contrato extraordinario con el Gobierno que el vendedor no conocía ni podía imaginar. ¿Se indemniza esa pérdida?",
+  "options": [
+   "Sí: el daño emergente y el lucro cesante se indemnizan enteros",
+   "Sí, en cuanto el comprador demuestre que el contrato existía",
+   "No, porque el lucro cesante no se indemniza en la Convención",
+   "No: se limita a lo que el incumplidor pudo prever al contratar"
+  ],
+  "answer": 3,
+  "explanation": "La indemnización no puede exceder la pérdida que el incumplidor previó o debió prever al contratar según los hechos que conocía o debía conocer.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-149",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Tras recibir mercancía defectuosa, el comprador no hace nada para reducir el daño y deja que se estropee el resto del stock. ¿Qué consecuencia tiene?",
+  "options": [
+   "Ninguna: todo el daño es culpa del vendedor que incumplió primero",
+   "Su indemnización puede reducirse por no mitigar",
+   "Pierde el derecho a resolver el contrato",
+   "Debe pagar el doble del precio pactado"
+  ],
+  "answer": 1,
+  "explanation": "El perjudicado debe acreditar el daño y haber adoptado medidas razonables para reducir la pérdida.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-150",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Resuelto el contrato, el comprador compra en un plazo razonable la misma mercancía a otro proveedor por 12.000 €; el contrato fijaba 10.000 €. ¿Qué fórmula usa y cuánto reclama como mínimo?",
+  "options": [
+   "Precio corriente: 12.000 € más otros daños",
+   "Compra de reemplazo: 2.000 € más otros daños",
+   "Compra de reemplazo: 12.000 € de daño total",
+   "Precio corriente: 10.000 € menos los gastos"
+  ],
+  "answer": 1,
+  "explanation": "La compraventa de reemplazo indemniza la diferencia entre el precio del contrato y el del reemplazo, más los demás daños.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-151",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Resuelto el contrato sin compra de reemplazo, ¿en qué momento se toma el precio corriente para calcular la indemnización?",
+  "options": [
+   "En el momento de la firma del contrato de compraventa",
+   "Al resolver, salvo que ya se hubiera hecho cargo de ella",
+   "En el momento en que el comprador interpone la demanda",
+   "En el momento en que el juez o el árbitro dicta la sentencia"
+  ],
+  "answer": 1,
+  "explanation": "Se usa la diferencia entre el precio del contrato y el corriente en el momento de la resolución; si quien resuelve ya se había hecho cargo de la mercancía, al hacerse cargo.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-152",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un terremoto destruye la fábrica del vendedor y no puede servir el pedido. Avisa al comprador tres meses después. ¿Queda exonerado?",
+  "options": [
+   "Sí: la fuerza mayor exonera de toda responsabilidad, avise cuando avise",
+   "Sí: un terremoto es un caso fortuito y no un supuesto de fuerza mayor del art. 79",
+   "No: los desastres naturales no son fuerza mayor en la Convención",
+   "Responde de los daños por avisar tarde: debía comunicarlo en plazo razonable"
+  ],
+  "answer": 3,
+  "explanation": "La fuerza mayor (art. 79) exonera si se comunica en un plazo razonable; si no, el incumplidor responde de los daños que cause esa falta de aviso.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-153",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una huelga general bloquea un mes el puerto de salida y el vendedor no puede embarcar. Cuando termina, el comprador sigue queriendo la mercancía. ¿Qué ocurre?",
+  "options": [
+   "El contrato queda extinguido de forma definitiva por la fuerza mayor",
+   "El vendedor queda libre del todo de cumplir",
+   "El comprador debe pagar ya sin recibir nada",
+   "Puede exigir el cumplimiento: la exoneración fue temporal"
+  ],
+  "answer": 3,
+  "explanation": "La exoneración por fuerza mayor puede ser temporal: cuando cesa el impedimento, se puede exigir el cumplimiento.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-154",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué distingue el caso fortuito de la fuerza mayor según el manual?",
+  "options": [
+   "Es un hecho causado por la otra parte del contrato y no por la naturaleza ni por terceros",
+   "No exonera de responsabilidad en ningún ordenamiento jurídico conocido",
+   "Solo opera en las ventas en tránsito y no en las ventas directas",
+   "Si se hubiera previsto se habría evitado, y sus efectos se pueden pactar"
+  ],
+  "answer": 3,
+  "explanation": "La fuerza mayor es inevitable aun prevista; el caso fortuito se habría evitado de haberse previsto. Casi todos los ordenamientos lo exoneran igual, pero solo en el caso fortuito las partes pueden pactar sus consecuencias.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-155",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El vendedor no pudo cumplir porque su transportista subcontratado sufrió una avería previsible. ¿Queda exonerado por fuerza mayor?",
+  "options": [
+   "No: deudor y tercero debían estar ambos en fuerza mayor",
+   "Sí: el incumplimiento lo causó un tercero ajeno",
+   "Sí, si el vendedor no eligió personalmente al transportista subcontratado",
+   "No, salvo que lo comunique antes de 24 horas"
+  ],
+  "answer": 0,
+  "explanation": "Si el incumplimiento se debe a un tercero encargado de ejecutar el contrato, solo hay exoneración si tanto el deudor como el tercero incurren en fuerza mayor.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-156",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El comprador no envió a tiempo las especificaciones técnicas y por eso el vendedor no pudo fabricar. ¿Puede el comprador reclamar por el retraso?",
+  "options": [
+   "Sí: el vendedor debía fabricar con lo que tuviera",
+   "Sí, pero solo por el lucro cesante y no por el emergente",
+   "No: no se invoca un incumplimiento que uno mismo causó",
+   "No, salvo que el contrato fijase una penalización"
+  ],
+  "answer": 2,
+  "explanation": "Según el art. 80, una parte no puede invocar el incumplimiento de la otra en la medida en que lo causó su propia acción u omisión.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-157",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Tras firmar, el vendedor descubre que el comprador ha dejado de pagar a todos sus proveedores. Aún no ha vencido nada. ¿Qué medida menos drástica que resolver tiene?",
+  "options": [
+   "Pedir daños por lucro cesante",
+   "Reducir el precio del contrato",
+   "Pedir la sustitución del pago",
+   "Suspender su propio cumplimiento"
+  ],
+  "answer": 3,
+  "explanation": "Los arts. 71 y 72 permiten diferir el cumplimiento si resulta manifiesto que la otra parte no cumplirá una parte sustancial de sus obligaciones.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-158",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estas cláusulas NO forma parte de las 14 propuestas para la compraventa internacional?",
+  "options": [
+   "Indemnización por clientela",
+   "Fuerza mayor e imprevistos",
+   "Autorizaciones y permisos",
+   "Penalización por retraso"
+  ],
+  "answer": 0,
+  "explanation": "La indemnización por clientela es propia de la agencia. Las 14 de compraventa incluyen penalización, fuerza mayor, autorizaciones, ley, tribunales, idioma, garantía, confidencialidad, etc.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-159",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué tres rasgos comparten los contratos de intermediación según el manual?",
+  "options": [
+   "Transmisión de la propiedad, riesgo propio y precio fijo por cada unidad",
+   "Relación laboral, horario pactado y salario mensual garantizado",
+   "Compra en firme, reventa en nombre propio y margen comercial",
+   "Gestión de intereses ajenos, promover negocios y comisión"
+  ],
+  "answer": 3,
+  "explanation": "Son contratos de gestión de intereses ajenos, cuya causa es la promoción o estipulación de negocios y cuya retribución suele ser un porcentaje sobre el importe bruto.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-160",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un fabricante de calzado de Elda quiere vender en Canadá. ¿Por qué le interesa un agente local antes que viajar él?",
+  "options": [
+   "Porque el agente compra la mercancía y asume el riesgo de reventa en Canadá",
+   "Porque así la venta queda fuera de la Convención de Viena",
+   "Reduce riesgos comerciales, jurídicos, de impago y culturales",
+   "Porque el agente paga los aranceles de importación en Canadá"
+  ],
+  "answer": 2,
+  "explanation": "El agente conoce canales, clientes, usos y normativa locales, investiga la solvencia de terceros y vigila la marca: minimiza riesgos comerciales, jurídicos, técnicos, de impago, culturales y lingüísticos.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-161",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente en México busca clientes y les pasa los pedidos, pero el fabricante español es quien los acepta y firma. ¿Necesita el agente un poder?",
+  "options": [
+   "Sí: todo agente debe estar apoderado para actuar",
+   "Sí: sin poder no puede cobrar su comisión",
+   "No, porque el agente actúa en nombre propio",
+   "No: para solo promover no hace falta apoderamiento"
+  ],
+  "answer": 3,
+  "explanation": "El agente puede promover o promover y concluir. Para concluir en nombre del mandante debe estar previamente apoderado; para solo promover, no.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-162",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un contrato de agencia, ¿quién es el «tercer contratante»?",
+  "options": [
+   "El subagente que contrata el agente en la zona",
+   "El cliente con quien se celebra la operación",
+   "El banco que paga las comisiones",
+   "El transportista de la mercancía"
+  ],
+  "answer": 1,
+  "explanation": "Hay tres sujetos: el mandante, el agente y el tercer contratante, que es el cliente con quien se celebra el contrato.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-163",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una comercial trabaja para un fabricante con horario, sueldo fijo y alta en la Seguridad Social a su cargo, visitando clientes en Francia. ¿Es una agente?",
+  "options": [
+   "Sí: promueve operaciones por cuenta del fabricante",
+   "No: le falta la independencia; es una relación laboral",
+   "Sí, porque actúa en un país distinto del mandante",
+   "Sí, si además cobra una comisión sobre las ventas"
+  ],
+  "answer": 1,
+  "explanation": "La diferencia fundamental entre el agente y el representante o viajante dependiente es la independencia: el agente es un empresario que organiza su actividad y su tiempo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-164",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente independiente reclama al mandante los billetes de avión y hoteles de sus visitas a clientes. No hay pacto. ¿Debe pagarlos el mandante?",
+  "options": [
+   "Sí: son gastos hechos en interés del mandante",
+   "No: salvo pacto, los gastos son del agente",
+   "Sí, si los justifica con facturas en un mes",
+   "Solo la mitad, por ser gastos compartidos"
+  ],
+  "answer": 1,
+  "explanation": "Por ser independiente, el agente realiza a su cuenta los gastos de su actividad, salvo pacto en contrario.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-165",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un cliente captado por el agente no paga una partida. No hay cláusula especial. ¿Quién soporta el impago?",
+  "options": [
+   "El agente, porque fue quien captó y propuso al cliente moroso",
+   "El mandante, que asume el riesgo y ventura salvo pacto",
+   "A partes iguales entre el agente y el mandante",
+   "El agente, si había cobrado ya su comisión"
+  ],
+  "answer": 1,
+  "explanation": "El agente no asume el riesgo y ventura de las operaciones salvo pacto (por ejemplo, una cláusula de responsabilidad financiera). Lo asume el mandante.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-166",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué cláusula del modelo de agencia permite trasladar al agente parte del riesgo de impago de los clientes?",
+  "options": [
+   "Exclusividad territorial",
+   "Operaciones no concluidas",
+   "Texto auténtico del contrato",
+   "Responsabilidad financiera"
+  ],
+  "answer": 3,
+  "explanation": "El riesgo y ventura es del mandante salvo pacto; la cláusula de responsabilidad financiera es el pacto que lo modula.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-167",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente en Chile, desbordado, contrata a dos subagentes para cubrir el sur sin decir nada al fabricante. ¿Es correcto?",
+  "options": [
+   "No: necesita aprobación expresa del mandante",
+   "Sí: es independiente y organiza su trabajo como quiera",
+   "Sí, si los subagentes cobran del agente",
+   "No: los subagentes están prohibidos por ley"
+  ],
+  "answer": 0,
+  "explanation": "La agencia es personal: actuar mediante subagentes requiere la aprobación expresa del mandante. Si se autoriza, el agente responde de su gestión.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-168",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El mandante autorizó a su agente a usar subagentes. Uno de ellos causa un perjuicio al mandante. ¿Quién responde frente al mandante?",
+  "options": [
+   "Solo el subagente, porque fue quien causó el perjuicio",
+   "Nadie, porque el mandante autorizó la subcontratación",
+   "El cliente que contrató con el subagente en su zona",
+   "El agente, que responde de la gestión de sus subagentes"
+  ],
+  "answer": 3,
+  "explanation": "Si el mandante autoriza la subcontratación, el agente responde de la gestión de los subcontratados.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-169",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué norma europea y qué ley española regulan el contrato de agencia?",
+  "options": [
+   "Reglamento 593/2008 y Ley 60/2003",
+   "Directiva 86/653/CEE y Ley 60/2003",
+   "Reglamento 1215/2012 y Ley 12/1992",
+   "Directiva 86/653/CEE y Ley 12/1992"
+  ],
+  "answer": 3,
+  "explanation": "La Directiva 86/653/CEE, de 18 de diciembre de 1986, sobre agentes comerciales independientes, se transpuso en España con la Ley 12/1992, de 27 de mayo.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-170",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia indefinido ha durado 3 años y 2 meses. El mandante quiere terminarlo. ¿Qué preaviso mínimo debe dar en España?",
+  "options": [
+   "1 mes",
+   "4 meses",
+   "6 meses",
+   "3 meses"
+  ],
+  "answer": 3,
+  "explanation": "El preaviso es de un mes por año de vigencia, con un máximo de seis. Con 3 años completos de vigencia corresponden 3 meses.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-171",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente lleva 9 años con un mandante en un contrato indefinido y este lo denuncia. ¿Cuánto preaviso le corresponde en España?",
+  "options": [
+   "6 meses, que es el máximo",
+   "9 meses, uno por año",
+   "3 meses, mínimo europeo",
+   "12 meses, por pasar de 8 años"
+  ],
+  "answer": 0,
+  "explanation": "Un mes por año de vigencia, con el máximo de seis meses.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-172",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Según la Directiva, ¿qué preaviso mínimo exige para un contrato que lleva 5 años, y qué ha hecho España?",
+  "options": [
+   "5 meses; España lo reduce a 3",
+   "6 meses; España lo mantiene",
+   "3 meses; España lo amplía a 5",
+   "1 mes; España lo amplía a 2"
+  ],
+  "answer": 2,
+  "explanation": "La Directiva exige como mínimo 1, 2 y 3 meses (tercer año y siguientes) y permite ampliar a 4, 5 y 6. España sigue esa opción: un mes por año hasta seis.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-173",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia se firmó por 2 años. ¿Hace falta preaviso para que termine al vencer el plazo?",
+  "options": [
+   "No: el preaviso es para denunciar contratos indefinidos",
+   "Sí: 2 meses, uno por cada año de duración pactada",
+   "Sí: 6 meses, que es el máximo legal",
+   "No, pero el mandante pierde la clientela del agente"
+  ],
+  "answer": 0,
+  "explanation": "La duración puede ser determinada o indefinida. El preaviso de un mes por año se aplica a la denuncia unilateral de los contratos por tiempo indefinido.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-174",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Muere el dueño de la empresa mandante, que era empresario individual. ¿Qué pasa con el contrato de agencia?",
+  "options": [
+   "Se extingue de inmediato por el carácter personal de la agencia",
+   "Pasa a ser un contrato laboral con los herederos",
+   "Se suspende hasta que se reparta la herencia",
+   "No se extingue, aunque los herederos pueden resolverlo"
+  ],
+  "answer": 3,
+  "explanation": "La agencia no se extingue por muerte del mandante; sus herederos pueden resolverla en la forma y con las consecuencias previstas.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-175",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Muere el agente, que era persona física. ¿Qué ocurre?",
+  "options": [
+   "Se extingue, sin perjuicio de la clientela de los herederos",
+   "Continúa con sus herederos, que ocupan su misma posición de agente",
+   "No se extingue hasta que el mandante lo denuncie",
+   "Se extingue y los herederos lo pierden todo"
+  ],
+  "answer": 0,
+  "explanation": "La agencia se extingue por muerte o inhabilitación del agente, sin perjuicio de la indemnización por clientela que corresponda a sus herederos.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-176",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente cierra en febrero una operación que se ejecuta ese mes. ¿Cuál es la fecha límite para pagarle la comisión?",
+  "options": [
+   "31 de marzo",
+   "30 de abril",
+   "31 de mayo",
+   "30 de junio"
+  ],
+  "answer": 1,
+  "explanation": "La comisión se paga como tarde el último día del mes siguiente al trimestre natural en que se devengó. Febrero está en el primer trimestre (cierra el 31 de marzo): límite 30 de abril.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-177",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una comisión se devenga el 3 de noviembre. ¿Hasta cuándo puede tardar el mandante en pagarla?",
+  "options": [
+   "31 de enero",
+   "31 de diciembre",
+   "3 de diciembre",
+   "28 de febrero"
+  ],
+  "answer": 0,
+  "explanation": "Noviembre está en el cuarto trimestre, que cierra el 31 de diciembre. El límite es el último día del mes siguiente: 31 de enero.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-178",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un mandante dice que la comisión se devenga cuando el agente le pasa el pedido. ¿Qué dice la norma?",
+  "options": [
+   "Cuando el agente firma la nota de pedido con el cliente final",
+   "Cuando el cliente recibe la factura proforma",
+   "Cuando el empresario o el tercero la ejecutan",
+   "Cuando se cierra el ejercicio contable"
+  ],
+  "answer": 2,
+  "explanation": "La comisión se devenga cuando el empresario ejecutó o debió ejecutar la operación, o cuando el tercero la ejecutó total o parcialmente.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-179",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia no fija la remuneración. ¿Cómo se determina?",
+  "options": [
+   "Según los usos de comercio del lugar donde está el mandante",
+   "Un 10 % fijo de las ventas totales",
+   "Según los usos del lugar donde ejerce el agente",
+   "La que decida el mandante cada año"
+  ],
+  "answer": 2,
+  "explanation": "Sin pacto, se fija según los usos de comercio del lugar donde el agente ejerce su actividad; si no los hay, la razonable según las circunstancias.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-180",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El contrato terminó el 31 de marzo. El 15 de junio se cierra una venta con un cliente que el agente estuvo trabajando durante meses. ¿Cobra comisión?",
+  "options": [
+   "No: tras la extinción no se devenga ninguna comisión por ley",
+   "Sí: se cierra en los 3 meses siguientes gracias a su actividad",
+   "Sí: hay derecho a comisión hasta un año después de que termine el contrato",
+   "No, salvo que el contrato fuese por tiempo determinado"
+  ],
+  "answer": 1,
+  "explanation": "El derecho a comisión se extiende a las operaciones concluidas en los tres meses siguientes a la extinción que se deban a la actividad del agente durante el contrato.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-181",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El contrato terminó el 31 de enero y el 20 de junio se cierra una venta preparada por el agente. ¿Cobra comisión por ella?",
+  "options": [
+   "Sí: basta que la operación se deba a su actividad",
+   "No: ya han pasado más de 3 meses desde la extinción",
+   "Sí, porque la clientela era aportada por el agente",
+   "No, salvo que el agente siga en el mismo territorio"
+  ],
+  "answer": 1,
+  "explanation": "La comisión postcontractual se limita a las operaciones concluidas en los tres meses siguientes a la extinción.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-182",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una operación promovida por el agente no se ejecuta porque el cliente cancela por su propia quiebra, sin culpa del mandante. ¿Cobra comisión el agente?",
+  "options": [
+   "Sí: la cobra en cuanto ha promovido la operación con el cliente",
+   "Sí, pero la mitad por la falta de ejecución",
+   "No, y además debe pagar el impago al mandante",
+   "No: la pierde si la causa no es imputable al mandante"
+  ],
+  "answer": 3,
+  "explanation": "El agente pierde la comisión si el empresario prueba que la operación no se ejecutó por circunstancias no imputables a él. No responde del impago salvo pacto.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-183",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente cobró de comisión 40.000, 50.000, 60.000, 70.000 y 80.000 € en los últimos cinco años. ¿Cuál es el máximo de su indemnización por clientela?",
+  "options": [
+   "60.000 €",
+   "80.000 €",
+   "300.000 €",
+   "150.000 €"
+  ],
+  "answer": 0,
+  "explanation": "El límite es el importe medio anual de las remuneraciones de los últimos cinco años: 300.000 / 5 = 60.000 €.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-184",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia duró solo 2 años y el agente cobró 30.000 € y 50.000 €. ¿Cuál es el máximo por clientela?",
+  "options": [
+   "80.000 €, el total cobrado en dos años",
+   "40.000 €, media de todo el periodo",
+   "16.000 €, el total entre cinco",
+   "50.000 €, lo cobrado el último año"
+  ],
+  "answer": 1,
+  "explanation": "Si el contrato duró menos de cinco años, la media se calcula sobre todo el periodo: (30.000 + 50.000) / 2 = 40.000 €.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-185",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estas circunstancias justifica la indemnización por clientela al terminar el contrato?",
+  "options": [
+   "El agente denunció el contrato para irse con la competencia",
+   "El mandante resolvió el contrato por un incumplimiento grave del agente",
+   "El agente aportó clientes que seguirán comprando al mandante",
+   "El agente cedió su contrato a otro agente con permiso"
+  ],
+  "answer": 2,
+  "explanation": "Procede si el agente aportó nuevos clientes o aumentó mucho las operaciones, si su actividad sigue dando ventajas al mandante o si es equitativa. Las otras opciones son causas de exclusión.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-186",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente de 68 años deja el contrato porque su salud no le permite seguir viajando. ¿Pierde la indemnización por clientela?",
+  "options": [
+   "No: la denuncia por edad o enfermedad no la excluye",
+   "Sí: quien denuncia el contrato pierde la indemnización",
+   "Sí, salvo que avise con un preaviso de seis meses",
+   "No, pero la cobran solo sus herederos a su muerte"
+  ],
+  "answer": 0,
+  "explanation": "Por regla, el agente que denuncia pierde la indemnización, salvo que la causa sea imputable al mandante o se deba a su edad, invalidez o enfermedad y no se le pueda exigir seguir.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-187",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El mandante deja de pagar comisiones durante seis meses y el agente denuncia el contrato. ¿Tiene derecho a indemnización por clientela?",
+  "options": [
+   "Sí: la causa de la denuncia es imputable al mandante",
+   "No: fue el propio agente quien denunció el contrato",
+   "No, porque el impago no es un incumplimiento esencial",
+   "Solo si demuestra que no tiene ya clientes propios"
+  ],
+  "answer": 0,
+  "explanation": "La denuncia del agente excluye la indemnización salvo que la causa sea imputable al empresario, como el impago reiterado de comisiones.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-188",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente descubre que el mandante va a reducir mucho la producción y nadie le avisó. ¿Qué obligación ha incumplido el mandante?",
+  "options": [
+   "Entregarle muestrarios y catálogos con antelación suficiente",
+   "Advertirle de una reducción sensible del volumen de operaciones",
+   "Llevar una contabilidad independiente para cada agente",
+   "Recibir en su nombre las reclamaciones de los clientes"
+  ],
+  "answer": 1,
+  "explanation": "El mandante debe procurar al agente la información necesaria y advertirle en cuanto lo sepa de una reducción sensiblemente inferior a la que podía esperar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-189",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estas es una obligación del mandante y no del agente?",
+  "options": [
+   "Informar sobre la solvencia de los clientes con pedidos pendientes",
+   "Comunicar la aceptación, rechazo o ejecución de las operaciones",
+   "Llevar contabilidad separada por cada empresario representado",
+   "Seguir instrucciones razonables que no afecten a su independencia"
+  ],
+  "answer": 1,
+  "explanation": "El mandante comunica al agente la aceptación o rechazo y la ejecución de las operaciones. Las demás son obligaciones del agente.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-190",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un cliente llama al agente para quejarse de que la última partida llegó defectuosa. El agente promovió esa venta pero no la cerró. ¿Debe recibir la reclamación?",
+  "options": [
+   "No: solo de las operaciones que él mismo concluyó en nombre del mandante",
+   "Sí: recibe las reclamaciones de lo que promovió",
+   "No: las reclamaciones se dirigen al mandante",
+   "Solo si la reclamación se hace por escrito"
+  ],
+  "answer": 1,
+  "explanation": "El agente debe recibir en nombre del empresario las reclamaciones de terceros sobre defectos de lo vendido en las operaciones que promovió, aunque no las concluyera.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-191",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente trabaja para tres fabricantes de productos distintos. ¿Qué obligación contable tiene?",
+  "options": [
+   "Presentar la contabilidad de los mandantes ante Hacienda",
+   "Consolidar todas las operaciones en una cuenta única",
+   "Ninguna: la contabilidad la lleva cada mandante",
+   "Llevar contabilidad independiente para cada empresario"
+  ],
+  "answer": 3,
+  "explanation": "El agente debe llevar una contabilidad independiente de las operaciones de cada empresario por cuya cuenta actúe.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-192",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente de maquinaria agrícola de un fabricante italiano quiere representar también a una marca alemana de tractores competidora. No hay pacto. ¿Puede?",
+  "options": [
+   "Sí: salvo pacto puede trabajar para varios empresarios",
+   "No: la agencia impone exclusividad por ley",
+   "Sí, si avisa con un mes de antelación",
+   "Solo con el consentimiento previo del primer mandante"
+  ],
+  "answer": 3,
+  "explanation": "Salvo pacto, el agente puede trabajar para varios empresarios, pero si se trata de bienes concurrentes o competitivos necesita el consentimiento del primero.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-193",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente de cosmética quiere representar también a un fabricante de neumáticos. No hay pacto de exclusiva. ¿Puede?",
+  "options": [
+   "Sí: no son productos competidores",
+   "No: la agencia es de exclusiva por ley",
+   "Solo con permiso del primero",
+   "Solo si deja de representar la cosmética"
+  ],
+  "answer": 0,
+  "explanation": "Salvo pacto, el agente puede trabajar para varios empresarios; el consentimiento solo hace falta si los productos son concurrentes o competitivos.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-194",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia de 5 años incluye un pacto de no competencia de 3 años tras su extinción. ¿Es válido?",
+  "options": [
+   "Sí: las partes pactan la duración libremente",
+   "Sí, si se paga una compensación al agente",
+   "No: el máximo es de 2 años desde la extinción",
+   "No: el máximo es de 6 meses, como el preaviso"
+  ],
+  "answer": 2,
+  "explanation": "La Directiva limita la no competencia postcontractual a dos años desde la extinción.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-195",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia se pactó por 8 meses e incluye no competencia posterior de 18 meses. ¿Qué dice la ley española?",
+  "options": [
+   "Que vale porque no supera el límite general de 2 años de la Directiva",
+   "Que debe igualar la duración del contrato",
+   "Que no puede pasar de 1 año por ser el contrato más corto",
+   "Que no cabe ningún pacto de no competencia"
+  ],
+  "answer": 2,
+  "explanation": "La ley española añade que, si el contrato se pactó por un tiempo menor, el pacto de no competencia no puede durar más de un año.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-196",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un mandante da a su agente la instrucción de fichar a diario a las 9:00 en su oficina. ¿Debe cumplirla el agente?",
+  "options": [
+   "Sí: el agente debe seguir todas las instrucciones que le dé el mandante",
+   "Sí, si la instrucción figura por escrito en el contrato",
+   "No, porque el agente no tiene obligación de seguir ninguna",
+   "No: solo sigue instrucciones razonables compatibles con su independencia"
+  ],
+  "answer": 3,
+  "explanation": "El agente actúa según las instrucciones razonables del empresario, siempre que no afecten a su independencia.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-197",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Si no hay pacto de ley aplicable, ¿qué ley rige un contrato de agencia según Roma I?",
+  "options": [
+   "La de residencia habitual del mandante",
+   "La del país donde están los clientes",
+   "La del país donde se firmó el contrato",
+   "La de residencia habitual del agente"
+  ],
+  "answer": 3,
+  "explanation": "La agencia es una prestación de servicios: sin elección, se aplica la ley de residencia habitual del prestador del servicio, el agente.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-198",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de estas cláusulas pertenece al modelo de 27 cláusulas de agencia y no al de compraventa?",
+  "options": [
+   "Autorizaciones y permisos oficiales",
+   "Fuerza mayor e imprevistos del transporte",
+   "Penalización por retraso en la entrega",
+   "Objetivo de ventas y mínimo garantizado"
+  ],
+  "answer": 3,
+  "explanation": "Las 27 cláusulas de agencia incluyen territorio y productos, no competencia, objetivo de ventas y mínimo garantizado, subagentes, exclusividad, comisión, etc.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-199",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente cede su contrato a otro agente con el consentimiento del mandante y se retira. ¿Puede reclamar indemnización por clientela?",
+  "options": [
+   "Sí: la clientela la aportó él durante todo el tiempo que estuvo",
+   "Sí, la mitad, y la otra mitad el nuevo agente",
+   "No, salvo que el contrato fuera indefinido",
+   "No: la cesión consentida excluye la indemnización"
+  ],
+  "answer": 3,
+  "explanation": "No hay derecho a indemnización si el agente cedió a un tercero, con consentimiento del empresario, sus derechos y obligaciones del contrato.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · hasta contrato de agencia",
+  "id": "der-200",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ }
 ]
