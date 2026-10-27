@@ -8,7 +8,7 @@
     "options": [
       "La moneda de facturación y el país donde se fabrica el producto.",
       "El transportista marítimo y el agente que realiza la aduana.",
-      "La forma de recibir el pago y la fuente de liquidez durante la espera.",
+      "Diferenciar cobro y necesidad de financiación.",
       "El seguro de transporte y el coste de manipulación portuaria."
     ],
     "answer": 2,
@@ -28,7 +28,7 @@
       "Toda orden de pago supone compromiso del banco de pagar al vendedor contra documentos.",
       "El pago simple garantiza la entrega de mercancía por el mero envío de fondos.",
       "El comprador puede reclamar la mercancía sin contrato si ordenó la transferencia.",
-      "La orden de pago simple no incorpora el compromiso documental propio de un crédito documentario."
+      "La orden simple no incorpora compromiso documental del banco."
     ],
     "answer": 3,
     "explanation": "La orden de pago es ágil, pero no confiere por sí misma garantía documental de cobro al exportador.",
@@ -44,7 +44,7 @@
     "topic": "SWIFT",
     "question": "Un banco español y otro estadounidense intercambian mensajes SWIFT para ejecutar un pago. El cliente afirma que SWIFT 'transporta los dólares' entre ellos. ¿Qué se ha confundido?",
     "options": [
-      "SWIFT es un sistema de mensajería; la liquidación requiere cuentas y relaciones bancarias.",
+      "SWIFT comunica; las cuentas permiten liquidar saldos.",
       "SWIFT funciona como un contenedor electrónico que transfiere billetes.",
       "SWIFT sustituye las cuentas corresponsales en cualquier pago transfronterizo.",
       "SWIFT paga con fondos propios antes de informar a los bancos."
@@ -104,7 +104,7 @@
       "El banco del comprador garantiza el pago en cuanto llega la factura.",
       "La existencia de SWIFT elimina el riesgo de crédito del comprador.",
       "La orden de pago impide legalmente cualquier retraso en la transferencia.",
-      "El exportador puede quedarse sin mercancía y sin cobro si el comprador incumple."
+      "Puede entregar sin cobrar si el comprador incumple."
     ],
     "answer": 3,
     "explanation": "El pago simple posterior deja al vendedor expuesto al crédito del comprador si no hay garantías adicionales.",
@@ -120,7 +120,7 @@
     "topic": "Medios simples",
     "question": "Dos bancos intervienen en una compraventa. Los documentos comerciales se envían directamente al comprador y solo el dinero se gestiona por los bancos. ¿Cómo debe clasificarse el medio?",
     "options": [
-      "Simple, porque los documentos comerciales no se canalizan por bancos.",
+      "Simple: los documentos no se canalizan por el banco.",
       "Documentario, porque el pago se hace mediante una entidad bancaria.",
       "Crédito documentario, porque se ha emitido factura proforma.",
       "Remesa documentaria, porque el transporte es internacional."
@@ -140,7 +140,7 @@
     "question": "Una empresa cree que toda operación documentaria garantiza incondicionalmente el cobro. ¿Qué aspecto invalida su conclusión?",
     "options": [
       "Toda remesa documentaria obliga al banco a garantizar el importe.",
-      "El control bancario de documentos no equivale siempre a compromiso bancario de pagar.",
+      "Gestionar documentos no equivale a garantizar el pago.",
       "El crédito documentario se liquida sin examen de documentos.",
       "Los bancos solo comprueban que ha llegado físicamente la mercancía."
     ],
@@ -160,7 +160,7 @@
     "options": [
       "Sustituir el contrato comercial y el transporte por una factura bancaria.",
       "Eliminar los riesgos aduaneros asociados al destino.",
-      "Reducir exposición al incumplimiento, bajo condiciones de instrumentos distintos.",
+      "Reducir el riesgo de impago con instrumentos distintos.",
       "Determinar obligatoriamente la moneda que pagará el comprador."
     ],
     "answer": 2,
@@ -196,7 +196,7 @@
     "topic": "Evaluación de riesgo",
     "question": "Un responsable comercial sostiene que si el cliente paga desde un país desarrollado se elimina por completo el riesgo de impago. ¿Cuál es la objeción razonable?",
     "options": [
-      "La probabilidad de impago puede ser menor, pero una incidencia grande sigue causando pérdidas relevantes.",
+      "La pérdida puede ser grave aunque el impago sea poco probable.",
       "Un país con buen rating convierte la factura en obligación del banco central.",
       "Un pago transfronterizo está garantizado por la política de control de cambios.",
       "La insolvencia empresarial solo existe en países sin moneda convertible."
@@ -216,7 +216,7 @@
     "question": "Una empresa española va a cobrar una factura de 10.000 EUR desde un cliente estadounidense. ¿Qué afirmación sobre divisa y transferencias es correcta?",
     "options": [
       "Facturar en euros elimina el riesgo comercial y garantiza cobro puntual.",
-      "Facturar en euros elimina su riesgo directo de conversión, pero no todos los riesgos de cobro.",
+      "Facturar en euros reduce su exposición cambiaria directa.",
       "El pago exige que ambas entidades usen exclusivamente bancos españoles.",
       "La factura en euros obliga al comprador a operar por SEPA."
     ],
@@ -272,7 +272,7 @@
     "topic": "Reparto de comisiones",
     "question": "En una orden de pago una factura de 20.000 EUR llega al beneficiario con costes bancarios descontados. El vendedor pensaba recibir el importe íntegro. ¿Qué variable debía negociar?",
     "options": [
-      "Quién soporta las comisiones: OUR, SHA o BEN según proceda.",
+      "El reparto de comisiones OUR, SHA y BEN.",
       "El país en que se imprimió la factura comercial.",
       "El precio de referencia de la mercancía en aduanas.",
       "El peso neto declarado para los documentos del transporte."
@@ -292,7 +292,7 @@
     "question": "Un pagador intenta instruir un pago SEPA en euros exigiendo que todas las comisiones recaigan sobre el beneficiario por cláusula BEN. ¿Qué incompatibilidad debe detectar?",
     "options": [
       "SEPA obliga a utilizar siempre la cláusula OUR.",
-      "En el marco SEPA de pagos pertinente rige el reparto SHA de gastos.",
+      "En SEPA corresponde SHA para este tipo de pago.",
       "El pago SEPA permite elegir BEN aunque contravenga sus reglas.",
       "SEPA es un mecanismo de pago exclusivamente para dólares."
     ],
@@ -312,7 +312,7 @@
     "options": [
       "Solo los países con el euro como moneda nacional pueden integrarse en SEPA.",
       "Todo pago a un tercer país se tramita como exportación de capital prohibida.",
-      "SEPA es un área de pagos que incluye determinados países y territorios no miembros de la UE.",
+      "SEPA comprende también territorios no miembros de la UE.",
       "Un pago SEPA implica automáticamente ausencia de controles de cumplimiento."
     ],
     "answer": 2,
@@ -332,7 +332,7 @@
       "El tipo de cambio de la factura y el del contrato de seguro.",
       "La fecha de embarque del buque y la fecha de llegada a puerto.",
       "El plazo de aduanas y el periodo de garantía del producto.",
-      "La fecha de vencimiento de la deuda y el plazo de ejecución de la transferencia."
+      "Vencimiento de la deuda y ejecución bancaria del pago."
     ],
     "answer": 3,
     "explanation": "El plazo de ejecución bancaria comienza con la instrucción y no altera el vencimiento comercial pactado.",
@@ -348,7 +348,7 @@
     "topic": "Control de cambios",
     "question": "Una compañía de España paga a un proveedor de otra jurisdicción y el banco bloquea el pago por controles de prevención de blanqueo. El director invoca la libertad de movimientos de capitales. ¿Qué omite?",
     "options": [
-      "La libertad de capitales admite restricciones justificadas y controles de cumplimiento legal.",
+      "La libre circulación admite controles legales de cumplimiento.",
       "La libertad de capitales excluye cualquier obligación de identificación bancaria.",
       "Los controles de blanqueo son competencia exclusiva de las aduanas de mercancías.",
       "Toda operación entre empresas puede pagarse sin aportar documentación."
@@ -368,7 +368,7 @@
     "question": "Una empresa envía dinero desde Madrid a un cliente en Ecuador. Como ese país está dolarizado, el departamento financiero presupone ausencia de control de cambios. ¿Qué confunde?",
     "options": [
       "La identidad del banco corresponsal y la razón social del importador.",
-      "La moneda de curso legal y la normativa local sobre movimientos de capitales.",
+      "Moneda de uso y control de capitales no son lo mismo.",
       "El uso de euros y la obligación de negociar un Incoterm.",
       "La factura comercial y el documento de transporte."
     ],
@@ -408,7 +408,7 @@
       "Se confunde el transporte físico con el transporte multimodal.",
       "Se atribuye al tipo de cambio un efecto de transmisión de propiedad.",
       "Se presume que toda transferencia tiene coste variable por operación.",
-      "Se confunde eficiencia en transferencias con riesgo crediticio del deudor."
+      "Confunde la transferencia con la solvencia del comprador."
     ],
     "answer": 3,
     "explanation": "SEPA facilita pagos, pero no garantiza el cumplimiento del contrato de compraventa por el comprador.",
