@@ -6,7 +6,7 @@
     "topic": "Intereses y posiciones",
     "question": "Una empresa negocia con un distribuidor local. Antes de hablar de descuentos, descubre que el socio necesita reposición rápida y ayuda de marketing. ¿Qué mejora introduce?",
     "options": [
-      "Pasa de discutir posiciones de precio a comprender intereses de fondo.",
+      "Investiga intereses, en vez de discutir solo posiciones.",
       "Abandona su alternativa de salida al acuerdo para acelerar el cierre.",
       "Acepta la primera petición del socio como señal de confianza.",
       "Convierte toda la negociación en una discusión sobre tarifas."
@@ -46,7 +46,7 @@
     "options": [
       "Usó una pregunta abierta antes de presentar la propuesta.",
       "Separó el problema del interlocutor en vez de enfrentarlo.",
-      "Concedió antes de diagnosticar intereses y posibles soluciones alternativas.",
+      "Concedió sin diagnosticar el interés real del comprador.",
       "Retrasó demasiado una concesión que no alteraba el margen."
     ],
     "answer": 2,
@@ -64,7 +64,7 @@
     "question": "Una empresa llega a la mesa sin límites de precio, plazo ni condiciones de exclusividad, pero con un discurso comercial ensayado. ¿Qué falla de planificación sobresale?",
     "options": [
       "No ha elegido la ropa adecuada para la primera reunión.",
-      "Carece de estrategia y límites para evaluar concesiones y cierre.",
+      "No fijó objetivos y límites para decidir concesiones.",
       "No ha identificado el tono de voz del interlocutor.",
       "Ha evitado introducir un ancla demasiado agresiva."
     ],
@@ -104,7 +104,7 @@
       "Conceder toda la exclusividad territorial antes de volver a llamar.",
       "Atribuir al comprador mala fe sin recabar más información.",
       "Aceptar que toda negativa convierte la operación en inviable.",
-      "Explorar la objeción y seguir buscando opciones compatibles con intereses."
+      "Entender la objeción y plantear opciones nuevas."
     ],
     "answer": 3,
     "explanation": "El primer rechazo puede abrir negociación sobre condiciones o información, aunque no obliga a perseguir acuerdos inviables.",
@@ -122,7 +122,7 @@
     "options": [
       "Superar sin más la oferta no documentada para no perder el cliente.",
       "Denunciar automáticamente un delito comercial sin investigar.",
-      "Solicitar criterios verificables y contrastar el dato sin reaccionar impulsivamente.",
+      "Pedir pruebas del argumento sin ceder por presión.",
       "Revelar toda su estructura de costes a cambio de un compromiso verbal."
     ],
     "answer": 2,
@@ -158,7 +158,7 @@
     "topic": "Ancla",
     "question": "El comprador abre una negociación con una cifra muy baja en un negocio donde calidad y servicios son discutibles. El vendedor reorienta la conversación a su estructura de valor. ¿Qué fenómeno intenta neutralizar?",
     "options": [
-      "El anclaje inicial que puede sesgar las referencias posteriores.",
+      "El sesgo de anclaje de la primera cifra presentada.",
       "Una cláusula de autoridad superior ya incorporada al contrato.",
       "La cobertura de riesgo de cambio pactada entre las partes.",
       "Una renuncia tácita a cualquier reclamación por incumplimiento."
@@ -180,7 +180,7 @@
       "Si la cadena está obligada legalmente a aceptar un descuento.",
       "Si el presupuesto anual permite transferir automáticamente riesgos.",
       "Si el contrato ha entrado ya en vigor por la aprobación verbal.",
-      "Si los bolsillos vacíos expresan restricción genuina o táctica negociable."
+      "Si la falta de presupuesto es real o una táctica."
     ],
     "answer": 3,
     "explanation": "La táctica de bolsillos vacíos puede ocultar falta real de capacidad o presión; explorar estructura del pago es mejor que conceder de entrada.",
@@ -198,7 +198,7 @@
     "options": [
       "Aceptar la comisión para evitar reabrir puntos ya acordados.",
       "Omitirla del contrato y pagarla una vez firmada la operación.",
-      "Revisar la exigencia frente a los límites pactados sin conceder por euforia.",
+      "Contrastar esa petición con límites y acuerdos ya pactados.",
       "Retrasar indefinidamente la firma sin comunicar objeciones."
     ],
     "answer": 2,
@@ -234,7 +234,7 @@
     "topic": "Relaciones",
     "question": "Un proveedor necesita mantener una relación comercial estable, pero discute con un cliente sobre un pedido aislado y amenaza con romper todo vínculo. ¿Qué competencia falta aplicar?",
     "options": [
-      "Visión de medio plazo y gestión de las emociones sin renunciar a intereses clave.",
+      "Pensar en la relación futura, sin ceder lo esencial.",
       "Abandono de objetivos propios para evitar toda discrepancia.",
       "Cesión integral del margen para obtener la simpatía del comprador.",
       "Ocultación de los límites comerciales para aparentar flexibilidad."
@@ -256,7 +256,7 @@
       "Aceptar que la capacidad física aumenta al variar el discurso.",
       "Evitar calcular pérdidas de mercancía perecedera.",
       "Entregar el control de la carga a una sola parte sin contraprestación.",
-      "Pasar de una pugna distributiva a explorar soluciones de valor conjunto."
+      "Explorar opciones de ganancia conjunta."
     ],
     "answer": 3,
     "explanation": "Cuando los intereses lo permiten, cambiar secuencias o condiciones puede mejorar el resultado combinado sin crear capacidad física.",
@@ -274,7 +274,7 @@
     "options": [
       "Exigir demasiados datos sobre necesidades operativas.",
       "Mantener una pausa para observar la reacción del interlocutor.",
-      "No gestionar el silencio y conceder sin obtener información adicional.",
+      "No tolerar el silencio y ceder sin información.",
       "Evitar hablar hasta contar con una propuesta concreta."
     ],
     "answer": 2,
@@ -310,7 +310,7 @@
     "topic": "Perfiles",
     "question": "Una sociedad acepta condiciones desfavorables para preservar una relación que considera estratégicamente más importante. ¿Qué perfil representa esa decisión?",
     "options": [
-      "Acomodativo: sacrifica parte de su resultado para sostener el vínculo.",
+      "Acomodativo: cede resultado para sostener la relación.",
       "Competitivo: impone objetivos sin valorar los del socio.",
       "Evitativo: rechaza conversar sobre diferencias.",
       "Colaborativo: maximiza simultáneamente todos los intereses."
@@ -332,7 +332,7 @@
       "Cerrar aunque el acuerdo resulte peor que su alternativa disponible.",
       "Evitar comparar la alternativa real con el precio ofrecido.",
       "Tomar la última propuesta recibida como límite obligatorio de negociación.",
-      "Aceptar que un no acuerdo puede ser racional cuando las alternativas son superiores."
+      "No cerrar cuando las alternativas son mejores."
     ],
     "answer": 3,
     "explanation": "Cerrar no es un fin en sí mismo; un acuerdo por debajo del umbral de aceptación puede destruir valor.",
@@ -350,7 +350,7 @@
     "options": [
       "Suponer que todos los compradores tendrán idéntico estilo por su nacionalidad.",
       "Ignorar aspectos culturales y repetir siempre el mismo guion.",
-      "Adaptar el ritmo y preguntar por expectativas sin atribuir rasgos fijos a toda persona del país.",
+      "Ajustar ritmo y expectativas sin caer en estereotipos.",
       "Renunciar a confirmar por escrito las obligaciones pactadas."
     ],
     "answer": 2,
@@ -368,7 +368,7 @@
     "question": "Un comercial necesita cerrar un contrato grande. Considera exagerar las prestaciones técnicas porque 'nadie sabrá quién sufrió el perjuicio'. ¿Qué amenaza ética identifica el temario?",
     "options": [
       "La conveniencia de ajustar la agenda al horario del cliente.",
-      "La facilidad de engañar cuando las víctimas se perciben como anónimas.",
+      "Se diluye el perjuicio cuando la víctima es anónima.",
       "El uso de preguntas abiertas al iniciar la relación.",
       "La preparación detallada para resolver objeciones técnicas."
     ],
@@ -386,7 +386,7 @@
     "topic": "Ética",
     "question": "Un negociador recibe una oportunidad de comisión excepcional si oculta una limitación del producto. Considera que la recompensa justifica el engaño. ¿Qué sesgo ético aparece?",
     "options": [
-      "El señuelo de la tentación: la ganancia hace más probable justificar la mentira.",
+      "La ganancia elevada puede incentivar la mentira.",
       "La escucha activa: comprensión integral de las necesidades reales.",
       "La relación a largo plazo: preservar la fidelidad del cliente.",
       "La planificación: fijar límites de precio y tiempo."
@@ -408,7 +408,7 @@
       "La competencia exclusiva del árbitro para fijar plazos.",
       "El valor en aduana de los productos comercializados.",
       "El peso volumétrico del transporte internacional.",
-      "El control asimétrico de los tiempos y el coste de oportunidad."
+      "La presión del tiempo y sus costes."
     ],
     "answer": 3,
     "explanation": "La urgencia condiciona concesiones; conviene consensuar plazos y distinguir presión de necesidad real.",
