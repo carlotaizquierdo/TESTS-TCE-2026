@@ -5,7 +5,7 @@ Aplicación de práctica para el Programa de Técnicos de Comercio Exterior 2026
 ## Materias disponibles
 - **Contratación Internacional**: 200 preguntas nuevas sobre los apuntes de L. Morros hasta el contrato de agencia (ley aplicable, tribunales y arbitraje, Convención de Viena, incumplimiento y agencia) \(`data/derecho.json`\). Sustituyen al banco anterior de 320.
 - **Técnicas de Negociación**: 92 preguntas sobre los apuntes de A. Durán (concepto, competencias, las 4 fases, método, objeciones, cierre, técnicas, perfiles, multiculturalidad y ética) \(`data/negociacion.json`\).
-- **Logística y Transporte Internacional (Incoterms® 2020)**: 233 preguntas, organizadas en 14 bloques \(`data/logistica.json`\).
+- **Logística y Transporte Internacional (Incoterms® 2020)**: 179 preguntas nuevas sobre los apuntes de R. Gutiérrez de Mesa (Incoterms, seguro, DEG y reservas, B/L, AWB y CMR, contenedores, tarifas y escandallo) \(`data/logistica.json`\). Sustituyen al banco anterior de 233.
 
 Se presentan estas cinco materias en el selector, con bancos independientes. Los bancos antiguos de otras asignaturas se conservan en el historial del repositorio y en sus archivos sin cargarse en la aplicación.
 
@@ -32,10 +32,10 @@ El repositorio puede servirse desde GitHub Pages mediante `Settings > Pages > De
 Las estadísticas y la conexión con Sheets se guardan en el navegador. No se borran los intentos anteriores del dispositivo, aunque la vista filtra otras asignaturas.
 
 - **IVA · Comercio exterior**: 24 casos prácticos del archivo «2026-10-19 IVA RESUMEN.pdf» (`data/iva.json`).
-- **Regímenes Aduaneros**: 28 casos prácticos del archivo «2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf» (`data/aduanas.json`).
+- **Regímenes Aduaneros**: 96 preguntas nuevas sobre los apuntes de procedimientos y regímenes aduaneros (territorios y estatuto, ENS/DDT/ADT, despacho y levante, exportación, libre práctica, tránsito, importación temporal, RPA/RPP, depósitos, zona franca, DDA, LAME y OEA) (`data/aduanas.json`). Sustituyen al banco anterior de 28.
 
 Las 52 preguntas nuevas tienen cuatro alternativas y respuesta correcta equilibrada A/B/C/D. Están fundamentadas en los resúmenes del curso, no constituyen una actualización normativa exhaustiva.
 
-## Bancos de Contratación y Negociación (octubre 2026)
+## Bancos de Contratación, Negociación, Logística y Aduanas (octubre 2026)
 Preguntas de razonamiento con supuestos prácticos, no de memoria de artículos. Cuatro alternativas de longitud parecida: la correcta es la más larga en torno al 20 % de los casos (lo esperable al azar es el 25 %), respuesta correcta repartida por igual entre A/B/C/D y sin palabras delatoras («siempre», «nunca», «únicamente»…).
 

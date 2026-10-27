@@ -14,7 +14,7 @@ const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\
 
 async function loadBanks(){
   const chunks=await Promise.all(BANK_FILES.map(async f=>{
-    const r=await fetch("data/"+f+".json?v=20261027a",{cache:"no-store"});
+    const r=await fetch("data/"+f+".json?v=20261027b",{cache:"no-store"});
     if(!r.ok)throw new Error("No se pudo cargar "+f+" (HTTP "+r.status+")");
     const data=await r.json();
     if(!Array.isArray(data))throw new Error("Formato incorrecto en "+f);

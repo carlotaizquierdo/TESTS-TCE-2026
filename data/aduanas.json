@@ -1,534 +1,1826 @@
 [
-  {
-    "id": "adu-001",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Un buque con mercancía de terceros países se dirige al primer puerto de entrada en la UE. ¿Qué declaración previa de seguridad identifica el temario?",
-    "options": [
-      "ENS",
-      "DDT",
-      "DAE",
-      "DVD"
-    ],
-    "answer": 0,
-    "explanation": "El resumen asigna la ENS a la información previa de seguridad de la carga antes de la entrada.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-002",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Una aeronave está próxima a llegar al primer aeropuerto de la UE. ¿Qué comunicación de llegada menciona el material?",
-    "options": [
-      "T-2",
-      "AN",
-      "EUR-1",
-      "ATA"
-    ],
-    "answer": 1,
-    "explanation": "El resumen distingue la ENS previa y el aviso de llegada AN.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-003",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósito temporal",
-    "question": "Un envío queda en depósito temporal tras su llegada y no se vincula aún a otro régimen. ¿Qué plazo máximo destaca el resumen?",
-    "options": [
-      "30 días",
-      "60 días",
-      "90 días",
-      "180 días"
-    ],
-    "answer": 2,
-    "explanation": "El documento fija 90 días para solicitar un régimen aduanero desde la situación de depósito temporal.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-004",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Controles paraaduaneros",
-    "question": "Una empresa necesita un documento sanitario preceptivo para despachar una partida. ¿Qué servicio se encarga de ese control según el temario?",
-    "options": [
-      "Compañía aseguradora",
-      "Agente general de ventas",
-      "Transportista contractual",
-      "Servicio paraaduanero competente"
-    ],
-    "answer": 3,
-    "explanation": "Sanidad, veterinaria, fitosanitario y SOIVRE figuran como servicios paraaduaneros.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-005",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Una sociedad va a actuar como importadora en la UE. ¿Qué identificador aduanero exige el resumen antes de despachar?",
-    "options": [
-      "EORI",
-      "AWB",
-      "CMR",
-      "VGM"
-    ],
-    "answer": 0,
-    "explanation": "El material indica que el operador debe contar con EORI para realizar despachos aduaneros.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-006",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una mercancía no perteneciente a la Unión llega a Rotterdam, pero se quiere despachar en Madrid. ¿Qué tránsito corresponde en el supuesto del temario?",
-    "options": [
-      "Tránsito interno T2",
-      "Tránsito externo T1",
-      "Exportación definitiva",
-      "Perfeccionamiento pasivo"
-    ],
-    "answer": 1,
-    "explanation": "El T1 permite trasladar mercancía no perteneciente a la Unión bajo control aduanero hasta otra aduana.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-007",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una mercancía de la Unión viaja entre dos puntos de la UE atravesando un tercer país, en un caso amparado por el régimen descrito. ¿Qué tránsito se estudia?",
-    "options": [
-      "Tránsito externo T1",
-      "Importación temporal",
-      "Tránsito interno T2",
-      "Despacho a consumo"
-    ],
-    "answer": 2,
-    "explanation": "El resumen identifica el T2 para determinados recorridos de mercancías de la Unión por terceros territorios.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-008",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una operación de tránsito necesita el documento que acompaña el movimiento en el sistema aduanero descrito. ¿Qué sigla cita el profesor?",
-    "options": [
-      "DAE",
-      "AWB",
-      "B/L",
-      "DAT"
-    ],
-    "answer": 3,
-    "explanation": "El DAT se menciona como documento de acompañamiento de tránsito en el resumen.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-009",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Un transportista realiza un tránsito internacional acogido al convenio TIR. ¿Qué documento identifica el material?",
-    "options": [
-      "Cuaderno TIR",
-      "Conocimiento AWB",
-      "Certificado VGM",
-      "Modelo 349"
-    ],
-    "answer": 0,
-    "explanation": "El cuaderno TIR documenta los movimientos acogidos al sistema TIR.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-010",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa importa temporalmente una máquina para exhibirla en una feria y reexportarla sin transformarla. ¿Qué régimen encaja mejor?",
-    "options": [
-      "Perfeccionamiento activo",
-      "Importación temporal",
-      "Despacho a consumo",
-      "Depósito distinto del aduanero"
-    ],
-    "answer": 1,
-    "explanation": "La admisión temporal permite la entrada para usos limitados y posterior reexportación en condiciones aplicables.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-011",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa necesita documentar una entrada temporal para feria en un país adherido al convenio correspondiente. ¿Qué documento facilita el trámite?",
-    "options": [
-      "Modelo 390",
-      "Documento CIM",
-      "Cuaderno ATA",
-      "Certificado EUR-1"
-    ],
-    "answer": 2,
-    "explanation": "El material cita el cuaderno ATA para determinadas importaciones/exportaciones temporales.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-012",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una máquina se importa temporalmente para ser alquilada durante dos meses. El resumen menciona una liquidación parcial del 3 % mensual de derechos teóricos. ¿Cuánto representa en dos meses?",
-    "options": [
-      "El 3 % de esos derechos",
-      "El 9 % de esos derechos",
-      "El 100 % de esos derechos",
-      "El 6 % de esos derechos"
-    ],
-    "answer": 3,
-    "explanation": "En el supuesto docente de importación temporal con exención parcial, 3 % por mes × 2 = 6 %.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-013",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una mercancía importada disfruta de arancel reducido por destinarse a un uso industrial específico bajo vigilancia aduanera. ¿Qué régimen describe el supuesto?",
-    "options": [
-      "Destino final",
-      "Tránsito T1",
-      "Exportación temporal",
-      "Depósito temporal"
-    ],
-    "answer": 0,
-    "explanation": "El destino final permite determinados derechos reducidos o nulos condicionados a un uso bajo control.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-014",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una fábrica española importa componentes para transformarlos y reexportar el producto resultante. ¿Qué régimen permite suspender derechos conforme a sus requisitos?",
-    "options": [
-      "Perfeccionamiento pasivo",
-      "Perfeccionamiento activo",
-      "Admisión temporal de feria",
-      "Despacho a consumo"
-    ],
-    "answer": 1,
-    "explanation": "El RPA cubre importaciones para reparación, transformación o incorporación con posterior ultimación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-015",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa española envía maquinaria propia a un tercer país para repararla y luego reimportarla. ¿Qué régimen debe examinar?",
-    "options": [
-      "Perfeccionamiento activo",
-      "Tránsito interno T2",
-      "Perfeccionamiento pasivo",
-      "Depósito aduanero"
-    ],
-    "answer": 2,
-    "explanation": "El RPP contempla la salida temporal para transformación o reparación fuera del territorio aduanero.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-016",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa quiere importar productos para transformarlos en España y venderlos aquí, en vez de reexportarlos. ¿Qué aspecto debe prever?",
-    "options": [
-      "La devolución automática de todo arancel",
-      "La aplicación obligatoria de un T2",
-      "La exención permanente del IVA de importación",
-      "La liquidación de derechos al despacho a libre práctica"
-    ],
-    "answer": 3,
-    "explanation": "El resumen distingue el destino de productos transformados que finalmente permanecen en la UE.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-017",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa reimporta una máquina tras reparación en garantía en el exterior. ¿Qué figura especial menciona el material para ciertos supuestos de sustitución?",
-    "options": [
-      "Intercambios estándar",
-      "Depósito temporal",
-      "Tránsito T2",
-      "Venta en consigna"
-    ],
-    "answer": 0,
-    "explanation": "El resumen cita intercambios estándar para determinadas operaciones de reparación y sustitución.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-018",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Un importador quiere almacenar mercancía de terceros países sin despacharla a libre práctica ni ingresar aún los derechos de importación. ¿Qué régimen resulta adecuado?",
-    "options": [
-      "Depósito distinto del aduanero",
-      "Depósito aduanero",
-      "Despacho a consumo",
-      "Exportación definitiva"
-    ],
-    "answer": 1,
-    "explanation": "El DA permite almacenamiento bajo régimen aduanero suspensivo de derechos de importación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-019",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa guarda mercancía ya despachada a libre práctica en un almacén fiscal con suspensión de IVA. ¿Qué figura describe el material?",
-    "options": [
-      "Depósito temporal",
-      "Tránsito externo T1",
-      "Depósito distinto del aduanero",
-      "Admisión temporal"
-    ],
-    "answer": 2,
-    "explanation": "El DDA es un régimen fiscal distinto del depósito aduanero y puede suspender el IVA.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-020",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa vende mercancía dentro de un DDA a otra empresa española. ¿Qué caracteriza la venta según el resumen?",
-    "options": [
-      "Exige liquidar siempre IVA en la entrada",
-      "Obliga a exportar la mercancía",
-      "Convierte la mercancía en no comunitaria",
-      "Puede realizarse sin repercutir IVA mientras permanece vinculada"
-    ],
-    "answer": 3,
-    "explanation": "El resumen indica que pueden realizarse ventas dentro del DDA con el tratamiento fiscal previsto.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-021",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una mercancía no perteneciente a la Unión permanece en un depósito aduanero porque todavía no se conoce su destino comercial. ¿Qué ventaja ofrece?",
-    "options": [
-      "Posponer la liquidación de derechos hasta su ultimación",
-      "Convertirla automáticamente en mercancía de la Unión",
-      "Evitar todo control aduanero de la mercancía",
-      "Sustituir el EORI por el documento CMR"
-    ],
-    "answer": 0,
-    "explanation": "El DA permite mantener la mercancía bajo control sin pagar aún derechos de importación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-022",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa introduce mercancía en un DDA y posteriormente la extrae al mercado interior. ¿Qué hecho exige examinar el IVA correspondiente?",
-    "options": [
-      "La emisión de la ENS",
-      "La extracción del depósito",
-      "El pesaje VGM del contenedor",
-      "La presentación del cuaderno TIR"
-    ],
-    "answer": 1,
-    "explanation": "La extracción del DDA activa el tratamiento de IVA y la documentación fiscal descrita.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-023",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Exportación",
-    "question": "Una empresa exporta mercancía por una aduana distinta de la aduana de salida efectiva de la UE. ¿Qué documento acompaña el movimiento según el temario?",
-    "options": [
-      "DAT",
-      "DDT",
-      "DAE",
-      "ENS"
-    ],
-    "answer": 2,
-    "explanation": "El documento de acompañamiento de exportación DAE se menciona para salida indirecta.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-024",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Libre práctica",
-    "question": "Una mercancía importada adquiere estatuto de mercancía de la Unión tras pagar derechos, pero el tratamiento del IVA debe analizarse aparte. ¿Qué operación se ha realizado?",
-    "options": [
-      "Exportación temporal",
-      "Tránsito externo T1",
-      "Entrada en depósito temporal",
-      "Despacho a libre práctica"
-    ],
-    "answer": 3,
-    "explanation": "El despacho a libre práctica confiere estatuto de la Unión; el IVA se rige por reglas propias.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-025",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Zonas francas",
-    "question": "Un operador introduce mercancía en una zona franca directamente desde un tercer país. ¿Qué documentación de entrada señala el material?",
-    "options": [
-      "DDT y declaración de vinculación a zona franca",
-      "Únicamente modelo 349",
-      "Solo certificado de origen EUR-1",
-      "AWB y modelo 390 como régimen"
-    ],
-    "answer": 0,
-    "explanation": "El resumen menciona DDT y declaración de vinculación al régimen de zona franca para acceso directo.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-026",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa importa temporalmente un equipo para una exposición y después lo devuelve al extranjero. ¿Qué condición material resalta el resumen?",
-    "options": [
-      "Debe transformarse en un producto nuevo",
-      "Debe reexportarse esencialmente el mismo equipo",
-      "Debe venderse antes de la salida",
-      "Debe incorporarse a mercancía de la Unión"
-    ],
-    "answer": 1,
-    "explanation": "El material exige identidad de la mercancía, con mantenimiento o conservación permitidos.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-027",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una mercancía está bajo RPA y se pretende exportar el producto compensador con prueba de origen preferencial. ¿Qué regla advierte el resumen que debe comprobarse?",
-    "options": [
-      "Regla de los 90 días de DDT",
-      "Cuaderno ATA para ferias",
-      "No drawback cuando resulte aplicable",
-      "Recargo de equivalencia"
-    ],
-    "answer": 2,
-    "explanation": "El documento alerta sobre la regla no drawback en acuerdos preferenciales cuando sea aplicable.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-028",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa compra una gran partida sin saber aún si se destinará a venta interior o reexportación. ¿Qué figura del temario permite esperar sin despacho definitivo?",
-    "options": [
-      "Despacho a consumo",
-      "Exportación definitiva",
-      "Destino final industrial",
-      "Depósito aduanero"
-    ],
-    "answer": 3,
-    "explanation": "El DA permite posponer la decisión comercial y la liquidación aduanera mientras está bajo régimen.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  }
+ {
+  "question": "¿Qué norma es el eje del régimen aduanero de la Unión?",
+  "options": [
+   "La Directiva 2006/112/CE del sistema común del IVA",
+   "El Reglamento (UE) 1215/2012, llamado Bruselas I bis",
+   "El Reglamento (UE) 952/2013, el CAU",
+   "La Ley 37/1992 del Impuesto sobre el Valor Añadido"
+  ],
+  "answer": 2,
+  "explanation": "El CAU (Reglamento 952/2013) es la norma central; se desarrolla con el Reglamento Delegado 2015/2446 y el de Ejecución 2015/2447.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-001",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un compañero dice que el CAU necesita una ley española que lo transponga para aplicarse. ¿Qué le respondes?",
+  "options": [
+   "Sí: como toda directiva necesita transposición",
+   "Sí: lo transpuso la Ley General Tributaria",
+   "No: es un reglamento y se aplica directamente",
+   "No: solo se aplica a los operadores OEA"
+  ],
+  "answer": 2,
+  "explanation": "Un reglamento de la UE es directamente aplicable, a diferencia de una directiva. Por eso hay un marco aduanero común.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-002",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué papel tiene el Reglamento de Ejecución (UE) 2015/2447 respecto al CAU?",
+  "options": [
+   "Sustituye al CAU en los regímenes especiales",
+   "Regula el IVA de las importaciones",
+   "Fija el arancel de cada mercancía",
+   "Fija normas de aplicación y procedimientos"
+  ],
+  "answer": 3,
+  "explanation": "El Delegado (2015/2446) completa y concreta reglas; el de Ejecución (2015/2447) establece normas de aplicación uniforme y procedimientos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-003",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Cuál de estos NO es un objetivo del CAU según los apuntes?",
+  "options": [
+   "Generalizar el tratamiento electrónico de los datos",
+   "Exigir información previa sobre las mercancías",
+   "Eliminar todos los controles en la frontera exterior",
+   "Facilitar fórmulas como el despacho centralizado"
+  ],
+  "answer": 2,
+  "explanation": "El CAU busca simplificar, racionalizar regímenes, generalizar lo electrónico, exigir información previa y facilitar el despacho centralizado, conciliando facilitación y control.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-004",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Una empresa de Madrid envía mercancía a Tenerife. ¿Qué afirmación es correcta?",
+  "options": [
+   "Sale del territorio aduanero de la Unión y es por tanto una exportación",
+   "No sale del territorio aduanero, pero sí del territorio IVA",
+   "Es una entrega interior sin ninguna particularidad fiscal",
+   "Sale del territorio aduanero y del territorio político de la UE"
+  ],
+  "answer": 1,
+  "explanation": "Canarias pertenece al TAU, pero no al territorio de aplicación del IVA español (se aplica el IGIC).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-005",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Una empresa de Algeciras envía mercancía a Ceuta. ¿Qué ocurre a efectos aduaneros?",
+  "options": [
+   "Sale del territorio aduanero de la Unión",
+   "Es un movimiento interior, porque Ceuta forma parte de España",
+   "Es una entrega intracomunitaria exenta de IVA",
+   "Solo cambia el impuesto: de IVA pasa a IGIC"
+  ],
+  "answer": 0,
+  "explanation": "Ceuta y Melilla forman parte de España y de la UE, pero no del TAU: a efectos aduaneros se les trata como terceros países. Aplican el IPSI.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-006",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Cuál de estos territorios forma parte del territorio aduanero de la Unión sin ser Estado miembro?",
+  "options": [
+   "Mónaco",
+   "Andorra",
+   "San Marino",
+   "Ceuta"
+  ],
+  "answer": 0,
+  "explanation": "Mónaco está en el TAU por su acuerdo con Francia. Andorra y San Marino tienen acuerdos aduaneros con la UE pero no forman parte del TAU. Ceuta no es TAU.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-007",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Una empresa vende a Andorra. Un compañero dice que es como vender a Francia porque hay unión aduanera. ¿Qué le respondes?",
+  "options": [
+   "Andorra no es TAU; hay unión aduanera para parte de los productos",
+   "Andorra forma parte del TAU igual que Mónaco, por su relación con Francia y España",
+   "Andorra es un Estado miembro de la UE con régimen fiscal propio",
+   "Andorra pertenece al TAU solo para los productos agrícolas"
+  ],
+  "answer": 0,
+  "explanation": "Andorra no pertenece al TAU. Con Andorra y con Turquía hay uniones aduaneras, pero no para todos los productos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-008",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué impuesto indirecto se aplica en Canarias en lugar del IVA?",
+  "options": [
+   "El IPSI",
+   "El IGIC",
+   "El IVA",
+   "El IRPF"
+  ],
+  "answer": 1,
+  "explanation": "Canarias aplica el IGIC; Ceuta y Melilla, el IPSI.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-009",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Una empresa importa en Valencia bicicletas fabricadas en China y las despacha a libre práctica. ¿Qué es correcto?",
+  "options": [
+   "Adquieren estatuto de la Unión, pero su origen sigue siendo chino",
+   "Pasan a tener origen comunitario al pagar el arancel",
+   "Mantienen el estatuto no UE hasta su venta final",
+   "Pierden su origen y se consideran españolas a todos los efectos"
+  ],
+  "answer": 0,
+  "explanation": "El estatuto aduanero no equivale al origen. La libre práctica da estatuto de la Unión; el origen (país de obtención o transformación sustancial) no cambia.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-010",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué pregunta responde el «estatuto aduanero» de una mercancía?",
+  "options": [
+   "En qué país se obtuvo o transformó sustancialmente",
+   "Desde qué país se envía físicamente la mercancía",
+   "Si es mercancía de la Unión o no",
+   "Qué tratamiento jurídico se le aplica en ese momento"
+  ],
+  "answer": 2,
+  "explanation": "Origen: dónde se obtuvo. Procedencia: desde dónde se envía. Régimen: qué tratamiento se aplica ahora. Estatuto: si es mercancía de la Unión o no.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-011",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Cuál de estas mercancías tiene estatuto de la Unión?",
+  "options": [
+   "La que está en un depósito aduanero",
+   "La que está en depósito temporal en un ADT",
+   "La importada que se despachó a libre práctica",
+   "La que viaja bajo tránsito externo T1"
+  ],
+  "answer": 2,
+  "explanation": "Tienen estatuto UE las obtenidas en el TAU, las despachadas a libre práctica y las producidas a partir de ellas. Las que están en DA, ADT o T1 siguen sin estatuto.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-012",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Una empresa va a hacer su primera importación. ¿Qué identificación necesita ante las aduanas de la UE?",
+  "options": [
+   "El número ROI",
+   "El número EORI",
+   "El código TARIC",
+   "El certificado OEA"
+  ],
+  "answer": 1,
+  "explanation": "El EORI identifica a los operadores en sus relaciones con las aduanas (art. 9 CAU). Es imprescindible para importar o exportar.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-013",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un agente de aduanas presenta un DUA en nombre y por cuenta de su cliente. ¿Qué tipo de representación es y quién es el declarante?",
+  "options": [
+   "Directa; el declarante es el cliente representado",
+   "Indirecta; el declarante es el agente de aduanas",
+   "Directa; el declarante es el agente de aduanas",
+   "Indirecta; el declarante es el cliente representado"
+  ],
+  "answer": 0,
+  "explanation": "Directa: el representante actúa en nombre y por cuenta ajena y el declarante es el representado. Indirecta: en nombre propio y por cuenta ajena; el declarante es el representante.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-014",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un transitario presenta la declaración en nombre propio, aunque por cuenta de su cliente. ¿Qué consecuencia tiene?",
+  "options": [
+   "Es representación directa y el cliente es el declarante",
+   "Es una declaración nula por no actuar el importador",
+   "Es una simplificación propia de los operadores OEA",
+   "Es representación indirecta y él figura como declarante"
+  ],
+  "answer": 3,
+  "explanation": "En la representación indirecta el representante actúa en nombre propio y asume la condición de declarante.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-015",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un importador de carne tiene la declaración aduanera lista, pero le falta el certificado veterinario. ¿Qué pasará?",
+  "options": [
+   "Obtendrá el levante y lo presentará después",
+   "La aduana emitirá el certificado de oficio",
+   "Podrá sustituirlo por la factura comercial",
+   "No obtendrá el levante sin ese certificado"
+  ],
+  "answer": 3,
+  "explanation": "Los controles sanitarios, veterinarios, fitosanitarios, farmacéuticos o SOIVRE son preceptivos: sin ellos la aduana no despacha.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-016",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué relación tienen los certificados de Sanidad o Fitosanitario con el DUA?",
+  "options": [
+   "Sustituyen al DUA en las importaciones de productos agrícolas",
+   "No sustituyen la declaración, pero son condición para el levante",
+   "Solo se exigen después del levante, en la inspección posterior",
+   "Los emite la propia aduana junto con el número de DUA"
+  ],
+  "answer": 1,
+  "explanation": "Los servicios paraaduaneros emiten documentos que no sustituyen la declaración, pero sin ellos no se concede el levante.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-017",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Además de los servicios paraaduaneros, ¿qué otros documentos son preceptivos para el despacho según el resumen?",
+  "options": [
+   "Solo la factura proforma y el contrato de compraventa firmado por ambas partes",
+   "Los de política comercial (licencias, AGRIM) y homologaciones",
+   "El certificado OEA del importador y su cuenta bancaria",
+   "El seguro de transporte y la póliza ICC A de la carga"
+  ],
+  "answer": 1,
+  "explanation": "El resumen cita documentos comerciales (AGRIM, licencias, permisos de exportación) y del Ministerio de Industria (homologaciones, baja tensión), todos preceptivos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-018",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué información conviene conocer antes de preparar el despacho para saber derechos, medidas y controles?",
+  "options": [
+   "El número de precinto del contenedor",
+   "El nombre del capitán del buque",
+   "El código NC/TARIC del producto",
+   "La cobertura ICC de la póliza"
+  ],
+  "answer": 2,
+  "explanation": "Hay que identificar el código arancelario (NC/TARIC) y las medidas asociadas al producto antes de despachar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-019",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué diferencia hay entre «origen» y «procedencia» de una mercancía?",
+  "options": [
+   "Son sinónimos en la normativa aduanera de la Unión",
+   "Origen es el puerto de carga; procedencia, el de descarga",
+   "Origen es dónde se obtuvo; procedencia, desde dónde se envía",
+   "Origen es el estatuto UE; procedencia, el régimen aplicado"
+  ],
+  "answer": 2,
+  "explanation": "Una mercancía china enviada desde un almacén en Dubái tiene origen China y procedencia Emiratos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-020",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un camión llega a la aduana y el agente, funcionario y transitario intervienen. ¿Quién decide sobre el levante?",
+  "options": [
+   "El transitario",
+   "La aduana",
+   "El transportista",
+   "El representante"
+  ],
+  "answer": 1,
+  "explanation": "El transportista mueve la mercancía, el declarante declara, el representante actúa por otro y la aduana controla y decide el levante.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-021",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un envío va de la Península a Canarias por mar y atraviesa aguas internacionales. ¿Qué régimen mencionó la profesora?",
+  "options": [
+   "Tránsito externo T1, porque la mercancía sale de la Unión Europea",
+   "Exportación definitiva con DUA de salida",
+   "Tránsito interno, por ser mercancía de la Unión",
+   "Importación temporal con cuaderno ATA"
+  ],
+  "answer": 2,
+  "explanation": "En las notas: el tránsito interno se da cuando se va de España a Canarias, ya que se pasa por aguas internacionales.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-022",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "¿Qué significa la sigla TAU?",
+  "options": [
+   "Territorio aduanero de la Unión",
+   "Tarifa arancelaria unificada de la UE",
+   "Tránsito aduanero universal",
+   "Tasa de aduana unitaria"
+  ],
+  "answer": 0,
+  "explanation": "TAU = territorio aduanero de la Unión, que no coincide con el territorio político de la UE ni con el del IVA.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-023",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Los territorios de ultramar de Francia, ¿forman parte del territorio aduanero de la Unión?",
+  "options": [
+   "Sí, todos sin excepción por ser Francia",
+   "No, ninguno forma parte del TAU",
+   "Solo los del océano Atlántico",
+   "No todos: algunos territorios quedan fuera"
+  ],
+  "answer": 3,
+  "explanation": "En clase: los territorios de ultramar de Francia tienen zonas que no pertenecen al TAU. Hay que comprobar cada territorio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-024",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Marco, territorios, estatuto y operadores"
+ },
+ {
+  "question": "Un buque con contenedores de Shanghái va a escalar en Valencia, primer puerto de la UE. ¿Qué declaración debe llegar antes a esa primera aduana para el análisis de riesgos?",
+  "options": [
+   "La declaración de depósito temporal (DDT)",
+   "El DUA de importación a libre práctica",
+   "El documento de tránsito T1 del buque",
+   "La declaración sumaria de entrada (ENS)"
+  ],
+  "answer": 3,
+  "explanation": "La ENS contiene datos de seguridad para analizar riesgos antes de la llegada. No es una declaración de importación ni implica despacho.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-025",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Ordena las comunicaciones de llegada de una mercancía por mar.",
+  "options": [
+   "DDT, ENS y aviso de llegada (AN) al atracar el buque",
+   "ENS, aviso de llegada (AN) y DDT",
+   "Aviso de llegada (AN), DUA de importación y ENS",
+   "DUA de importación, DDT y ENS de seguridad"
+  ],
+  "answer": 1,
+  "explanation": "Primero la ENS (antes de entrar), después el aviso de llegada del medio de transporte y, tras la presentación, la DDT para el depósito temporal.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-026",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un alumno dice que presentar la ENS equivale a importar la mercancía. ¿Por qué se equivoca?",
+  "options": [
+   "La ENS solo se presenta en las exportaciones con destino fuera de la UE",
+   "La ENS la presenta el importador después del levante",
+   "La ENS es información de seguridad; se importa con el DUA",
+   "La ENS solo es necesaria en el transporte por carretera"
+  ],
+  "answer": 2,
+  "explanation": "ENS ≠ DDT ≠ DUA. La ENS es información previa de seguridad; la DDT documenta el depósito temporal; el DUA solicita un régimen.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-027",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "En clase se dijo que la ENS se puede adelantar como predeclaración. ¿Hasta cuándo antes del embarque?",
+  "options": [
+   "Hasta 90 días antes",
+   "Hasta 30 días antes",
+   "Hasta 24 horas antes",
+   "Hasta 1 año antes"
+  ],
+  "answer": 1,
+  "explanation": "Las predeclaraciones pueden enviarse hasta 30 días antes de embarcar. El mínimo general es 24 h antes; en graneles como petróleo o grano, 4 h.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-028",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "En un petrolero que transporta un solo cargamento a granel, ¿qué plazo mínimo para la ENS mencionó la profesora?",
+  "options": [
+   "4 horas antes de la llegada",
+   "24 horas antes del embarque",
+   "30 días antes del embarque",
+   "90 días tras la llegada"
+  ],
+  "answer": 0,
+  "explanation": "Como mínimo 24 h, aunque se suele enviar unos 3 días antes; para graneles como petróleo o grano, el límite es de 4 h.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-029",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Según el resumen, ¿quién envía el aviso de llegada (AN) de un buque?",
+  "options": [
+   "El importador de la mercancía en destino",
+   "El agente de aduanas del cliente",
+   "La aduana del puerto de destino",
+   "El consignatario del medio de transporte"
+  ],
+  "answer": 3,
+  "explanation": "Antes de la llegada del medio de transporte, su consignatario envía el aviso de llegada. En clase: solo dan aviso de llegada las navieras.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-030",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un contenedor de mercancía no UE llega a Valencia y falta documentación para despacharlo. ¿Cuánto tiempo puede quedar en depósito temporal como regla general?",
+  "options": [
+   "30 días desde la llegada del buque",
+   "Sin límite mientras pague el almacén",
+   "90 días desde su presentación",
+   "24 meses, como un depósito aduanero"
+  ],
+  "answer": 2,
+  "explanation": "Las mercancías en depósito temporal deben incluirse en un régimen o reexportarse en un plazo máximo de 90 días (art. 149 CAU).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-031",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Es el depósito temporal un régimen aduanero?",
+  "options": [
+   "Sí: es un régimen especial de depósito del art. 210 del CAU",
+   "Sí: es el régimen de importación provisional",
+   "Solo cuando la mercancía está en una zona franca",
+   "No: es una situación previa a un régimen"
+  ],
+  "answer": 3,
+  "explanation": "El ADT es una situación, no un régimen, por mucho que lleve la palabra «depósito». Las mercancías esperan ahí hasta su régimen o reexportación.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-032",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Una empresa almacena unos contenedores en un ADT del puerto y otra en un depósito aduanero. ¿Qué las diferencia?",
+  "options": [
+   "El ADT es una situación de hasta 90 días; el depósito, un régimen",
+   "Son lo mismo: cualquier almacén en recinto aduanero es un depósito aduanero",
+   "El ADT no tiene plazo y el depósito aduanero tiene un máximo de 90 días",
+   "El ADT es para mercancía UE y el depósito aduanero para la de terceros"
+  ],
+  "answer": 0,
+  "explanation": "La confusión más frecuente es pensar que todo almacén en recinto aduanero es depósito aduanero. El régimen depende de la declaración y la autorización.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-033",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Una mercancía estuvo 45 días en el ADT del puerto y se trasladó a otro ADT autorizado. Según la profesora, ¿cuánto puede estar en el segundo?",
+  "options": [
+   "Solo los 45 días que le quedan del plazo del primer ADT del puerto",
+   "Vuelve a estar en ADT y puede estar hasta 90 días",
+   "Ninguno: debe declararse a un régimen al salir",
+   "Hasta 24 meses, porque pasa a ser un régimen"
+  ],
+  "answer": 1,
+  "explanation": "En clase se explicó que al moverse a otro ADT vuelve a estar en situación de depósito temporal y podría estar de nuevo 90 días.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-034",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué manipulaciones se permiten a una mercancía en depósito temporal?",
+  "options": [
+   "Cualquier transformación que no cambie el origen",
+   "Solo las necesarias para su conservación",
+   "Reparaciones y montajes con piezas de la Unión",
+   "Ventas al por menor a consumidores de la UE"
+  ],
+  "answer": 1,
+  "explanation": "En depósito temporal las mercancías están vigiladas y solo admiten manipulaciones para garantizar su conservación.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-035",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Una importadora mantiene sus contenedores en el ADT del puerto durante semanas. ¿Qué inconveniente práctico señaló la profesora?",
+  "options": [
+   "Los ADT de los puertos son muy caros",
+   "Que la mercancía pierde el origen",
+   "Que se aplica un arancel adicional",
+   "Que no se puede pedir ningún régimen"
+  ],
+  "answer": 0,
+  "explanation": "Estar en ADT no es gratis: pertenecen a los puertos y son carísimos, sobre todo si sale un circuito rojo y hay que inspeccionar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-036",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué son los «otros lugares autorizados» (OOLL) para depósito temporal?",
+  "options": [
+   "Almacenes donde la mercancía puede estar sin límite de tiempo",
+   "Zonas francas situadas fuera de los puertos",
+   "Depósitos fiscales para impuestos especiales",
+   "Instalaciones con condiciones más restrictivas"
+  ],
+  "answer": 3,
+  "explanation": "Los OOLL tienen condiciones más restrictivas, incluida la necesidad de declarar en plazos breves.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-037",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Se ha admitido la declaración de importación. ¿Puede el importador retirar ya la mercancía?",
+  "options": [
+   "Sí: la admisión ya permite retirarla del puerto",
+   "Sí, si paga el IVA en ese momento",
+   "No hasta que se conceda el levante",
+   "Solo si la mercancía es de la Unión"
+  ],
+  "answer": 2,
+  "explanation": "Admisión y levante son momentos distintos. El levante es el acto que permite disponer de la mercancía para los fines del régimen.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-038",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un DUA sale en circuito naranja. ¿Qué implica?",
+  "options": [
+   "El reconocimiento físico de la mercancía",
+   "El levante sin ningún control adicional",
+   "Un control documental antes del levante",
+   "La prohibición de importar la mercancía"
+  ],
+  "answer": 2,
+  "explanation": "Verde: sin control previo al levante. Naranja: comprobación documental. Rojo: reconocimiento físico y/o documental.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-039",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un DUA sale en circuito verde y la mercancía se retira. ¿Puede la aduana revisarlo después?",
+  "options": [
+   "No: el verde certifica que todo es correcto",
+   "Solo si el importador lo solicita por escrito",
+   "Sí: el verde no excluye controles posteriores",
+   "No, salvo que el importador no sea OEA"
+  ],
+  "answer": 2,
+  "explanation": "Los colores describen una lógica operativa; el levante no excluye revisiones posteriores.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-040",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué es la deuda aduanera en sentido estricto?",
+  "options": [
+   "El conjunto de tributos de la operación, con el IVA de importación incluido",
+   "La obligación de pagar derechos de importación o exportación",
+   "La garantía que presta el transitario en el tránsito",
+   "La multa por presentar la declaración fuera de plazo"
+  ],
+  "answer": 1,
+  "explanation": "La deuda aduanera se refiere a los derechos de importación o exportación. El IVA y los impuestos especiales tienen regulación propia.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-041",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Para qué sirve la garantía en un régimen suspensivo?",
+  "options": [
+   "Paga de forma anticipada el IVA de la importación definitiva de la mercancía",
+   "Cubre el riesgo de que los derechos lleguen a ser exigibles",
+   "Asegura la mercancía frente a daños durante el transporte",
+   "Sustituye al DUA mientras dura el régimen suspensivo"
+  ],
+  "answer": 1,
+  "explanation": "En regímenes suspensivos la garantía cubre el riesgo de que los derechos lleguen a ser exigibles por incumplimiento.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-042",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Una empresa de Madrid exporta a México; el DUA se presenta en Madrid y la mercancía sale por Algeciras. ¿Qué diferencia hay entre ambas aduanas?",
+  "options": [
+   "Madrid es la de salida y Algeciras la de exportación",
+   "Las dos son de exportación y se reparten el control",
+   "Algeciras es de tránsito y Madrid de importación",
+   "Madrid es la de exportación y Algeciras la de salida"
+  ],
+  "answer": 3,
+  "explanation": "La aduana de exportación tramita la declaración; la de salida controla la salida efectiva. Cuando son distintas, la mercancía va con el DAE hasta la salida.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-043",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un exportador factura sin IVA una venta a Estados Unidos, pero no conserva prueba de que la mercancía salió de la UE. ¿Qué problema tiene?",
+  "options": [
+   "Ninguno: la factura sin IVA basta para la exención",
+   "No puede justificar la exención de IVA de la exportación",
+   "Que la venta pasa a ser una entrega intracomunitaria",
+   "Que debe pagar el arancel de importación de EE. UU."
+  ],
+  "answer": 1,
+  "explanation": "La prueba de salida efectiva del TAU es clave para la exención de IVA de las exportaciones. La factura sin IVA no basta.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-044",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Según el resumen, ¿qué requisitos debe cumplir una venta exenta de IVA a un país tercero?",
+  "options": [
+   "Factura sin IVA y contrato firmado con el cliente",
+   "Certificado de origen EUR-1 y carta de porte CMR",
+   "EORI, DUA de exportación y salida efectiva de la UE",
+   "Cuaderno ATA y garantía en la Cámara de Comercio"
+  ],
+  "answer": 2,
+  "explanation": "Hay que estar registrado (EORI), presentar el DUA de exportación (AES) y que la mercancía salga del territorio de la UE.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-045",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un fabricante vende a un intermediario español que exporta. Para que la venta del fabricante esté exenta de IVA, ¿qué exige el resumen?",
+  "options": [
+   "Que el intermediario tenga certificado OEA y una garantía global de tránsito",
+   "Que la factura del fabricante se emita en dólares",
+   "Que la mercancía se exporte en menos de 90 días",
+   "Que el vendedor figure como exportador en el DUA o vender en DDA"
+  ],
+  "answer": 3,
+  "explanation": "Para una venta exenta con destino a exportación debe figurar como exportador el vendedor en el DUA, o realizarse la venta a través de un DDA.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-046",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué es el AES?",
+  "options": [
+   "El sistema electrónico de exportación",
+   "El arancel exterior común",
+   "El acuerdo de tránsito con Suiza",
+   "El certificado de expedidor conocido"
+  ],
+  "answer": 0,
+  "explanation": "AES (Automated Export System) es el sistema automatizado de exportación al que se refiere el material.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-047",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué efecto tiene el despacho a libre práctica?",
+  "options": [
+   "La mercancía no UE adquiere estatuto de la Unión",
+   "La mercancía queda exenta de IVA en toda la Unión Europea",
+   "La mercancía pasa a tener origen comunitario a efectos de preferencias",
+   "La mercancía queda en depósito temporal hasta que se venda en España"
+  ],
+  "answer": 0,
+  "explanation": "La libre práctica (art. 201 CAU) da estatuto de la Unión tras aplicar medidas comerciales y derechos. Eso no significa que se haya liquidado el IVA en todos los casos.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-048",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Un intermediario español importa mercancía china para revenderla a un cliente de Francia. ¿Qué despacho le sugiere el resumen para no pagar IVA en España?",
+  "options": [
+   "Despacho a consumo: paga arancel e IVA y luego lo recupera",
+   "Despacho a libre práctica: paga arancel y no el IVA español",
+   "Tránsito externo T1 hasta Francia sin pagar ningún derecho",
+   "Importación temporal con cuaderno ATA hasta su reventa"
+  ],
+  "answer": 1,
+  "explanation": "Según el resumen, la libre práctica se usa como intermediario que vende a otro país de la UE: paga arancel, no IVA. Si está en el diferimiento de IVA, conviene el despacho a consumo.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-049",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué diferencia hay entre libre práctica y despacho a consumo?",
+  "options": [
+   "La libre práctica incluye el IVA y el consumo solo el arancel",
+   "Son lo mismo: dos nombres del mismo régimen aduanero",
+   "El consumo añade la tributación interior, como el IVA",
+   "El consumo es para mercancías de la Unión y la libre práctica para las de terceros"
+  ],
+  "answer": 2,
+  "explanation": "La libre práctica se centra en derechos y medidas aduaneras; el despacho a consumo añade el tratamiento fiscal interno.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-050",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "Una empresa acogida al diferimiento del IVA a la importación duda entre libre práctica y consumo. ¿Qué aconseja el resumen?",
+  "options": [
+   "Despachar a libre práctica",
+   "Vincular a tránsito T2",
+   "Pedir importación temporal",
+   "Despachar a consumo"
+  ],
+  "answer": 3,
+  "explanation": "Si el importador está acogido al diferimiento del IVA, es aconsejable el despacho a consumo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-051",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "En la práctica de clase, «despacho a libre práctica» se equipara a…",
+  "options": [
+   "Exportar",
+   "Transitar",
+   "Reexportar",
+   "Importar"
+  ],
+  "answer": 3,
+  "explanation": "En las notas: despacho a libre práctica = importar.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-052",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué es el levante?",
+  "options": [
+   "El pago del arancel en la cuenta de la Agencia Tributaria",
+   "La descarga del contenedor del buque al muelle",
+   "El acto por el que la aduana permite disponer de la mercancía",
+   "La presentación del DUA en el sistema de la aduana"
+  ],
+  "answer": 2,
+  "explanation": "El levante autoriza a disponer de la mercancía para los fines del régimen declarado.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-053",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué documento acompaña la mercancía desde la aduana de despacho hasta la de salida en una exportación indirecta?",
+  "options": [
+   "El DAE, documento de acompañamiento de exportación",
+   "La ENS, declaración sumaria de entrada de la carga",
+   "La DDT, declaración de depósito temporal del puerto",
+   "El cuaderno ATA, de admisión temporal de mercancías"
+  ],
+  "answer": 0,
+  "explanation": "Cuando la salida del TAU es indirecta (aduana de despacho distinta de la de salida), la mercancía va con el DAE.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-054",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿Qué permite el despacho centralizado?",
+  "options": [
+   "Pagar todos los aranceles de la UE en una sola cuenta",
+   "Declarar ante una aduana aunque la mercancía esté en otra",
+   "Evitar presentar declaraciones en las importaciones",
+   "Despachar sin necesidad de número EORI ni garantía"
+  ],
+  "answer": 1,
+  "explanation": "Bajo autorización, el despacho centralizado permite presentar la declaración en una aduana aunque las mercancías estén físicamente en otra.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-055",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Entrada, depósito temporal, despacho y exportación"
+ },
+ {
+  "question": "¿En qué cuatro grupos clasifica el art. 210 CAU los regímenes especiales?",
+  "options": [
+   "Importación, exportación, tránsito y depósito temporal en los puertos",
+   "Libre práctica, consumo, reexportación y abandono",
+   "Tránsito, ADT, zona franca y depósito fiscal del IVA",
+   "Tránsito, depósito, destinos especiales y perfeccionamiento"
+  ],
+  "answer": 3,
+  "explanation": "Tránsito (externo e interno), depósito (DA y zona franca), destinos especiales (importación temporal y destino final) y perfeccionamiento (activo y pasivo).",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-056",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿En qué grupo de regímenes especiales están el depósito aduanero y la zona franca?",
+  "options": [
+   "Tránsito",
+   "Perfeccionamiento",
+   "Destinos especiales",
+   "Depósito"
+  ],
+  "answer": 3,
+  "explanation": "El grupo de depósito incluye el depósito aduanero y las zonas francas.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-057",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿En qué grupo están la importación temporal y el destino final?",
+  "options": [
+   "Perfeccionamiento",
+   "Destinos especiales",
+   "Depósito aduanero",
+   "Tránsito externo"
+  ],
+  "answer": 1,
+  "explanation": "Destinos especiales: importación temporal y destino final.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-058",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Un contenedor chino desembarca en Róterdam, pero el importador quiere despacharlo en Madrid. ¿Qué régimen le permite llevarlo sin pagar derechos en Países Bajos?",
+  "options": [
+   "Tránsito externo T1, con garantía",
+   "Tránsito interno T2, sin garantía",
+   "Libre práctica en Róterdam y envío",
+   "Importación temporal con cuaderno ATA"
+  ],
+  "answer": 0,
+  "explanation": "El T1 traslada mercancía no UE dentro del TAU sin pagar derechos en el trayecto. En Madrid se ultima el tránsito y se importa.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-059",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué decide si un tránsito es T1 o T2?",
+  "options": [
+   "El país donde se fabricó la mercancía",
+   "El modo de transporte que se utiliza",
+   "Que el transitario sea operador OEA",
+   "El estatuto aduanero de la mercancía"
+  ],
+  "answer": 3,
+  "explanation": "T1: mercancías no pertenecientes a la Unión. T2: mercancías de la Unión en los supuestos previstos. No depende del país de fabricación.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-060",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa española vende a Italia por camión cruzando Suiza. ¿Qué tránsito aplica según el resumen y hace falta garantía?",
+  "options": [
+   "Tránsito externo T1, con garantía",
+   "Cuaderno TIR, con garantía de la IRU",
+   "Tránsito interno T2, sin garantía",
+   "No hace falta tránsito al ser intra-UE"
+  ],
+  "answer": 2,
+  "explanation": "Al atravesar un país EFTA como Suiza, la mercancía comunitaria va en tránsito interno T2 para justificar su estatuto; no hay que presentar garantía.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-061",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "En un tránsito externo T1, ¿qué ventaja tiene el transitario que es OEA?",
+  "options": [
+   "No necesita presentar ninguna declaración de tránsito",
+   "Puede despachar a libre práctica en la aduana de paso",
+   "Puede usar una garantía global",
+   "Queda exento del arancel en la aduana de destino"
+  ],
+  "answer": 2,
+  "explanation": "El transitario presta garantía en la primera aduana; si es OEA puede solicitar una garantía global.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-062",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué es el NCTS?",
+  "options": [
+   "El sistema electrónico de tránsito",
+   "El arancel integrado de la UE",
+   "El registro de operadores económicos",
+   "El sistema de exportación"
+  ],
+  "answer": 0,
+  "explanation": "NCTS (Nuevo Sistema de Tránsito Informatizado) tramita electrónicamente las operaciones de tránsito.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-063",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Un camión precintado lleva mercancía desde Turquía hasta varios países de tránsito antes de llegar a la UE. ¿Qué régimen internacional facilita ese tránsito?",
+  "options": [
+   "El cuaderno ATA de admisión temporal",
+   "El régimen TIR, con cuaderno TIR",
+   "El convenio CMR de transporte",
+   "El perfeccionamiento pasivo"
+  ],
+  "answer": 1,
+  "explanation": "El TIR facilita el tránsito internacional bajo precinto y con cadena de garantías. No confundir con el ATA (admisión temporal) ni con el CMR (contrato).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-064",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué diferencia hay entre el cuaderno TIR y el cuaderno ATA?",
+  "options": [
+   "TIR facilita el tránsito; ATA, la admisión temporal",
+   "TIR es para ferias; ATA, para el transporte por carretera",
+   "Son el mismo documento con dos nombres distintos",
+   "TIR lo emite la aduana y ATA el transportista"
+  ],
+  "answer": 0,
+  "explanation": "El cuaderno TIR facilita el transporte en tránsito; el ATA, la admisión temporal de mercancías como muestras o material para ferias.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-065",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa de EE. UU. trae una máquina a una feria en IFEMA y la devolverá al terminar. ¿Qué régimen corresponde?",
+  "options": [
+   "Importación temporal, con DUA o cuaderno ATA",
+   "Despacho a libre práctica y luego exportación",
+   "Perfeccionamiento activo con garantía",
+   "Depósito aduanero dentro del recinto ferial"
+  ],
+  "answer": 0,
+  "explanation": "La importación temporal permite usar mercancías no UE con intención de reexportarlas. Se documenta con DUA o cuaderno ATA.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-066",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "En una importación temporal con cuaderno ATA, ¿dónde se presta la garantía?",
+  "options": [
+   "En la aduana del país de importación temporal",
+   "En el banco del importador temporal",
+   "En la Cámara de Comercio que lo sella",
+   "En la feria donde se expone la mercancía"
+  ],
+  "answer": 2,
+  "explanation": "Con DUA, la garantía la presta el agente de aduanas en el país de importación; con ATA, en la Cámara de Comercio donde se sella.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-067",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Se puede usar el cuaderno ATA para llevar muestras a cualquier país del mundo?",
+  "options": [
+   "Sí, porque es un documento de la OMC",
+   "No: solo en los países del Convenio ATA",
+   "Sí, si se paga el 3 % de los derechos por mes",
+   "No: solo dentro de la Unión Europea"
+  ],
+  "answer": 1,
+  "explanation": "El cuaderno ATA solo puede utilizarse en los países adheridos al Convenio ATA.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-068",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa importa temporalmente una grúa para alquilarla en una obra durante 5 meses. ¿Qué paga en aduana según el resumen?",
+  "options": [
+   "Nada: la importación temporal está exenta del todo",
+   "Los derechos completos, como en la libre práctica",
+   "El 10 % de los derechos al reexportar la grúa",
+   "El 3 % de los derechos por cada mes, más el IVA total"
+  ],
+  "answer": 3,
+  "explanation": "Si la mercancía importada temporalmente se usa en un trabajo lucrativo (alquiler), se paga el 3 % de los derechos por mes de permanencia, más el IVA total, salvo excepción.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-069",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una máquina importada temporalmente para una feria se modifica para adaptarla a un cliente antes de reexportarla. ¿Qué problema hay?",
+  "options": [
+   "Ninguno: la importación temporal admite cualquier transformación previa a la reexportación",
+   "Debe reexportarse la misma mercancía, sin más que su mantenimiento",
+   "Que la reexportación tendrá que hacerse con cuaderno TIR",
+   "Que la máquina adquiere origen comunitario por la modificación"
+  ],
+  "answer": 1,
+  "explanation": "En importación y exportación temporal la mercancía debe ser la misma, sin otra manipulación que la necesaria para su mantenimiento o conservación.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-070",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una mercancía tiene un arancel reducido si se destina a un uso industrial concreto. ¿Qué régimen lo permite y qué exige?",
+  "options": [
+   "Importación temporal, con reexportación en 24 meses",
+   "Perfeccionamiento pasivo, con garantía sobre el valor añadido en el exterior",
+   "Depósito aduanero, con pago al retirar cada lote",
+   "Destino final, con control hasta afectarla al fin"
+  ],
+  "answer": 3,
+  "explanation": "El destino final aplica un derecho reducido o nulo según el destino, y la mercancía queda bajo control hasta afectarla al fin prescrito.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-071",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una fábrica española importa piezas de Japón, las incorpora a maquinaria y vende la maquinaria a Brasil. ¿Qué régimen le evita pagar arancel por las piezas?",
+  "options": [
+   "Perfeccionamiento activo",
+   "Perfeccionamiento pasivo",
+   "Importación temporal",
+   "Depósito distinto del aduanero"
+  ],
+  "answer": 0,
+  "explanation": "El RPA permite introducir mercancías no UE para transformarlas en el TAU sin pagar derechos mientras se cumplan las condiciones. Es un régimen de fomento a la exportación.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-072",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "En el perfeccionamiento activo, ¿cómo se llaman los productos que se obtienen?",
+  "options": [
+   "Productos originarios o preferenciales",
+   "Productos en tránsito o suspendidos",
+   "Productos de consumo o despachados",
+   "Productos transformados o compensadores"
+  ],
+  "answer": 3,
+  "explanation": "Los productos resultantes del RPA se denominan productos transformados o compensadores.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-073",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Se importan en RPA 1.000 kg de material y se obtienen 800 kg de producto y 200 kg de merma. ¿Cuál es el coeficiente de rendimiento?",
+  "options": [
+   "20 %",
+   "125 %",
+   "100 %",
+   "80 %"
+  ],
+  "answer": 3,
+  "explanation": "Coeficiente de rendimiento = producto obtenido / mercancía vinculada = 800 / 1.000 = 80 %. La merma es el 20 %.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-074",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Un exportador vende un producto obtenido en RPA a un país acogido a la regla de no drawback y adjunta un EUR-1. ¿Qué ocurre?",
+  "options": [
+   "Queda exento de todo arancel por ser una exportación",
+   "Recupera además el IVA soportado de los insumos",
+   "Debe pagar el arancel de los insumos importados en RPA",
+   "La exportación se convierte en importación temporal"
+  ],
+  "answer": 2,
+  "explanation": "Con la regla de no drawback, si el producto va a uno de esos países con prueba de origen preferencial (EUR-1 o declaración en factura), hay que pagar el arancel de lo importado en RPA.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-075",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Parte de lo producido en RPA se queda en la UE. Según el resumen, ¿cuándo interesa liquidar con el tipo del producto final?",
+  "options": [
+   "Cuando el tipo del producto importado es mayor que el del obtenido",
+   "Cuando el producto transformado tiene un tipo mayor que el importado",
+   "No interesa: se liquida con el tipo de lo importado",
+   "Cuando el producto final se vende a un país sin acuerdo"
+  ],
+  "answer": 0,
+  "explanation": "Se liquidan derechos sobre el valor importado más gastos con el tipo del producto obtenido; interesa si el tipo del importado es mayor. A petición, cabe pagar sobre el importado (regla de excepción).",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-076",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué modalidades del RPA cita el resumen dentro del sistema de suspensión?",
+  "options": [
+   "IM-EX y EX-IM",
+   "T1 y T2",
+   "CW1 y CWP",
+   "DUA y DVD-IDA"
+  ],
+  "answer": 0,
+  "explanation": "El sistema de suspensión comprende el perfeccionamiento IM-EX (antes compensación por equivalencia) y EX-IM (antes exportación anticipada).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-077",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa española envía tejido a Marruecos para confeccionar camisas y las reimporta. ¿Qué régimen es y sobre qué paga?",
+  "options": [
+   "Perfeccionamiento pasivo; paga sobre el valor añadido fuera",
+   "Perfeccionamiento activo; paga sobre el valor total de las camisas",
+   "Importación temporal; paga el 3 % de los derechos por mes",
+   "Exportación definitiva; paga sobre el tejido exportado"
+  ],
+  "answer": 0,
+  "explanation": "En el RPP se exporta temporalmente mercancía UE para transformarla fuera. En la reimportación se paga arancel e IVA por el valor añadido.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-078",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "En un RPP, ¿cómo se calcula el valor en aduana de la reimportación según el resumen?",
+  "options": [
+   "El valor total de la mercancía reimportada, sin descontar nada del tejido",
+   "Valor del tejido exportado más un margen del 10 %",
+   "Solo el coste del transporte de vuelta al territorio",
+   "Factura del trabajo más transporte y seguro de ida y vuelta"
+  ],
+  "answer": 3,
+  "explanation": "El valor en aduana será la factura de la empresa que hizo la operación más los gastos de transporte y seguro de ida y vuelta.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-079",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Cuál es la diferencia esencial entre RPA y RPP?",
+  "options": [
+   "El RPA es para exportar y el RPP para importar definitivamente",
+   "El RPA exige cuaderno ATA y el RPP cuaderno TIR",
+   "El RPA es para mercancía UE y el RPP para la de terceros",
+   "El RPA transforma dentro del TAU; el RPP, fuera"
+  ],
+  "answer": 3,
+  "explanation": "RPA: entran mercancías no UE para transformarse dentro. RPP: salen mercancías UE para transformarse fuera y reimportarse.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-080",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una máquina en garantía se envía a reparar a EE. UU. y el fabricante entrega otra igual mientras tanto. ¿Qué figura menciona el resumen?",
+  "options": [
+   "Los intercambios estándar del RPP",
+   "La importación temporal con cuaderno ATA",
+   "El destino final con arancel reducido",
+   "El tránsito externo con garantía global"
+  ],
+  "answer": 0,
+  "explanation": "En reparaciones con garantía cabe recibir un aparato en sustitución bajo el sistema de intercambios estándar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-081",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Un importador compra 1.000 unidades pero solo vende 200 al mes y no quiere adelantar los derechos de todo el lote. ¿Qué régimen le conviene?",
+  "options": [
+   "Depósito temporal en el ADT del puerto",
+   "Importación temporal con cuaderno ATA",
+   "Depósito aduanero, despachando por lotes",
+   "Perfeccionamiento pasivo con garantía"
+  ],
+  "answer": 2,
+  "explanation": "El depósito aduanero permite almacenar mercancía no UE sin pagar derechos hasta retirarla. El beneficio es de tesorería, no una exención.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-082",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿En cuál de estos casos NO se usaría normalmente un depósito aduanero según el resumen?",
+  "options": [
+   "Para no adelantar impuestos en una gran compra",
+   "Cuando aún no se sabe cuál será el destino final de la mercancía",
+   "Cuando falta algún documento para el despacho",
+   "Para transformar la mercancía en otro producto"
+  ],
+  "answer": 3,
+  "explanation": "Se usa en grandes compras, destino desconocido, cupos temporales o falta de documentos. Transformar corresponde al perfeccionamiento.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-083",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué depósitos aduaneros son públicos y cuáles privados?",
+  "options": [
+   "CWP es público; CW1, CW2 y CW3, privados",
+   "CW1, CW2 y CW3 son públicos; CWP, privado",
+   "Todos son públicos y los gestiona la aduana",
+   "CW1 es privado; CW2, CW3 y CWP, públicos"
+  ],
+  "answer": 1,
+  "explanation": "Según el resumen, los tipos CW1, CW2 y CW3 son públicos y el CWP es privado.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-084",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Con qué DUA se incluye una mercancía en un depósito aduanero o en un DDA según el resumen?",
+  "options": [
+   "Un T1, o un T2 si la mercancía es UE",
+   "Un DAE, o un AES si se va a exportar",
+   "Un DVD, o un IDA si la empresa es OEA",
+   "Un ATA, o un TIR si va por carretera"
+  ],
+  "answer": 2,
+  "explanation": "La inclusión en DA y DDA se hace con un DUA denominado DVD, o IDA en el caso de empresas OEA.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-085",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa trata un DDA como si fuera un depósito aduanero. ¿Qué error comete?",
+  "options": [
+   "Ninguno: son dos nombres del mismo régimen aduanero de depósito",
+   "El DDA solo admite mercancía de terceros sin despachar",
+   "El DDA es un almacén de depósito temporal de los puertos",
+   "El DDA es una figura fiscal del IVA, no un régimen aduanero"
+  ],
+  "answer": 3,
+  "explanation": "El depósito distinto del aduanero responde a una lógica de IVA (régimen suspensivo del IVA), no al régimen aduanero de depósito.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-086",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Dentro de un DDA se vende mercancía a un comprador nacional sin repercutir IVA. Cuando la saca, ¿cómo liquida el IVA según el resumen?",
+  "options": [
+   "Lo paga en aduana con el DUA de salida",
+   "Lo declara en el modelo 349",
+   "Queda exento y no se declara",
+   "Lo devenga y deduce en el modelo 380"
+  ],
+  "answer": 3,
+  "explanation": "Al extraer la mercancía del DDA, el comprador devenga y deduce el IVA en el modelo 380 (salvo minerales, en el 303).",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-087",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué mercancías de terceros países pueden usar el DDA desde 2016 según el resumen?",
+  "options": [
+   "Cualquier mercancía de terceros países, sin limitación por tipo de producto",
+   "Solo bienes de consumo destinados a la venta minorista",
+   "Solo las del art. 65 LIVA, como hidrocarburos o minerales",
+   "Solo maquinaria industrial para su reexportación"
+  ],
+  "answer": 2,
+  "explanation": "Desde 2016 el DDA solo puede usarse para mercancías de terceros países del art. 65 LIVA (p. ej., patatas, hidrocarburos, químicos a granel, caucho, minerales).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-088",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué se puede hacer en una zona franca además de almacenar?",
+  "options": [
+   "Reparar, transformar e incluso fabricar",
+   "Nada: solo se permite almacenar sin manipular",
+   "Solo vender al por menor sin aplicar el IVA",
+   "Solo reetiquetar para cambiar el origen"
+  ],
+  "answer": 0,
+  "explanation": "Además de las operaciones de un DA o DDA, en una zona franca se puede reparar, transformar e incluso fabricar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-089",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una zona franca está dentro del puerto de Barcelona. ¿Forma parte del territorio aduanero de la Unión?",
+  "options": [
+   "Sí: es parte del TAU con un régimen especial",
+   "No: las zonas francas están fuera del TAU",
+   "Solo si la mercancía que entra tiene estatuto de la Unión",
+   "No, salvo las zonas francas de las Canarias"
+  ],
+  "answer": 0,
+  "explanation": "Estar en zona franca no significa que el territorio deje de formar parte de la Unión: es una figura jurídica aduanera especial.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-090",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Cuál de estas ciudades NO figura entre las zonas francas españolas citadas en el resumen?",
+  "options": [
+   "Vigo",
+   "Valencia",
+   "Cádiz",
+   "Santander"
+  ],
+  "answer": 1,
+  "explanation": "El resumen cita Barcelona, Vigo, Cádiz, Sevilla, Santander, Las Palmas, Santa Cruz de Tenerife y, últimamente, Algeciras.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-091",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una zona franca no tiene acceso directo desde territorio tercero. ¿Cómo entra la mercancía según el resumen?",
+  "options": [
+   "Con un DUA de libre práctica en la aduana de entrada",
+   "Con DDT, tránsito e inclusión en el régimen",
+   "Con un cuaderno ATA sellado en la Cámara de Comercio",
+   "Directamente, sin ninguna declaración, por estar dentro del TAU"
+  ],
+  "answer": 1,
+  "explanation": "Con acceso directo: DDT y DUA de vinculación. Sin acceso directo: DDT, tránsito e inclusión en el régimen a la entrada o al ultimar el tránsito.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-092",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué es un LAME?",
+  "options": [
+   "Un depósito aduanero privado para mercancías de importación",
+   "Un local autorizado para mercancías de exportación",
+   "Un almacén de depósito temporal del aeropuerto",
+   "Un depósito fiscal de los impuestos especiales"
+  ],
+  "answer": 1,
+  "explanation": "El LAME facilita agrupamientos, controles y despachos de exportación sin llevar todos los envíos a un recinto público. No es un depósito aduanero.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-093",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Una empresa obtiene la certificación OEA. ¿Qué implica?",
+  "options": [
+   "Que ya no presenta declaraciones aduaneras en sus importaciones y exportaciones habituales",
+   "Facilidades, sin dejar de declarar ni de poder ser inspeccionada",
+   "Que queda exenta de pagar los aranceles de la Unión Europea",
+   "Que sus mercancías tienen origen comunitario a efectos de preferencias"
+  ],
+  "answer": 1,
+  "explanation": "El OEA reconoce fiabilidad y seguridad; facilita controles y simplificaciones (p. ej., garantía global), pero no elimina las declaraciones ni garantiza ausencia de inspecciones.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-094",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "¿Qué analiza la Administración para conceder el estatuto OEA?",
+  "options": [
+   "El volumen de exportaciones del último ejercicio",
+   "El número de trabajadores y la facturación",
+   "Cumplimiento, registros, solvencia y seguridad",
+   "La nacionalidad de los socios de la empresa"
+  ],
+  "answer": 2,
+  "explanation": "Se analiza historial de cumplimiento, sistemas de registros, solvencia, competencia profesional y estándares de seguridad, según el tipo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-095",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ },
+ {
+  "question": "Según los apuntes, ¿qué hay que identificar en cada caso de almacenamiento?",
+  "options": [
+   "Si es ADT, depósito aduanero, zona franca o DDA",
+   "El nombre comercial del almacén, que determina su régimen jurídico",
+   "Si el almacén está dentro de un puerto o de un aeropuerto",
+   "Si el almacén es de la naviera o del propio importador"
+  ],
+  "answer": 0,
+  "explanation": "ADT: situación de depósito temporal; DA y zona franca: regímenes especiales; DDA: figura fiscal del IVA. No basta con el nombre del edificio.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Procedimientos y Regímenes Aduaneros (clase de Natalia)",
+  "id": "adu-096",
+  "subject": "aduanas",
+  "subjectName": "Regímenes Aduaneros",
+  "topic": "Regímenes especiales"
+ }
 ]
