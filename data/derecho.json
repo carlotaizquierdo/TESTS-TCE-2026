@@ -102,7 +102,7 @@
     "question": "Una compañía española obtiene un laudo contra su comprador en un país parte del Convenio de Nueva York. El deudor alega que el árbitro valoró mal una prueba y exige repetir el litigio. ¿Qué distingue el reconocimiento del laudo?",
     "options": [
       "Permite reabrir la prueba si el deudor mantiene una discrepancia sustancial.",
-      "No es una nueva valoración general del fondo; se examinan causas tasadas de denegación.",
+      "No se revisa el fondo, salvo causas tasadas.",
       "Exige celebrar una segunda audiencia arbitral ante el tribunal de ejecución.",
       "Permite sustituir la decisión por la valoración comercial del juez local."
     ],
@@ -158,7 +158,7 @@
     "topic": "Conformidad mercaderías",
     "question": "Una empresa recibe un pedido de productos por sus usos industriales habituales; el comprador había comunicado expresamente un uso técnico especial y confiado en el criterio del vendedor. La mercancía sirve para el uso ordinario, pero no para el específico. ¿Qué aspecto decide el cumplimiento?",
     "options": [
-      "La aptitud para el uso especial comunicado y aceptado en las circunstancias del contrato.",
+      "La aptitud para el uso especial que se comunicó.",
       "La mera capacidad del bien para ser vendido a otros compradores.",
       "La coincidencia entre el precio de factura y el precio de mercado.",
       "La ausencia de reservas al cerrar el transporte internacional."
@@ -198,7 +198,7 @@
     "options": [
       "Si el retraso consta registrado por la empresa de transporte.",
       "Si la mercancía se mantuvo almacenada con garantías adecuadas.",
-      "Si la demora le privó sustancialmente de lo que podía esperar del contrato.",
+      "Si la demora produjo una privación sustancial de lo esperado.",
       "Si el comprador había obtenido financiación para la adquisición."
     ],
     "answer": 2,
@@ -218,7 +218,7 @@
       "La reducción unilateral del precio por falta de competitividad.",
       "La compraventa de bienes futuros con entrega no documentada.",
       "La rescisión automática por mero temor del distribuidor.",
-      "La reacción ante un incumplimiento futuro suficientemente manifiesto."
+      "La reacción ante un incumplimiento futuro manifiesto."
     ],
     "answer": 3,
     "explanation": "La CISG contempla remedios ante señales suficientemente claras de incumplimiento futuro; requieren condiciones y no una simple sospecha.",
@@ -234,7 +234,7 @@
     "topic": "Daños y perjuicios",
     "question": "Una empresa sufrió pérdidas por una entrega defectuosa y pretende recuperar el coste de reparación y el beneficio que dejó de obtener en ventas posteriores. ¿Qué lógica debe seguir?",
     "options": [
-      "Distinguir daño emergente y lucro cesante, justificando causalidad y límites de indemnización.",
+      "Distinguir daños y lucro cesante y justificar ambos.",
       "Exigir exclusivamente el coste de reparación documentado.",
       "Cobrar el margen futuro presupuestado sin demostrar su relación con el incumplimiento.",
       "Elegir entre reparar la mercancía y reclamar cualquier pérdida financiera."
@@ -254,7 +254,7 @@
     "question": "Una venta entre empresas españolas y estadounidenses se refiere a un lote de maquinaria, pero ninguna ha escrito una cláusula sobre la CISG. ¿Qué error de método debe evitarse?",
     "options": [
       "Comprobar los Estados y el carácter internacional de la venta.",
-      "Suponer que la CISG solo se aplica si las partes la citan expresamente.",
+      "Exigir un pacto expreso de aplicación de la CISG.",
       "Distinguir compraventa mercantil de prestaciones de servicios.",
       "Verificar si las partes han excluido válidamente la convención."
     ],
@@ -274,7 +274,7 @@
     "options": [
       "Presumir transmisión cuando se cumpla el despacho de importación.",
       "Identificar como propietario a quien soporte la prima de seguro.",
-      "Buscar la norma o cláusula que regule la propiedad: el Incoterm no la transmite.",
+      "La regla de propiedad aplicable, ajena al Incoterm.",
       "Resolverlo según el banco que emita la orden de pago."
     ],
     "answer": 2,
@@ -294,7 +294,7 @@
       "Una agencia en la que la empresa principal facture al cliente.",
       "Una mediación puntual remunerada al cerrar cada contacto.",
       "Un mandato para negociar exclusivamente sin adquirir mercancías.",
-      "Un contrato de distribución con compras y reventas por cuenta propia."
+      "Una distribución con reventa por cuenta propia."
     ],
     "answer": 3,
     "explanation": "En distribución hay doble compraventa y reventa por cuenta del distribuidor; en agencia el agente promueve o concluye operaciones por cuenta ajena.",
@@ -310,7 +310,7 @@
     "topic": "Agencia",
     "question": "Un agente lleva años captando clientes para una empresa. El principal rescinde y sostiene que todas las compensaciones se rigen por lo que hayan pactado, sin límites legales. ¿Qué matiz importa?",
     "options": [
-      "En agencia pueden operar normas imperativas que limitan la libertad de pactos.",
+      "Que la agencia puede estar sometida a límites legales imperativos.",
       "En contratos de agencia todas las compensaciones se pactan a voluntad.",
       "La indemnización por clientela depende únicamente del volumen vendido.",
       "El agente adquiere las existencias y por eso pierde las protecciones."
@@ -330,7 +330,7 @@
     "question": "Una empresa concede a un distribuidor exclusividad para vender en Portugal. El distribuidor afirma que la exclusividad equivale a actuar como representante legal del fabricante. ¿Qué distinción resulta esencial?",
     "options": [
       "La exclusividad obliga a que el fabricante facture al comprador final.",
-      "La exclusividad territorial no cambia que el distribuidor revenda en nombre y por cuenta propios.",
+      "La exclusividad no convierte al distribuidor en representante.",
       "La exclusividad convierte la reventa en una comisión de agencia.",
       "La exclusividad impide celebrar contratos de compraventa sucesivos."
     ],
@@ -386,7 +386,7 @@
     "topic": "Competencia e Incoterms",
     "question": "Una venta pacta FCA almacén del vendedor en Zaragoza y el comprador demanda por falta de entrega. En ausencia de sumisión, ¿por qué resulta relevante ese dato al estudiar el foro especial contractual?",
     "options": [
-      "Porque el lugar de entrega pactado puede orientar el foro de cumplimiento de la compraventa.",
+      "Porque puede señalar el lugar de cumplimiento de la compraventa.",
       "Porque FCA determina por sí solo la nacionalidad de ambas empresas.",
       "Porque cualquier Incoterm sustituye al Reglamento Bruselas I bis.",
       "Porque la mercancía pasa a ser propiedad del comprador en Zaragoza."
@@ -406,7 +406,7 @@
     "question": "Una sentencia dictada en un Estado miembro de la UE debe ejecutarse sobre activos situados en otro, en materia civil y mercantil cubierta por Bruselas I bis. ¿Qué afirmación confunde dos sistemas?",
     "options": [
       "Revisar que la resolución esté comprendida en el ámbito material aplicable.",
-      "Exigir un exequátur general previo como si se tratara de una sentencia de un tercer Estado.",
+      "Exigir un exequátur general antes de ejecutarla.",
       "Aportar la documentación y certificaciones que exige el Reglamento.",
       "Considerar los motivos tasados para denegar reconocimiento o ejecución."
     ],
@@ -426,7 +426,7 @@
     "options": [
       "Elegir exclusivamente el idioma del país con mayor facturación.",
       "Sustituir la cláusula de foro por una mención a los Incoterms.",
-      "Precisar la versión lingüística prevalente y coordinar las cláusulas de controversias.",
+      "Fijar versión lingüística prevalente y cláusulas de litigio.",
       "Confiar en que ambas partes interpretarán igual la traducción."
     ],
     "answer": 2,
@@ -446,7 +446,7 @@
       "La CISG solo es un instrumento de solución de litigios sobre transporte.",
       "La CISG sustituye la normativa interna relativa a derechos reales.",
       "La CISG regula la validez si las partes negocian entre sociedades.",
-      "Esas cuestiones quedan, en principio, fuera del ámbito material de la CISG."
+      "La CISG deja fuera validez y propiedad como regla general."
     ],
     "answer": 3,
     "explanation": "La CISG regula formación y obligaciones sustantivas de compraventa, pero excluye en principio validez y propiedad.",
@@ -462,7 +462,7 @@
     "topic": "Denuncia defectos",
     "question": "Una compradora descubre una posible falta de conformidad y espera varios meses antes de comunicarla, pese a haber podido examinar y describir el defecto oportunamente. ¿Qué riesgo contractual asume?",
     "options": [
-      "Perder determinados remedios por falta de denuncia dentro de plazo razonable.",
+      "Perder remedios por notificar defectos fuera de plazo.",
       "Convertir la compraventa en un contrato de depósito comercial.",
       "Transferir de vuelta la propiedad de forma automática al vendedor.",
       "Obtener una prórroga del periodo de garantía por el mero retraso."
