@@ -1,6 +1,7 @@
-const BANK_FILES=["derecho","logistica","iva","aduanas"];
+const BANK_FILES=["derecho","negociacion","logistica","iva","aduanas"];
 const LABELS={
   derecho:"Contratación Internacional",
+  negociacion:"Técnicas de Negociación",
   logistica:"Logística y Transporte Internacional · Incoterms® 2020",
   iva:"IVA · Comercio exterior",
   aduanas:"Regímenes Aduaneros"
@@ -13,7 +14,7 @@ const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\
 
 async function loadBanks(){
   const chunks=await Promise.all(BANK_FILES.map(async f=>{
-    const r=await fetch("data/"+f+".json?v=20261023b",{cache:"no-store"});
+    const r=await fetch("data/"+f+".json?v=20261027a",{cache:"no-store"});
     if(!r.ok)throw new Error("No se pudo cargar "+f+" (HTTP "+r.status+")");
     const data=await r.json();
     if(!Array.isArray(data))throw new Error("Formato incorrecto en "+f);

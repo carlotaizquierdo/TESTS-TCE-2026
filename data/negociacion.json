@@ -1,0 +1,1658 @@
+[
+ {
+  "question": "Un proveedor y un cliente se reúnen, pero el cliente ha decidido de antemano no cerrar nada y solo quiere información de precios. ¿Es una negociación según Durán?",
+  "options": [
+   "Sí: hay dos partes reunidas sobre un asunto concreto",
+   "Sí, porque se intercambian posiciones",
+   "No: falta la intención de llegar a un acuerdo",
+   "No, porque no hay un contrato escrito"
+  ],
+  "answer": 2,
+  "explanation": "Es imprescindible el interés de ambas partes en llegar a un acuerdo. Que no exista intención de acuerdo es una de las cosas que «no es negociar».",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-001",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En la primera reunión, un comprador empieza a regatear el precio sin haber preguntado qué necesita el proveedor ni qué necesita él mismo. ¿Qué error comete?",
+  "options": [
+   "Ver al otro como un enemigo a vencer",
+   "Regatear antes de detectar necesidades",
+   "Ceder demasiado pronto en lo principal",
+   "Usar la técnica del ancla sin datos"
+  ],
+  "answer": 1,
+  "explanation": "Regatear antes de detectar necesidades es, junto a ver al otro como enemigo y no querer acuerdo, una de las tres cosas que no es negociar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-002",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Durante una negociación tensa, un directivo dice: «Su jefe de compras es un incompetente y por eso no avanzamos». ¿Qué principio rompe?",
+  "options": [
+   "Buscar el límite de los «noes» de la otra parte",
+   "Poner en cuarentena la información que es dudosa",
+   "Enfrentarse a los problemas y no a las personas",
+   "Marcar y consensuar los tiempos de la negociación"
+  ],
+  "answer": 2,
+  "explanation": "La negociación busca eliminar diferencias enfrentándose a los problemas o discrepancias, no a las personas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-003",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué persigue la negociación, según la definición de clase?",
+  "options": [
+   "Imponer la propia posición con los mejores argumentos posibles",
+   "Lograr el máximo beneficio propio aunque se pierda la relación",
+   "Aplazar el conflicto hasta que una de las partes se canse",
+   "Acercar posiciones hasta un acuerdo lo más beneficioso para todos"
+  ],
+  "answer": 3,
+  "explanation": "Es la relación entre dos o más personas sobre un asunto con la intención de acercar posiciones y llegar a un acuerdo lo más beneficioso para todos, eliminando diferencias gradualmente.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-004",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Antes de negociar con un distribuidor, una exportadora sabe qué quiere, cuánto tiempo tiene y qué hará si no hay acuerdo (vender por su web). ¿Qué es esto último?",
+  "options": [
+   "Su alternativa externa o umbral si no hay acuerdo",
+   "Su ancla inicial para fijar el precio de salida",
+   "Su plan de cierre para concretar los acuerdos",
+   "Su objetivo principal en la negociación"
+  ],
+  "answer": 0,
+  "explanation": "Entre las preguntas previas está con qué alternativa externa cuento si no hay acuerdo (umbral). Conocerla da firmeza y permite admitir no cerrar.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-005",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Cuál de estas preguntas NO está entre las que hay que saber responder antes de negociar?",
+  "options": [
+   "¿Qué técnica usará la otra parte en el cierre?",
+   "¿Qué es lo que está en juego en esta negociación?",
+   "¿Cuáles son los objetivos del otro lado de la mesa?",
+   "¿Qué tiempo tengo para llegar a una resolución?"
+  ],
+  "answer": 0,
+  "explanation": "Las preguntas son: qué está en juego, recompensas, objetivos propios, objetivos del otro, información relevante, tiempo disponible y alternativa externa (umbral).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-006",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador júnior da por hecho que el cliente quiere precio bajo, y no le pregunta nada. Resulta que lo que le importaba era el plazo de entrega. ¿Qué lección del «niño» ignoró?",
+  "options": [
+   "Insistir hasta llevar al otro al límite",
+   "Ceder cuando sea necesario",
+   "Jugar las cartas con eficiencia",
+   "Preguntar mucho y no presuponer"
+  ],
+  "answer": 3,
+  "explanation": "Los niños hacen muchas preguntas: evita presuponer, es muy peligroso. Las otras también son lecciones del niño, pero aquí falló la de preguntar.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-007",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un niño pide un helado, le dicen que no, y sigue pidiéndolo con otros argumentos hasta conseguirlo. ¿Qué enseñanza para el negociador ilustra?",
+  "options": [
+   "Hay que ceder pronto para cuidar la relación",
+   "Conviene evitar pedir lo que se necesita",
+   "Lo mejor es presuponer lo que quiere el otro",
+   "Insistir y no aceptar el primer no"
+  ],
+  "answer": 3,
+  "explanation": "Del niño aprendemos a preguntar, pedir lo que necesitamos, insistir, llevar al límite si hace falta, jugar las cartas con eficiencia y ceder cuando sea necesario.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-008",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Cuáles son las cinco competencias del perfil del negociador que muestra el esquema de clase?",
+  "options": [
+   "Planificación, comunicación, escucha activa, inteligencia emocional e influencia",
+   "Agresividad, rapidez, intuición, improvisación y dominio técnico del producto",
+   "Idiomas, contabilidad, derecho, logística y conocimiento de aduanas",
+   "Paciencia, carisma, autoridad, memoria y capacidad para regatear"
+  ],
+  "answer": 0,
+  "explanation": "El perfil gira en torno a organización y planificación, comunicación, escucha activa, inteligencia emocional y persuasión e influencia.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-009",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una negociadora consigue sintonizar con su interlocutor adaptando su ritmo y su tono al de él. ¿Cómo se llama esa habilidad?",
+  "options": [
+   "Ancla: fijar un punto de partida alto",
+   "Farol: insinuar otra oferta mejor",
+   "Rapport: sintonía y acompasamiento",
+   "Umbral: la alternativa sin acuerdo"
+  ],
+  "answer": 2,
+  "explanation": "Entre las competencias del negociador está practicar la escucha activa y el rapport, entendido como sintonía y acompasamiento.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-010",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador está tan obsesionado con cerrar que acepta cualquier condición antes que levantarse de la mesa. ¿Qué competencia le falta?",
+  "options": [
+   "Ser un gran comunicador y entusiasta con la negociación",
+   "Cuidar el lenguaje corporal durante toda la reunión",
+   "Identificar opciones creadoras de valor para ambas partes",
+   "Admitir no llegar a acuerdo y anticipar la mejor alternativa"
+  ],
+  "answer": 3,
+  "explanation": "El buen negociador admite la posibilidad de no llegar a un acuerdo y anticipa la mejor solución alternativa. En el cierre: mejor no llegar a acuerdo que aceptar uno del que arrepentirse.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-011",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un comercial cede su margen principal en la primera reunión para «quedar bien», aunque el cliente no lo pedía. ¿Qué competencia descuida?",
+  "options": [
+   "No ceder en los intereses principales y ser paciente",
+   "Mantener una visión de las relaciones a largo plazo",
+   "Tener en cuenta los intereses de todas las partes",
+   "Prepararse cada negociación con información"
+  ],
+  "answer": 0,
+  "explanation": "Entre las competencias está no ceder en los intereses principales y ser paciente.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-012",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador sacrifica la relación con un cliente estratégico para ganar 2 € por unidad en un pedido puntual. ¿Qué competencia olvida?",
+  "options": [
+   "Ser firme, sólido y con autoconfianza en sí mismo",
+   "Una visión a medio y largo plazo de las relaciones",
+   "Ser observador y saber gestionar la información",
+   "Gestionar las emociones siendo resolutivo y conociendo sus metas"
+  ],
+  "answer": 1,
+  "explanation": "El negociador debe mantener una visión a medio y largo plazo de las relaciones y tener en cuenta los intereses de todas las partes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-013",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Según los apuntes, ¿cuáles son las cuatro fases de la negociación, en orden?",
+  "options": [
+   "Planificación, análisis, cierre y discusión",
+   "Análisis, planificación, discusión y cierre",
+   "Preparación, ancla, concesión y firma",
+   "Análisis, discusión, planificación y cierre"
+  ],
+  "answer": 1,
+  "explanation": "Las fases son análisis, planificación, discusión y cierre. El cierre es el momento en que se concretan los acuerdos.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-014",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Antes de reunirse, un equipo estudia la situación del proveedor chino: su presión de costes, sus clientes y qué podría estar ocultando. ¿En qué fase están?",
+  "options": [
+   "Planificación",
+   "Discusión",
+   "Análisis",
+   "Cierre"
+  ],
+  "answer": 2,
+  "explanation": "En el análisis cada parte debe entender la situación del otro sin juicios preconcebidos (empatía) e interpretar sus intereses ocultos.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-015",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un equipo elabora una lista de lo que es importante para ellos y en qué plazos, lo que puede importar al otro y los límites de ambos. ¿Qué están haciendo?",
+  "options": [
+   "El análisis empático de la posición del otro",
+   "El plan de acción de la fase de planificación",
+   "La exposición de pretensiones en la discusión",
+   "La revisión de obligaciones de seguimiento"
+  ],
+  "answer": 1,
+  "explanation": "La planificación define la estrategia, que lleva a un plan de acción (aspectos importantes, plazos, límites) y a un plan de cierre. El plan permite medir.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-016",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Por qué insiste Durán en tener un plan en la fase de planificación?",
+  "options": [
+   "Porque obliga a la otra parte a aceptar nuestros plazos",
+   "Porque sustituye a la fase de análisis de la otra parte",
+   "Porque así se evita tener que llegar a la fase de cierre",
+   "Porque permite medir si lo estamos haciendo bien o mal"
+  ],
+  "answer": 3,
+  "explanation": "La estrategia lleva a un plan de acción y a un plan de cierre, y un plan permite medir si lo estamos haciendo bien o mal.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-017",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Ambas partes exponen sus posiciones y defienden sus pretensiones con argumentos y razones. ¿En qué fase están y cómo debería desarrollarse?",
+  "options": [
+   "Análisis, buscando los intereses ocultos del otro",
+   "Planificación, con la mayor presión que se pueda",
+   "Discusión, de forma calmada y cuidando las formas",
+   "Cierre, aceptando las peticiones de última hora"
+  ],
+  "answer": 2,
+  "explanation": "En la discusión ambas partes muestran posiciones y argumentos; debe ser calmada, libre de tensiones y cuidando las formas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-018",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "La otra parte defiende una posición que te parece equivocada y poco inteligente. ¿Qué actitud recomienda la fase de análisis?",
+  "options": [
+   "Desmontarla con datos para ganar fuerza",
+   "No reírse de ella ni luchar por destruirla",
+   "Ignorarla y centrarse en la propia oferta",
+   "Aceptarla para no romper la negociación"
+  ],
+  "answer": 1,
+  "explanation": "Que no compartamos una posición no significa que no sea inteligente; y si no lo es, tampoco debemos reírnos de ella ni luchar por destruirla.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-019",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un exportador propone a un distribuidor duplicar las ventas en tres meses en un mercado estancado. ¿Qué principio del análisis incumple?",
+  "options": [
+   "Interpretar los intereses ocultos del otro",
+   "Hacer propuestas realistas y alcanzables",
+   "Cuidar la comunicación no verbal",
+   "Medir los resultados con un plan"
+  ],
+  "answer": 1,
+  "explanation": "En la fase de análisis se pide hacer propuestas realistas y alcanzables.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-020",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un proveedor insiste en hablar de precio, pero lo que de verdad le preocupa es asegurar volumen para no cerrar una línea. ¿Qué debe descubrir su interlocutor?",
+  "options": [
+   "Su ancla de salida",
+   "Sus intereses ocultos",
+   "Su autoridad superior",
+   "Su perfil evitativo"
+  ],
+  "answer": 1,
+  "explanation": "Interpretar los intereses ocultos de la otra parte es una de las claves de la fase de análisis.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-021",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una negociadora llega a la reunión con la información estructurada y los argumentos preparados, y no improvisa. ¿Qué paso del método aplica?",
+  "options": [
+   "Escuchar activamente al otro",
+   "No tener ninguna prisa",
+   "Saber qué queremos transmitir",
+   "Buscar el límite de sus noes"
+  ],
+  "answer": 2,
+  "explanation": "El primer paso del método es saber lo que queremos transmitir: hablar con propósito, preparar, automatizar y evitar improvisaciones. Así se controlan los nervios.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-022",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Por qué recomienda el método «automatizar» la reunión y evitar improvisar?",
+  "options": [
+   "Cuanto más control, más energía para lo importante y menos tangentes",
+   "Porque así la otra parte no puede plantear objeciones de ningún tipo",
+   "Porque los guiones evitan tener que escuchar a la otra parte",
+   "Porque improvisar transmite fortaleza y desconcierta al rival"
+  ],
+  "answer": 0,
+  "explanation": "Cuanto más controlado, más podemos centrar la energía; menos control, más opciones de irse por la tangente y perderse. Además reduce los nervios.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-023",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Según el método, ¿qué proporción del tiempo debería dedicar el negociador a escuchar?",
+  "options": [
+   "En torno al 90 %",
+   "Alrededor del 50 %",
+   "Alrededor del 25 %",
+   "Solo al final"
+  ],
+  "answer": 0,
+  "explanation": "Hablar sin parar es un problema; lo inteligente es escuchar en torno a un 90 % del tiempo, como hace el niño.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-024",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "La otra parte termina su exposición y se hace un silencio largo. Tu compañero quiere rellenarlo enseguida. ¿Qué aconseja el método?",
+  "options": [
+   "Rellenarlo con una pequeña concesión para destensar la reunión",
+   "Gestionar el silencio y no interrumpir",
+   "Romperlo con una pregunta cerrada para forzar un sí",
+   "Levantarse para mostrar que no se acepta la oferta"
+  ],
+  "answer": 1,
+  "explanation": "Saber gestionar el silencio, esperar a que el otro termine y no interrumpir da la imagen de fortaleza y de tener claro lo que quieres.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-025",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Ante una petición, un negociador responde: «No, porque no me da la gana». ¿Qué dice el método?",
+  "options": [
+   "Es firmeza y conviene usarla",
+   "Es una objeción por falta de datos",
+   "Es la técnica de autoridad superior",
+   "Evitar las negativas injustificadas"
+  ],
+  "answer": 3,
+  "explanation": "Dentro de la escucha activa se pide evitar las negativas injustificadas («porque no me da la gana», «porque sí»).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-026",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "El comprador te dice que necesita cerrar hoy porque su barco sale mañana. Tú no tienes urgencia. ¿Qué principio del método juega a tu favor?",
+  "options": [
+   "Hay que cerrar rápido para no perder la confianza del cliente",
+   "Hay que igualar su prisa para mostrar empatía en la discusión",
+   "Hay que aceptar sus plazos porque el tiempo no tiene coste",
+   "No hay que tener prisa: si el otro la tiene, mejor para nosotros"
+  ],
+  "answer": 3,
+  "explanation": "El tercer paso del método es no tener prisa: si la otra parte la tiene, mejor para nosotros. El tiempo es un factor clave.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-027",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En el ejercicio del barco, cuatro exportadores necesitan subir 10.000 cajas perecederas cada uno, pero solo caben 25.000 y por lotes de 5.000. ¿Qué enfoque busca la actividad?",
+  "options": [
+   "Buscar entre todos un reparto y compensaciones que eviten pérdidas",
+   "Que cada uno intente subir sus 10.000 cajas antes que el resto",
+   "Que se abandone la negociación porque no hay solución posible",
+   "Que el más fuerte imponga el reparto a los demás exportadores"
+  ],
+  "answer": 0,
+  "explanation": "Es una actividad para practicar acercar posiciones: con 5 lotes para 4 partes hay que crear opciones (compensaciones, repartos) en lugar de competir.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-028",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Tu cliente rechaza tu primera propuesta con un «no». ¿Qué actitud recomienda Durán?",
+  "options": [
+   "Seguir intentándolo y buscar el límite de sus noes",
+   "Retirarse para no dañar la relación comercial",
+   "Aceptar su contrapropuesta para cerrar rápido y no perder el pedido",
+   "Rebajar el precio hasta que deje de decir no"
+  ],
+  "answer": 0,
+  "explanation": "Todos tenemos un número determinado de «noes»: hay que buscar el límite. No aceptamos un no a la primera; como el niño, seguimos intentándolo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-029",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Dos empresas tienen posiciones opuestas sobre el plazo de pago. Un directivo concluye que no habrá acuerdo. ¿Qué responde el enfoque de clase?",
+  "options": [
+   "Que hay que imponer la posición del que tiene más poder",
+   "Que lo sensato es abandonar y buscar otro socio",
+   "Que haya dos posiciones no implica que no haya acuerdo",
+   "Que conviene dividir la diferencia a partes iguales"
+  ],
+  "answer": 2,
+  "explanation": "Que haya dos posiciones no implica que no haya acuerdo: hay que tener determinación y seguir hacia los objetivos. El no no es una solución.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-030",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué significa que «el NO no es una solución»?",
+  "options": [
+   "Que no se debe decir no a la otra parte en una negociación",
+   "Que un no cierra la negociación y hay que pasar a otra empresa",
+   "Que el no solo vale si lo dice la persona que puede decidir",
+   "Que ante un no hay que buscar una solución que permita el acuerdo"
+  ],
+  "answer": 3,
+  "explanation": "El no por sí mismo no resuelve nada: hay que buscar una solución que permita llegar al acuerdo.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-031",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un importador objeta: «No veo qué gano yo cambiando de proveedor». ¿Qué causa de objeción hay detrás?",
+  "options": [
+   "No es la persona que puede tomar decisiones",
+   "No le hemos dado información suficiente",
+   "No termina de entender cuál es su beneficio",
+   "Está usando la técnica del farol con nosotros"
+  ],
+  "answer": 2,
+  "explanation": "Las cuatro causas son: falta de información, falta de argumentos convincentes, no entender su beneficio y no ser quien decide (y ganar tiempo).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-032",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Tu interlocutor plantea objeción tras objeción sin mucho sentido, y notas que siempre dice que «lo tiene que ver». ¿Qué causa sospechas?",
+  "options": [
+   "Que no puede decidir y quiere ganar tiempo",
+   "Que no le has convencido con los argumentos que has planteado",
+   "Que le falta información sobre el producto",
+   "Que está buscando el límite de tus noes"
+  ],
+  "answer": 0,
+  "explanation": "Una de las causas es que no es la persona que puede tomar decisiones y usa las objeciones para ganar tiempo y dilatar el proceso.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-033",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un comprador dice: «No sé qué garantías ofrecéis si la carga llega dañada». ¿A qué causa de objeción responde mejor?",
+  "options": [
+   "No es la persona con capacidad de decisión",
+   "Está aplicando la técnica de bolsillos vacíos",
+   "No le hemos facilitado información suficiente",
+   "Su perfil es evitativo y quiere desgastarnos"
+  ],
+  "answer": 2,
+  "explanation": "Es una objeción típica en un contrato de exportación: falta información sobre garantías. Se resuelve aportando datos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-034",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Has dado al cliente toda la información técnica, pero sigue sin estar de acuerdo con que tu solución sea mejor. ¿Qué causa de objeción es la más probable?",
+  "options": [
+   "No le hemos convencido con los argumentos",
+   "No le hemos facilitado la información suficiente",
+   "No es la persona que toma las decisiones finales en su empresa",
+   "Ha decidido aplicar un ancla muy alta de salida"
+  ],
+  "answer": 0,
+  "explanation": "Si la información ya está, la objeción apunta a que los argumentos no han convencido.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-035",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En un acuerdo de distribución exclusiva, el distribuidor objeta: «La exclusividad limita mis opciones con otros proveedores». ¿Cómo encaja?",
+  "options": [
+   "Es una negativa injustificada que conviene ignorar para avanzar en el resto",
+   "Es una objeción típica que hay que gestionar",
+   "Es una técnica de autoridad superior encubierta",
+   "Es una prueba de que la negociación ha fracasado"
+  ],
+  "answer": 1,
+  "explanation": "Es uno de los ejemplos de objeción del acuerdo de distribución exclusiva. Se gestiona aportando información, argumentos o beneficios.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-036",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En plena reunión, el proveedor te da un dato de mercado que te parece raro y no puedes comprobar. ¿Qué haces?",
+  "options": [
+   "Aceptarlo para no romper la confianza",
+   "Rechazarlo de plano como una mentira",
+   "Ponerlo en cuarentena hasta verificarlo",
+   "Contestar con otro dato igual de dudoso"
+  ],
+  "answer": 2,
+  "explanation": "Ojo con los datos que no son reales: la información que no sepas o te parezca rara, la pones en cuarentena. Con buena información no te engañan.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-037",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un comprador te dice: «Esto lo entendería hasta mi hijo; tu compañero era mucho mejor». ¿Qué es y cómo reaccionar?",
+  "options": [
+   "Abuso psicológico: evítalo y busca otra vía",
+   "Una objeción porque falta información clave",
+   "La técnica del bueno y el malo",
+   "Un ancla para que revises tus límites"
+  ],
+  "answer": 0,
+  "explanation": "El abuso psicológico hay que evitarlo y buscar vías alternativas. Los ejemplos de clase son justo esas frases.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-038",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "La otra parte te presiona: «Si no firmas hoy, hay diez proveedores esperando». ¿Qué idea de clase te ayuda a mantener la calma?",
+  "options": [
+   "Si estoy sentado en la mesa es porque me necesitan",
+   "Si me presionan es que tienen una alternativa mejor",
+   "Si no cedo ahora perderé cualquier opción de acuerdo",
+   "Si amenazan conviene responder con otra amenaza"
+  ],
+  "answer": 0,
+  "explanation": "Evitar tácticas de presión: si estoy sentado en la mesa es porque me necesitas; puedo ser uno más o el único, pero me necesitas.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-039",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador promete enviar un informe el lunes y lo envía el lunes, sin excusas. ¿Qué gana con ello?",
+  "options": [
+   "Poder para fijar un ancla",
+   "Una alternativa externa",
+   "Credibilidad y confianza",
+   "Margen para un farol"
+  ],
+  "answer": 2,
+  "explanation": "Hay que establecer criterios éticos (transparencia, credibilidad): decir que vas a hacer algo y cumplirlo. Ganar credibilidad es fundamental.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-040",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué dice Durán sobre los tiempos y plazos en una negociación?",
+  "options": [
+   "Conviene no hablar de plazos para tener más margen de maniobra al final",
+   "Hay que marcarlos, acotarlos y consensuarlos",
+   "Los fija la parte con más poder, sin consultar",
+   "Solo importan en la fase de cierre del acuerdo"
+  ],
+  "answer": 1,
+  "explanation": "Hay que llegar a un acuerdo sobre tiempos y plazos, acotarlos, tenerlos presentes, marcarlos y consensuarlos.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-041",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una negociación se alarga cuatro meses mientras tu competidor firma con el cliente que tú querías. ¿Qué concepto de clase explica esa pérdida?",
+  "options": [
+   "El señuelo de la tentación",
+   "El coste de oportunidad",
+   "El límite de los noes",
+   "La técnica del ancla"
+  ],
+  "answer": 1,
+  "explanation": "El tiempo tiene un coste, que es el coste de oportunidad.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-042",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Todo está pactado y, al ir a firmar, el cliente pide «solo un detalle más»: un 3 % extra de descuento. ¿Qué recomienda el cierre?",
+  "options": [
+   "Aceptarlo para no perder el acuerdo",
+   "No aceptar demandas de última hora",
+   "Volver a la fase de análisis",
+   "Responder con un farol de otra oferta"
+  ],
+  "answer": 1,
+  "explanation": "En el cierre no hay que aceptar demandas de última hora.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-043",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "El cliente dice: «Estamos muy satisfechos con lo que hemos debatido, pero…». ¿De qué te advierte el cierre?",
+  "options": [
+   "De que el acuerdo ya está cerrado y solo queda firmar",
+   "De que la otra parte va a romper la negociación ya",
+   "De que hay que conceder algo para mantener el buen clima",
+   "De que la euforia puede traicionarte"
+  ],
+  "answer": 3,
+  "explanation": "La euforia puede traicionarnos; hay que prepararse cuando digan «estamos muy satisfechos, pero…», porque suele venir una petición.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-044",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Al repasar el acuerdo final te das cuenta de que hiciste una concesión que fue un error. ¿Qué aconseja Durán?",
+  "options": [
+   "Admitir el error y rectificar",
+   "Callar para no perder credibilidad",
+   "Firmar y compensarlo en otro contrato",
+   "Pedir a cambio una concesión mayor"
+  ],
+  "answer": 0,
+  "explanation": "Si no está convencido, admita errores y rectifique: el que comete un error y no lo rectifica comete dos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-045",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Firmado un acuerdo de suministro, nadie fijó quién revisaría las entregas ni cuándo. ¿Qué aspecto del cierre se olvidó?",
+  "options": [
+   "Las obligaciones de seguimiento",
+   "Las demandas de última hora de la otra parte",
+   "El ancla inicial que fijaba el precio de salida",
+   "El análisis de los intereses ocultos del otro"
+  ],
+  "answer": 0,
+  "explanation": "En el cierre hay que explorar condiciones que puedan limitar el cumplimiento y especificar obligaciones de seguimiento, la gran olvidada.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-046",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Tras semanas negociando, el único acuerdo posible te deja peor que tu alternativa externa. ¿Qué principio del cierre aplicas?",
+  "options": [
+   "Firmar igualmente para amortizar todo el tiempo que ya se ha invertido",
+   "Mejor no llegar a acuerdo que uno del que arrepentirse",
+   "Aceptar y renegociar las condiciones dentro de un año",
+   "Pedir una autoridad superior que imponga un acuerdo"
+  ],
+  "answer": 1,
+  "explanation": "Es preferible no llegar a un acuerdo que aceptar uno del que tengamos que arrepentirnos.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-047",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Por qué el cierre es uno de los momentos más difíciles y estresantes de la negociación cara a cara?",
+  "options": [
+   "Porque es cuando se analiza al otro",
+   "Porque es cuando se fija la estrategia",
+   "Porque se concretan los acuerdos",
+   "Porque es cuando se exponen posiciones"
+  ],
+  "answer": 2,
+  "explanation": "El cierre es uno de los momentos más difíciles y estresantes porque es el momento en que se concretan los acuerdos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-048",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un consultor abre pidiendo 250.000 € por un proyecto de transformación cultural que tú valorabas en 60.000 €. ¿Qué técnica usa y qué busca?",
+  "options": [
+   "El farol: que creas que tiene otro cliente",
+   "El ancla: que revises tus límites al alza",
+   "Bolsillos vacíos: que rebajes tu oferta",
+   "Autoridad superior: que no cierres hoy"
+  ],
+  "answer": 1,
+  "explanation": "En el ancla la otra parte abre con una petición mucho más alta de lo imaginado para que nos replanteemos nuestros límites. Ante ella: revisar el planteamiento o abandonar.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-049",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿En qué tipo de negociación resulta más eficaz el ancla?",
+  "options": [
+   "Cuando hay un precio de mercado público y muy conocido por todos",
+   "Cuando se negocia con una autoridad superior que tiene poco poder",
+   "Cuando ambas partes tienen prisa por cerrar antes de fin de mes",
+   "Cuando lo negociado es subjetivo o intangible y difícil de valorar"
+  ],
+  "answer": 3,
+  "explanation": "El ancla es interesante cuando lo que se negocia es subjetivo o intangible, porque valorarlo es complicado.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-050",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Ante un ancla desproporcionada que aleja mucho los límites, ¿qué dos opciones tienes según Durán?",
+  "options": [
+   "Revisar tu planteamiento o abandonar",
+   "Aceptarla o pedir una autoridad superior",
+   "Responder con un farol o con otra ancla",
+   "Dividir la diferencia a partes iguales o aplazar la reunión"
+  ],
+  "answer": 0,
+  "explanation": "Ante el ancla, las opciones son revisar el planteamiento o abandonar la negociación.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-051",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En una reunión, la directora financiera se muestra intransigente y luego el director comercial ofrece una salida «más razonable». ¿Qué técnica están usando?",
+  "options": [
+   "La técnica del ancla",
+   "La técnica del farol",
+   "El bueno y el malo",
+   "Bolsillos vacíos"
+  ],
+  "answer": 2,
+  "explanation": "En el bueno y el malo se adopta primero una postura dura y extrema y luego otra más asumible; con dos personas, una hace de dialogante y otra de dura.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-052",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué riesgo tiene la técnica del bueno y el malo y de qué depende su éxito?",
+  "options": [
+   "Que el bueno ceda demasiado pronto; depende de que el malo hable durante más tiempo",
+   "Que la otra parte acepte rápido; depende de fijar un ancla muy alta",
+   "Exagerar la parte mala rompe la negociación; depende de la credibilidad",
+   "Que se alarguen los plazos; depende de tener una autoridad superior"
+  ],
+  "answer": 2,
+  "explanation": "No hay que exagerar la parte mala o se puede romper la negociación. Su éxito radica en la credibilidad: si el otro se percata, pierde toda su fuerza.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-053",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un cliente te dice: «Tengo otra oferta mucho mejor sobre la mesa; mejora la tuya o me voy». ¿Qué técnica sospechas?",
+  "options": [
+   "El ancla",
+   "El bueno y el malo",
+   "Autoridad superior",
+   "El farol"
+  ],
+  "answer": 3,
+  "explanation": "El farol consiste en pedir que mejoren la oferta alegando otra más interesante.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-054",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Por qué, según Durán, en la mayoría de los casos esa «oferta mejor» es un farol?",
+  "options": [
+   "Porque las ofertas de la competencia suelen ser confidenciales",
+   "Si fuera tan buena, no tendría sentido seguir negociando contigo",
+   "Porque nadie negocia con dos proveedores al mismo tiempo",
+   "Porque la ley prohíbe mencionar ofertas de terceros"
+  ],
+  "answer": 1,
+  "explanation": "Si la otra parte tuviera una propuesta tan interesante, no tendría sentido que se sentara a negociar con nosotros.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-055",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una start-up dice a un proveedor: «Nos encanta tu solución y la queremos, pero solo tenemos 20.000 € este año». ¿Qué técnica usa?",
+  "options": [
+   "El farol",
+   "Bolsillos vacíos",
+   "El ancla",
+   "El bueno y el malo"
+  ],
+  "answer": 1,
+  "explanation": "En bolsillos vacíos mostramos que el planteamiento nos interesa mucho pero no tenemos recursos suficientes.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-056",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué se puede conseguir con la técnica de bolsillos vacíos?",
+  "options": [
+   "Que rebaje sus pretensiones o se pacte una compensación",
+   "Que el otro suba su oferta por miedo a perder el acuerdo",
+   "Que la decisión pase a una autoridad superior de la empresa con más presupuesto",
+   "Que se aplace la negociación hasta el próximo ejercicio"
+  ],
+  "answer": 0,
+  "explanation": "Podemos conseguir que la otra parte rebaje sus pretensiones, cerrando el acuerdo o estableciendo un plan de compensación alternativo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-057",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Negocias con un comprador que en cada punto dice: «Lo tengo que consultar con mi director». ¿Qué no debes hacer?",
+  "options": [
+   "Escuchar sus objeciones con atención",
+   "Preparar la información estructurada",
+   "Acordar con él tiempos y plazos",
+   "Agotar todas tus concesiones con él"
+  ],
+  "answer": 3,
+  "explanation": "En la autoridad superior negociamos con alguien sin capacidad de decisión: no hay que agotar las opciones, o la negociación quedará vendida sin margen para mejorarla con quien decide.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-058",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿En qué consiste la técnica de la autoridad superior?",
+  "options": [
+   "Negociar mediante un intermediario que no puede cerrar sin consultar",
+   "Pedir que intervenga un juez o un árbitro para resolver el conflicto",
+   "Imponer la decisión por ser la parte con mayor poder económico",
+   "Subir el nivel jerárquico de la reunión para presionar al otro"
+  ],
+  "answer": 0,
+  "explanation": "Consiste en usar un intermediario para negociar, de modo que la otra parte no puede cerrar el trato sin que se consulte con la autoridad superior.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-059",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una empresa abre con una petición exagerada y, cuando el otro protesta, dice que «tiene otra oferta mejor». ¿Qué técnicas ha combinado, en orden?",
+  "options": [
+   "Farol y bolsillos vacíos",
+   "Bueno y malo y ancla",
+   "Ancla y luego farol",
+   "Ancla y autoridad superior"
+  ],
+  "answer": 2,
+  "explanation": "Abrir muy alto es el ancla; alegar otra oferta para que mejoren la propia es el farol.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-060",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un comprador necesita cerrar un pedido urgente esta semana y está convencido de que dialogar con el proveedor no servirá. ¿Qué perfil suele adoptarse en ese caso?",
+  "options": [
+   "Acomodativo",
+   "Colaborativo",
+   "Evitativo",
+   "Competitivo"
+  ],
+  "answer": 3,
+  "explanation": "El competitivo se usa cuando se necesita una solución rápida o se está convencido de que el diálogo no dará resultado. Yo gano, tú pierdes.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-061",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una pyme acepta peores condiciones en un primer pedido con una gran cadena porque lo que quiere es entrar y mantener la relación. ¿Qué perfil adopta?",
+  "options": [
+   "Comprometido: ambos ganan y pierden algo a la vez",
+   "Colaborativo: yo gano, tú ganas",
+   "Evitativo: yo pierdo, tú pierdes",
+   "Acomodativo: yo pierdo, tú ganas"
+  ],
+  "answer": 3,
+  "explanation": "En el acomodativo se pierde en primera instancia porque lo que está en juego no es tan importante y la relación sí: se pierde esta batalla para ganar a largo plazo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-062",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Con poco tiempo, sindicato y empresa aceptan cada uno renunciar a parte de lo que pedían para cerrar el convenio. ¿Qué perfil es?",
+  "options": [
+   "Colaborativo",
+   "Acomodativo",
+   "Comprometido",
+   "Competitivo"
+  ],
+  "answer": 2,
+  "explanation": "En el comprometido ambas partes sacrifican parte de lo deseado: yo gano-pierdo algo, tú ganas-pierdes algo. Se usa también con poco tiempo.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-063",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Dos empresas dedican meses y recursos a diseñar juntas un acuerdo que deje a ambas satisfechas y cuide la relación futura. ¿Qué perfil y qué inconveniente tiene?",
+  "options": [
+   "Comprometido; obliga a renunciar a todo lo que se pedía",
+   "Acomodativo; una parte sale perdiendo",
+   "Evitativo; deteriora mucho la relación",
+   "Colaborativo; exige tiempo y recursos"
+  ],
+  "answer": 3,
+  "explanation": "El colaborativo (yo gano, tú ganas) cuida a las personas y las formas, pero requiere tiempo y recursos y suele extenderse más de lo deseado.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-064",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador prolonga el desacuerdo semanas, con formas desagradables, para agotar a la otra parte. ¿Qué perfil es?",
+  "options": [
+   "Evitativo",
+   "Competitivo",
+   "Comprometido",
+   "Acomodativo"
+  ],
+  "answer": 0,
+  "explanation": "En el evitativo se busca mantenerse el máximo tiempo en desacuerdo para cansar al otro, sin interés en la relación. Yo pierdo, tú pierdes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-065",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué perfil, aunque parezca extraño, es uno de los más usados porque se ve al otro como un enemigo al que vencer?",
+  "options": [
+   "El evitativo",
+   "El colaborativo",
+   "El competitivo",
+   "El comprometido"
+  ],
+  "answer": 2,
+  "explanation": "Durán señala que el competitivo, pese a todo, es de los más usados: la relación importa poco y se busca ganar y dejar claro quién tiene razón.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-066",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Relaciona cada frase con su perfil: «yo pierdo, tú pierdes» corresponde a…",
+  "options": [
+   "El acomodativo",
+   "El comprometido",
+   "El competitivo",
+   "El evitativo"
+  ],
+  "answer": 3,
+  "explanation": "Competitivo: yo gano, tú pierdes. Acomodativo: yo pierdo, tú ganas. Comprometido: ganamos y perdemos algo. Colaborativo: yo gano, tú ganas. Evitativo: yo pierdo, tú pierdes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-067",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿En qué dos perfiles la relación con la otra parte tiene muy poca o ninguna importancia?",
+  "options": [
+   "Acomodativo y comprometido",
+   "Colaborativo y acomodativo",
+   "Comprometido y colaborativo",
+   "Competitivo y evitativo"
+  ],
+  "answer": 3,
+  "explanation": "En el competitivo la relación tiene poca importancia y en el evitativo no hay ningún interés en cuidarla. En los otros tres sí importa.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-068",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En el perfil evitativo, ¿qué posibilidad real hay de conseguir una victoria?",
+  "options": [
+   "Es el perfil que más victorias consigue a largo plazo",
+   "Es imposible: el evitativo busca empatar",
+   "Es seguro si se tiene más paciencia que el otro",
+   "Es posible en una situación extrema, pero poco probable"
+  ],
+  "answer": 3,
+  "explanation": "Mantenerse en desacuerdo puede cansar al otro y, en una situación extrema, dar una victoria, aunque es algo poco probable.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-069",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Una empresa siempre negocia «yo gano, tú ganas» porque ha aprendido que colaborar genera entornos positivos a largo plazo. ¿Qué dice Durán de este perfil?",
+  "options": [
+   "Que es el más rápido de todos los perfiles",
+   "Que es una apuesta segura a largo plazo",
+   "Que es el que más se usa en la práctica empresarial",
+   "Que conviene cuando la relación no importa"
+  ],
+  "answer": 1,
+  "explanation": "Del colaborativo dice que cuida tanto a las personas como las formas y que es, sin duda, una apuesta segura.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-070",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Vas a negociar en Shanghái con un posible socio. ¿Qué precaución recomiendan los apuntes?",
+  "options": [
+   "Tratar los negocios durante las comidas",
+   "Cuidar la información, que puede ser copiada",
+   "Evitar llevar traductor para generar más confianza con el socio",
+   "Hacer los regalos solo al cerrar el trato"
+  ],
+  "answer": 1,
+  "explanation": "En China suelen ser muy desconfiados y hay que cuidar la información que se proporciona porque puede ser copiada. En Asia se recomienda llevar traductor de confianza.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-071",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un empresario vietnamita sonríe mientras le explicas las condiciones de pago. ¿Qué indica, según los apuntes?",
+  "options": [
+   "Que está conforme con la oferta",
+   "Que no comprende lo que escucha",
+   "Que va a rechazar la propuesta",
+   "Que quiere pasar a hablar del precio"
+  ],
+  "answer": 1,
+  "explanation": "Si un empresario vietnamita sonríe no está contento: no comprende lo que escucha.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-072",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un cliente de Taiwán responde «quizá» a tu propuesta. ¿Cómo lo interpretas?",
+  "options": [
+   "Como un sí",
+   "Como un quizá",
+   "Como un tal vez sí",
+   "Como un no"
+  ],
+  "answer": 3,
+  "explanation": "En Taiwán un «sí» es un «quizá» y un «quizá» es un «no».",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-073",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador japonés aspira aire entre los dientes al escuchar tu precio. ¿Qué expresa ese gesto en Asia?",
+  "options": [
+   "Sorpresa positiva",
+   "Interés por comprar",
+   "Desaprobación",
+   "Cansancio de la reunión"
+  ],
+  "answer": 2,
+  "explanation": "En Asia no hay que sorprenderse por gestos extraños como echar aire entre los dientes, símbolo de desaprobación.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-074",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Planeas hablar del contrato durante una comida de trabajo en Asia. ¿En qué país sería adecuado hacerlo?",
+  "options": [
+   "En Shanghái",
+   "En Singapur",
+   "En Vietnam",
+   "En Japón"
+  ],
+  "answer": 1,
+  "explanation": "Salvo en Singapur, en el resto de Asia no es adecuado hablar de negocios en las comidas. En la India se tratan, pero en las cenas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-075",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Vas a la India y quieres aprovechar la sobremesa para negociar. ¿Qué dicen los apuntes?",
+  "options": [
+   "Allí se negocia en los almuerzos de trabajo",
+   "Allí está mal visto hablar de negocios comiendo",
+   "Allí se negocia en el desayuno con regalos",
+   "Allí sí se habla de negocios, pero en las cenas"
+  ],
+  "answer": 3,
+  "explanation": "En la India sí se tratan estos temas, pero en las cenas.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-076",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Quieres abrir mercado en Arabia Saudí. ¿Qué paso previo aconsejan los apuntes?",
+  "options": [
+   "Presentarse sin cita para mostrar interés",
+   "Tratar primero el papel de la mujer en la empresa para generar confianza",
+   "Conseguir una invitación y citas con antelación",
+   "Negociar por videollamada para evitar comidas"
+  ],
+  "answer": 2,
+  "explanation": "En la mayoría de países de cultura musulmana conviene contar con una invitación y fijar citas con mucha antelación; embajadas o empresas instaladas pueden servir de enlace.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-077",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "En una reunión en Marruecos cruzas las piernas mostrando la suela del zapato y entregas un documento con la mano izquierda. ¿Qué has hecho?",
+  "options": [
+   "Dos gestos ofensivos",
+   "Dos gestos de confianza y cercanía",
+   "Un gesto correcto y uno ofensivo",
+   "Nada relevante en la reunión"
+  ],
+  "answer": 0,
+  "explanation": "Mostrar la suela del zapato es ofensivo entre los árabes, y hay que evitar la mano izquierda, considerada la «mano sucia».",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-078",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Negocias en Tel Aviv y tu interlocutor te interrumpe constantemente y discute cada dato. ¿Cómo lo interpretas?",
+  "options": [
+   "Es una falta de respeto que obliga a romper la reunión",
+   "Es su estilo: abiertos a la polémica y muy bien informados",
+   "Es la técnica del bueno y el malo en marcha",
+   "Es una señal de que no tiene poder de decisión"
+  ],
+  "answer": 1,
+  "explanation": "En Israel son abiertos a la polémica, se interrumpe al interlocutor y son de los empresarios mejor informados del mundo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-079",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué temas recomiendan evitar los apuntes al negociar en Arabia Saudí o en Marruecos?",
+  "options": [
+   "Israel y el papel de la mujer",
+   "El precio y las condiciones de pago aplazado",
+   "La familia y las comidas en casa",
+   "El fútbol y los viajes de negocios"
+  ],
+  "answer": 0,
+  "explanation": "Tanto en Arabia Saudí como en Marruecos es mejor evitar los temas sobre Israel o el papel de la mujer en la sociedad. Hay que estar preparado para una comida familiar.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-080",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un exportador español negocia con un importador de Buenos Aires. ¿Qué debe esperar?",
+  "options": [
+   "Ir directo al negocio sin ningún preámbulo",
+   "Que se valore mucho más el entusiasmo que los datos y las cifras",
+   "Discusiones intelectuales y no hablar de negocios comiendo",
+   "Que se cierre el acuerdo jugando al golf"
+  ],
+  "answer": 2,
+  "explanation": "Con argentinos hay que estar preparado para discusiones intelectuales y evitar tratar negocios en las comidas. El entusiasmo es Chile; el golf, EE. UU.; ir al grano, Canadá.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-081",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Preparas una presentación para un cliente de Santiago de Chile. ¿Qué enfoque valoran más, según los apuntes?",
+  "options": [
+   "Una actitud entusiasta más que los datos fríos",
+   "Muchas cifras y ningún componente emocional",
+   "Una discusión intelectual larga y polémica",
+   "Un trato muy distante y formal en la mesa"
+  ],
+  "answer": 0,
+  "explanation": "En Chile se valora una actitud entusiasta más que los datos fríos.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-082",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Tu socio de São Paulo viene a verte y te alojas en un hotel. ¿Qué no debes hacer?",
+  "options": [
+   "Invitarle al restaurante de tu hotel",
+   "Hablar de negocios durante la reunión de trabajo",
+   "Usar el portugués en la presentación",
+   "Llegar a la cita a la hora acordada"
+  ],
+  "answer": 0,
+  "explanation": "En Brasil no hay que invitar a la otra parte al restaurante del hotel donde uno se aloja.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-083",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un cliente de Toronto va al grano sin preámbulos y te dice «no» con claridad. ¿Qué indica?",
+  "options": [
+   "Que está aplicando la técnica del farol para presionarte",
+   "Es el estilo canadiense: directo",
+   "Que no está interesado en la relación",
+   "Que su perfil es claramente evitativo"
+  ],
+  "answer": 1,
+  "explanation": "A los canadienses no les gustan los preámbulos, van directamente al negocio y saben decir no.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-084",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué ventaja competitiva tiene un negociador español frente a otros europeos al negociar en Latinoamérica?",
+  "options": [
+   "El precio",
+   "La puntualidad",
+   "Los regalos",
+   "El idioma"
+  ],
+  "answer": 3,
+  "explanation": "Para los españoles, el idioma es una ventaja competitiva muy importante al negociar con latinoamericanos.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-085",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un país donde llegar diez minutos tarde es ser puntual, el almuerzo dura más de dos horas y no se ofenden si te interrumpen o corrigen. ¿Cuál es?",
+  "options": [
+   "España",
+   "Francia",
+   "Alemania",
+   "Brasil"
+  ],
+  "answer": 0,
+  "explanation": "Los apuntes describen así a España, con el remate: «Efectivamente, eso es España».",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-086",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Negocias en París y tu interlocutor defiende brillantemente una postura contraria a la tuya. ¿Qué dicen los apuntes de Francia?",
+  "options": [
+   "Que se considera una falta de cortesía discrepar con brillantez",
+   "Que no conviene hablar de negocios en horario de trabajo",
+   "Que se valoran las exposiciones brillantes y las formas en la mesa",
+   "Que es habitual cerrar el acuerdo con un regalo personal"
+  ],
+  "answer": 2,
+  "explanation": "En Francia las exposiciones defendidas con brillantez son muy valoradas aunque se opongan a las suyas, y las formas en la mesa son muy importantes.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-087",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Llevas un regalo de empresa a una reunión en Fráncfort. ¿Qué dicen los apuntes sobre Europa?",
+  "options": [
+   "Que es obligatorio llevarlo en la primera reunión",
+   "Que solo se regala al cerrar el acuerdo en la cena posterior",
+   "Que se considera señal de autoridad superior",
+   "Que, a diferencia de Asia, no se suelen hacer regalos"
+  ],
+  "answer": 3,
+  "explanation": "En Europa, a diferencia de Asia u Oriente, no es habitual hacer regalos. Además, en el centro de Europa se negocia en horario de trabajo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-088",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Salvo en la cultura mediterránea, ¿qué rasgos comunes tienen los negociadores europeos según los apuntes?",
+  "options": [
+   "Muchos cumplidos, comidas largas y negocios fuera del horario de trabajo",
+   "Gestos sutiles, desconfianza y protección de la información",
+   "Invitación previa, citas con antelación y comidas familiares",
+   "Pocos cumplidos, sin interrupciones y bien informados"
+  ],
+  "answer": 3,
+  "explanation": "Salvo la cultura mediterránea, los europeos no son amigos de los cumplidos, las conversaciones no se interrumpen y estar bien informado transmite profesionalidad.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-089",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un vendedor que nunca miente cambia de actitud y exagera datos cuando la comisión de una operación es enorme. ¿Qué fuerza ética explica su conducta?",
+  "options": [
+   "Las víctimas anónimas",
+   "El coste de oportunidad del tiempo",
+   "El señuelo de la tentación",
+   "La autoridad superior"
+  ],
+  "answer": 2,
+  "explanation": "El señuelo de la tentación: se recurre a la mentira según lo lucrativo de la recompensa o de los beneficios de la operación.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-090",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "Un negociador es honesto cuando trata con una sola persona, pero miente con más facilidad frente al comité de compras de una multinacional. ¿Qué fuerza ética explica esto?",
+  "options": [
+   "El señuelo de la tentación",
+   "El perfil competitivo",
+   "Las víctimas anónimas",
+   "La técnica del farol"
+  ],
+  "answer": 2,
+  "explanation": "Al negociar con grupos es más probable mentir: se perciben las interacciones como menos personales, lo que parece justificar una conducta poco ética.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-091",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ },
+ {
+  "question": "¿Qué expectativas implica la ética en la negociación, según los apuntes?",
+  "options": [
+   "Rapidez, eficacia y beneficio",
+   "Justicia, equidad y honestidad",
+   "Firmeza, poder y autoridad",
+   "Lealtad, secreto y obediencia"
+  ],
+  "answer": 1,
+  "explanation": "La ética puede implicar expectativas de justicia, equidad y honestidad, aunque algunas fuerzas pueden llevar a comportarse de forma no ética.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Técnicas de Negociación (A. Durán)",
+  "id": "neg-092",
+  "subject": "negociacion",
+  "subjectName": "Técnicas de Negociación"
+ }
+]
