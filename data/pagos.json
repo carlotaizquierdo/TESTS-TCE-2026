@@ -1,0 +1,420 @@
+[
+  {
+    "id": "e3-pag-001",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Cobro y financiación",
+    "question": "Una empresa española ha suministrado equipos a un comprador chileno solvente, pero necesita liquidez antes del cobro a 90 días. Su director confunde la transferencia de fondos con la financiación. ¿Qué decisión debe separar?",
+    "options": [
+      "La moneda de facturación y el país donde se fabrica el producto.",
+      "El transportista marítimo y el agente que realiza la aduana.",
+      "La forma de recibir el pago y la fuente de liquidez durante la espera.",
+      "El seguro de transporte y el coste de manipulación portuaria."
+    ],
+    "answer": 2,
+    "explanation": "Cobro/pago, transmisión bancaria de fondos y financiación son dimensiones distintas de la misma operación.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-002",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Orden de pago",
+    "question": "Una exportadora obtiene una orden de pago irrevocablemente instruida por el comprador, pero no tiene confirmación de abono en su banco. ¿Por qué no debe equipararlo sin más a crédito documentario?",
+    "options": [
+      "Toda orden de pago supone compromiso del banco de pagar al vendedor contra documentos.",
+      "El pago simple garantiza la entrega de mercancía por el mero envío de fondos.",
+      "El comprador puede reclamar la mercancía sin contrato si ordenó la transferencia.",
+      "La orden de pago simple no incorpora el compromiso documental propio de un crédito documentario."
+    ],
+    "answer": 3,
+    "explanation": "La orden de pago es ágil, pero no confiere por sí misma garantía documental de cobro al exportador.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-003",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "SWIFT",
+    "question": "Un banco español y otro estadounidense intercambian mensajes SWIFT para ejecutar un pago. El cliente afirma que SWIFT 'transporta los dólares' entre ellos. ¿Qué se ha confundido?",
+    "options": [
+      "SWIFT es un sistema de mensajería; la liquidación requiere cuentas y relaciones bancarias.",
+      "SWIFT funciona como un contenedor electrónico que transfiere billetes.",
+      "SWIFT sustituye las cuentas corresponsales en cualquier pago transfronterizo.",
+      "SWIFT paga con fondos propios antes de informar a los bancos."
+    ],
+    "answer": 0,
+    "explanation": "La comunicación bancaria y la transferencia efectiva de saldos son funciones relacionadas pero distintas.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-004",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Corresponsalía",
+    "question": "Una empresa española factura en dólares a un comprador de Perú. Sus bancos no mantienen relación directa, pero comparten corresponsales. ¿Qué mecanismo permite canalizar fondos?",
+    "options": [
+      "Un despacho aduanero que convierta automáticamente dólares en euros.",
+      "Cuentas de corresponsalía y mensajes entre bancos de la cadena.",
+      "La emisión de un certificado EUR.1 por el banco peruano.",
+      "La intervención obligatoria de la cámara de comercio exportadora."
+    ],
+    "answer": 1,
+    "explanation": "Las relaciones de corresponsalía permiten que los bancos ejecuten pagos en monedas y plazas donde no operan directamente.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-005",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Riesgo de cambio",
+    "question": "Una exportadora vende por 120.000 USD y espera cobrar dentro de cuatro meses. Su margen en euros es pequeño. ¿Qué riesgo asume si no se cubre?",
+    "options": [
+      "Que el precio en dólares cambie automáticamente por el plazo de pago.",
+      "Que SWIFT impida recibir dinero cuando fluctúe el cambio.",
+      "Que la depreciación del dólar reduzca los euros obtenidos al cobrar.",
+      "Que la factura se convierta jurídicamente en otra divisa al embarcar."
+    ],
+    "answer": 2,
+    "explanation": "Si la empresa incurre costes en euros y cobra una cantidad fija en dólares, su contravalor en euros fluctúa.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-006",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Riesgo impago",
+    "question": "Un comprador extranjero propone pagar por orden de pago después de recibir la mercancía. El vendedor apenas lo conoce. ¿Cuál es la evaluación de riesgo más realista?",
+    "options": [
+      "El banco del comprador garantiza el pago en cuanto llega la factura.",
+      "La existencia de SWIFT elimina el riesgo de crédito del comprador.",
+      "La orden de pago impide legalmente cualquier retraso en la transferencia.",
+      "El exportador puede quedarse sin mercancía y sin cobro si el comprador incumple."
+    ],
+    "answer": 3,
+    "explanation": "El pago simple posterior deja al vendedor expuesto al crédito del comprador si no hay garantías adicionales.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-007",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Medios simples",
+    "question": "Dos bancos intervienen en una compraventa. Los documentos comerciales se envían directamente al comprador y solo el dinero se gestiona por los bancos. ¿Cómo debe clasificarse el medio?",
+    "options": [
+      "Simple, porque los documentos comerciales no se canalizan por bancos.",
+      "Documentario, porque el pago se hace mediante una entidad bancaria.",
+      "Crédito documentario, porque se ha emitido factura proforma.",
+      "Remesa documentaria, porque el transporte es internacional."
+    ],
+    "answer": 0,
+    "explanation": "La distinción entre medios simples y documentarios se basa en el recorrido de los documentos comerciales.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-008",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Medios documentarios",
+    "question": "Una empresa cree que toda operación documentaria garantiza incondicionalmente el cobro. ¿Qué aspecto invalida su conclusión?",
+    "options": [
+      "Toda remesa documentaria obliga al banco a garantizar el importe.",
+      "El control bancario de documentos no equivale siempre a compromiso bancario de pagar.",
+      "El crédito documentario se liquida sin examen de documentos.",
+      "Los bancos solo comprueban que ha llegado físicamente la mercancía."
+    ],
+    "answer": 1,
+    "explanation": "Los medios documentarios difieren en obligaciones y cobertura; remesa y crédito documentario no ofrecen la misma seguridad.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-009",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Garantías y seguro",
+    "question": "Una compañía vende a crédito a un cliente extranjero. Puede contratar una garantía bancaria o una póliza de seguro de crédito. ¿Qué función comparten sin confundirse con el medio de cobro?",
+    "options": [
+      "Sustituir el contrato comercial y el transporte por una factura bancaria.",
+      "Eliminar los riesgos aduaneros asociados al destino.",
+      "Reducir exposición al incumplimiento, bajo condiciones de instrumentos distintos.",
+      "Determinar obligatoriamente la moneda que pagará el comprador."
+    ],
+    "answer": 2,
+    "explanation": "Las garantías y el seguro de crédito protegen frente a riesgos sin ser por sí mismos la transferencia corriente del precio.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-010",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Seguro de crédito",
+    "question": "Una exportadora contrata seguro de crédito sobre facturas a 60 días. ¿Qué suceso es central para la cobertura, sujeto a la póliza?",
+    "options": [
+      "La mera salida del contenedor del almacén.",
+      "La variación diaria del precio del combustible.",
+      "La presentación de un conocimiento de embarque.",
+      "El impago del comprador por causas cubiertas."
+    ],
+    "answer": 3,
+    "explanation": "El seguro de crédito cubre el riesgo de no cobrar en las condiciones pactadas; no debe confundirse con seguro de mercancías.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-011",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Evaluación de riesgo",
+    "question": "Un responsable comercial sostiene que si el cliente paga desde un país desarrollado se elimina por completo el riesgo de impago. ¿Cuál es la objeción razonable?",
+    "options": [
+      "La probabilidad de impago puede ser menor, pero una incidencia grande sigue causando pérdidas relevantes.",
+      "Un país con buen rating convierte la factura en obligación del banco central.",
+      "Un pago transfronterizo está garantizado por la política de control de cambios.",
+      "La insolvencia empresarial solo existe en países sin moneda convertible."
+    ],
+    "answer": 0,
+    "explanation": "El riesgo debe valorar probabilidad y severidad de pérdida; buenas estadísticas de cobro no implican riesgo nulo.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-012",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Divisa de facturación",
+    "question": "Una empresa española va a cobrar una factura de 10.000 EUR desde un cliente estadounidense. ¿Qué afirmación sobre divisa y transferencias es correcta?",
+    "options": [
+      "Facturar en euros elimina el riesgo comercial y garantiza cobro puntual.",
+      "Facturar en euros elimina su riesgo directo de conversión, pero no todos los riesgos de cobro.",
+      "El pago exige que ambas entidades usen exclusivamente bancos españoles.",
+      "La factura en euros obliga al comprador a operar por SEPA."
+    ],
+    "answer": 1,
+    "explanation": "Facturar en euros puede trasladar la exposición cambiaria al comprador, sin suprimir el riesgo comercial ni operativo.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-013",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Comisiones",
+    "question": "Un banco cobra 5 por mil por emitir una orden de pago, con mínimo de 18 euros. Una empresa transfiere 1.000 euros. ¿Qué comisión corresponde antes de otros costes?",
+    "options": [
+      "5 euros, por resultar de aplicar la parte porcentual.",
+      "23 euros, por sumar el mínimo al cálculo variable.",
+      "18 euros, al operar el mínimo de la tarifa.",
+      "50 euros, por confundir el porcentaje con el tanto por mil."
+    ],
+    "answer": 2,
+    "explanation": "Cinco por mil de 1.000 son 5 euros; si el mínimo exigido es 18, se aplica este último.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-014",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Comisiones",
+    "question": "Una empresa realiza una orden de pago internacional de 1.000.000 EUR. La tarifa es 5 por mil sin máximo. ¿Cuánto representa solo esa comisión?",
+    "options": [
+      "500 euros.",
+      "50 euros.",
+      "500.000 euros.",
+      "5.000 euros."
+    ],
+    "answer": 3,
+    "explanation": "Un 5‰ equivale a 0,005; multiplicado por un millón resulta 5.000.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-015",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Reparto de comisiones",
+    "question": "En una orden de pago una factura de 20.000 EUR llega al beneficiario con costes bancarios descontados. El vendedor pensaba recibir el importe íntegro. ¿Qué variable debía negociar?",
+    "options": [
+      "Quién soporta las comisiones: OUR, SHA o BEN según proceda.",
+      "El país en que se imprimió la factura comercial.",
+      "El precio de referencia de la mercancía en aduanas.",
+      "El peso neto declarado para los documentos del transporte."
+    ],
+    "answer": 0,
+    "explanation": "OUR, SHA y BEN distribuyen los cargos; las reglas operativas y excepciones del pago concreto deben comprobarse.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-016",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "SEPA",
+    "question": "Un pagador intenta instruir un pago SEPA en euros exigiendo que todas las comisiones recaigan sobre el beneficiario por cláusula BEN. ¿Qué incompatibilidad debe detectar?",
+    "options": [
+      "SEPA obliga a utilizar siempre la cláusula OUR.",
+      "En el marco SEPA de pagos pertinente rige el reparto SHA de gastos.",
+      "El pago SEPA permite elegir BEN aunque contravenga sus reglas.",
+      "SEPA es un mecanismo de pago exclusivamente para dólares."
+    ],
+    "answer": 1,
+    "explanation": "En los pagos SEPA correspondientes la regla es gastos compartidos SHA, sin libre elección general de OUR o BEN.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-017",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Ámbito SEPA",
+    "question": "Una empresa española transfiere euros a otra sociedad de un país participante en SEPA pero que no pertenece a la UE. ¿Qué error sería afirmar que SEPA equivale al territorio de la UE?",
+    "options": [
+      "Solo los países con el euro como moneda nacional pueden integrarse en SEPA.",
+      "Todo pago a un tercer país se tramita como exportación de capital prohibida.",
+      "SEPA es un área de pagos que incluye determinados países y territorios no miembros de la UE.",
+      "Un pago SEPA implica automáticamente ausencia de controles de cumplimiento."
+    ],
+    "answer": 2,
+    "explanation": "El ámbito SEPA no coincide exactamente con el de la UE ni con el de la zona euro.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-018",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Plazos de pago",
+    "question": "Un banco ejecuta una transferencia SEPA ordinaria en euros. El importador pregunta si el plazo comercial pactado de 90 días se reduce al plazo operativo bancario. ¿Qué se debe distinguir?",
+    "options": [
+      "El tipo de cambio de la factura y el del contrato de seguro.",
+      "La fecha de embarque del buque y la fecha de llegada a puerto.",
+      "El plazo de aduanas y el periodo de garantía del producto.",
+      "La fecha de vencimiento de la deuda y el plazo de ejecución de la transferencia."
+    ],
+    "answer": 3,
+    "explanation": "El plazo de ejecución bancaria comienza con la instrucción y no altera el vencimiento comercial pactado.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-019",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Control de cambios",
+    "question": "Una compañía de España paga a un proveedor de otra jurisdicción y el banco bloquea el pago por controles de prevención de blanqueo. El director invoca la libertad de movimientos de capitales. ¿Qué omite?",
+    "options": [
+      "La libertad de capitales admite restricciones justificadas y controles de cumplimiento legal.",
+      "La libertad de capitales excluye cualquier obligación de identificación bancaria.",
+      "Los controles de blanqueo son competencia exclusiva de las aduanas de mercancías.",
+      "Toda operación entre empresas puede pagarse sin aportar documentación."
+    ],
+    "answer": 0,
+    "explanation": "La libertad de movimientos no desplaza medidas legales de prevención de blanqueo y financiación del terrorismo.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-020",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Control de cambios",
+    "question": "Una empresa envía dinero desde Madrid a un cliente en Ecuador. Como ese país está dolarizado, el departamento financiero presupone ausencia de control de cambios. ¿Qué confunde?",
+    "options": [
+      "La identidad del banco corresponsal y la razón social del importador.",
+      "La moneda de curso legal y la normativa local sobre movimientos de capitales.",
+      "El uso de euros y la obligación de negociar un Incoterm.",
+      "La factura comercial y el documento de transporte."
+    ],
+    "answer": 1,
+    "explanation": "La dolarización no implica renuncia automática a la regulación nacional de los flujos de capital.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-021",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "Diseño de cobro",
+    "question": "Una compañía recibe una orden de pago a su favor, pero la mercancía ya salió del almacén sin tener garantía del cliente. ¿Qué combinación habría mejorado la protección antes de embarcar?",
+    "options": [
+      "Sustituir la factura por un documento logístico más detallado.",
+      "Usar SWIFT con un mensaje bancario de más campos.",
+      "Evaluar solvencia y pactar anticipo o garantía adecuada al riesgo.",
+      "Contratar un contenedor refrigerado aunque el bien sea industrial."
+    ],
+    "answer": 2,
+    "explanation": "La seguridad de cobro se negocia ex ante: plazo, instrumento, garantías, solvencia y documentación.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-pag-022",
+    "subject": "pagos",
+    "subjectName": "Medios de pago, avales y CESCE",
+    "topic": "SEPA y riesgo",
+    "question": "Una empresa afirma que cobrar en euros desde otro país de la UE elimina el riesgo de que el cliente no pague, porque ambos bancos usan SEPA. ¿Qué error conceptual hay?",
+    "options": [
+      "Se confunde el transporte físico con el transporte multimodal.",
+      "Se atribuye al tipo de cambio un efecto de transmisión de propiedad.",
+      "Se presume que toda transferencia tiene coste variable por operación.",
+      "Se confunde eficiencia en transferencias con riesgo crediticio del deudor."
+    ],
+    "answer": 3,
+    "explanation": "SEPA facilita pagos, pero no garantiza el cumplimiento del contrato de compraventa por el comprador.",
+    "source": "Tercer parcial / Apuntes Medios de pago (diapositivas 1-34, clase 26/10)",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  }
+]
