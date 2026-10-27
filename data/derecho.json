@@ -3598,5 +3598,995 @@
   "id": "der-200",
   "subject": "derecho",
   "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa exportadora pacta con su agente en México que, si el tercer contratante no paga en tiempo y forma, el agente deberá abonar íntegramente la deuda y recibirá la cesión del crédito. ¿Cómo se denomina este mecanismo y qué retribución suele llevar aparejada?",
+  "options": [
+   "Cláusula de exclusividad territorial, sin retribución adicional",
+   "Cláusula de riesgo financiero, con una comisión adicional sobre ventas",
+   "Fondo de clientela anticipado, que se descuenta de comisiones futuras",
+   "Garantía a primer requerimiento regulada por la directiva de agencia"
+  ],
+  "answer": 1,
+  "explanation": "La cláusula de riesgo financiero (del star credere) sale de la naturaleza propia del contrato de agencia, que solo exige promoción. Por eso, al agente se le pacta una comisión adicional (p. ej. 2% sobre el 5% habitual) como precio por asumir el riesgo de impago de los terceros contratantes.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-201",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente lleva 10 años implantando la marca de su mandante en Alemania, partiendo de cero ventas hasta facturar 2 M€. El mandante decide crear una filial propia en Alemania y no renueva el contrato. ¿Cuál es el requisito PRINCIPAL para que el agente cobre fondo de clientela?",
+  "options": [
+   "Que el contrato haya durado más de 5 años",
+   "Que el agente haya incumplido alguna obligación durante el contrato",
+   "Que haya incrementado el volumen de negocio o el número de clientes, y que esos clientes sean susceptibles de seguir generando beneficios al mandante",
+   "Que la resolución se haya producido sin previo aviso"
+  ],
+  "answer": 2,
+  "explanation": "La directiva comunitaria exige: (1) incremento del número de clientes o del volumen de negocio, (2) que esos beneficios sean susceptibles de continuar para el mandante tras la extinción, y (3) que la indemnización sea equitativa. No se requiere incumplimiento ni duración mínima.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-202",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El fondo de clientela se cuantifica como 'la comisión anual promediada de los últimos cinco años de vida del contrato'. ¿Por qué se calcula sobre cinco años en lugar de solo el último?",
+  "options": [
+   "Porque la directiva comunitaria no confía en el mandante para reportar el último año",
+   "Para evitar que el mandante resuelva el contrato en un año de crisis (como el COVID) y pague una indemnización mínima",
+   "Porque el agente solo tiene derecho a un 20% de cada año trabajado",
+   "Es un máximo: si hay menos de cinco años se aplica íntegramente el último"
+  ],
+  "answer": 1,
+  "explanation": "La media de los cinco últimos años impide que el mandante 'elija' resolver el contrato justo en un año de facturación baja (como 2020 durante el COVID) para reducir la indemnización. Suaviza picos y valles.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-203",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia indefinido lleva 4 años en vigor. El mandante lo resuelve de forma unilateral sin causa justificada y sin previo aviso. ¿Cuántos meses de previso debería haber dado según la directiva comunitaria?",
+  "options": [
+   "1 mes (mínimo siempre)",
+   "4 meses (1 mes por año de duración)",
+   "6 meses (máximo)",
+   "12 meses (1 por año, sin tope)"
+  ],
+  "answer": 1,
+  "explanation": "La directiva establece un mes de previso por año de duración del contrato, con un mínimo de 1 mes y un máximo de 6. Un contrato de 4 años requiere 4 meses de previso.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-204",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Tras la resolución de un contrato de agencia, el agente reclama las comisiones sobre pedidos que se cerraron definitivamente dos meses después. El mandante alega que el contrato ya había terminado. ¿Quién tiene razón?",
+  "options": [
+   "El mandante: no existe ninguna obligación post-contractual en la agencia",
+   "El agente: la directiva le garantiza las comisiones derivadas de su actividad previa, devengadas en los tres meses siguientes a la resolución",
+   "Depende de lo que diga el contrato; sin pacto expreso no hay derecho",
+   "El agente solo si demuestra que esos pedidos proceden de clientes que él captó en el primer año"
+  ],
+  "answer": 1,
+  "explanation": "La directiva comunitaria reconoce al agente el derecho a percibir las comisiones de operaciones que se cierren en los tres meses siguientes a la resolución, pues se entiende que derivan de su trabajo anterior.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-205",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un mandante resuelve el contrato de agencia alegando que el agente trabaja también para un competidor directo, en contra del pacto de exclusividad. El agente niega el hecho. Tras un juicio de 2 años, el tribunal da la razón al agente. ¿Qué indemnizaciones debería recibir? (Facturación constante: 100 €/mes; contrato indefinido de 10 años; 0 € de facturación previa a la agencia)",
+  "options": [
+   "Solo el fondo de clientela: 1.200 €",
+   "Fondo de clientela 1.200 € + previso 600 € = 1.800 €",
+   "Fondo de clientela 1.200 € + previso 600 € + comisiones 3 meses post-resolución 300 € = 2.100 €",
+   "Ninguna, porque el plazo de prescripción de 1 año ya habrá vencido"
+  ],
+  "answer": 2,
+  "explanation": "Al declararse falsa la causa de resolución, el agente tiene derecho a: (1) fondo de clientela = media anual de 5 años = 1.200 €; (2) previso = máximo 6 meses × 100 €/mes = 600 €; (3) comisiones 3 meses post-resolución = 300 €. Total 2.100 €. El plazo de prescripción (1 año desde la resolución) se interrumpe al presentar la demanda.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-206",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿En cuáles de estas circunstancias NO existe obligación de pagar el fondo de clientela?",
+  "options": [
+   "Cuando el mandante decide abrir una filial propia en el territorio del agente",
+   "Cuando el agente incumple el contrato y el mandante lo resuelve por ese motivo",
+   "Cuando el contrato es por tiempo definido y llega a su término natural",
+   "Cuando el mandante vende su empresa a un tercero que continúa el contrato"
+  ],
+  "answer": 1,
+  "explanation": "El fondo de clientela no procede cuando es el propio agente quien incumple y el mandante resuelve justificadamente. Tampoco procede si el agente resuelve por su propia iniciativa o cede el contrato a un tercero. Sí procede aunque el contrato termine por su vencimiento natural (el mandante se beneficia igualmente de la clientela generada).",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-207",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un exportador confía en su agente para que le abra mercado en Japón. Al cabo de 7 años, el exportador conoce perfectamente a todos los clientes y decide prescindir del agente. ¿Qué riesgo estratégico principal ha corrido el exportador durante esos 7 años?",
+  "options": [
+   "Riesgo de cambio de divisa en las comisiones pagadas al agente",
+   "Dependencia: si el agente se lleva la cartera de clientes a otro fabricante, el exportador pierde el mercado",
+   "Responsabilidad objetiva por todos los contratos firmados por el agente",
+   "Que la directiva comunitaria obligue a mantener al agente indefinidamente"
+  ],
+  "answer": 1,
+  "explanation": "El riesgo del 'cuello de botella': los clientes son fieles al agente, no al mandante. Si el agente es sustituido, puede llevarse la clientela a un competidor. Por eso los exportadores imponen cláusulas de información periódica (informes anuales, transparencia de cartera) para evitar esa dependencia.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-208",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "La normativa que regula el contrato de agencia en la UE es una directiva. ¿Cuál es la consecuencia práctica de que sea directiva y no reglamento?",
+  "options": [
+   "Se aplica directamente a los contratos sin necesidad de ley nacional",
+   "Cada Estado miembro debe transponerla mediante su propia ley, que puede desarrollar las opciones que la directiva permite pero no puede salirse de su marco",
+   "Solo obliga a los países que la hayan ratificado expresamente en el Parlamento europeo",
+   "Su contenido es meramente orientativo para los tribunales nacionales"
+  ],
+  "answer": 1,
+  "explanation": "Una directiva fija objetivos que cada Estado debe alcanzar, pero deja a cada ordenamiento la forma de transponerla. En España, la transposición es la Ley 12/1992 sobre contrato de agencia. Las normas imperativas de la directiva no pueden ser derogadas en perjuicio del agente.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-209",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia establece que el agente cobra su comisión solo cuando el tercer contratante haya pagado al mandante. El agente argumenta que esto vulnera la directiva. ¿Tiene razón?",
+  "options": [
+   "Sí: la directiva exige que la comisión se pague en el momento del cierre del contrato de compraventa",
+   "No: es una cláusula lícita que repercute el riesgo financiero al agente, pero la directiva exige una retribución adicional por ese riesgo",
+   "No del todo: la directiva permite diferir el pago, pero como máximo hasta el último día del mes siguiente al trimestre de devengo",
+   "Sí: cualquier diferimiento del pago de la comisión es nulo"
+  ],
+  "answer": 2,
+  "explanation": "La directiva acepta diferir la comisión hasta el cobro, pero fija como plazo máximo el último día del mes siguiente al trimestre en que se devengó (igual que el IVA trimestral). Si el mandante no ha cobrado para entonces, el agente tiene derecho a cobrar igualmente.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-210",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál es la diferencia fundamental entre el contrato de agencia y el contrato de comisión en cuanto a la duración de la relación?",
+  "options": [
+   "La agencia es para operaciones puntuales; la comisión es una relación estable a largo plazo",
+   "La agencia es un contrato de tracto sucesivo (relación duradera); la comisión es un contrato de tracto único (operación puntual)",
+   "La comisión siempre implica exclusividad territorial; la agencia no",
+   "No hay diferencia relevante: ambos son contratos de intermediación mercantil"
+  ],
+  "answer": 1,
+  "explanation": "El contrato de agencia busca abrir y mantener un mercado a largo plazo (tracto sucesivo). El de comisión se refiere a una operación concreta y única: el comisionista recibe un encargo específico para una mercancía determinada o una transacción concreta.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-211",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa tiene un contenedor de mercancía retenida en un puerto extranjero por una disputa aduanera. Contrata a un comisionista para que la revenda antes de que los costes portuarios superen el valor de la carga. ¿Tiene el comisionista derecho a fondo de clientela al terminar el encargo?",
+  "options": [
+   "Sí, si consiguió vender al precio mínimo fijado",
+   "No, porque el contrato de comisión es de tracto único y no genera expectativas de negocio futuras para el comisionista",
+   "Sí, si la operación duró más de tres meses",
+   "Depende de si el comisionista actuó en nombre propio o en nombre del comitente"
+  ],
+  "answer": 1,
+  "explanation": "Al ser de tracto único, el comisionista no desarrolla una clientela propia ni genera expectativas de ingresos futuros. Por eso no existe fondo de clientela ni previso en el contrato de comisión.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-212",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comisionista quiere que el comprador final (tercer contratante) no conozca al vendedor original (comitente). ¿Qué técnica jurídica utiliza y qué implica en términos de transmisión de propiedad?",
+  "options": [
+   "Actúa en nombre del comitente, por lo que la propiedad pasa directamente del comitente al tercer contratante",
+   "Actúa en nombre propio: compra al comitente y revende al tercero, generando una doble transmisión de la propiedad",
+   "Emplea una carta de crédito documentario que impide identificar al beneficiario",
+   "Firma un contrato de distribución selectiva donde el origen del producto es confidencial"
+  ],
+  "answer": 1,
+  "explanation": "Cuando el comisionista actúa en nombre propio (ocultando al comitente), jurídicamente hay dos compraventas: comitente → comisionista, y comisionista → tercer contratante. El tercer contratante solo conoce al comisionista como contrapartida.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-213",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Por qué el comitente puede estar interesado en que el comisionista oculte su identidad al tercer contratante?",
+  "options": [
+   "Para evitar pagar el IVA en la segunda transmisión",
+   "Para impedir que la oferta y la demanda se conozcan y puedan cerrar operaciones futuras sin pasar por el comisionista",
+   "Porque la directiva de agencia prohíbe que el mandante contacte directamente con el tercer contratante",
+   "Para aprovechar mejores condiciones arancelarias disponibles solo al comisionista"
+  ],
+  "answer": 1,
+  "explanation": "El comisionista es un intermediario cuyo valor está en el contacto: si oferente y demandante se conocen, pueden saltarse al comisionista en operaciones futuras. Manteniendo el anonimato de ambas partes, el comisionista protege su posición como intermediario indispensable.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-214",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El caso 'Grúas Andaluzas': una empresa alemana solicita cotización a un fabricante de grúas, que le da un precio y un plazo de aceptación. Un intermediario (comisionista de hecho) obtiene ese compromiso y encuentra un comprador serbio. Cuando el serbio acepta, el fabricante ya ha vendido la grúa a otro. ¿Qué reclamó el intermediario?",
+  "options": [
+   "La entrega de la grúa en las condiciones pactadas con el serbio",
+   "La diferencia entre el precio al que iba a venderle al serbio y el precio que tenía pactado con el fabricante (su margen de beneficio perdido)",
+   "El fondo de clientela por haber captado un nuevo cliente",
+   "Una indemnización equivalente al precio total de la grúa por incumplimiento del contrato de agencia"
+  ],
+  "answer": 1,
+  "explanation": "El intermediario reclamó el lucro cesante: la diferencia entre el precio de compra al fabricante y el precio de reventa al serbio (su margen). El fabricante le había hecho una oferta vinculante con plazo, y al venderla a otro dentro de ese plazo le privó de esa ganancia.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-215",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El comisionista recibe el encargo de vender una mercancía a 'precio mínimo de 80 €/unidad'. Encuentra un comprador que ofrece 95 €. ¿Puede el comisionista quedarse la diferencia de 15 € como beneficio adicional además de su comisión?",
+  "options": [
+   "Sí, siempre que supere el precio mínimo, el exceso es suyo por ser un contrato de resultado",
+   "No, debe entregar el precio íntegro al comitente y cobrar únicamente su comisión pactada",
+   "Sí, pero solo hasta un 10% sobre el precio mínimo",
+   "Depende de si actúa en nombre propio o en nombre del comitente"
+  ],
+  "answer": 1,
+  "explanation": "El comisionista actúa por cuenta del comitente: las condiciones económicas (precio, plazo) están fijadas por el comitente. El exceso sobre el precio mínimo pertenece al comitente. El comisionista solo cobra su comisión pactada. La excepción es si actúa como vendedor en nombre propio, donde sí puede incorporar su margen directamente en el precio.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-216",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un comisionista acepta el encargo de revender un contenedor retenido en el puerto de Valencia. Antes de comenzar las gestiones, exige que el comitente le deposite por adelantado los costes estimados del puerto, seguros y gestión. ¿Tiene derecho a exigir esto?",
+  "options": [
+   "No, debe financiar los costes con su propio capital hasta cobrar la comisión",
+   "Sí, el comisionista puede exigir 'provisión de fondos' al comitente para cubrir los gastos del encargo",
+   "Solo puede exigirlo si el encargo dura más de 30 días",
+   "Sí, pero únicamente por el 50% del coste estimado"
+  ],
+  "answer": 1,
+  "explanation": "El comisionista tiene derecho a exigir provisión de fondos: el comitente debe anticiparle los gastos razonablemente previsibles para ejecutar el encargo. Es una diferencia clave respecto al agente, que financia su propia actividad y se retribuye con la comisión sobre ventas.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-217",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿En qué situación tiene sentido que el comisionista actúe en nombre del comitente (revelando quién vende) en vez de en nombre propio?",
+  "options": [
+   "Cuando hay normativa que obliga a identificar al fabricante (p. ej. bebidas con denominación de origen) o cuando el comitente es una marca conocida y la reputación ayuda a vender",
+   "Cuando el producto es perecedero y hay urgencia en cerrar la venta",
+   "Cuando el comitente exige exclusividad territorial al comisionista",
+   "Cuando la operación supera un determinado umbral de valor y hay doble imposición"
+  ],
+  "answer": 0,
+  "explanation": "Si la normativa exige identificar al productor (vinos con DOP, medicamentos) o si la marca del fabricante es un activo comercial, el comisionista actúa a nombre del comitente: presentarse como representante autorizado añade valor frente al tercer contratante.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-218",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Compara el contrato de comisión con el contrato de agencia: ¿cuál de las siguientes afirmaciones es CORRECTA?",
+  "options": [
+   "Tanto el agente como el comisionista actúan siempre en nombre del mandante/comitente",
+   "El agente nunca asume riesgo financiero; el comisionista siempre lo asume",
+   "El agente actúa siempre en nombre y por cuenta del mandante; el comisionista actúa siempre por cuenta del comitente pero puede actuar en nombre propio o ajeno",
+   "La comisión del agente es fija; la del comisionista es variable según resultado"
+  ],
+  "answer": 2,
+  "explanation": "El agente actúa siempre en nombre y por cuenta del mandante (representación plena). El comisionista actúa siempre por cuenta del comitente, pero puede actuar en nombre propio (sin revelar al comitente) o en nombre del comitente (revelándole). Esta dualidad es la clave de la diferencia.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-219",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál es la diferencia esencial entre el contrato de distribución y el contrato de agencia en cuanto al riesgo comercial?",
+  "options": [
+   "En el contrato de agencia el agente asume todo el riesgo de la operación; en distribución no hay riesgo para nadie",
+   "En el contrato de distribución el distribuidor compra la mercancía y actúa en su propio nombre y cuenta, asumiendo el riesgo de reventa; el agente no compra ni asume ese riesgo",
+   "En distribución el exportador siempre entrega la mercancía en consignación sin cobrarse hasta la venta final",
+   "No hay diferencia de riesgo; ambos son intermediarios que actúan por cuenta del fabricante"
+  ],
+  "answer": 1,
+  "explanation": "El distribuidor compra la mercancía (se convierte en propietario) y la revende por su propio nombre y cuenta, asumiendo el riesgo de que no se venda o de impago del cliente final. El agente nunca es propietario de la mercancía y actúa por cuenta del mandante.",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-220",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un contrato de distribución, ¿cuántas transmisiones de propiedad de la mercancía se producen necesariamente?",
+  "options": [
+   "Una: del concedente directamente al tercer contratante",
+   "Dos: del concedente al concesionario, y del concesionario al tercer contratante",
+   "Ninguna: la mercancía queda en depósito hasta la venta final",
+   "Depende de si el distribuidor tiene o no exclusividad territorial"
+  ],
+  "answer": 1,
+  "explanation": "En distribución siempre hay doble transmisión: concedente → distribuidor (1ª venta), y distribuidor → tercero (2ª venta). El distribuidor es propietario entre ambas transmisiones, a diferencia del agente, donde la propiedad va directamente del mandante al tercer contratante.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-221",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de los siguientes es un contrato de COMPRA EXCLUSIVA (o suministro exclusivo)?",
+  "options": [
+   "Un distribuidor que solo puede vender los productos del fabricante dentro de su territorio",
+   "Un comprador que se obliga a adquirir toda su necesidad de un producto a un único proveedor",
+   "Un fabricante que se compromete a no vender a ningún otro distribuidor en un territorio",
+   "Una franquicia donde el franquiciado compra los productos al franquiciador en exclusiva"
+  ],
+  "answer": 1,
+  "explanation": "La compra exclusiva (también llamada exclusiva de abastecimiento) obliga al comprador/distribuidor a adquirir el producto únicamente de ese proveedor. El fabricante puede vender a quien quiera, pero el distribuidor solo puede comprarle a él.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-222",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una distribución exclusiva de venta, el concedente se compromete a no suministrar el producto a ningún otro distribuidor ni a hacer ventas directas en el territorio del distribuidor. ¿Qué ventaja principal obtiene el distribuidor con esta cláusula?",
+  "options": [
+   "Que el precio de compra al fabricante sea siempre el más bajo del mercado",
+   "Que no habrá competencia interna en su territorio: nadie más puede vender ese producto allí",
+   "Que el concedente no podrá modificar el precio de venta al público sin su consentimiento",
+   "Que el distribuidor puede fijar libremente el precio de reventa sin restricción alguna"
+  ],
+  "answer": 1,
+  "explanation": "La distribución exclusiva de venta garantiza al distribuidor que en su territorio no habrá otro distribuidor del mismo fabricante ni ventas directas de este. Es el tipo más cercano al modelo del concesionario de automóviles.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-223",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una marca de cosméticos de lujo selecciona los puntos de venta de sus productos exigiendo que el establecimiento cumpla criterios de imagen, personal cualificado y surtido mínimo. Solo a esos establecimientos les vende. ¿Qué tipo de distribución es?",
+  "options": [
+   "Distribución exclusiva: solo un distribuidor por zona geográfica",
+   "Distribución selectiva: el fabricante escoge distribuidores por criterios cualitativos, no por exclusividad territorial",
+   "Distribución autorizada: cualquier establecimiento puede solicitar ser distribuidor",
+   "Compra exclusiva: los distribuidores solo pueden abastecerse de esa marca"
+  ],
+  "answer": 1,
+  "explanation": "La distribución selectiva se basa en criterios cualitativos (imagen, formación, instalaciones), no en exclusividad geográfica. Es habitual en productos de lujo, tecnología o farmacia. Puede haber varios distribuidores selectivos en la misma ciudad si cumplen los estándares.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-224",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un fabricante de recambios de automóvil acepta como distribuidores a todos los talleres que cumplan ciertos requisitos técnicos mínimos, sin límite numérico ni territorial. Pueden vender también productos de la competencia. ¿Qué tipo de distribución es?",
+  "options": [
+   "Distribución exclusiva de compra",
+   "Distribución exclusiva de venta",
+   "Distribución selectiva",
+   "Distribución autorizada (abierta)"
+  ],
+  "answer": 3,
+  "explanation": "La distribución autorizada (o abierta) permite que cualquier empresa que cumpla los requisitos mínimos se convierta en distribuidor, sin exclusividades territoriales ni restricciones para vender productos competidores. Es el modelo más abierto de los cuatro.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-225",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de los cuatro tipos de contrato de distribución estudiados implica las obligaciones más intensas para ambas partes (mayor integración vertical) sin llegar a la franquicia?",
+  "options": [
+   "Distribución autorizada",
+   "Compra exclusiva",
+   "Distribución exclusiva de venta (concesión)",
+   "Distribución selectiva"
+  ],
+  "answer": 2,
+  "explanation": "La distribución exclusiva de venta (concesión) implica: el concedente se obliga a no vender a otros ni hacer ventas directas en el territorio; el concesionario se obliga a promover activamente las ventas, cumplir estándares y, a veces, a comprar mínimos. Es el modelo de mayor integración sin llegar a la franquicia.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-226",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El contrato de distribución es de tracto sucesivo, igual que el de agencia. ¿Qué persigue el concedente con un distribuidor, a diferencia de buscar una única compraventa puntual?",
+  "options": [
+   "Que el distribuidor asuma el 100% del riesgo de divisa en cada operación",
+   "Que el distribuidor compre toda la producción del fabricante sin límite de stock",
+   "Una relación estable y duradera para que su producto esté bien posicionado en ese mercado a largo plazo, no solo que el distribuidor le compre mucho",
+   "Conseguir una presencia física (establecimiento permanente) en el país del distribuidor"
+  ],
+  "answer": 2,
+  "explanation": "Como en la agencia, lo que el concedente busca no es solo que el distribuidor le compre grandes volúmenes, sino que revenda bien: que posicione el producto, cuide la imagen de marca y fidelice a los clientes finales. Una relación meramente de compraventa a gran escala sería una simple compraventa internacional, no distribución.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-227",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española que fabrica maquinaria agrícola quiere entrar en el mercado brasileño. Contempla agencia o distribución exclusiva. ¿Cuál es la diferencia MÁS relevante para decidir?",
+  "options": [
+   "El agente no paga impuestos en Brasil; el distribuidor sí",
+   "Con el distribuidor, la empresa española pierde el control directo sobre el precio de venta al cliente final y la relación con él; con el agente, mantiene ambos",
+   "El distribuidor puede exportar a terceros países sin permiso; el agente no",
+   "La distribución exclusiva siempre requiere inversión en almacén; la agencia no"
+  ],
+  "answer": 1,
+  "explanation": "El distribuidor compra en firme y revende a su propio riesgo y por su cuenta, fijando su propio precio (dentro del contrato). El fabricante pierde la relación directa con el cliente final y la posibilidad de controlar el precio de reventa. Con el agente, el fabricante mantiene ese control porque los contratos de venta son en su nombre.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-228",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de vinos de Ribera del Duero firma un contrato de distribución exclusiva con un importador australiano. Al año, decide también vender online directamente a consumidores australianos. ¿Qué problema contractual surge?",
+  "options": [
+   "Ninguno: el derecho de distribución exclusiva solo cubre la venta física, no la online",
+   "Posible incumplimiento del contrato de distribución exclusiva, que normalmente prohíbe ventas directas del fabricante en el territorio del distribuidor",
+   "El distribuidor puede rescindir el contrato pero no reclamar daños",
+   "Solo es un problema si las ventas online superan el 20% de la facturación total"
+  ],
+  "answer": 1,
+  "explanation": "En la distribución exclusiva de venta, el concedente se obliga a no hacer ventas directas en el territorio del distribuidor. Las ventas online al mercado australiano compiten con el distribuidor y pueden constituir un incumplimiento contractual, salvo pacto expreso que regule el canal digital.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-229",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En distribución selectiva, un distribuidor seleccionado vende el producto a un revendedor que no ha sido autorizado por el fabricante. ¿Qué puede hacer el fabricante?",
+  "options": [
+   "Nada: una vez que el producto sale al mercado, el fabricante pierde el control de distribución",
+   "Reclamar al revendedor no autorizado por infracción de marca registrada",
+   "Rescindir el contrato con el distribuidor por incumplir las condiciones del sistema selectivo",
+   "Exigir la devolución de la mercancía al revendedor no autorizado"
+  ],
+  "answer": 2,
+  "explanation": "El distribuidor en un sistema selectivo se obliga a no revender a distribuidores no autorizados. Si lo hace, incumple el contrato y el fabricante puede resolver la relación y reclamar daños. El revendedor no autorizado no tiene vínculo contractual con el fabricante, pero el distribuidor sí.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-230",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Qué es un joint venture desde el punto de vista jurídico-empresarial?",
+  "options": [
+   "Un contrato de distribución exclusiva entre dos empresas de distintos países",
+   "Una forma de colaboración empresarial, puntual o estable, entre dos o más empresas independientes que aportan recursos para una actividad o proyecto común, compartiendo beneficios y riesgos",
+   "Una filial de una empresa multinacional creada en un país extranjero para reducir la carga fiscal",
+   "Un acuerdo de licencia de patente entre empresas de distintas nacionalidades"
+  ],
+  "answer": 1,
+  "explanation": "El joint venture (JV) es una alianza empresarial donde dos o más socios independientes aportan recursos (capital, tecnología, know-how, acceso a mercados) para un proyecto o actividad conjunta, compartiendo beneficios, costes y riesgos. Puede ser contractual (sin crear una entidad nueva) o societario (creando una empresa conjunta).",
+  "difficulty": "easy",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-231",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál es la diferencia entre un joint venture contractual y un joint venture societario?",
+  "options": [
+   "El contractual exige aportación de capital; el societario solo de know-how",
+   "El contractual regula la colaboración mediante un contrato sin crear ninguna entidad jurídica nueva; el societario crea una sociedad (empresa conjunta) de la que los socios son accionistas",
+   "El contractual siempre tiene carácter temporal; el societario es siempre indefinido",
+   "No existe diferencia jurídica práctica: ambos implican la misma responsabilidad de los socios"
+  ],
+  "answer": 1,
+  "explanation": "JV contractual: las partes se vinculan solo mediante un contrato; cada una mantiene su personalidad jurídica y solo comparten los resultados del proyecto. JV societario: las partes crean una nueva entidad (p. ej. una S.L.) de la que son socios. Esta última tiene personalidad jurídica propia, puede firmar contratos, tiene empleados, etc.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-232",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa española y una empresa china crean una sociedad limitada en Shanghái para fabricar y vender productos en China, participando cada una al 50%. ¿Qué tipo de joint venture es y qué ventaja principal aporta a la española?",
+  "options": [
+   "JV contractual; la ventaja es evitar crear una entidad china",
+   "JV societario; la ventaja es acceder al mercado chino con un socio local que conoce la normativa, la cultura y los canales de distribución",
+   "Franquicia internacional; la ventaja es que la empresa china paga royalties a la española",
+   "Contrato de distribución exclusiva; la ventaja es que la española mantiene control total sobre la producción"
+  ],
+  "answer": 1,
+  "explanation": "Es un JV societario (se crea una entidad nueva, la S.L. en Shanghái). La ventaja para la empresa española es acceder a China con un socio local que aporta conocimiento del mercado, relaciones institucionales y distribución, reduciendo el riesgo y los costes de entrada.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-233",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "El 'acuerdo base' de un joint venture es el documento que regula la relación entre los socios antes de constituir la entidad conjunta. ¿Qué materias esenciales debe contener?",
+  "options": [
+   "Solo la distribución del capital y el reparto de beneficios",
+   "El objeto y alcance de la colaboración, las aportaciones de cada parte, el gobierno y toma de decisiones, la distribución de beneficios y pérdidas, y las causas de resolución",
+   "Únicamente la ley aplicable y los tribunales competentes para resolver disputas",
+   "Los estados financieros proyectados y el plan de marketing del JV"
+  ],
+  "answer": 1,
+  "explanation": "El acuerdo base (shareholders' agreement o JV agreement) regula: objeto del JV, aportaciones de cada socio (capital, tecnología, personas), estructura de gobierno (consejo de administración, quórums de votación), distribución de resultados, pactos de no competencia y cláusulas de salida (drag-along, tag-along, right of first refusal).",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-234",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En un JV societario, los socios suelen firmar contratos con la empresa conjunta además del acuerdo de socios (p.ej., contrato de licencia de tecnología, contrato de suministro). ¿Cómo se denominan estos contratos y cuál es su riesgo principal?",
+  "options": [
+   "Contratos accesorios; el riesgo es que estén sujetos a derecho del país de la empresa conjunta, no al del JV",
+   "Operaciones vinculadas; el riesgo es que Hacienda considere que el precio no es de mercado (arm's length) y ajuste la base imponible",
+   "Contratos de integración vertical; el riesgo es que el socio mayoritario los use para vaciar de valor la empresa conjunta",
+   "Contratos de distribución interna; el riesgo es que se solapan con el acuerdo base"
+  ],
+  "answer": 1,
+  "explanation": "Los contratos entre los socios y la empresa conjunta (licencias, suministros, servicios de gestión) son operaciones vinculadas (related-party transactions). La normativa fiscal exige que se pacten a precios de mercado (arm's length). Si no, la administración tributaria puede corregirlos, generando ajustes fiscales en ambas jurisdicciones.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-235",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un JV societario internacional puede generar un problema de doble imposición. ¿En qué consiste?",
+  "options": [
+   "En que los beneficios tributan dos veces en el mismo país: en el JV y en cada socio",
+   "En que los beneficios del JV tributan en el país donde está constituido y, cuando se reparten como dividendos, también en el país de cada socio, salvo que haya convenio de doble imposición",
+   "En que el IVA se aplica tanto a las ventas del JV como a las compras entre socios",
+   "En que los socios deben pagar impuestos en todos los países donde el JV tenga clientes"
+  ],
+  "answer": 1,
+  "explanation": "La doble imposición ocurre cuando los beneficios del JV tributan por el impuesto de sociedades en el país de constitución y luego, al repartirse dividendos, los socios vuelven a tributar por ellos en sus respectivos países. Los convenios de doble imposición bilaterales (CDI) remedian esto parcialmente mediante créditos fiscales o exenciones.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-236",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de las siguientes es una VENTAJA del JV frente a la implantación directa (filial al 100%) para una empresa que entra en un mercado nuevo?",
+  "options": [
+   "El control total sobre las decisiones estratégicas y operativas",
+   "La facilidad para proteger la propiedad intelectual frente a los socios locales",
+   "El reparto del riesgo de inversión y el acceso inmediato al conocimiento del mercado local aportado por el socio",
+   "La ausencia total de conflictos de interés entre los socios"
+  ],
+  "answer": 2,
+  "explanation": "Las dos ventajas principales del JV sobre la filial propia son: (1) se comparte el riesgo financiero de la inversión; (2) el socio local aporta conocimiento del mercado, red de contactos y acceso a distribución, reduciendo el tiempo y coste de aprendizaje.",
+  "difficulty": "easy",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-237",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de las siguientes es un RIESGO o DESVENTAJA habitual del joint venture?",
+  "options": [
+   "La imposibilidad de aportar tecnología propia al JV",
+   "El riesgo de conflictos entre socios por diferencias de objetivos, culturas corporativas o reparto de beneficios, que pueden bloquear la toma de decisiones",
+   "Que el JV societario no puede tener empleados propios",
+   "Que el JV nunca puede acceder a financiación bancaria porque carece de activos propios"
+  ],
+  "answer": 1,
+  "explanation": "El mayor riesgo del JV es el conflicto entre socios. Las diferencias de visión estratégica, cultura empresarial o intereses a largo plazo pueden bloquear decisiones en el órgano de gobierno (deadlock). Por eso los acuerdos de socios incluyen cláusulas específicas de resolución de conflictos y de salida.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-238",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un país emergente exige que cualquier empresa extranjera que quiera operar en su territorio lo haga en forma de JV con un socio local mayoritario (51%). ¿Qué objetivo persigue esa normativa?",
+  "options": [
+   "Garantizar que la empresa extranjera controle las decisiones estratégicas del JV",
+   "Evitar la repatriación de beneficios por parte del socio extranjero",
+   "Asegurar que el control de la empresa y el know-how queden mayoritariamente en manos locales, transfiriendo conocimiento y poder de decisión",
+   "Cumplir con las normas de la OMC sobre aranceles a la inversión directa"
+  ],
+  "answer": 2,
+  "explanation": "Muchos países en desarrollo (China, India, Arabia Saudí) imponen JV obligatorios con socio local mayoritario para forzar la transferencia de tecnología y know-how, garantizar que el control económico quede en manos nacionales y capturar el conocimiento de la empresa extranjera.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-239",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Ordena estos contratos de menor a mayor asunción de riesgo por parte del intermediario internacional: agencia sin cláusula de riesgo financiero / comisión / distribución exclusiva.",
+  "options": [
+   "Distribución exclusiva < comisión < agencia sin cláusula",
+   "Agencia sin cláusula < comisión < distribución exclusiva",
+   "Comisión < agencia sin cláusula < distribución exclusiva",
+   "Todos asumen el mismo nivel de riesgo porque actúan por cuenta del fabricante"
+  ],
+  "answer": 1,
+  "explanation": "El agente sin cláusula de riesgo financiero asume el menor riesgo (solo si no vende no cobra comisión). El comisionista asume algo más de riesgo por la naturaleza puntual del encargo y los costes avanzados. El distribuidor asume el mayor riesgo porque compra la mercancía y carga con el riesgo de impago del cliente final.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-240",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa de software quiere entrar en el mercado indio. Valora: (A) contratar un agente en Mumbai; (B) crear un JV con una empresa india del sector tecnológico. ¿Cuál sería la principal razón para elegir el JV si la empresa quiere desarrollar un producto específico para el mercado indio?",
+  "options": [
+   "El JV permite evitar la normativa de propiedad intelectual india",
+   "El agente no puede firmar contratos en nombre de la empresa española",
+   "El JV permite combinar la tecnología española con el conocimiento del mercado local del socio indio para co-desarrollar y comercializar el producto, compartiendo costes y riesgos de I+D",
+   "La agencia está prohibida en India para empresas de software"
+  ],
+  "answer": 2,
+  "explanation": "El JV es la opción idónea cuando se quiere co-desarrollar un producto, no solo distribuirlo. El socio local aporta conocimiento del usuario indio, acceso a clientes y posiblemente talento técnico, mientras la española aporta tecnología base. Ambas comparten costes de I+D y el riesgo de que el producto no funcione.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-241",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa valenciana de calzado usa un agente en Japón que lleva 8 años trabajando para ella. El agente nunca ha entregado informes de mercado pese a estar obligado por contrato. La empresa sigue facturando 5 M€ anuales. ¿Qué RIESGO estratégico concreto corre la empresa si prescinde del agente?",
+  "options": [
+   "Perder la protección de la directiva comunitaria al resolver el contrato",
+   "Que los clientes japoneses sean fieles al agente y no a la marca valenciana, con lo que el agente podría llevárselos a otro fabricante competidor",
+   "Ser demandada por la Cámara de Comercio japonesa por incumplir el contrato de agencia",
+   "No poder volver a registrar la marca en Japón si el agente ya la tiene a su nombre"
+  ],
+  "answer": 1,
+  "explanation": "Este es el riesgo del 'cuello de botella' o dependencia: si los clientes japoneses consideran que su proveedor es el agente (no la marca española), al cambiar de agente se puede perder toda la clientela. Por eso los mandantes exigen informes periódicos y visitas directas a clientes, para mantener una relación propia con el mercado.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-242",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un contrato de agencia lleva 12 años vigente sin fecha de vencimiento. El mandante quiere resolverlo porque ha decidido crear una filial propia. ¿Cuánto previso debe dar y qué sucede si no lo da?",
+  "options": [
+   "12 meses de previso; si no lo da, paga los 12 meses como indemnización",
+   "6 meses de previso (máximo); si no lo da, debe indemnizar al agente con el equivalente a esos 6 meses de comisiones además del fondo de clientela",
+   "No necesita previso porque la resolución está justificada por causa empresarial legítima",
+   "2 años de previso (1 mes por año, sin tope)"
+  ],
+  "answer": 1,
+  "explanation": "Para un contrato de 12 años, el previso sería 12 meses, pero la directiva establece un MÁXIMO de 6 meses. El mandante debe dar 6 meses de previso (o pagarlo como indemnización sustitutoria) más el fondo de clientela. No hay exoneración por causa empresarial unilateral.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-243",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "La normativa comunitaria de contrato de agencia es 'proteccionista'. ¿Contra qué riesgo específico protege al agente y que es considerado lícito por el derecho?",
+  "options": [
+   "Contra la posibilidad de que el mandante venda directamente a los clientes del agente sin pagar comisión",
+   "Contra el 'cuello de botella inverso': que el mandante, una vez aprendido el mercado gracias al agente, decida prescindir de él aunque no haya incumplido",
+   "Contra la competencia desleal de otros agentes en el mismo territorio",
+   "Contra la modificación unilateral del porcentaje de comisión por el mandante"
+  ],
+  "answer": 1,
+  "explanation": "La directiva reconoce que es lícito no renovar el contrato o resolverlo una vez vencido, incluso si el agente lo ha hecho bien. Protege al agente de esa situación (ser 'tirado' cuando ya no es necesario) mediante el fondo de clientela y el previso obligatorio, reconociendo que el mandante se beneficiará de la clientela generada.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-244",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa alemana que fabrica maquinaria de precisión quiere usar a un comisionista para vender un lote de máquinas sobrantes de una línea descontinuada. ¿Por qué es más adecuado el contrato de comisión que el de distribución para esta situación concreta?",
+  "options": [
+   "Porque el comisionista puede negociar el precio libremente, mientras que el distribuidor no",
+   "Porque la comisión es para una operación puntual (tracto único), no para crear una red de distribución estable; aquí solo se quiere liquidar un stock concreto",
+   "Porque el comisionista tiene más autonomía que el distribuidor para elegir al comprador final",
+   "Porque el contrato de distribución exige exclusividad territorial obligatoria"
+  ],
+  "answer": 1,
+  "explanation": "El contrato de comisión es ideal para operaciones puntuales o de liquidación: un encargo específico (vender estas máquinas concretas), sin vocación de continuidad. El distribuidor implica una relación a largo plazo y compra en firme, lo que no tiene sentido para liquidar un stock residual.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-245",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál es el plazo de prescripción de la acción del agente para reclamar el fondo de clientela y el previso tras la resolución del contrato de agencia?",
+  "options": [
+   "3 años, conforme al Código Civil",
+   "5 años, conforme al Código de Comercio",
+   "1 año desde la resolución del contrato",
+   "6 meses desde que el agente tenga conocimiento de la resolución"
+  ],
+  "answer": 2,
+  "explanation": "La ley española de contrato de agencia (transposición de la directiva) establece un plazo de prescripción de 1 año desde la extinción del contrato para que el agente ejercite sus acciones de reclamación (fondo de clientela, previso). Presentar la demanda dentro de ese año interrumpe el plazo.",
+  "difficulty": "medium",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-246",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En el contexto de un JV societario, ¿qué se entiende por 'deadlock' y cómo suelen prevenirlo los acuerdos de socios?",
+  "options": [
+   "El bloqueo total de producción por huelga de los empleados del JV; se previene con cláusulas de servicio esencial",
+   "El bloqueo de toma de decisiones cuando los socios tienen participaciones iguales y posiciones irreconciliables; se previene con mecanismos de desempate (árbitro independiente, opción de compra, subasta)",
+   "La prohibición de que el JV entre en insolvencia; se previene con cláusulas de capitalización obligatoria",
+   "El acceso del socio mayoritario a información confidencial del minoritario; se previene con cláusulas de confidencialidad"
+  ],
+  "answer": 1,
+  "explanation": "El deadlock (empate o bloqueo) ocurre cuando los socios al 50% no pueden ponerse de acuerdo en una decisión clave (inversión, nombramiento de directivos, cambio de estrategia). Los acuerdos de socios incluyen mecanismos de resolución: árbitro neutral, Russian roulette (uno propone precio, el otro decide comprar o vender), o derecho de arrastre (drag-along).",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-247",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa norteamericana negocia con su agente en toda Europa la posibilidad de resolver el contrato porque una normativa europea hace que su producto sea incompatible con la nueva regulación. Antes de resolverlo notifica al agente con 6 meses de antelación. ¿Qué indemnizaciones tendría que pagar?",
+  "options": [
+   "Solo el previso de 6 meses, porque la causa es ajena a la voluntad del mandante",
+   "Fondo de clientela + previso pagado correctamente: se elimina la parte del previso, pero el fondo de clientela solo procede si los clientes pueden seguir generando beneficios para el mandante",
+   "Ninguna, porque la incompatibilidad normativa es un caso de fuerza mayor que exonera de toda indemnización",
+   "Solo el previso; el fondo de clientela no procede porque la normativa impide continuar vendiendo en Europa"
+  ],
+  "answer": 3,
+  "explanation": "Si el producto no se puede vender en Europa a partir de la entrada en vigor de la normativa, los clientes captados por el agente NO van a seguir generando beneficios al mandante (uno de los requisitos del fondo de clientela). Por tanto, no procede el fondo de clientela. Sí procede el previso si se hace correctamente (o su indemnización sustitutoria). Las comisiones post-resolución también dependerían de cuándo entra en vigor la prohibición.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-248",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un mandante pacta con su agente que la retribución será exclusivamente un sueldo fijo mensual, sin comisión variable. ¿Qué riesgo jurídico corre el mandante con este sistema de retribución?",
+  "options": [
+   "Que el agente reclame el fondo de clientela multiplicado por el número de meses de sueldo",
+   "Que un tribunal pueda interpretar la relación como laboral (y no mercantil), con todas las consecuencias de un despido laboral",
+   "Que la directiva de agencia declare nula la cláusula de retribución fija",
+   "Ninguno: la directiva permite cualquier sistema de retribución si ambas partes lo aceptan"
+  ],
+  "answer": 1,
+  "explanation": "Cuando la retribución del agente es completamente fija (sin comisión variable), la relación se asemeja más a una relación laboral. Un tribunal, especialmente con un elemento de ajenidad y subordinación, podría recalificarla como contrato laboral (representante de comercio), con las consecuencias de un despido improcedente para el mandante.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-249",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "¿Cuál de las siguientes combinaciones describe CORRECTAMENTE las características del contrato de distribución exclusiva de venta?",
+  "options": [
+   "Tracto único / nombre propio / no hay doble transmisión / distribuidor asume riesgo de impago",
+   "Tracto sucesivo / nombre propio / doble transmisión / distribuidor es propietario de la mercancía",
+   "Tracto sucesivo / nombre ajeno / una sola transmisión / fabricante mantiene propiedad hasta venta final",
+   "Tracto único / nombre ajeno / doble transmisión / fondo de clientela garantizado por directiva"
+  ],
+  "answer": 1,
+  "explanation": "La distribución exclusiva es: tracto sucesivo (relación duradera), el distribuidor actúa en nombre propio y por su propia cuenta, hay doble transmisión (fabricante → distribuidor → cliente), y el distribuidor es propietario de la mercancía con todos los riesgos que eso implica.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-250",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Dos empresas farmacéuticas —una española y una japonesa— acuerdan un JV contractual para co-desarrollar un medicamento y comercializarlo globalmente. La española aporta tecnología de síntesis y la japonesa el acceso al mercado asiático. ¿Qué diferencia a este JV de un simple contrato de licencia de tecnología?",
+  "options": [
+   "En el JV la empresa española cobra royalties; en la licencia no hay pago",
+   "En el JV ambas partes comparten tanto las inversiones y riesgos del desarrollo como los beneficios del éxito comercial; la licencia solo transfiere el derecho de uso de la tecnología a cambio de royalties",
+   "En el JV la empresa japonesa se convierte en propietaria de la tecnología española",
+   "El JV contractual crea una entidad nueva; la licencia no"
+  ],
+  "answer": 1,
+  "explanation": "La licencia transfiere el derecho de uso de la tecnología (a cambio de royalties) pero sin que el licenciatario asuma el riesgo del negocio del licenciante. En el JV, ambas partes son co-inversoras: comparten costes de I+D, riesgo de fracaso y beneficios del éxito comercial. Hay una alineación de incentivos mucho mayor.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-251",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Un agente con exclusividad de zona recibe instrucciones del mandante de que solo puede aceptar pagos mediante crédito documentario irrevocable. Un tercer contratante importante le ofrece pagar a 60 días. ¿Puede el agente aceptar si lleva la cláusula de riesgo financiero?",
+  "options": [
+   "No, nunca: las instrucciones del mandante sobre forma de pago son irrenunciables aunque el agente asuma el riesgo",
+   "Sí: si el agente asume el riesgo financiero, tiene sentido que pueda negociar la forma de pago para ser más competitivo",
+   "Solo si el mandante lo autoriza expresamente caso por caso",
+   "Depende de si el crédito documentario es irrevocable o no"
+  ],
+  "answer": 1,
+  "explanation": "Uno de los argumentos clave del transcript: si el agente asume el riesgo de impago (cláusula de riesgo financiero o del star credere), tiene lógica que pueda negociar la forma de pago, ya que el mandante no tiene más riesgo en ese aspecto. Además, la flexibilidad de pago hace al agente más competitivo para captar clientes.",
+  "difficulty": "hard",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-252",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "En una distribución selectiva, el fabricante puede rechazar a un solicitante que cumple todos los criterios técnicos y cualitativos publicados, simplemente porque ya tiene suficientes distribuidores en esa ciudad. ¿Es esto lícito?",
+  "options": [
+   "Sí, el fabricante siempre puede elegir con quién trabaja en un sistema selectivo",
+   "No: si el solicitante cumple todos los criterios publicados, el rechazo puede considerarse discriminatorio y contrario al derecho de competencia europeo",
+   "Sí, siempre que el fabricante lo justifique por escrito al solicitante rechazado",
+   "No tiene relevancia jurídica: la distribución selectiva no está regulada en el derecho europeo"
+  ],
+  "answer": 1,
+  "explanation": "Según el derecho europeo de competencia (Reglamento 330/2022), el fabricante puede fijar criterios cualitativos y cuantitativos para la distribución selectiva, pero esos criterios deben ser objetivos, uniformes y no discriminatorios. Si el solicitante cumple todos los criterios publicados, rechazarlo sin justificación puede vulnerar el reglamento de exención por categorías.",
+  "difficulty": "hard",
+  "key": false,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-253",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa lleva años usando a un agente en Brasil que le aporta 3M€ anuales de ventas. Considera sustituirlo por un distribuidor exclusivo para el mismo territorio. ¿Qué impacto inmediato tendría este cambio en la relación con los clientes finales brasileños?",
+  "options": [
+   "Ninguno: desde el punto de vista del cliente final, agente y distribuidor son equivalentes",
+   "El distribuidor pasará a ser el interlocutor directo del cliente final y fijará su propio precio de reventa; la empresa española perderá el contacto directo y el control del precio al consumidor",
+   "La empresa española tendrá más control porque el distribuidor le reportará todas las ventas individualmente",
+   "El cliente final recibirá mejores condiciones de pago porque el distribuidor asume el riesgo financiero"
+  ],
+  "answer": 1,
+  "explanation": "Con el cambio de agente a distribuidor, la empresa española pierde la relación directa con el cliente final brasileño (ahora cliente del distribuidor, no de la española) y deja de controlar el precio de reventa. Gana en simplicidad (una sola contraparte) pero a costa de visibilidad e influencia en el mercado.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-254",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
+ },
+ {
+  "question": "Una empresa quiere internacionalizarse y valora cuatro opciones: agente, comisionista, distribuidor exclusivo y joint venture. ¿En qué circunstancia es el joint venture la opción más adecuada?",
+  "options": [
+   "Cuando se quiere testear el mercado con una operación puntual sin compromiso a largo plazo",
+   "Cuando se quiere delegar toda la responsabilidad comercial en un intermediario local sin invertir recursos propios",
+   "Cuando la empresa quiere desarrollar una actividad significativa en el mercado extranjero combinando sus capacidades con las del socio local, compartiendo inversión, riesgo y beneficios a largo plazo",
+   "Cuando la empresa ya tiene presencia consolidada en ese mercado y quiere reducir costes"
+  ],
+  "answer": 2,
+  "explanation": "El JV es adecuado cuando: (1) la inversión y el riesgo son demasiado grandes para asumirlos solos; (2) se necesita una capacidad que el socio local tiene (distribución, tecnología, acceso regulatorio); (3) se busca una presencia real y duradera en el mercado, no solo intermediación comercial. No es adecuado para operaciones puntuales ni para empresas que ya están implantadas.",
+  "difficulty": "medium",
+  "key": true,
+  "approved": true,
+  "source": "Apuntes Contratación Internacional (L. Morros) · Agencia, Comisión, Distribución y Joint Venture",
+  "id": "der-255",
+  "subject": "derecho",
+  "subjectName": "Contratación Internacional"
  }
 ]
