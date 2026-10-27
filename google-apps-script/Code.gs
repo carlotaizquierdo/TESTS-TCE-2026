@@ -30,7 +30,7 @@ function json_(obj) {
 function workbook_() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   if (!ss) {
-    throw new Error('Este script debe crearse desde Extensiones > Apps Script dentro de "Seguimiento TCE 2026".');
+    throw new Error('Este script debe crearse desde Extensiones > Apps Script dentro de "Seguimiento TCE 2026 - Examen 3 y tests".');
   }
   return ss;
 }
@@ -53,8 +53,11 @@ function configMap_(ss) {
     byKey[key] = item;
     byTitle[title.toLowerCase()] = item;
   });
-  retfunction markPlanTests_(ss, configByKey, keys) {
-  const planNames = TCE_SHEETS.plans || [TCE_SHEETS.plan].filter(Boolean);
+  return { byKey, byTitle };
+}
+
+function markPlanTests_(ss, configByKey, keys) {
+  const planNames = TCE_SHEETS.plans || [];
   planNames.forEach(planName => {
     const sh = ss.getSheetByName(planName);
     if (!sh || sh.getLastRow() < 7) return;
@@ -67,10 +70,6 @@ function configMap_(ss) {
         const idx = names.indexOf(title);
         if (idx >= 0) sh.getRange(startRow + idx, 5).setValue(true);
       });
-    });
-  });
-}
-lue(true);
     });
   });
 }
