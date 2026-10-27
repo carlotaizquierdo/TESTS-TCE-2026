@@ -26,7 +26,7 @@
     "question": "Un importador deja mercancía de terceros países en un ADT y su equipo cree que ya está incluida en régimen de depósito aduanero. ¿Qué corrección procede?",
     "options": [
       "El depósito temporal equivale a un perfeccionamiento activo suspendido.",
-      "El ADT no supone ya un régimen aduanero especial.",
+      "El ADT es depósito temporal, distinto de un régimen aduanero especial.",
       "Toda mercancía en ADT está automáticamente despachada a libre práctica.",
       "La llegada al ADT concede estatuto aduanero de la Unión."
     ],
@@ -84,7 +84,7 @@
     "options": [
       "Canarias está fuera de la Unión Europea para cualquier tributo.",
       "Canarias utiliza necesariamente el IVA peninsular en toda venta.",
-      "Canarias está en el TAU, pero fuera del IVA armonizado.",
+      "Canarias está en el territorio aduanero, pero fuera del IVA armonizado.",
       "La circulación a Canarias convierte la mercancía en originaria de la Unión."
     ],
     "answer": 2,
@@ -236,7 +236,7 @@
     "options": [
       "Eliminar los controles sanitarios exigibles a cualquier salida.",
       "Atribuir estatuto de la Unión desde su entrada en el almacén.",
-      "Diferir el despacho y derechos mientras dure el depósito.",
+      "Diferir el despacho y el pago de derechos mientras dure el depósito.",
       "Convertir todas las ventas futuras en entregas intracomunitarias."
     ],
     "answer": 2,
@@ -294,7 +294,7 @@
       "El arancel pagado reemplaza toda autorización sanitaria.",
       "El control sanitario corresponde al banco que paga la compra.",
       "La factura comercial acredita por sí misma la aptitud sanitaria.",
-      "Que el levante depende del control sanitario pendiente."
+      "Que el levante depende de superar el control sanitario pendiente."
     ],
     "answer": 3,
     "explanation": "Los controles sectoriales o paraaduaneros siguen siendo exigibles cuando proceden, con independencia del cálculo tributario.",
@@ -424,7 +424,7 @@
     "topic": "IVA adquisiciones",
     "question": "Una empresa con derecho pleno a deducción compra bienes de otra sociedad de la UE, y esta factura sin IVA. ¿Qué debe reflejar en su autoliquidación española?",
     "options": [
-      "Autorrepercusión y deducción, si cumple los requisitos.",
+      "Autorrepercusión y deducción, cuando se cumplen los requisitos.",
       "Solo IVA deducible sin devengo al llegar factura exenta.",
       "IVA de importación liquidado por aduana como tercer país.",
       "Impuesto declarado únicamente por el proveedor extranjero."
@@ -464,7 +464,7 @@
     "options": [
       "Tributación perpetua en origen al tener sede española.",
       "DUA de importación por cada venta a un Estado miembro.",
-      "Aplicar IVA en destino, con OSS como vía opcional.",
+      "IVA en destino y posibilidad de declarar la operación por OSS.",
       "Exención de IVA por vender a consumidores particulares."
     ],
     "answer": 2,
