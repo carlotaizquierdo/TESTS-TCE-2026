@@ -26,7 +26,7 @@
     "question": "Un importador deja mercancía de terceros países en un ADT y su equipo cree que ya está incluida en régimen de depósito aduanero. ¿Qué corrección procede?",
     "options": [
       "El depósito temporal equivale a un perfeccionamiento activo suspendido.",
-      "El depósito temporal es una situación previa, distinta del régimen especial de depósito.",
+      "El ADT no supone ya un régimen aduanero especial.",
       "Toda mercancía en ADT está automáticamente despachada a libre práctica.",
       "La llegada al ADT concede estatuto aduanero de la Unión."
     ],
@@ -66,7 +66,7 @@
       "La ENS determina la cuota de IVA y sustituye el DUA.",
       "La ENS es una declaración de exportación del vendedor.",
       "La ENS implica que ya se ha concedido el levante de la mercancía.",
-      "La ENS cumple una función previa de seguridad; no reemplaza la declaración de importación."
+      "ENS informa sobre seguridad, pero no constituye despacho."
     ],
     "answer": 3,
     "explanation": "La declaración sumaria de entrada aporta datos para seguridad; el despacho exige su propio procedimiento.",
@@ -84,7 +84,7 @@
     "options": [
       "Canarias está fuera de la Unión Europea para cualquier tributo.",
       "Canarias utiliza necesariamente el IVA peninsular en toda venta.",
-      "Canarias está en el territorio aduanero, pero fuera del territorio armonizado del IVA.",
+      "Canarias está en el TAU, pero fuera del IVA armonizado.",
       "La circulación a Canarias convierte la mercancía en originaria de la Unión."
     ],
     "answer": 2,
@@ -142,7 +142,7 @@
       "El origen no preferencial y la nacionalidad del transportista.",
       "El puerto de descarga y el domicilio del comprador.",
       "La póliza de seguro y la cobertura del riesgo comercial.",
-      "El estatuto aduanero de libre práctica y el tratamiento tributario del IVA."
+      "Estatuto aduanero y tratamiento del IVA son distintos."
     ],
     "answer": 3,
     "explanation": "El despacho a libre práctica y el despacho a consumo no deben confundirse; hay reglas distintas para derechos y tributos.",
@@ -178,7 +178,7 @@
     "question": "Una empresa necesita exportar hoy estructuras fabricadas con acero de la Unión e importar después acero equivalente extranjero bajo autorización. ¿Qué modalidad podría utilizar?",
     "options": [
       "Perfeccionamiento pasivo con reparación en un tercer país.",
-      "Perfeccionamiento activo EX/IM con exportación anticipada y equivalencia autorizada.",
+      "Activo EX/IM con exportación anticipada y equivalencia.",
       "Admisión temporal del acero de la Unión transformado.",
       "Despacho a consumo retroactivo sin condiciones especiales."
     ],
@@ -236,7 +236,7 @@
     "options": [
       "Eliminar los controles sanitarios exigibles a cualquier salida.",
       "Atribuir estatuto de la Unión desde su entrada en el almacén.",
-      "Posponer despacho y derechos mientras permanezca válidamente en el régimen.",
+      "Diferir el despacho y derechos mientras dure el depósito.",
       "Convertir todas las ventas futuras en entregas intracomunitarias."
     ],
     "answer": 2,
@@ -254,7 +254,7 @@
     "question": "Una empresa trae temporalmente equipos para exhibirlos en una feria y volver a exportarlos sin transformación. ¿Qué régimen resulta pertinente frente a importación definitiva?",
     "options": [
       "Perfeccionamiento pasivo por exhibición fuera de fábrica.",
-      "Importación temporal si se cumplen condiciones de uso y reexportación.",
+      "Importación temporal con reexportación prevista y condicionada.",
       "Tránsito interno que autoriza uso libre en la feria.",
       "Libre práctica sin tributos por tratarse de una exposición."
     ],
@@ -272,7 +272,7 @@
     "topic": "Control aduanero",
     "question": "Un envío recibe circuito rojo. El responsable comercial considera que debe concederse levante porque la declaración y la factura ya se aportaron. ¿Qué ha confundido?",
     "options": [
-      "Presentar documentos no sustituye completar los controles que condicionan el levante.",
+      "La declaración presentada no equivale a levante concedido.",
       "El circuito rojo impide presentar declaraciones con facturas.",
       "La aduana no puede inspeccionar bienes con declaración anticipada.",
       "La compañía transportista decide siempre el levante en circuito rojo."
@@ -294,7 +294,7 @@
       "El arancel pagado reemplaza toda autorización sanitaria.",
       "El control sanitario corresponde al banco que paga la compra.",
       "La factura comercial acredita por sí misma la aptitud sanitaria.",
-      "El levante puede quedar condicionado al control sectorial competente."
+      "Que el levante depende del control sanitario pendiente."
     ],
     "answer": 3,
     "explanation": "Los controles sectoriales o paraaduaneros siguen siendo exigibles cuando proceden, con independencia del cálculo tributario.",
@@ -312,7 +312,7 @@
     "options": [
       "El tamaño del contenedor y el código de tránsito.",
       "La residencia fiscal del transportista marítimo.",
-      "El origen preferencial y la prueba exigida por el acuerdo aplicable.",
+      "Origen preferencial y prueba conforme al acuerdo aplicable.",
       "El número de palés y el seguro de la carga."
     ],
     "answer": 2,
@@ -348,7 +348,7 @@
     "topic": "Origen preferencial",
     "question": "Una empresa pretende preferencia arancelaria con una factura que solo indica el domicilio del vendedor en el país beneficiario. ¿Qué es lo que falta?",
     "options": [
-      "Probar que la mercancía cumple el origen preferencial exigido.",
+      "Acreditar el origen conforme a las reglas del acuerdo.",
       "Comprobar si el contenedor se descargó en un puerto europeo.",
       "Acreditar la fecha de vencimiento del medio de pago.",
       "Revisar la póliza de seguro contratada por el expedidor."
@@ -388,7 +388,7 @@
     "options": [
       "El IVA usa siempre una base inferior al valor en aduana.",
       "El arancel se calcula a partir del IVA pagado en destino.",
-      "La base del IVA puede adicionar derechos, tributos y determinados gastos.",
+      "Sumar derechos y gastos aplicables al valor en aduana.",
       "El IVA se determina por residencia fiscal del transportista."
     ],
     "answer": 2,
@@ -406,7 +406,7 @@
     "question": "Una pyme española compra bienes a un fabricante alemán con envío Alemania-España. Ambas actúan como empresarios y cumplen las condiciones de exención en origen. ¿Qué tratamiento es normal?",
     "options": [
       "Exportación alemana e importación española con arancel.",
-      "Entrega intracomunitaria exenta en origen y adquisición intracomunitaria en destino.",
+      "Exención de entrega en origen y adquisición gravada en destino.",
       "Factura con IVA alemán y DUA en España por las mismas mercancías.",
       "Venta interior española sin declarar adquisición intracomunitaria."
     ],
@@ -424,7 +424,7 @@
     "topic": "IVA adquisiciones",
     "question": "Una empresa con derecho pleno a deducción compra bienes de otra sociedad de la UE, y esta factura sin IVA. ¿Qué debe reflejar en su autoliquidación española?",
     "options": [
-      "IVA devengado y deducible por adquisición intracomunitaria, si procede.",
+      "Autorrepercusión y deducción, si cumple los requisitos.",
       "Solo IVA deducible sin devengo al llegar factura exenta.",
       "IVA de importación liquidado por aduana como tercer país.",
       "Impuesto declarado únicamente por el proveedor extranjero."
@@ -446,7 +446,7 @@
       "Perder automáticamente el origen español del producto.",
       "Convertir el transporte en un tránsito externo T1.",
       "Obligar al comprador a emitir una factura francesa.",
-      "No poder justificar la exención de la entrega intracomunitaria."
+      "Falta de prueba del transporte necesario para eximir."
     ],
     "answer": 3,
     "explanation": "La exención requiere acreditar las condiciones y el movimiento intracomunitario real.",
@@ -464,7 +464,7 @@
     "options": [
       "Tributación perpetua en origen al tener sede española.",
       "DUA de importación por cada venta a un Estado miembro.",
-      "Tributación en destino y posible uso de OSS para declarar.",
+      "Aplicar IVA en destino, con OSS como vía opcional.",
       "Exención de IVA por vender a consumidores particulares."
     ],
     "answer": 2,
@@ -482,7 +482,7 @@
     "question": "Una pequeña empresa española está por debajo del umbral de 10.000 € para las ventas B2C intracomunitarias comprendidas y desea optar por tributar en destino. ¿Qué respuesta es correcta?",
     "options": [
       "Debe esperar a superar 10.001 euros para cambiar el criterio.",
-      "Existe una opción por destino sometida a condiciones; no se elige tipo libremente factura a factura.",
+      "Puede optarse por destino con condiciones y efectos temporales.",
       "Puede escoger discrecionalmente el tipo de IVA de cualquier país.",
       "Está obligada a usar siempre el IVA del origen hasta fin de año."
     ],
@@ -522,7 +522,7 @@
       "La tarifa facturada determina siempre la localización del IVA.",
       "El país de la cuenta bancaria revela si el cliente es empresario.",
       "La factura proforma convierte al consumidor en profesional.",
-      "La condición real del cliente prevalece sobre la tarifa comercial."
+      "La condición real del cliente, no la tarifa usada."
     ],
     "answer": 3,
     "explanation": "La calificación B2B/B2C depende de la condición y actuación del destinatario, no del precio de la operación.",
@@ -540,7 +540,7 @@
     "options": [
       "La condición de residente español del vendedor para fijar el tipo.",
       "La ubicación de la cuenta bancaria donde se recibe el pago.",
-      "La exención por exportación y la acreditación de la salida fuera de la UE.",
+      "Exención de exportación y evidencia de salida de la UE.",
       "El importe del flete como único criterio para eximir IVA."
     ],
     "answer": 2,
@@ -558,7 +558,7 @@
     "question": "Una empresa aplica diferimiento del IVA de importación y contabiliza que ya no existe impuesto porque no lo paga en la aduana. ¿Cuál es la interpretación correcta?",
     "options": [
       "El IVA se convierte en un crédito automático de exportación.",
-      "El ingreso se lleva a la autoliquidación sin eliminar el impuesto.",
+      "Se declara e ingresa en la autoliquidación, no se elimina.",
       "El diferimiento borra el hecho imponible en la importación.",
       "El IVA queda reemplazado por el derecho arancelario."
     ],
@@ -598,7 +598,7 @@
       "Puede deducir el IVA y el recargo por la misma compra con libertad.",
       "No necesita soportar IVA cuando adquiere a un mayorista.",
       "El régimen transforma las ventas interiores en operaciones exentas.",
-      "En su actividad sometida al régimen, la deducción ordinaria del IVA soportado queda restringida."
+      "En recargo no se deduce ordinariamente el IVA de esas compras."
     ],
     "answer": 3,
     "explanation": "El recargo de equivalencia simplifica obligaciones del minorista, pero no permite la deducción ordinaria de esas cuotas.",
@@ -616,7 +616,7 @@
     "options": [
       "La mercancía conserva estatuto no Unión por haberse fabricado fuera.",
       "Todo bien de origen chino exige nuevo arancel al cruzar fronteras interiores.",
-      "Una vez despachadas a libre práctica son mercancía de la Unión; deben analizarse reglas fiscales del movimiento posterior.",
+      "Tras el despacho son bienes de la Unión; el movimiento tiene reglas propias.",
       "La declaración de origen determina automáticamente el IVA de destino."
     ],
     "answer": 2,
@@ -692,7 +692,7 @@
     "options": [
       "La compra FOB obliga al proveedor asiático a asegurar hasta destino.",
       "La venta CIF transmite riesgo solo al llegar el buque a puerto.",
-      "FOB no impone al vendedor contratar seguro; la obligación CIF de venta requiere cobertura.",
+      "FOB no incluye seguro a cargo del vendedor en esta compraventa.",
       "En ambas operaciones el despacho de importación corresponde al vendedor."
     ],
     "answer": 2,
