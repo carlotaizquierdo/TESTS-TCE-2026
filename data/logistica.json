@@ -26,9 +26,9 @@
     "question": "Un comprador contrata CIF para un cargamento de piezas muy frágiles. Cree que el seguro obligatorio cubre daños por casi cualquier causa. ¿Qué advertencia es correcta?",
     "options": [
       "El seguro mínimo CIF puede ser limitado y conviene ampliarlo.",
-      "El vendedor debe asegurar siempre con la cobertura más amplia de las cláusulas A.",
-      "El seguro CIF cubre daños causados por defecto del embalaje del cargador.",
-      "La cláusula CIF elimina la necesidad de comunicar daños al asegurador."
+      "Exigir que el vendedor asegure con ICC(A) por haberse pactado un puerto de destino.",
+      "Considerar equivalente la cobertura mínima obligatoria de los términos CIF y CIP.",
+      "Presumir que una póliza marítima cubre todo retraso o defecto de embalaje."
     ],
     "answer": 0,
     "explanation": "CIF exige generalmente cobertura mínima ICC(C), a diferencia de la cobertura amplia ICC(A) de CIP en Incoterms 2020; cabe pactar otra cobertura.",
@@ -234,10 +234,10 @@
     "topic": "Seguro ICC",
     "question": "Una póliza de transporte anuncia cobertura ICC(A). Un daño se produce por embalaje insuficiente imputable al asegurado. ¿Qué afirmación evita un error frecuente?",
     "options": [
-      "La cobertura ICC(A) implica indemnización por cualquier daño comunicado.",
+      "Considerar indemnizable cualquier daño material por existir cobertura ICC(A).",
       "ICC(A) mantiene exclusiones, por ejemplo las de embalaje insuficiente.",
-      "La prima ICC(A) convierte al transportista en asegurador de pleno derecho.",
-      "Una cláusula ICC(A) elimina obligaciones de mitigar el siniestro."
+      "Presumir incluidos los vicios propios al contratar una póliza de amplio alcance.",
+      "Tratar las condiciones ICC(A) como sustitutas de los deberes del asegurado."
     ],
     "answer": 1,
     "explanation": "La cobertura ICC(A) es amplia pero no universal; hay exclusiones y deberes del asegurado.",
@@ -310,10 +310,10 @@
     "topic": "Documentos de transporte",
     "question": "Un proveedor exige un documento de transporte que permita transmitir mercancía durante un viaje marítimo mediante entrega del título, si se emite a la orden. ¿Cuál debe considerar?",
     "options": [
-      "Una carta de porte CMR nominativa de carretera.",
+      "Un sea waybill nominativo entregado al comprador con confirmación de embarque.",
       "El B/L marítimo negociable emitido a la orden.",
-      "Un AWB aéreo utilizado como título representativo negociable.",
-      "Un albarán de entrega de un almacén de tránsito."
+      "Un AWB emitido con instrucciones de entrega directa al consignatario.",
+      "Un B/L nominativo sin emisión negociable a la orden del tenedor."
     ],
     "answer": 1,
     "explanation": "Determinados B/L emitidos a la orden pueden ser negociables y funcionar como títulos representativos; AWB y CMR no lo son.",
@@ -386,10 +386,10 @@
     "topic": "Capital asegurado",
     "question": "Se exporta maquinaria con valor de factura de 10.000 euros y se contrata seguro de carga solo por 6.000 euros. La mercancía se pierde completamente. ¿Qué problema principal existe?",
     "options": [
-      "La aseguradora abonará necesariamente el precio de venta completo.",
+      "Entender que el precio total de venta se pagará aunque el capital asegurado sea menor.",
       "Puede haber infraseguro respecto del interés económico expuesto.",
-      "El porteador debe reembolsar siempre el total de factura.",
-      "El seguro resulta nulo porque se contrató en euros."
+      "Suponer que una pérdida total permite actualizar después el capital de la póliza.",
+      "Reclamar el valor de factura íntegro al porteador, sin atender a límites legales."
     ],
     "answer": 1,
     "explanation": "El capital asegurado insuficiente puede limitar la indemnización en función de la póliza y de las reglas aplicables.",
