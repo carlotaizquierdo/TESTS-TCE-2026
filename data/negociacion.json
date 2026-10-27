@@ -63,10 +63,10 @@
     "topic": "Fases planificación",
     "question": "Una empresa llega a la mesa sin límites de precio, plazo ni condiciones de exclusividad, pero con un discurso comercial ensayado. ¿Qué falla de planificación sobresale?",
     "options": [
-      "No ha elegido la ropa adecuada para la primera reunión.",
+      "Improvisar concesiones sucesivas permite sustituir los límites de la planificación.",
       "No fijó objetivos y límites para decidir concesiones.",
-      "No ha identificado el tono de voz del interlocutor.",
-      "Ha evitado introducir un ancla demasiado agresiva."
+      "Preparar un plan de cierre sin establecer prioridades ni criterios de aceptación.",
+      "Un discurso comercial completo equivale a haber analizado los intereses ajenos."
     ],
     "answer": 1,
     "explanation": "Preparar es identificar objetivos, prioridades, límites y una propuesta de cierre, no solo los argumentos verbales.",
@@ -120,10 +120,10 @@
     "topic": "Farol",
     "question": "Un proveedor afirma tener una oferta alternativa mucho mejor pero evita concretar cantidades o plazos. El comprador sospecha una táctica de presión. ¿Qué actuación preserva su posición?",
     "options": [
-      "Superar sin más la oferta no documentada para no perder el cliente.",
-      "Denunciar automáticamente un delito comercial sin investigar.",
+      "Tomar la oferta rival como referencia de mercado antes de verificar su existencia.",
+      "Conceder una pequeña mejora inmediata para comprobar si el cliente exagera.",
       "Solicitar pruebas y verificar la afirmación antes de ceder al farol.",
-      "Revelar toda su estructura de costes a cambio de un compromiso verbal."
+      "Rechazar la información por intuición, sin contrastarla con otros datos fiables."
     ],
     "answer": 2,
     "explanation": "Frente a un posible farol, la información contrastada protege del uso de presiones infundadas.",
@@ -177,9 +177,9 @@
     "topic": "Bolsillos vacíos",
     "question": "Una cadena hotelera responde: 'la propuesta me gusta, pero este trimestre no tengo presupuesto'. El proveedor puede fraccionar pagos o modificar alcance. ¿Qué conviene comprobar?",
     "options": [
-      "Si la cadena está obligada legalmente a aceptar un descuento.",
-      "Si el presupuesto anual permite transferir automáticamente riesgos.",
-      "Si el contrato ha entrado ya en vigor por la aprobación verbal.",
+      "Aceptar la falta de presupuesto como motivo suficiente para una rebaja inmediata.",
+      "Presuponer que la referencia al presupuesto es necesariamente una táctica falsa.",
+      "Concluir que cualquier objeción presupuestaria excluye otras formas de acuerdo.",
       "Si el límite presupuestario es real o una táctica de presión."
     ],
     "answer": 3,
@@ -253,9 +253,9 @@
     "topic": "Valor conjunto",
     "question": "Dos exportadores quieren utilizar un barco con capacidad insuficiente. Uno exige prioridad absoluta; el otro propone compartir lotes y cambiar los turnos de embarque. ¿Qué diferencia estratégica ilustra?",
     "options": [
-      "Aceptar que la capacidad física aumenta al variar el discurso.",
-      "Evitar calcular pérdidas de mercancía perecedera.",
-      "Entregar el control de la carga a una sola parte sin contraprestación.",
+      "Distribuir los lotes por igual sin valorar el daño que sufriría cada exportador.",
+      "Asignar toda la carga al exportador que primero manifestó su posición.",
+      "Mantener la prioridad comercial sin estudiar turnos ni compensaciones posibles.",
       "Explorar opciones que generen valor para las dos partes."
     ],
     "answer": 3,
@@ -348,10 +348,10 @@
     "topic": "Negociación intercultural",
     "question": "Una exportadora prepara una visita comercial a un mercado donde las relaciones personales y los tiempos de confianza pesan mucho. ¿Qué aplicación adecuada de negociación intercultural procede?",
     "options": [
-      "Suponer que todos los compradores tendrán idéntico estilo por su nacionalidad.",
-      "Ignorar aspectos culturales y repetir siempre el mismo guion.",
+      "Inferir el estilo individual del comprador a partir de su nacionalidad sin preguntar.",
+      "Mantener los tiempos y las fórmulas del mercado de origen en todos los países.",
       "Ajustar los tiempos y expectativas sin hacer generalizaciones culturales.",
-      "Renunciar a confirmar por escrito las obligaciones pactadas."
+      "Prescindir de criterios contractuales por dar prioridad a las relaciones informales."
     ],
     "answer": 2,
     "explanation": "La sensibilidad intercultural exige observar, preguntar y adaptar comunicación y plazos, evitando estereotipos rígidos.",
