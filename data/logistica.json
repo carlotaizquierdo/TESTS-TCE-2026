@@ -7,7 +7,7 @@
     "question": "Una bodega española vende vino a México bajo CIF Veracruz. El comprador exige al vendedor que asuma el riesgo hasta que el contenedor llegue a Veracruz porque paga el flete. ¿Qué debe explicarse?",
     "options": [
       "El riesgo se transmite cuando la mercancía pasa la aduana mexicana.",
-      "El riesgo pasa al embarcar en origen, aunque pague el flete.",
+      "El riesgo pasa al comprador al embarcar en origen, pese al flete pagado.",
       "El riesgo pasa en el puerto de destino junto con el pago del flete.",
       "El riesgo se transmite al entregar el contenedor vacío al transportista."
     ],
@@ -47,7 +47,7 @@
       "El comprador paga seguro y flete al recibir en terminal de destino.",
       "El vendedor soporta el riesgo hasta que la mercancía se descargue en destino.",
       "La entrega jurídica se pospone hasta el pago de la prima aseguradora.",
-      "El vendedor paga ambos, pero el riesgo pasa al primer porteador."
+      "El vendedor paga flete y seguro, pero el riesgo pasa al primer porteador."
     ],
     "answer": 3,
     "explanation": "En CIP el vendedor contrata transporte y seguro hasta destino pactado aunque la entrega y riesgo se transmitan antes.",
@@ -159,7 +159,7 @@
     "question": "Una pyme española vende DDP a un comprador canadiense. No dispone de registro ni representante para despachar en Canadá. ¿Qué riesgo oculta la cotización?",
     "options": [
       "Asumir solo el riesgo hasta entregar la carga al primer transportista.",
-      "Asumir importación y tributos sin poder hacer el despacho.",
+      "Asumir la importación sin capacidad legal para efectuar el despacho.",
       "Convertir al comprador en responsable de exportación desde España.",
       "Eliminar automáticamente todos los controles sanitarios aplicables."
     ],
@@ -235,7 +235,7 @@
     "question": "Una póliza de transporte anuncia cobertura ICC(A). Un daño se produce por embalaje insuficiente imputable al asegurado. ¿Qué afirmación evita un error frecuente?",
     "options": [
       "La cobertura ICC(A) implica indemnización por cualquier daño comunicado.",
-      "ICC(A) mantiene exclusiones, como las del embalaje insuficiente.",
+      "ICC(A) mantiene exclusiones, por ejemplo las de embalaje insuficiente.",
       "La prima ICC(A) convierte al transportista en asegurador de pleno derecho.",
       "Una cláusula ICC(A) elimina obligaciones de mitigar el siniestro."
     ],
@@ -329,7 +329,7 @@
     "topic": "Bill of Lading",
     "question": "Una carga embarca con B/L 'shipped on board', mientras otra cuenta solo con constancia de recepción del contenedor en terminal. ¿Por qué importa la diferencia?",
     "options": [
-      "Solo el B/L 'on board' acredita embarque efectivo.",
+      "El B/L con anotación 'on board' acredita el embarque efectivo.",
       "La recepción en terminal equivale siempre a embarque cuando existe reserva de bodega.",
       "El conocimiento a bordo acredita que la mercancía ha llegado a destino.",
       "El B/L no puede contener fecha de embarque si se usa un contenedor."
@@ -427,7 +427,7 @@
       "El vendedor debe contratar además seguro ICC(A) para todo el trayecto.",
       "El comprador soporta el flete principal por utilizar un término de la familia C.",
       "El vendedor debe pagar aranceles de importación por incluir gastos hasta destino.",
-      "El vendedor paga el flete, no los trámites de importación."
+      "El vendedor paga el flete principal, pero el comprador tramita la importación."
     ],
     "answer": 3,
     "explanation": "CFR obliga al vendedor al flete hasta puerto convenido, pero no al seguro ni al despacho de importación.",
@@ -463,7 +463,7 @@
     "question": "Un exportador contrata un seguro de transporte, pero tras un daño destruye el embalaje dañado y no conserva fotografías. ¿Cuál es el riesgo?",
     "options": [
       "Hacer que el daño desaparezca del ámbito de la compraventa.",
-      "Dificultar la prueba del siniestro ante la aseguradora.",
+      "Dificultar la prueba del siniestro y el reclamo al asegurador.",
       "Transferir al comprador toda obligación de transporte posterior.",
       "Perder automáticamente el derecho a reclamar frente al vendedor."
     ],
