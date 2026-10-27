@@ -1,0 +1,420 @@
+[
+  {
+    "id": "e3-neg-001",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Intereses y posiciones",
+    "question": "Una empresa negocia con un distribuidor local. Antes de hablar de descuentos, descubre que el socio necesita reposición rápida y ayuda de marketing. ¿Qué mejora introduce?",
+    "options": [
+      "Pasa de discutir posiciones de precio a comprender intereses de fondo.",
+      "Abandona su alternativa de salida al acuerdo para acelerar el cierre.",
+      "Acepta la primera petición del socio como señal de confianza.",
+      "Convierte toda la negociación en una discusión sobre tarifas."
+    ],
+    "answer": 0,
+    "explanation": "Explorar necesidades subyacentes permite proponer intercambios de valor antes de regalar margen.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-002",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Alternativa al acuerdo",
+    "question": "Un comprador tiene otra oferta verificable por 80.000 euros y negocia con un proveedor que pide 95.000 euros. ¿Cómo debería influir esa alternativa en su decisión?",
+    "options": [
+      "Obliga a aceptar la oferta del primer proveedor por debajo de 95.000 euros.",
+      "Fija automáticamente el precio definitivo de cualquier trato.",
+      "Debe ocultarse incluso a su propio equipo para preservar la táctica.",
+      "Sirve de referencia para decidir cuándo es mejor no llegar a un acuerdo."
+    ],
+    "answer": 3,
+    "explanation": "Una alternativa real al acuerdo define el poder de salida y el umbral de aceptación de la negociación.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-003",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Preparación y escucha",
+    "question": "Durante una reunión el comprador dice que necesita un descuento del 15%. El vendedor baja el precio sin preguntar más y descubre después que el motivo real era financiación. ¿Qué error de proceso cometió?",
+    "options": [
+      "Usó una pregunta abierta antes de presentar la propuesta.",
+      "Separó el problema del interlocutor en vez de enfrentarlo.",
+      "Concedió antes de diagnosticar intereses y posibles soluciones alternativas.",
+      "Retrasó demasiado una concesión que no alteraba el margen."
+    ],
+    "answer": 2,
+    "explanation": "El diagnóstico y la escucha preceden a concesiones; una necesidad financiera quizá admita cambios de plazo y no de precio.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-004",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Fases planificación",
+    "question": "Una empresa llega a la mesa sin límites de precio, plazo ni condiciones de exclusividad, pero con un discurso comercial ensayado. ¿Qué falla de planificación sobresale?",
+    "options": [
+      "No ha elegido la ropa adecuada para la primera reunión.",
+      "Carece de estrategia y límites para evaluar concesiones y cierre.",
+      "No ha identificado el tono de voz del interlocutor.",
+      "Ha evitado introducir un ancla demasiado agresiva."
+    ],
+    "answer": 1,
+    "explanation": "Preparar es identificar objetivos, prioridades, límites y una propuesta de cierre, no solo los argumentos verbales.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-005",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Gestión objeciones",
+    "question": "Un negociador interpreta una objeción repetida como desinterés. Sin embargo, el interlocutor necesita autorización de su comité y no decide. ¿Qué táctica es más sensata?",
+    "options": [
+      "Identificar al decisor y adaptar tiempos y pasos de aprobación.",
+      "Responder a cada objeción con una rebaja mayor de precio.",
+      "Cerrar con quien está presente sin consultar a los responsables.",
+      "Insistir en detalles técnicos sin averiguar el proceso de decisión."
+    ],
+    "answer": 0,
+    "explanation": "Las objeciones pueden ocultar falta de autoridad, no rechazo del producto; conviene mapear la decisión.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-006",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Gestión del NO",
+    "question": "Una empresa recibe un 'no' inicial a su propuesta de distribución. Los términos pueden modificarse, pero el vendedor decide abandonar sin averiguar la razón. ¿Qué principio del método se ha omitido?",
+    "options": [
+      "Conceder toda la exclusividad territorial antes de volver a llamar.",
+      "Atribuir al comprador mala fe sin recabar más información.",
+      "Aceptar que toda negativa convierte la operación en inviable.",
+      "Explorar la objeción y seguir buscando opciones compatibles con intereses."
+    ],
+    "answer": 3,
+    "explanation": "El primer rechazo puede abrir negociación sobre condiciones o información, aunque no obliga a perseguir acuerdos inviables.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-007",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Farol",
+    "question": "Un proveedor afirma tener una oferta alternativa mucho mejor pero evita concretar cantidades o plazos. El comprador sospecha una táctica de presión. ¿Qué actuación preserva su posición?",
+    "options": [
+      "Superar sin más la oferta no documentada para no perder el cliente.",
+      "Denunciar automáticamente un delito comercial sin investigar.",
+      "Solicitar criterios verificables y contrastar el dato sin reaccionar impulsivamente.",
+      "Revelar toda su estructura de costes a cambio de un compromiso verbal."
+    ],
+    "answer": 2,
+    "explanation": "Frente a un posible farol, la información contrastada protege del uso de presiones infundadas.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-008",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Bueno y malo",
+    "question": "Dos personas del equipo comprador alternan una exigencia extrema y luego una opción aparentemente razonable. El vendedor siente que debe agradecer la segunda. ¿Qué debería reconocer?",
+    "options": [
+      "Una demostración concluyente de que el comprador no tiene alternativa.",
+      "Una posible táctica de bueno y malo que exige volver a criterios propios.",
+      "Una propuesta obligatoria por haberse negociado en presencia de dos personas.",
+      "Una razón para entregar información confidencial al interlocutor amable."
+    ],
+    "answer": 1,
+    "explanation": "La diferencia artificial entre interlocutores puede anclar concesiones; conviene evaluar la oferta respecto de objetivos, no del contraste teatral.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-009",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Ancla",
+    "question": "El comprador abre una negociación con una cifra muy baja en un negocio donde calidad y servicios son discutibles. El vendedor reorienta la conversación a su estructura de valor. ¿Qué fenómeno intenta neutralizar?",
+    "options": [
+      "El anclaje inicial que puede sesgar las referencias posteriores.",
+      "Una cláusula de autoridad superior ya incorporada al contrato.",
+      "La cobertura de riesgo de cambio pactada entre las partes.",
+      "Una renuncia tácita a cualquier reclamación por incumplimiento."
+    ],
+    "answer": 0,
+    "explanation": "El ancla condiciona el campo de negociación; criterios objetivos permiten valorar independientemente.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-010",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Bolsillos vacíos",
+    "question": "Una cadena hotelera responde: 'la propuesta me gusta, pero este trimestre no tengo presupuesto'. El proveedor puede fraccionar pagos o modificar alcance. ¿Qué conviene comprobar?",
+    "options": [
+      "Si la cadena está obligada legalmente a aceptar un descuento.",
+      "Si el presupuesto anual permite transferir automáticamente riesgos.",
+      "Si el contrato ha entrado ya en vigor por la aprobación verbal.",
+      "Si los bolsillos vacíos expresan restricción genuina o táctica negociable."
+    ],
+    "answer": 3,
+    "explanation": "La táctica de bolsillos vacíos puede ocultar falta real de capacidad o presión; explorar estructura del pago es mejor que conceder de entrada.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-011",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Cierre",
+    "question": "Tras acordar todos los aspectos económicos, el interlocutor pide una comisión adicional 'para aprobación de su superior' y asegura que de otro modo se pierde el contrato. ¿Qué respuesta encaja con un cierre disciplinado?",
+    "options": [
+      "Aceptar la comisión para evitar reabrir puntos ya acordados.",
+      "Omitirla del contrato y pagarla una vez firmada la operación.",
+      "Revisar la exigencia frente a los límites pactados sin conceder por euforia.",
+      "Retrasar indefinidamente la firma sin comunicar objeciones."
+    ],
+    "answer": 2,
+    "explanation": "En el cierre hay que resistir concesiones inesperadas y asegurarse de poder cumplir el acuerdo resultante.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-012",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Seguimiento",
+    "question": "Una empresa logra un precio muy favorable pero no precisa fechas de seguimiento, responsables ni criterios de entrega. ¿Cuál es el riesgo del cierre?",
+    "options": [
+      "Que el banco rechace automáticamente todos sus pagos futuros.",
+      "Que el acuerdo aparente resulte difícil de ejecutar o supervisar.",
+      "Que el vendedor pierda su capacidad para negociar otros contratos.",
+      "Que cualquier incumplimiento quede resuelto sin intervención externa."
+    ],
+    "answer": 1,
+    "explanation": "El cierre debe concretar obligaciones, hitos y seguimiento, no limitarse a aceptar una cifra.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-013",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Relaciones",
+    "question": "Un proveedor necesita mantener una relación comercial estable, pero discute con un cliente sobre un pedido aislado y amenaza con romper todo vínculo. ¿Qué competencia falta aplicar?",
+    "options": [
+      "Visión de medio plazo y gestión de las emociones sin renunciar a intereses clave.",
+      "Abandono de objetivos propios para evitar toda discrepancia.",
+      "Cesión integral del margen para obtener la simpatía del comprador.",
+      "Ocultación de los límites comerciales para aparentar flexibilidad."
+    ],
+    "answer": 0,
+    "explanation": "Una negociación sólida distingue el problema de la relación y cuida el vínculo futuro sin perder los objetivos esenciales.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-014",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Valor conjunto",
+    "question": "Dos exportadores quieren utilizar un barco con capacidad insuficiente. Uno exige prioridad absoluta; el otro propone compartir lotes y cambiar los turnos de embarque. ¿Qué diferencia estratégica ilustra?",
+    "options": [
+      "Aceptar que la capacidad física aumenta al variar el discurso.",
+      "Evitar calcular pérdidas de mercancía perecedera.",
+      "Entregar el control de la carga a una sola parte sin contraprestación.",
+      "Pasar de una pugna distributiva a explorar soluciones de valor conjunto."
+    ],
+    "answer": 3,
+    "explanation": "Cuando los intereses lo permiten, cambiar secuencias o condiciones puede mejorar el resultado combinado sin crear capacidad física.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-015",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Escucha activa",
+    "question": "Una negociación se estanca. La otra parte permanece en silencio después de preguntar por el plazo de entrega. El vendedor llena el vacío ofreciendo un descuento no previsto. ¿Qué falló?",
+    "options": [
+      "Exigir demasiados datos sobre necesidades operativas.",
+      "Mantener una pausa para observar la reacción del interlocutor.",
+      "No gestionar el silencio y conceder sin obtener información adicional.",
+      "Evitar hablar hasta contar con una propuesta concreta."
+    ],
+    "answer": 2,
+    "explanation": "Escuchar y tolerar silencios evita concesiones innecesarias y permite comprender mejor la posición ajena.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-016",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Perfiles",
+    "question": "Una empresa se declara muy competitiva: pretende maximizar su ventaja en una operación única sin valorar relación futura. ¿Qué perfil describe mejor su conducta?",
+    "options": [
+      "Colaborativo, porque intenta ampliar el valor de la relación.",
+      "Competitivo, centrado en el propio resultado frente al ajeno.",
+      "Acomodativo, porque privilegia las necesidades del otro.",
+      "Evitativo, porque no participa en la negociación."
+    ],
+    "answer": 1,
+    "explanation": "El estilo competitivo prioriza el resultado propio, a diferencia del colaborativo orientado a beneficio mutuo.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-017",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Perfiles",
+    "question": "Una sociedad acepta condiciones desfavorables para preservar una relación que considera estratégicamente más importante. ¿Qué perfil representa esa decisión?",
+    "options": [
+      "Acomodativo: sacrifica parte de su resultado para sostener el vínculo.",
+      "Competitivo: impone objetivos sin valorar los del socio.",
+      "Evitativo: rechaza conversar sobre diferencias.",
+      "Colaborativo: maximiza simultáneamente todos los intereses."
+    ],
+    "answer": 0,
+    "explanation": "La negociación acomodativa valora más el interés de la otra parte o la relación que el beneficio propio inmediato.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-018",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "No acuerdo",
+    "question": "Un equipo insiste en seguir negociando un contrato cuando su alternativa externa deja márgenes mejores, pero teme parecer incapaz de cerrar. ¿Cuál es el criterio profesional?",
+    "options": [
+      "Cerrar aunque el acuerdo resulte peor que su alternativa disponible.",
+      "Evitar comparar la alternativa real con el precio ofrecido.",
+      "Tomar la última propuesta recibida como límite obligatorio de negociación.",
+      "Aceptar que un no acuerdo puede ser racional cuando las alternativas son superiores."
+    ],
+    "answer": 3,
+    "explanation": "Cerrar no es un fin en sí mismo; un acuerdo por debajo del umbral de aceptación puede destruir valor.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-019",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Negociación intercultural",
+    "question": "Una exportadora prepara una visita comercial a un mercado donde las relaciones personales y los tiempos de confianza pesan mucho. ¿Qué aplicación adecuada de negociación intercultural procede?",
+    "options": [
+      "Suponer que todos los compradores tendrán idéntico estilo por su nacionalidad.",
+      "Ignorar aspectos culturales y repetir siempre el mismo guion.",
+      "Adaptar el ritmo y preguntar por expectativas sin atribuir rasgos fijos a toda persona del país.",
+      "Renunciar a confirmar por escrito las obligaciones pactadas."
+    ],
+    "answer": 2,
+    "explanation": "La sensibilidad intercultural exige observar, preguntar y adaptar comunicación y plazos, evitando estereotipos rígidos.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-020",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Ética",
+    "question": "Un comercial necesita cerrar un contrato grande. Considera exagerar las prestaciones técnicas porque 'nadie sabrá quién sufrió el perjuicio'. ¿Qué amenaza ética identifica el temario?",
+    "options": [
+      "La conveniencia de ajustar la agenda al horario del cliente.",
+      "La facilidad de engañar cuando las víctimas se perciben como anónimas.",
+      "El uso de preguntas abiertas al iniciar la relación.",
+      "La preparación detallada para resolver objeciones técnicas."
+    ],
+    "answer": 1,
+    "explanation": "La noción de víctimas anónimas alerta sobre la mayor facilidad para racionalizar un engaño cuando se diluye a los afectados.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-021",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Ética",
+    "question": "Un negociador recibe una oportunidad de comisión excepcional si oculta una limitación del producto. Considera que la recompensa justifica el engaño. ¿Qué sesgo ético aparece?",
+    "options": [
+      "El señuelo de la tentación: la ganancia hace más probable justificar la mentira.",
+      "La escucha activa: comprensión integral de las necesidades reales.",
+      "La relación a largo plazo: preservar la fidelidad del cliente.",
+      "La planificación: fijar límites de precio y tiempo."
+    ],
+    "answer": 0,
+    "explanation": "El señuelo de la tentación recoge cómo una recompensa lucrativa puede distorsionar decisiones morales.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-neg-022",
+    "subject": "negociacion",
+    "subjectName": "Técnicas de negociación",
+    "topic": "Gestión del tiempo",
+    "question": "Un comprador retrasa sistemáticamente las reuniones, pero exige una contestación del proveedor en diez minutos cuando llega a la mesa. ¿Qué variable está utilizando como presión?",
+    "options": [
+      "La competencia exclusiva del árbitro para fijar plazos.",
+      "El valor en aduana de los productos comercializados.",
+      "El peso volumétrico del transporte internacional.",
+      "El control asimétrico de los tiempos y el coste de oportunidad."
+    ],
+    "answer": 3,
+    "explanation": "La urgencia condiciona concesiones; conviene consensuar plazos y distinguir presión de necesidad real.",
+    "source": "Tercer parcial / Técnicas de Negociación — apuntes de Alejandro Durán, 27/10",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  }
+]
