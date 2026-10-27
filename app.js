@@ -1,9 +1,11 @@
-const BANK_FILES=["derecho","logistica","iva","aduanas"];
+const BANK_FILES=["derecho","logistica","aduanas","pagos","negociacion"];
+const EXAM_WEIGHTS={derecho:8,logistica:3,aduanas:12,pagos:8,negociacion:5};
 const LABELS={
-  derecho:"Contratación Internacional",
-  logistica:"Logística y Transporte Internacional · Incoterms® 2020",
-  iva:"IVA · Comercio exterior",
-  aduanas:"Regímenes Aduaneros"
+  derecho:"Contratación internacional",
+  logistica:"Logística y transporte internacional",
+  aduanas:"Técnicas aduaneras e IVA",
+  pagos:"Medios de pago, avales y CESCE",
+  negociacion:"Técnicas de negociación"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
@@ -13,10 +15,11 @@ const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\
 
 async function loadBanks(){
   const chunks=await Promise.all(BANK_FILES.map(async f=>{
-    const r=await fetch("data/"+f+".json?v=20261023b",{cache:"no-store"});
+    const r=await fetch("data/"+f+".json?v=20261027-nuevo-banco-ex3",{cache:"no-store"});
     if(!r.ok)throw new Error("No se pudo cargar "+f+" (HTTP "+r.status+")");
     const data=await r.json();
-    if(!Array.isArray(data))throw new Error("Formato incorrecto en "+f);
+    if(!Array.isArray(data)||!data.length)throw new Error("Banco vacío o incorrecto: "+f);
+    for(const q of data){if(!q||q.subject!==f||q.approved!==true||!Array.isArray(q.options)||q.options.length!==4||!Number.isInteger(q.answer)||q.answer<0||q.answer>3)throw new Error("Pregunta inválida en "+f);}
     return data;
   }));
   bank=chunks.flat();
@@ -106,9 +109,36 @@ function createFreshQuiz(subjects,count,difficulty,priorityOnly=false,forcedBase
     q,
     weight:(q.key&&priorityOnly?4:q.key?2:1)+(scoreMistakes[q.id]||0)*2+(recent.has(q.id)?-3:0)+Math.random()
   })).sort((a,b)=>b.weight-a.weight);
-  const unique=[];
-  for(const c of candidates){if(!unique.some(x=>x.q.id===c.q.id))unique.push(c)}
-  const chosen=unique.slice(0,Math.min(count,unique.length)).map(x=>x.q);
+  const ranked=[...new Map(candidates.map(c=>[c.q.id,c])).values()];
+  let chosen=[];
+  if(forcedBases||count>=ranked.length||subjects.length<2){
+    chosen=ranked.slice(0,Math.min(count,ranked.length)).map(x=>x.q);
+  }else{
+    // El examen pondera Aduanas 12, Contratación 8, Pagos 8, Negociación 5, Logística 3.
+    // Las materias complementarias sin temario todavía no entran en este banco.
+    const available=subjects.filter(subject=>ranked.some(x=>x.q.subject===subject));
+    const totalWeight=available.reduce((sum,k)=>sum+(EXAM_WEIGHTS[k]||1),0);
+    const quotas=available.map(k=>({
+      key:k, exact:count*(EXAM_WEIGHTS[k]||1)/totalWeight,
+      quota:Math.floor(count*(EXAM_WEIGHTS[k]||1)/totalWeight)
+    }));
+    let missing=count-quotas.reduce((sum,x)=>sum+x.quota,0);
+    quotas.sort((a,b)=>(b.exact-b.quota)-(a.exact-a.quota));
+    for(const q of quotas){if(missing<=0)break;q.quota++;missing--;}
+    const taken=new Set();
+    for(const entry of quotas){
+      let n=0;
+      for(const candidate of ranked){
+        if(candidate.q.subject===entry.key&&!taken.has(candidate.q.id)&&n<entry.quota){
+          chosen.push(candidate.q);taken.add(candidate.q.id);n++;
+        }
+      }
+    }
+    for(const candidate of ranked){
+      if(chosen.length>=count)break;
+      if(!taken.has(candidate.q.id)){chosen.push(candidate.q);taken.add(candidate.q.id)}
+    }
+  }
   const generated=shuffle(chosen.map(b=>variantFrom(b,style)));
   remember(generated.map(x=>x.baseId));
   return generated;
@@ -205,7 +235,7 @@ async function syncQuizToSheets(testId,perSubject){
   const payload={action:"quiz_completed",testId,date:new Date().toISOString(),origin:"Tests TCE · GitHub Pages",subjects:perSubject};
   try{
     await fetch(endpoint,{method:"POST",mode:"no-cors",body:JSON.stringify(payload)});
-    if(status)status.textContent="Enviado a Google Sheets. El panel se actualizará automáticamente.";
+    if(status)status.textContent="Solicitud de sincronización enviada. Comprueba el Historial tests en Google Sheets: el navegador no puede confirmar la recepción.";
   }catch(err){
     console.error(err);
     if(status)status.textContent="No se ha podido enviar a Google Sheets. El resultado sigue guardado en este dispositivo.";
