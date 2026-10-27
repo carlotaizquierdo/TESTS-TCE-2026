@@ -8,7 +8,7 @@
     "options": [
       "La moneda de facturación y el país donde se fabrica el producto.",
       "El transportista marítimo y el agente que realiza la aduana.",
-      "Diferenciar cobro y necesidad de financiación.",
+      "Diferenciar el momento de cobro y cómo se financia su espera.",
       "El seguro de transporte y el coste de manipulación portuaria."
     ],
     "answer": 2,
@@ -44,7 +44,7 @@
     "topic": "SWIFT",
     "question": "Un banco español y otro estadounidense intercambian mensajes SWIFT para ejecutar un pago. El cliente afirma que SWIFT 'transporta los dólares' entre ellos. ¿Qué se ha confundido?",
     "options": [
-      "SWIFT comunica; las cuentas permiten liquidar saldos.",
+      "SWIFT comunica instrucciones; las cuentas bancarias liquidan saldos.",
       "SWIFT funciona como un contenedor electrónico que transfiere billetes.",
       "SWIFT sustituye las cuentas corresponsales en cualquier pago transfronterizo.",
       "SWIFT paga con fondos propios antes de informar a los bancos."
@@ -104,7 +104,7 @@
       "El banco del comprador garantiza el pago en cuanto llega la factura.",
       "La existencia de SWIFT elimina el riesgo de crédito del comprador.",
       "La orden de pago impide legalmente cualquier retraso en la transferencia.",
-      "Puede entregar sin cobrar si el comprador incumple."
+      "Puede haber entregado la mercancía sin cobrar si el comprador incumple."
     ],
     "answer": 3,
     "explanation": "El pago simple posterior deja al vendedor expuesto al crédito del comprador si no hay garantías adicionales.",
@@ -272,7 +272,7 @@
     "topic": "Reparto de comisiones",
     "question": "En una orden de pago una factura de 20.000 EUR llega al beneficiario con costes bancarios descontados. El vendedor pensaba recibir el importe íntegro. ¿Qué variable debía negociar?",
     "options": [
-      "El reparto de comisiones OUR, SHA y BEN.",
+      "El reparto pactado de gastos bancarios OUR, SHA o BEN.",
       "El país en que se imprimió la factura comercial.",
       "El precio de referencia de la mercancía en aduanas.",
       "El peso neto declarado para los documentos del transporte."
@@ -312,7 +312,7 @@
     "options": [
       "Solo los países con el euro como moneda nacional pueden integrarse en SEPA.",
       "Todo pago a un tercer país se tramita como exportación de capital prohibida.",
-      "SEPA comprende también territorios no miembros de la UE.",
+      "SEPA incluye países y territorios que no forman parte de la Unión Europea.",
       "Un pago SEPA implica automáticamente ausencia de controles de cumplimiento."
     ],
     "answer": 2,
@@ -348,7 +348,7 @@
     "topic": "Control de cambios",
     "question": "Una compañía de España paga a un proveedor de otra jurisdicción y el banco bloquea el pago por controles de prevención de blanqueo. El director invoca la libertad de movimientos de capitales. ¿Qué omite?",
     "options": [
-      "La libre circulación admite controles legales de cumplimiento.",
+      "La libertad de capitales admite restricciones de prevención y cumplimiento.",
       "La libertad de capitales excluye cualquier obligación de identificación bancaria.",
       "Los controles de blanqueo son competencia exclusiva de las aduanas de mercancías.",
       "Toda operación entre empresas puede pagarse sin aportar documentación."
