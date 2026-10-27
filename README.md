@@ -1,36 +1,39 @@
-# Tests TCE 2026 · Contratación, Logística, IVA y Aduanas
+# Tests TCE 2026 — Banco nuevo para el tercer examen (27/10/2026)
 
-Aplicación de práctica para el Programa de Técnicos de Comercio Exterior 2026.
+**Estado:** banco antiguo sustituido por preguntas nuevas en las cinco materias con apuntes disponibles.
+Las cuatro alternativas se barajan en cada test, y todas las preguntas tienen explicación y fuente.
 
-## Materias disponibles
-- **Contratación Internacional**: 320 preguntas del banco preexistente \(`data/derecho.json`\).
-- **Logística y Transporte Internacional (Incoterms® 2020)**: 233 preguntas, organizadas en 14 bloques \(`data/logistica.json`\).
+| Asignatura del Excel | Clave de la app | Preguntas nuevas | Peso estimado del examen |
+|---|---|---:|---:|
+| Técnicas aduaneras e IVA | `aduanas` | 37 | 12 |
+| Contratación internacional | `derecho` | 25 | 8 |
+| Medios de pago, avales y CESCE | `pagos` | 22 | 8 |
+| Técnicas de negociación | `negociacion` | 22 | 5 |
+| Logística y transporte internacional | `logistica` | 25 | 3 |
 
-Se presentan estas cuatro materias en el selector, con bancos independientes. Los bancos antiguos de otras asignaturas se conservan en el historial del repositorio y en sus archivos sin cargarse en la aplicación.
+**Total: 131 preguntas nuevas.** No se carga el antiguo banco separado de IVA; `data/iva.json` está vacío. Se sustituyeron por completo los bancos de Contratación, Logística y Aduanas.
 
-## Funciones
+## Fuentes y cobertura temporal
+Fuentes: archivos de la carpeta `Tercer parcial` de Google Drive, incluidos `Técnicas de Negociación · Apuntes desarrollados` (27/10), `Apuntes · Medios de pago (diap. 1-34)` (26/10), `Apuntes_Transporte_Internacional_Incoterms_2020_Oposicion`, `Contratación Internacional · Apuntes desarrollados`, `Natalia Aduanas Viernes` y los resúmenes de IVA / Regímenes Aduaneros.
 
-- Cuatro alternativas por pregunta, con orden barajado.
-- Aciertos +1, errores −0,33, blancos 0.
-- Selección de asignatura, número de preguntas y dificultad.
-- Corrección, explicación y repaso de fallos al terminar.
-- Estadísticas por las dos asignaturas, y guardado local del historial.
-- Sincronización opcional de resultados con Google Sheets.
-- Diseño responsive e instalable desde el navegador.
+La parte de Medios de Pago recoge lo explicado hasta las diapositivas 1-34 y no debe interpretarse como cobertura de futuras clases sobre avales/CESCE. Hay otros seis bloques de una o dos preguntas previstos en el Excel (Documental, China, Seguimiento, Inversiones, Emprendimiento, ALSA) sin nuevos apuntes en sus subcarpetas de `Tercer parcial` a la fecha del trabajo, por lo que no se han inventado preguntas.
 
-## Alcance de Logística
+## Criterios
+- Casos con hechos suficientes, no memorización del artículo ni preguntas «¿qué respuesta es correcta?».
+- Distractores verosímiles sin patrón fijo de opción correcta.
+- Explicaciones para revisar el error de razonamiento.
+- Nivel medio o difícil (mayoritariamente difícil).
+- Para tests de varias asignaturas, selección ponderada de las cinco materias por el Excel (12/8/8/5/3), sin crear contenidos ficticios de las pendientes.
+- Calificación: +1 acierto, −0,33 error, 0 blanco.
+- Estadísticas anteriores conservadas en el dispositivo, sin incorporarlas al nuevo banco.
 
-Incluye Incoterms® 2020, costes y riesgos, seguros, responsabilidad del transportista y DEG, documentación AWB/B/L/CMR, identificación de CIM, agentes IATA, contenedores 20' y 40', transporte marítimo, aéreo y carretera, y casos de cálculo.
+## Sincronización de resultados con Google Sheets
+El archivo `google-apps-script/Code.gs` está corregido en el repositorio. **GitHub no despliega Apps Script de forma automática.** Para activar esta versión:
+1. Abrir el Sheet `Seguimiento TCE 2026 - Examen 3 y tests`.
+2. Menú Extensiones → Apps Script → sustituir Code.gs por el archivo de este repositorio y guardar.
+3. Crear o actualizar implementación web (ejecutar como propietario y gestionar acceso con cuidado).
+4. En Tests TCE → Estadísticas → Google Sheets, pegar la URL `/exec` si fuese distinta.
+5. Completar un test y comprobar manualmente en la pestaña `Historial tests` que la conexión funciona. El navegador no puede confirmar una entrega con modo `no-cors`.
 
-Se excluyen mercancías especiales y el desarrollo del ferrocarril, siguiendo las indicaciones del profesor. El AWB y el CMR son no negociables; determinados B/L marítimos sí pueden serlo.
-
-## Publicar / abrir
-
-El repositorio puede servirse desde GitHub Pages mediante `Settings > Pages > Deploy from a branch > main > /(root)`. Su página mantiene la misma dirección si ya estaba configurada.
-
-Las estadísticas y la conexión con Sheets se guardan en el navegador. No se borran los intentos anteriores del dispositivo, aunque la vista filtra otras asignaturas.
-
-- **IVA · Comercio exterior**: 24 casos prácticos del archivo «2026-10-19 IVA RESUMEN.pdf» (`data/iva.json`).
-- **Regímenes Aduaneros**: 28 casos prácticos del archivo «2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf» (`data/aduanas.json`).
-
-Las 52 preguntas nuevas tienen cuatro alternativas y respuesta correcta equilibrada A/B/C/D. Están fundamentadas en los resúmenes del curso, no constituyen una actualización normativa exhaustiva.
+## Publicación
+La app permanece en GitHub Pages si ya se desplegó desde la rama `main`. Los JSON se solicitan sin caché y con versión de fecha 20261027. Si se usa como icono de iPad, cerrar y reabrir para forzar la actualización.
