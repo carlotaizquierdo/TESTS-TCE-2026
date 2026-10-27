@@ -102,7 +102,7 @@
     "question": "Una compañía española obtiene un laudo contra su comprador en un país parte del Convenio de Nueva York. El deudor alega que el árbitro valoró mal una prueba y exige repetir el litigio. ¿Qué distingue el reconocimiento del laudo?",
     "options": [
       "Permite reabrir la prueba si el deudor mantiene una discrepancia sustancial.",
-      "No se revisa el fondo, salvo causas tasadas.",
+      "No se reabre el fondo; solo cabe valorar causas tasadas para denegarlo.",
       "Exige celebrar una segunda audiencia arbitral ante el tribunal de ejecución.",
       "Permite sustituir la decisión por la valoración comercial del juez local."
     ],
@@ -158,7 +158,7 @@
     "topic": "Conformidad mercaderías",
     "question": "Una empresa recibe un pedido de productos por sus usos industriales habituales; el comprador había comunicado expresamente un uso técnico especial y confiado en el criterio del vendedor. La mercancía sirve para el uso ordinario, pero no para el específico. ¿Qué aspecto decide el cumplimiento?",
     "options": [
-      "La aptitud para el uso especial que se comunicó.",
+      "La aptitud para el uso especial previamente comunicado al vendedor.",
       "La mera capacidad del bien para ser vendido a otros compradores.",
       "La coincidencia entre el precio de factura y el precio de mercado.",
       "La ausencia de reservas al cerrar el transporte internacional."
@@ -234,7 +234,7 @@
     "topic": "Daños y perjuicios",
     "question": "Una empresa sufrió pérdidas por una entrega defectuosa y pretende recuperar el coste de reparación y el beneficio que dejó de obtener en ventas posteriores. ¿Qué lógica debe seguir?",
     "options": [
-      "Distinguir daños y lucro cesante y justificar ambos.",
+      "Distinguir daños y lucro cesante, justificando la causalidad de ambos.",
       "Exigir exclusivamente el coste de reparación documentado.",
       "Cobrar el margen futuro presupuestado sin demostrar su relación con el incumplimiento.",
       "Elegir entre reparar la mercancía y reclamar cualquier pérdida financiera."
@@ -294,7 +294,7 @@
       "Una agencia en la que la empresa principal facture al cliente.",
       "Una mediación puntual remunerada al cerrar cada contacto.",
       "Un mandato para negociar exclusivamente sin adquirir mercancías.",
-      "Una distribución con reventa por cuenta propia."
+      "Una distribución donde compra y revende productos por cuenta propia."
     ],
     "answer": 3,
     "explanation": "En distribución hay doble compraventa y reventa por cuenta del distribuidor; en agencia el agente promueve o concluye operaciones por cuenta ajena.",
@@ -406,7 +406,7 @@
     "question": "Una sentencia dictada en un Estado miembro de la UE debe ejecutarse sobre activos situados en otro, en materia civil y mercantil cubierta por Bruselas I bis. ¿Qué afirmación confunde dos sistemas?",
     "options": [
       "Revisar que la resolución esté comprendida en el ámbito material aplicable.",
-      "Exigir un exequátur general antes de ejecutarla.",
+      "Exigir exequátur previo a una sentencia de otro Estado miembro.",
       "Aportar la documentación y certificaciones que exige el Reglamento.",
       "Considerar los motivos tasados para denegar reconocimiento o ejecución."
     ],
@@ -462,7 +462,7 @@
     "topic": "Denuncia defectos",
     "question": "Una compradora descubre una posible falta de conformidad y espera varios meses antes de comunicarla, pese a haber podido examinar y describir el defecto oportunamente. ¿Qué riesgo contractual asume?",
     "options": [
-      "Perder remedios por notificar defectos fuera de plazo.",
+      "Perder remedios por notificar defectos fuera de un plazo razonable.",
       "Convertir la compraventa en un contrato de depósito comercial.",
       "Transferir de vuelta la propiedad de forma automática al vendedor.",
       "Obtener una prórroga del periodo de garantía por el mero retraso."
