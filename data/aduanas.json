@@ -310,10 +310,10 @@
     "topic": "Clasificación y origen",
     "question": "Un operador conoce el código TARIC del producto y cree que eso basta para disfrutar un arancel preferencial. ¿Qué aspecto falta analizar?",
     "options": [
-      "El tamaño del contenedor y el código de tránsito.",
-      "La residencia fiscal del transportista marítimo.",
+      "El país de expedición indicado en la factura, cuando coincide con el proveedor.",
+      "Una clasificación TARIC compatible con el acuerdo comercial del país de destino.",
       "Origen preferencial y prueba conforme al acuerdo aplicable.",
-      "El número de palés y el seguro de la carga."
+      "La declaración de importación, aunque no se acredite el origen requerido."
     ],
     "answer": 2,
     "explanation": "Clasificación, origen y medidas arancelarias son dimensiones diferentes; la preferencia exige requisitos específicos.",
@@ -349,9 +349,9 @@
     "question": "Una empresa pretende preferencia arancelaria con una factura que solo indica el domicilio del vendedor en el país beneficiario. ¿Qué es lo que falta?",
     "options": [
       "Acreditar el origen conforme a las reglas del acuerdo.",
-      "Comprobar si el contenedor se descargó en un puerto europeo.",
-      "Acreditar la fecha de vencimiento del medio de pago.",
-      "Revisar la póliza de seguro contratada por el expedidor."
+      "Demostrar que la mercancía salió del país beneficiario antes de llegar a la UE.",
+      "Presentar un certificado de origen no preferencial expedido para uso comercial.",
+      "Acreditar que el vendedor reside en el país beneficiario y factura desde él."
     ],
     "answer": 0,
     "explanation": "Las preferencias exigen cumplimiento de reglas de origen y, cuando proceda, una prueba de origen admisible.",
@@ -386,10 +386,10 @@
     "topic": "Base imponible IVA importación",
     "question": "Una empresa equipara la base imponible de IVA de importación al valor en aduana y omite aranceles y costes relevantes. ¿Qué diferencia pasa por alto?",
     "options": [
-      "El IVA usa siempre una base inferior al valor en aduana.",
-      "El arancel se calcula a partir del IVA pagado en destino.",
+      "Usar solo el precio comercial de factura, sin añadir el arancel devengado.",
+      "Restar el derecho arancelario al valor si el importador puede deducir IVA.",
       "Sumar derechos y gastos aplicables al valor en aduana.",
-      "El IVA se determina por residencia fiscal del transportista."
+      "Utilizar como base exclusivamente el coste de producción documentado."
     ],
     "answer": 2,
     "explanation": "La base del IVA importación toma el valor en aduana y añade partidas legalmente previstas.",
@@ -462,10 +462,10 @@
     "topic": "IVA B2C OSS",
     "question": "Una tienda española supera el umbral conjunto aplicable a determinadas ventas B2C intracomunitarias. ¿Qué consecuencia debe considerar?",
     "options": [
-      "Tributación perpetua en origen al tener sede española.",
-      "DUA de importación por cada venta a un Estado miembro.",
+      "Seguir tributando en origen hasta terminar el ejercicio pese a superar el umbral.",
+      "Aplicar tipo del país del vendedor si el consumidor carece de NIF-IVA.",
       "IVA en destino y posibilidad de declarar la operación por OSS.",
-      "Exención de IVA por vender a consumidores particulares."
+      "Declarar la compra como adquisición intracomunitaria del propio consumidor."
     ],
     "answer": 2,
     "explanation": "En ventas a distancia B2C comprendidas, superado el umbral pertinente se aplica IVA del Estado de destino; OSS facilita su liquidación.",
@@ -481,10 +481,10 @@
     "topic": "IVA umbral B2C",
     "question": "Una pequeña empresa española está por debajo del umbral de 10.000 € para las ventas B2C intracomunitarias comprendidas y desea optar por tributar en destino. ¿Qué respuesta es correcta?",
     "options": [
-      "Debe esperar a superar 10.001 euros para cambiar el criterio.",
+      "Elegir IVA en destino únicamente para facturas superiores al umbral individual.",
       "Puede optarse por destino con condiciones y efectos temporales.",
-      "Puede escoger discrecionalmente el tipo de IVA de cualquier país.",
-      "Está obligada a usar siempre el IVA del origen hasta fin de año."
+      "Seleccionar libremente cada tipo aplicable según el coste fiscal de la venta.",
+      "Mantener necesariamente IVA en origen mientras no se rebase el umbral."
     ],
     "answer": 1,
     "explanation": "El régimen permite, bajo condiciones, opción por la tributación en destino antes de superar el umbral, con efectos temporales.",
