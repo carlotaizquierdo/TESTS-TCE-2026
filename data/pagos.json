@@ -45,9 +45,9 @@
     "question": "Un banco español y otro estadounidense intercambian mensajes SWIFT para ejecutar un pago. El cliente afirma que SWIFT 'transporta los dólares' entre ellos. ¿Qué se ha confundido?",
     "options": [
       "SWIFT comunica instrucciones; las cuentas bancarias liquidan saldos.",
-      "SWIFT funciona como un contenedor electrónico que transfiere billetes.",
-      "SWIFT sustituye las cuentas corresponsales en cualquier pago transfronterizo.",
-      "SWIFT paga con fondos propios antes de informar a los bancos."
+      "SWIFT efectúa por sí misma la compensación y liquidación de los saldos bancarios.",
+      "SWIFT custodia fondos de clientes mediante cuentas propias entre divisas.",
+      "SWIFT acredita el pago final en el momento de emisión del mensaje interbancario."
     ],
     "answer": 0,
     "explanation": "La comunicación bancaria y la transferencia efectiva de saldos son funciones relacionadas pero distintas.",
@@ -101,9 +101,9 @@
     "topic": "Riesgo impago",
     "question": "Un comprador extranjero propone pagar por orden de pago después de recibir la mercancía. El vendedor apenas lo conoce. ¿Cuál es la evaluación de riesgo más realista?",
     "options": [
-      "El banco del comprador garantiza el pago en cuanto llega la factura.",
-      "La existencia de SWIFT elimina el riesgo de crédito del comprador.",
-      "La orden de pago impide legalmente cualquier retraso en la transferencia.",
+      "El riesgo se transfiere al banco del comprador al aceptar la instrucción de pago.",
+      "El exportador queda garantizado con la prueba del embarque y la factura.",
+      "El banco del vendedor responde frente a la insolvencia comercial del comprador.",
       "Puede haber entregado la mercancía sin cobrar si el comprador incumple."
     ],
     "answer": 3,
@@ -121,9 +121,9 @@
     "question": "Dos bancos intervienen en una compraventa. Los documentos comerciales se envían directamente al comprador y solo el dinero se gestiona por los bancos. ¿Cómo debe clasificarse el medio?",
     "options": [
       "Simple: los documentos no se canalizan por el banco.",
-      "Documentario, porque el pago se hace mediante una entidad bancaria.",
-      "Crédito documentario, porque se ha emitido factura proforma.",
-      "Remesa documentaria, porque el transporte es internacional."
+      "Documentario porque el banco recibe mensajes sobre documentos comerciales.",
+      "Simple solo cuando la transferencia se ordena antes de embarcar la mercancía.",
+      "Documentario cuando el comprador recibe factura y B/L directamente del exportador."
     ],
     "answer": 0,
     "explanation": "La distinción entre medios simples y documentarios se basa en el recorrido de los documentos comerciales.",
@@ -158,10 +158,10 @@
     "topic": "Garantías y seguro",
     "question": "Una compañía vende a crédito a un cliente extranjero. Puede contratar una garantía bancaria o una póliza de seguro de crédito. ¿Qué función comparten sin confundirse con el medio de cobro?",
     "options": [
-      "Sustituir el contrato comercial y el transporte por una factura bancaria.",
-      "Eliminar los riesgos aduaneros asociados al destino.",
+      "Cubrir la variación de divisas que afecta al importe final del cobro.",
+      "Garantizar la indemnización del deterioro físico durante el transporte.",
       "Reducir el riesgo de impago con instrumentos distintos.",
-      "Determinar obligatoriamente la moneda que pagará el comprador."
+      "Sustituir toda evaluación de solvencia por una cobertura ilimitada de la deuda."
     ],
     "answer": 2,
     "explanation": "Las garantías y el seguro de crédito protegen frente a riesgos sin ser por sí mismos la transferencia corriente del precio.",
@@ -197,9 +197,9 @@
     "question": "Un responsable comercial sostiene que si el cliente paga desde un país desarrollado se elimina por completo el riesgo de impago. ¿Cuál es la objeción razonable?",
     "options": [
       "La pérdida puede ser grave aunque el impago sea poco probable.",
-      "Un país con buen rating convierte la factura en obligación del banco central.",
-      "Un pago transfronterizo está garantizado por la política de control de cambios.",
-      "La insolvencia empresarial solo existe en países sin moneda convertible."
+      "La probabilidad de impago desaparece en las plazas financieras más estables.",
+      "Un comprador solvente no puede incumplir si la transferencia es bancaria.",
+      "La mayor cuantía del negocio garantiza que el banco pagará al exportador."
     ],
     "answer": 0,
     "explanation": "El riesgo debe valorar probabilidad y severidad de pérdida; buenas estadísticas de cobro no implican riesgo nulo.",
