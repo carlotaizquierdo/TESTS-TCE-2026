@@ -159,9 +159,9 @@
     "question": "Una empresa recibe un pedido de productos por sus usos industriales habituales; el comprador había comunicado expresamente un uso técnico especial y confiado en el criterio del vendedor. La mercancía sirve para el uso ordinario, pero no para el específico. ¿Qué aspecto decide el cumplimiento?",
     "options": [
       "La aptitud para el uso especial previamente comunicado al vendedor.",
-      "La mera capacidad del bien para ser vendido a otros compradores.",
-      "La coincidencia entre el precio de factura y el precio de mercado.",
-      "La ausencia de reservas al cerrar el transporte internacional."
+      "Basta el uso ordinario cuando la mercancía responde a estándares medios del sector.",
+      "El comprador asume la incompatibilidad si no pactó una ficha técnica firmada.",
+      "La conformidad depende del uso general previsto en el catálogo de fabricante."
     ],
     "answer": 0,
     "explanation": "El examen de conformidad puede incluir un uso especial conocido por el vendedor cuando el comprador confía razonablemente en su competencia.",
