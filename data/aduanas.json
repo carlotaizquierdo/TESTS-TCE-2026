@@ -1,532 +1,703 @@
 [
   {
-    "id": "adu-001",
+    "id": "e3-adu-001",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Un buque con mercancía de terceros países se dirige al primer puerto de entrada en la UE. ¿Qué declaración previa de seguridad identifica el temario?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Tránsito externo",
+    "question": "Una empresa española compra mercancía china que llega a Róterdam, pero quiere realizar el despacho de importación en Madrid. ¿Qué operativa permite trasladarla sin despacharla antes a libre práctica?",
     "options": [
-      "ENS",
-      "DDT",
-      "DAE",
-      "DVD"
+      "Despacharla en Países Bajos y utilizar luego tránsito T1.",
+      "Moverla con T2 porque circula entre dos Estados miembros.",
+      "Vincularla a tránsito externo T1 hasta la aduana española.",
+      "Emitir factura intracomunitaria para sustituir el tránsito."
     ],
-    "answer": 0,
-    "explanation": "El resumen asigna la ENS a la información previa de seguridad de la carga antes de la entrada.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
+    "answer": 2,
+    "explanation": "El T1 traslada mercancía no perteneciente a la Unión bajo control aduanero hasta su despacho en destino.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-002",
+    "id": "e3-adu-002",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Una aeronave está próxima a llegar al primer aeropuerto de la UE. ¿Qué comunicación de llegada menciona el material?",
-    "options": [
-      "T-2",
-      "AN",
-      "EUR-1",
-      "ATA"
-    ],
-    "answer": 1,
-    "explanation": "El resumen distingue la ENS previa y el aviso de llegada AN.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-003",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
+    "subjectName": "Técnicas aduaneras e IVA",
     "topic": "Depósito temporal",
-    "question": "Un envío queda en depósito temporal tras su llegada y no se vincula aún a otro régimen. ¿Qué plazo máximo destaca el resumen?",
+    "question": "Un importador deja mercancía de terceros países en un ADT y su equipo cree que ya está incluida en régimen de depósito aduanero. ¿Qué corrección procede?",
     "options": [
-      "30 días",
-      "60 días",
-      "90 días",
-      "180 días"
-    ],
-    "answer": 2,
-    "explanation": "El documento fija 90 días para solicitar un régimen aduanero desde la situación de depósito temporal.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-004",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Controles paraaduaneros",
-    "question": "Una empresa necesita un documento sanitario preceptivo para despachar una partida. ¿Qué servicio se encarga de ese control según el temario?",
-    "options": [
-      "Compañía aseguradora",
-      "Agente general de ventas",
-      "Transportista contractual",
-      "Servicio paraaduanero competente"
-    ],
-    "answer": 3,
-    "explanation": "Sanidad, veterinaria, fitosanitario y SOIVRE figuran como servicios paraaduaneros.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-005",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Gestión aduanera",
-    "question": "Una sociedad va a actuar como importadora en la UE. ¿Qué identificador aduanero exige el resumen antes de despachar?",
-    "options": [
-      "EORI",
-      "AWB",
-      "CMR",
-      "VGM"
-    ],
-    "answer": 0,
-    "explanation": "El material indica que el operador debe contar con EORI para realizar despachos aduaneros.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-006",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una mercancía no perteneciente a la Unión llega a Rotterdam, pero se quiere despachar en Madrid. ¿Qué tránsito corresponde en el supuesto del temario?",
-    "options": [
-      "Tránsito interno T2",
-      "Tránsito externo T1",
-      "Exportación definitiva",
-      "Perfeccionamiento pasivo"
+      "El depósito temporal equivale a un perfeccionamiento activo suspendido.",
+      "El depósito temporal es una situación previa, distinta del régimen especial de depósito.",
+      "Toda mercancía en ADT está automáticamente despachada a libre práctica.",
+      "La llegada al ADT concede estatuto aduanero de la Unión."
     ],
     "answer": 1,
-    "explanation": "El T1 permite trasladar mercancía no perteneciente a la Unión bajo control aduanero hasta otra aduana.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "El depósito temporal no es un régimen especial y no sustituye la declaración para vincular a uno.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-007",
+    "id": "e3-adu-003",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una mercancía de la Unión viaja entre dos puntos de la UE atravesando un tercer país, en un caso amparado por el régimen descrito. ¿Qué tránsito se estudia?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Depósito temporal",
+    "question": "Una partida permanece en ADT a la espera de un comprador. La empresa planea elegir régimen al cuarto mes. ¿Qué obstáculo debe prever?",
     "options": [
-      "Tránsito externo T1",
-      "Importación temporal",
-      "Tránsito interno T2",
-      "Despacho a consumo"
-    ],
-    "answer": 2,
-    "explanation": "El resumen identifica el T2 para determinados recorridos de mercancías de la Unión por terceros territorios.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-008",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Una operación de tránsito necesita el documento que acompaña el movimiento en el sistema aduanero descrito. ¿Qué sigla cita el profesor?",
-    "options": [
-      "DAE",
-      "AWB",
-      "B/L",
-      "DAT"
-    ],
-    "answer": 3,
-    "explanation": "El DAT se menciona como documento de acompañamiento de tránsito en el resumen.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-009",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Tránsito",
-    "question": "Un transportista realiza un tránsito internacional acogido al convenio TIR. ¿Qué documento identifica el material?",
-    "options": [
-      "Cuaderno TIR",
-      "Conocimiento AWB",
-      "Certificado VGM",
-      "Modelo 349"
+      "El límite ordinario de 90 días de depósito temporal.",
+      "El plazo máximo de 24 horas desde la llegada del buque.",
+      "El devengo automático del arancel al día 180.",
+      "La ENS vigente como permiso de almacenamiento anual."
     ],
     "answer": 0,
-    "explanation": "El cuaderno TIR documenta los movimientos acogidos al sistema TIR.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "Como regla general, las mercancías en depósito temporal deben incluirse en régimen o reexportarse en 90 días.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-010",
+    "id": "e3-adu-004",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa importa temporalmente una máquina para exhibirla en una feria y reexportarla sin transformarla. ¿Qué régimen encaja mejor?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Declaraciones de entrada",
+    "question": "Una naviera transmite una ENS previa a la llegada. El importador asume que se ha presentado así su declaración de importación. ¿Qué distinción falla?",
     "options": [
-      "Perfeccionamiento activo",
-      "Importación temporal",
-      "Despacho a consumo",
-      "Depósito distinto del aduanero"
-    ],
-    "answer": 1,
-    "explanation": "La admisión temporal permite la entrada para usos limitados y posterior reexportación en condiciones aplicables.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-011",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa necesita documentar una entrada temporal para feria en un país adherido al convenio correspondiente. ¿Qué documento facilita el trámite?",
-    "options": [
-      "Modelo 390",
-      "Documento CIM",
-      "Cuaderno ATA",
-      "Certificado EUR-1"
-    ],
-    "answer": 2,
-    "explanation": "El material cita el cuaderno ATA para determinadas importaciones/exportaciones temporales.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-012",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una máquina se importa temporalmente para ser alquilada durante dos meses. El resumen menciona una liquidación parcial del 3 % mensual de derechos teóricos. ¿Cuánto representa en dos meses?",
-    "options": [
-      "El 3 % de esos derechos",
-      "El 9 % de esos derechos",
-      "El 100 % de esos derechos",
-      "El 6 % de esos derechos"
+      "La ENS determina la cuota de IVA y sustituye el DUA.",
+      "La ENS es una declaración de exportación del vendedor.",
+      "La ENS implica que ya se ha concedido el levante de la mercancía.",
+      "La ENS cumple una función previa de seguridad; no reemplaza la declaración de importación."
     ],
     "answer": 3,
-    "explanation": "En el supuesto docente de importación temporal con exención parcial, 3 % por mes × 2 = 6 %.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "La declaración sumaria de entrada aporta datos para seguridad; el despacho exige su propio procedimiento.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-005",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Territorios aduaneros y fiscales",
+    "question": "Una empresa envía mercancías desde Francia a Canarias y sostiene que, al no salir del territorio aduanero de la UE, se aplica el IVA francés como en cualquier envío a Madrid. ¿Qué debe examinar?",
+    "options": [
+      "Canarias está fuera de la Unión Europea para cualquier tributo.",
+      "Canarias utiliza necesariamente el IVA peninsular en toda venta.",
+      "Canarias está en el territorio aduanero, pero fuera del territorio armonizado del IVA.",
+      "La circulación a Canarias convierte la mercancía en originaria de la Unión."
+    ],
+    "answer": 2,
+    "explanation": "La delimitación aduanera y la de IVA no coinciden; Canarias tiene un régimen fiscal indirecto específico.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-013",
+    "id": "e3-adu-006",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una mercancía importada disfruta de arancel reducido por destinarse a un uso industrial específico bajo vigilancia aduanera. ¿Qué régimen describe el supuesto?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Ceuta y Melilla",
+    "question": "Una operación desde Valencia tiene como destino Ceuta y se documenta como una expedición aduanera interna de la UE. ¿Dónde está el problema?",
     "options": [
-      "Destino final",
-      "Tránsito T1",
-      "Exportación temporal",
-      "Depósito temporal"
+      "Ceuta no pertenece a España en el marco del comercio exterior.",
+      "Ceuta pertenece a España, pero no al territorio aduanero de la Unión.",
+      "Ceuta pertenece al territorio de IVA armonizado y no al aduanero.",
+      "Ceuta integra el territorio aduanero a efectos del transporte marítimo."
+    ],
+    "answer": 1,
+    "explanation": "El territorio político de un Estado y el territorio aduanero de la UE pueden no coincidir; Ceuta queda excluida.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-007",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Mónaco",
+    "question": "Un operador supone que toda mercancía que entra en Mónaco entra fuera del territorio aduanero de la Unión, porque Mónaco no es Estado miembro. ¿Qué desconoce?",
+    "options": [
+      "Mónaco sí está integrado en el territorio aduanero de la Unión.",
+      "Mónaco se considera territorio de IVA peninsular español.",
+      "Mónaco tiene una exención universal de aranceles para terceros países.",
+      "Mónaco permite circulación T2 de mercancía que sigue siendo no Unión."
     ],
     "answer": 0,
-    "explanation": "El destino final permite determinados derechos reducidos o nulos condicionados a un uso bajo control.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "Por su régimen específico, Mónaco integra el territorio aduanero de la UE, aunque no sea miembro.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-014",
+    "id": "e3-adu-008",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una fábrica española importa componentes para transformarlos y reexportar el producto resultante. ¿Qué régimen permite suspender derechos conforme a sus requisitos?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Libre práctica e IVA",
+    "question": "Un importador de maquinaria liquida aranceles al despachar a libre práctica, pero presupone que esa operación y el IVA de importación son una misma liquidación jurídica. ¿Qué debe distinguir?",
     "options": [
-      "Perfeccionamiento pasivo",
-      "Perfeccionamiento activo",
-      "Admisión temporal de feria",
-      "Despacho a consumo"
-    ],
-    "answer": 1,
-    "explanation": "El RPA cubre importaciones para reparación, transformación o incorporación con posterior ultimación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-015",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa española envía maquinaria propia a un tercer país para repararla y luego reimportarla. ¿Qué régimen debe examinar?",
-    "options": [
-      "Perfeccionamiento activo",
-      "Tránsito interno T2",
-      "Perfeccionamiento pasivo",
-      "Depósito aduanero"
-    ],
-    "answer": 2,
-    "explanation": "El RPP contempla la salida temporal para transformación o reparación fuera del territorio aduanero.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-016",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa quiere importar productos para transformarlos en España y venderlos aquí, en vez de reexportarlos. ¿Qué aspecto debe prever?",
-    "options": [
-      "La devolución automática de todo arancel",
-      "La aplicación obligatoria de un T2",
-      "La exención permanente del IVA de importación",
-      "La liquidación de derechos al despacho a libre práctica"
+      "El origen no preferencial y la nacionalidad del transportista.",
+      "El puerto de descarga y el domicilio del comprador.",
+      "La póliza de seguro y la cobertura del riesgo comercial.",
+      "El estatuto aduanero de libre práctica y el tratamiento tributario del IVA."
     ],
     "answer": 3,
-    "explanation": "El resumen distingue el destino de productos transformados que finalmente permanecen en la UE.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "El despacho a libre práctica y el despacho a consumo no deben confundirse; hay reglas distintas para derechos y tributos.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-009",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Perfeccionamiento activo",
+    "question": "Una empresa importa componentes de terceros países para transformarlos y reexportar productos terminados. Pretende evitar el pago inicial de derechos en las condiciones autorizadas. ¿Qué régimen encaja?",
+    "options": [
+      "Perfeccionamiento pasivo.",
+      "Importación temporal para exposición.",
+      "Perfeccionamiento activo.",
+      "Tránsito interno T2."
+    ],
+    "answer": 2,
+    "explanation": "El perfeccionamiento activo permite utilizar mercancía no perteneciente a la Unión en transformaciones bajo condiciones suspensivas.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-017",
+    "id": "e3-adu-010",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una empresa reimporta una máquina tras reparación en garantía en el exterior. ¿Qué figura especial menciona el material para ciertos supuestos de sustitución?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Perfeccionamiento EX/IM",
+    "question": "Una empresa necesita exportar hoy estructuras fabricadas con acero de la Unión e importar después acero equivalente extranjero bajo autorización. ¿Qué modalidad podría utilizar?",
     "options": [
-      "Intercambios estándar",
-      "Depósito temporal",
-      "Tránsito T2",
-      "Venta en consigna"
+      "Perfeccionamiento pasivo con reparación en un tercer país.",
+      "Perfeccionamiento activo EX/IM con exportación anticipada y equivalencia autorizada.",
+      "Admisión temporal del acero de la Unión transformado.",
+      "Despacho a consumo retroactivo sin condiciones especiales."
+    ],
+    "answer": 1,
+    "explanation": "En EX/IM se anticipa la exportación de productos obtenidos de mercancías equivalentes, seguida de la importación autorizada.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-011",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Perfeccionamiento IM/EX",
+    "question": "Una textil introduce primero hilo extranjero, lo transforma en prendas y después exporta las prendas. ¿Por qué esta secuencia difiere de EX/IM?",
+    "options": [
+      "Se corresponde con importación previa y exportación posterior, IM/EX.",
+      "La importación convierte la fibra en mercancía de la Unión sin más.",
+      "La fabricación interior exige necesariamente perfeccionamiento pasivo.",
+      "La exportación convierte la venta en una entrega intracomunitaria."
     ],
     "answer": 0,
-    "explanation": "El resumen cita intercambios estándar para determinadas operaciones de reparación y sustitución.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "En IM/EX el insumo no Unión entra antes de la elaboración y exportación; EX/IM invierte esa secuencia autorizada.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-018",
+    "id": "e3-adu-012",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Un importador quiere almacenar mercancía de terceros países sin despacharla a libre práctica ni ingresar aún los derechos de importación. ¿Qué régimen resulta adecuado?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Perfeccionamiento pasivo",
+    "question": "Una fábrica española manda una máquina temporalmente a Suiza para reparación y pretende reintroducirla con tratamiento especial. ¿Qué régimen debe estudiar?",
     "options": [
-      "Depósito distinto del aduanero",
-      "Depósito aduanero",
-      "Despacho a consumo",
-      "Exportación definitiva"
-    ],
-    "answer": 1,
-    "explanation": "El DA permite almacenamiento bajo régimen aduanero suspensivo de derechos de importación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-019",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa guarda mercancía ya despachada a libre práctica en un almacén fiscal con suspensión de IVA. ¿Qué figura describe el material?",
-    "options": [
-      "Depósito temporal",
-      "Tránsito externo T1",
-      "Depósito distinto del aduanero",
-      "Admisión temporal"
-    ],
-    "answer": 2,
-    "explanation": "El DDA es un régimen fiscal distinto del depósito aduanero y puede suspender el IVA.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-020",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa vende mercancía dentro de un DDA a otra empresa española. ¿Qué caracteriza la venta según el resumen?",
-    "options": [
-      "Exige liquidar siempre IVA en la entrada",
-      "Obliga a exportar la mercancía",
-      "Convierte la mercancía en no comunitaria",
-      "Puede realizarse sin repercutir IVA mientras permanece vinculada"
+      "Perfeccionamiento activo.",
+      "Depósito temporal.",
+      "Tránsito interno T2.",
+      "Perfeccionamiento pasivo."
     ],
     "answer": 3,
-    "explanation": "El resumen indica que pueden realizarse ventas dentro del DDA con el tratamiento fiscal previsto.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "El perfeccionamiento pasivo permite enviar mercancía de la Unión para reparación o transformación exterior y reimportarla en condiciones.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-013",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Depósito aduanero",
+    "question": "Una distribuidora introduce mercancía de un tercer país en un depósito aduanero mientras estudia si reexportarla o venderla en la UE. ¿Qué ventaja busca?",
+    "options": [
+      "Eliminar los controles sanitarios exigibles a cualquier salida.",
+      "Atribuir estatuto de la Unión desde su entrada en el almacén.",
+      "Posponer despacho y derechos mientras permanezca válidamente en el régimen.",
+      "Convertir todas las ventas futuras en entregas intracomunitarias."
+    ],
+    "answer": 2,
+    "explanation": "El depósito aduanero permite almacenar mercancía no Unión bajo régimen suspensivo hasta decidir su destino.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-021",
+    "id": "e3-adu-014",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una mercancía no perteneciente a la Unión permanece en un depósito aduanero porque todavía no se conoce su destino comercial. ¿Qué ventaja ofrece?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Importación temporal",
+    "question": "Una empresa trae temporalmente equipos para exhibirlos en una feria y volver a exportarlos sin transformación. ¿Qué régimen resulta pertinente frente a importación definitiva?",
     "options": [
-      "Posponer la liquidación de derechos hasta su ultimación",
-      "Convertirla automáticamente en mercancía de la Unión",
-      "Evitar todo control aduanero de la mercancía",
-      "Sustituir el EORI por el documento CMR"
+      "Perfeccionamiento pasivo por exhibición fuera de fábrica.",
+      "Importación temporal si se cumplen condiciones de uso y reexportación.",
+      "Tránsito interno que autoriza uso libre en la feria.",
+      "Libre práctica sin tributos por tratarse de una exposición."
+    ],
+    "answer": 1,
+    "explanation": "La importación temporal cubre usos temporales de mercancía no Unión con reexportación prevista, bajo condiciones.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-015",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Control aduanero",
+    "question": "Un envío recibe circuito rojo. El responsable comercial considera que debe concederse levante porque la declaración y la factura ya se aportaron. ¿Qué ha confundido?",
+    "options": [
+      "Presentar documentos no sustituye completar los controles que condicionan el levante.",
+      "El circuito rojo impide presentar declaraciones con facturas.",
+      "La aduana no puede inspeccionar bienes con declaración anticipada.",
+      "La compañía transportista decide siempre el levante en circuito rojo."
     ],
     "answer": 0,
-    "explanation": "El DA permite mantener la mercancía bajo control sin pagar aún derechos de importación.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
+    "explanation": "La selección de circuito puede exigir control físico u otras verificaciones previas al levante.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-022",
+    "id": "e3-adu-016",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa introduce mercancía en un DDA y posteriormente la extrae al mercado interior. ¿Qué hecho exige examinar el IVA correspondiente?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Controles sectoriales",
+    "question": "Una empresa importa alimentos con control sanitario obligatorio. Ya ha liquidado derechos y presenta factura, pero falta el certificado sanitario. ¿Qué cabe prever?",
     "options": [
-      "La emisión de la ENS",
-      "La extracción del depósito",
-      "El pesaje VGM del contenedor",
-      "La presentación del cuaderno TIR"
-    ],
-    "answer": 1,
-    "explanation": "La extracción del DDA activa el tratamiento de IVA y la documentación fiscal descrita.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-023",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Exportación",
-    "question": "Una empresa exporta mercancía por una aduana distinta de la aduana de salida efectiva de la UE. ¿Qué documento acompaña el movimiento según el temario?",
-    "options": [
-      "DAT",
-      "DDT",
-      "DAE",
-      "ENS"
-    ],
-    "answer": 2,
-    "explanation": "El documento de acompañamiento de exportación DAE se menciona para salida indirecta.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-024",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Libre práctica",
-    "question": "Una mercancía importada adquiere estatuto de mercancía de la Unión tras pagar derechos, pero el tratamiento del IVA debe analizarse aparte. ¿Qué operación se ha realizado?",
-    "options": [
-      "Exportación temporal",
-      "Tránsito externo T1",
-      "Entrada en depósito temporal",
-      "Despacho a libre práctica"
+      "El arancel pagado reemplaza toda autorización sanitaria.",
+      "El control sanitario corresponde al banco que paga la compra.",
+      "La factura comercial acredita por sí misma la aptitud sanitaria.",
+      "El levante puede quedar condicionado al control sectorial competente."
     ],
     "answer": 3,
-    "explanation": "El despacho a libre práctica confiere estatuto de la Unión; el IVA se rige por reglas propias.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "Los controles sectoriales o paraaduaneros siguen siendo exigibles cuando proceden, con independencia del cálculo tributario.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-017",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Clasificación y origen",
+    "question": "Un operador conoce el código TARIC del producto y cree que eso basta para disfrutar un arancel preferencial. ¿Qué aspecto falta analizar?",
+    "options": [
+      "El tamaño del contenedor y el código de tránsito.",
+      "La residencia fiscal del transportista marítimo.",
+      "El origen preferencial y la prueba exigida por el acuerdo aplicable.",
+      "El número de palés y el seguro de la carga."
+    ],
+    "answer": 2,
+    "explanation": "Clasificación, origen y medidas arancelarias son dimensiones diferentes; la preferencia exige requisitos específicos.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-025",
+    "id": "e3-adu-018",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Zonas francas",
-    "question": "Un operador introduce mercancía en una zona franca directamente desde un tercer país. ¿Qué documentación de entrada señala el material?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Origen",
+    "question": "Una mercancía se expide desde Marruecos, pero fue fabricada íntegramente en China y no transformada después. El comprador pretende declararla originaria de Marruecos. ¿Qué error comete?",
     "options": [
-      "DDT y declaración de vinculación a zona franca",
-      "Únicamente modelo 349",
-      "Solo certificado de origen EUR-1",
-      "AWB y modelo 390 como régimen"
+      "Tomar el país de producción en lugar del de expedición.",
+      "Equiparar país de expedición con origen no preferencial.",
+      "Consultar las reglas de origen pertinentes.",
+      "Solicitar evidencia del proceso productivo de la mercancía."
+    ],
+    "answer": 1,
+    "explanation": "El origen no se atribuye por el mero país desde el que se transporta el bien.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-019",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Origen preferencial",
+    "question": "Una empresa pretende preferencia arancelaria con una factura que solo indica el domicilio del vendedor en el país beneficiario. ¿Qué es lo que falta?",
+    "options": [
+      "Probar que la mercancía cumple el origen preferencial exigido.",
+      "Comprobar si el contenedor se descargó en un puerto europeo.",
+      "Acreditar la fecha de vencimiento del medio de pago.",
+      "Revisar la póliza de seguro contratada por el expedidor."
     ],
     "answer": 0,
-    "explanation": "El resumen menciona DDT y declaración de vinculación al régimen de zona franca para acceso directo.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "Las preferencias exigen cumplimiento de reglas de origen y, cuando proceda, una prueba de origen admisible.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
   },
   {
-    "id": "adu-026",
+    "id": "e3-adu-020",
     "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Destinos especiales",
-    "question": "Una empresa importa temporalmente un equipo para una exposición y después lo devuelve al extranjero. ¿Qué condición material resalta el resumen?",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Valor en aduana",
+    "question": "Un importador calcula el valor en aduana multiplicando unidades por precio, sin considerar pagos adicionales y transporte hasta entrada. ¿Qué debe revisar?",
     "options": [
-      "Debe transformarse en un producto nuevo",
-      "Debe reexportarse esencialmente el mismo equipo",
-      "Debe venderse antes de la salida",
-      "Debe incorporarse a mercancía de la Unión"
-    ],
-    "answer": 1,
-    "explanation": "El material exige identidad de la mercancía, con mantenimiento o conservación permitidos.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-027",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Perfeccionamiento",
-    "question": "Una mercancía está bajo RPA y se pretende exportar el producto compensador con prueba de origen preferencial. ¿Qué regla advierte el resumen que debe comprobarse?",
-    "options": [
-      "Regla de los 90 días de DDT",
-      "Cuaderno ATA para ferias",
-      "No drawback cuando resulte aplicable",
-      "Recargo de equivalencia"
-    ],
-    "answer": 2,
-    "explanation": "El documento alerta sobre la regla no drawback en acuerdos preferenciales cuando sea aplicable.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
-    "difficulty": "hard",
-    "key": true,
-    "approved": true
-  },
-  {
-    "id": "adu-028",
-    "subject": "aduanas",
-    "subjectName": "Regímenes Aduaneros",
-    "topic": "Depósitos",
-    "question": "Una empresa compra una gran partida sin saber aún si se destinará a venta interior o reexportación. ¿Qué figura del temario permite esperar sin despacho definitivo?",
-    "options": [
-      "Despacho a consumo",
-      "Exportación definitiva",
-      "Destino final industrial",
-      "Depósito aduanero"
+      "El margen de reventa previsto para el siguiente ejercicio.",
+      "La prima de seguro del comprador después de la venta interior.",
+      "El importe de IVA facturado a consumidores finales.",
+      "Los ajustes legalmente exigibles al valor de transacción."
     ],
     "answer": 3,
-    "explanation": "El DA permite posponer la decisión comercial y la liquidación aduanera mientras está bajo régimen.",
-    "source": "2026-10-19 RESUMEN REGÍMENES ADUANEROS.pdf",
+    "explanation": "El valor de transacción puede requerir adiciones y ajustes que afectan a la base aduanera.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-021",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Base imponible IVA importación",
+    "question": "Una empresa equipara la base imponible de IVA de importación al valor en aduana y omite aranceles y costes relevantes. ¿Qué diferencia pasa por alto?",
+    "options": [
+      "El IVA usa siempre una base inferior al valor en aduana.",
+      "El arancel se calcula a partir del IVA pagado en destino.",
+      "La base del IVA puede adicionar derechos, tributos y determinados gastos.",
+      "El IVA se determina por residencia fiscal del transportista."
+    ],
+    "answer": 2,
+    "explanation": "La base del IVA importación toma el valor en aduana y añade partidas legalmente previstas.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-022",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA intracomunitario",
+    "question": "Una pyme española compra bienes a un fabricante alemán con envío Alemania-España. Ambas actúan como empresarios y cumplen las condiciones de exención en origen. ¿Qué tratamiento es normal?",
+    "options": [
+      "Exportación alemana e importación española con arancel.",
+      "Entrega intracomunitaria exenta en origen y adquisición intracomunitaria en destino.",
+      "Factura con IVA alemán y DUA en España por las mismas mercancías.",
+      "Venta interior española sin declarar adquisición intracomunitaria."
+    ],
+    "answer": 1,
+    "explanation": "El movimiento intracomunitario B2B, cumplidos sus requisitos, da lugar a entrega intracomunitaria y adquisición correlativa.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-023",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA adquisiciones",
+    "question": "Una empresa con derecho pleno a deducción compra bienes de otra sociedad de la UE, y esta factura sin IVA. ¿Qué debe reflejar en su autoliquidación española?",
+    "options": [
+      "IVA devengado y deducible por adquisición intracomunitaria, si procede.",
+      "Solo IVA deducible sin devengo al llegar factura exenta.",
+      "IVA de importación liquidado por aduana como tercer país.",
+      "Impuesto declarado únicamente por el proveedor extranjero."
+    ],
+    "answer": 0,
+    "explanation": "La empresa adquirente autorrepercute el impuesto y puede deducirlo conforme a los requisitos.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-024",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Prueba entrega UE",
+    "question": "Un vendedor español factura como exenta una entrega B2B a Francia, pero nadie puede probar que los bienes salieron físicamente de España. ¿Qué riesgo surge?",
+    "options": [
+      "Perder automáticamente el origen español del producto.",
+      "Convertir el transporte en un tránsito externo T1.",
+      "Obligar al comprador a emitir una factura francesa.",
+      "No poder justificar la exención de la entrega intracomunitaria."
+    ],
+    "answer": 3,
+    "explanation": "La exención requiere acreditar las condiciones y el movimiento intracomunitario real.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-025",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA B2C OSS",
+    "question": "Una tienda española supera el umbral conjunto aplicable a determinadas ventas B2C intracomunitarias. ¿Qué consecuencia debe considerar?",
+    "options": [
+      "Tributación perpetua en origen al tener sede española.",
+      "DUA de importación por cada venta a un Estado miembro.",
+      "Tributación en destino y posible uso de OSS para declarar.",
+      "Exención de IVA por vender a consumidores particulares."
+    ],
+    "answer": 2,
+    "explanation": "En ventas a distancia B2C comprendidas, superado el umbral pertinente se aplica IVA del Estado de destino; OSS facilita su liquidación.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-026",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA umbral B2C",
+    "question": "Una pequeña empresa española está por debajo del umbral de 10.000 € para las ventas B2C intracomunitarias comprendidas y desea optar por tributar en destino. ¿Qué respuesta es correcta?",
+    "options": [
+      "Debe esperar a superar 10.001 euros para cambiar el criterio.",
+      "Existe una opción por destino sometida a condiciones; no se elige tipo libremente factura a factura.",
+      "Puede escoger discrecionalmente el tipo de IVA de cualquier país.",
+      "Está obligada a usar siempre el IVA del origen hasta fin de año."
+    ],
+    "answer": 1,
+    "explanation": "El régimen permite, bajo condiciones, opción por la tributación en destino antes de superar el umbral, con efectos temporales.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-027",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA servicios B2B",
+    "question": "Una consultora madrileña asesora por videollamada a una empresa francesa que actúa como tal. ¿Qué dato es central para localizar el IVA bajo la regla general B2B?",
+    "options": [
+      "El establecimiento relevante del destinatario empresario.",
+      "El domicilio particular del empleado que atendió la llamada.",
+      "El lugar donde estaba físicamente el ordenador del consultor.",
+      "La moneda seleccionada para abonar la factura."
+    ],
+    "answer": 0,
+    "explanation": "La regla general B2B de servicios localiza en el destinatario empresario, sin perjuicio de excepciones concretas.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-028",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA B2B B2C",
+    "question": "Una consultora factura a un particular que recibe asesoramiento para asuntos privados. La empresa utiliza la misma tarifa que con clientes profesionales y concluye que es B2B. ¿Qué debe corregir?",
+    "options": [
+      "La tarifa facturada determina siempre la localización del IVA.",
+      "El país de la cuenta bancaria revela si el cliente es empresario.",
+      "La factura proforma convierte al consumidor en profesional.",
+      "La condición real del cliente prevalece sobre la tarifa comercial."
+    ],
+    "answer": 3,
+    "explanation": "La calificación B2B/B2C depende de la condición y actuación del destinatario, no del precio de la operación.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-029",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA exportaciones",
+    "question": "Un exportador vende bienes desde España a Chile y cree que debe repercutir IVA español porque emite factura en Madrid. ¿Qué verifica primero?",
+    "options": [
+      "La condición de residente español del vendedor para fijar el tipo.",
+      "La ubicación de la cuenta bancaria donde se recibe el pago.",
+      "La exención por exportación y la acreditación de la salida fuera de la UE.",
+      "El importe del flete como único criterio para eximir IVA."
+    ],
+    "answer": 2,
+    "explanation": "Una exportación de bienes puede estar exenta de IVA de origen con derecho a deducción cuando se cumplen los requisitos.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-030",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA diferido",
+    "question": "Una empresa aplica diferimiento del IVA de importación y contabiliza que ya no existe impuesto porque no lo paga en la aduana. ¿Cuál es la interpretación correcta?",
+    "options": [
+      "El IVA se convierte en un crédito automático de exportación.",
+      "El ingreso se lleva a la autoliquidación sin eliminar el impuesto.",
+      "El diferimiento borra el hecho imponible en la importación.",
+      "El IVA queda reemplazado por el derecho arancelario."
+    ],
+    "answer": 1,
+    "explanation": "El diferimiento modifica la vía y momento de declaración e ingreso del IVA a la importación, no su devengo.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-031",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Recargo de equivalencia",
+    "question": "Un mayorista español vende bienes a un minorista acogido al recargo de equivalencia y factura solamente IVA, porque cree que el minorista liquidará el recargo después. ¿Qué falla?",
+    "options": [
+      "El proveedor repercute IVA y recargo si corresponde al régimen.",
+      "La operación debe declararse como exportación a un particular.",
+      "El minorista ordinariamente deduce ambas cuotas como IVA soportado.",
+      "El recargo solo existe si hay importación desde un tercer país."
+    ],
+    "answer": 0,
+    "explanation": "En operaciones interiores sujetas a recargo de equivalencia, el mayorista repercute IVA y recargo al minorista.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-032",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Recargo de equivalencia",
+    "question": "Un minorista en recargo de equivalencia compra para revender, y pretende deducir el IVA soportado como lo haría una sociedad en régimen general. ¿Qué advertencia procede?",
+    "options": [
+      "Puede deducir el IVA y el recargo por la misma compra con libertad.",
+      "No necesita soportar IVA cuando adquiere a un mayorista.",
+      "El régimen transforma las ventas interiores en operaciones exentas.",
+      "En su actividad sometida al régimen, la deducción ordinaria del IVA soportado queda restringida."
+    ],
+    "answer": 3,
+    "explanation": "El recargo de equivalencia simplifica obligaciones del minorista, pero no permite la deducción ordinaria de esas cuotas.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-033",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Estatuto aduanero",
+    "question": "Una sociedad importa mercancías cuya libre práctica se tramita en otro Estado miembro y las transporta hacia España. ¿Por qué sería incorrecto equiparar el desplazamiento posterior a una importación desde China en España?",
+    "options": [
+      "La mercancía conserva estatuto no Unión por haberse fabricado fuera.",
+      "Todo bien de origen chino exige nuevo arancel al cruzar fronteras interiores.",
+      "Una vez despachadas a libre práctica son mercancía de la Unión; deben analizarse reglas fiscales del movimiento posterior.",
+      "La declaración de origen determina automáticamente el IVA de destino."
+    ],
+    "answer": 2,
+    "explanation": "La libre práctica confiere estatuto de la Unión; la circulación posterior tiene tratamiento aduanero y fiscal distinto.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-034",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Comparación regímenes",
+    "question": "Una empresa española vende mercancía nacional para que sea reparada fuera de la UE y reintroducida. El jefe de compras propone perfeccionamiento activo por existir una 'transformación'. ¿Qué importa para decidir?",
+    "options": [
+      "El uso de componentes de terceros países implica siempre activo.",
+      "La salida de mercancía de la Unión para trabajar fuera apunta al pasivo.",
+      "El país de facturación define activo o pasivo.",
+      "El hecho de reparar impide utilizar un régimen de perfeccionamiento."
+    ],
+    "answer": 1,
+    "explanation": "La dirección del movimiento y el estatuto de la mercancía son determinantes para distinguir activo y pasivo.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-035",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Controles y tributos",
+    "question": "Un importador presenta un justificante de IVA pagado y pide que su mercancía se libere a pesar de quedar pendiente una inspección de sanidad exterior. ¿Qué error manifiesta?",
+    "options": [
+      "Confunde cumplimiento tributario con cumplimiento de medidas de control sectorial.",
+      "Confunde la clasificación arancelaria con el territorio IVA.",
+      "Confunde la prueba de origen con la figura del importador.",
+      "Confunde entrega al comprador con la fecha de factura."
+    ],
+    "answer": 0,
+    "explanation": "El pago de derechos o tributos no suple requisitos sectoriales y controles obligatorios pendientes.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-036",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "Valor de transacción",
+    "question": "En una importación la aduana cuestiona el valor declarado porque existe relación entre comprador y vendedor. ¿Qué conclusión sería precipitada?",
+    "options": [
+      "Que debe examinarse si la vinculación influyó en el precio.",
+      "Que puede requerirse documentación justificativa del valor.",
+      "Que existen métodos subsidiarios si no se admite la transacción.",
+      "Que toda vinculación entre partes invalida automáticamente el valor de transacción."
+    ],
+    "answer": 3,
+    "explanation": "La vinculación por sí sola no obliga a rechazar siempre el valor de transacción; hay que analizar si influyó en el precio.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "e3-adu-037",
+    "subject": "aduanas",
+    "subjectName": "Técnicas aduaneras e IVA",
+    "topic": "IVA Aduanas e Incoterms",
+    "question": "Una empresa pacta comprar FOB en puerto asiático y vender CIF a un cliente en otro continente. Concluye que el seguro de compra ya está contratado por el proveedor. ¿Qué debe comprobar?",
+    "options": [
+      "La compra FOB obliga al proveedor asiático a asegurar hasta destino.",
+      "La venta CIF transmite riesgo solo al llegar el buque a puerto.",
+      "FOB no impone al vendedor contratar seguro; la obligación CIF de venta requiere cobertura.",
+      "En ambas operaciones el despacho de importación corresponde al vendedor."
+    ],
+    "answer": 2,
+    "explanation": "Comprar FOB y vender CIF no significa que el seguro venga contratado en origen; deben coordinarse coberturas y riesgos.",
+    "source": "Tercer parcial / Natalia Aduanas y materiales de IVA y Regímenes Aduaneros",
     "difficulty": "hard",
     "key": true,
     "approved": true
