@@ -7,7 +7,7 @@
     "question": "Una bodega española vende vino a México bajo CIF Veracruz. El comprador exige al vendedor que asuma el riesgo hasta que el contenedor llegue a Veracruz porque paga el flete. ¿Qué debe explicarse?",
     "options": [
       "El riesgo se transmite cuando la mercancía pasa la aduana mexicana.",
-      "El riesgo pasa al comprador cuando la mercancía se embarca en origen, pese al flete pagado.",
+      "El riesgo pasa al embarcar en origen, aunque pague el flete.",
       "El riesgo pasa en el puerto de destino junto con el pago del flete.",
       "El riesgo se transmite al entregar el contenedor vacío al transportista."
     ],
@@ -25,7 +25,7 @@
     "topic": "Seguro CIF",
     "question": "Un comprador contrata CIF para un cargamento de piezas muy frágiles. Cree que el seguro obligatorio cubre daños por casi cualquier causa. ¿Qué advertencia es correcta?",
     "options": [
-      "La cobertura mínima exigida bajo CIF puede ser limitada; conviene ampliar el seguro.",
+      "El seguro mínimo CIF puede ser limitado y conviene ampliarlo.",
       "El vendedor debe asegurar siempre con la cobertura más amplia de las cláusulas A.",
       "El seguro CIF cubre daños causados por defecto del embalaje del cargador.",
       "La cláusula CIF elimina la necesidad de comunicar daños al asegurador."
@@ -47,7 +47,7 @@
       "El comprador paga seguro y flete al recibir en terminal de destino.",
       "El vendedor soporta el riesgo hasta que la mercancía se descargue en destino.",
       "La entrega jurídica se pospone hasta el pago de la prima aseguradora.",
-      "El vendedor paga seguro y transporte aunque el riesgo se transmita al entregar al primer porteador."
+      "El vendedor paga ambos, pero el riesgo pasa al primer porteador."
     ],
     "answer": 3,
     "explanation": "En CIP el vendedor contrata transporte y seguro hasta destino pactado aunque la entrega y riesgo se transmitan antes.",
@@ -83,7 +83,7 @@
     "question": "Una empresa vende EXW Madrid a un comprador de fuera de la UE, pero el vendedor español necesita justificar la exención de exportación y controla la operativa de aduanas. ¿Qué alternativa reduce la dificultad?",
     "options": [
       "Mantener EXW y considerar que el Incoterm es prueba suficiente de salida.",
-      "Pactar FCA instalaciones del vendedor para asumir el despacho de exportación.",
+      "FCA en instalaciones con despacho a cargo del vendedor.",
       "Utilizar DDP como única forma de facturar exportaciones sin IVA.",
       "Aplicar CIF Madrid aunque el transporte final sea terrestre."
     ],
@@ -101,7 +101,7 @@
     "topic": "Selección Incoterm",
     "question": "Una expedición de maquinaria viaja por carretera desde Madrid hasta París. Las partes proponen FOB París porque desean que el vendedor pague gastos hasta salida. ¿Qué objeción principal procede?",
     "options": [
-      "FOB requiere entrega a bordo de un buque en puerto; para carretera debe elegirse otro término.",
+      "FOB exige entrega a bordo, no en un trayecto por carretera.",
       "FOB es equivalente a FCA con entrega en el domicilio del comprador.",
       "FOB se adapta si se indica un punto exacto de destino en Francia.",
       "FOB puede usarse con carretera si se contrata seguro adicional."
@@ -141,7 +141,7 @@
     "options": [
       "La ausencia de obligación de transporte principal del vendedor.",
       "La atribución al comprador del despacho de exportación.",
-      "La viabilidad de la descarga que asume el vendedor en el punto acordado.",
+      "La disponibilidad de medios de descarga que asume el vendedor.",
       "La transmisión del riesgo al entregar a primer porteador."
     ],
     "answer": 2,
@@ -159,7 +159,7 @@
     "question": "Una pyme española vende DDP a un comprador canadiense. No dispone de registro ni representante para despachar en Canadá. ¿Qué riesgo oculta la cotización?",
     "options": [
       "Asumir solo el riesgo hasta entregar la carga al primer transportista.",
-      "Comprometer importación y tributos en destino sin poder gestionar legalmente el despacho.",
+      "Asumir importación y tributos sin poder hacer el despacho.",
       "Convertir al comprador en responsable de exportación desde España.",
       "Eliminar automáticamente todos los controles sanitarios aplicables."
     ],
@@ -177,7 +177,7 @@
     "topic": "CPT",
     "question": "Un fabricante vende CPT Chicago y un siniestro ocurre durante la travesía marítima, tras entregar la carga al primer transportista. ¿Quién soporta contractualmente el riesgo ordinario?",
     "options": [
-      "El comprador, porque el riesgo pasó con la primera entrega al transportista.",
+      "El comprador desde la entrega al primer transportista.",
       "El vendedor, porque contrató el flete hasta Chicago.",
       "El vendedor, porque CPT exige asegurar toda la mercancía.",
       "El transportista, por atribución automática de la compraventa."
@@ -199,7 +199,7 @@
       "FOB transmite el riesgo en cuanto se cierra el contenedor en fábrica.",
       "FOB obliga al comprador a presentar el contenedor ante aduana de origen.",
       "FOB prohíbe documentar un envío con conocimiento de embarque.",
-      "La entrega real al transportista ocurre antes de que la mercancía esté a bordo; FCA suele ajustarse mejor."
+      "La entrega en terminal precede al embarque; FCA se ajusta mejor."
     ],
     "answer": 3,
     "explanation": "En cargas contenerizadas recibidas en terminal, FCA puede reflejar mejor el punto de entrega que FOB, ligado a estar a bordo.",
@@ -217,7 +217,7 @@
     "options": [
       "Cotizar el precio EXW y escribir CIF sin variar la cifra.",
       "Añadir solo el IVA interior para convertir un precio EXW en CIF.",
-      "Completar un escandallo coherente con el punto CIF y sus obligaciones antes de ofertar.",
+      "Incluir todos los costes exigibles en el precio CIF.",
       "Sumar el despacho de importación como coste obligatorio del vendedor CIF."
     ],
     "answer": 2,
@@ -235,7 +235,7 @@
     "question": "Una póliza de transporte anuncia cobertura ICC(A). Un daño se produce por embalaje insuficiente imputable al asegurado. ¿Qué afirmación evita un error frecuente?",
     "options": [
       "La cobertura ICC(A) implica indemnización por cualquier daño comunicado.",
-      "La cobertura amplia mantiene exclusiones que deben revisarse, incluida la del embalaje insuficiente en sus términos.",
+      "ICC(A) mantiene exclusiones, como las del embalaje insuficiente.",
       "La prima ICC(A) convierte al transportista en asegurador de pleno derecho.",
       "Una cláusula ICC(A) elimina obligaciones de mitigar el siniestro."
     ],
@@ -253,7 +253,7 @@
     "topic": "Siniestros",
     "question": "Una caja de componentes se moja al descargar y el comprador espera semanas para avisar, sin fotos ni anotaciones en el documento de transporte. ¿Qué actuación habría protegido mejor sus derechos?",
     "options": [
-      "Efectuar reservas y conservar pruebas del daño dentro de los plazos aplicables.",
+      "Anotar reservas y conservar pruebas dentro de los plazos.",
       "Pagar al transportista una comisión para que reconozca el siniestro.",
       "Solicitar una nueva factura antes de dejar constancia de la avería.",
       "Esperar a que el asegurador decida si el daño es visible u oculto."
@@ -293,7 +293,7 @@
     "options": [
       "MAWB a cada cargador y HAWB único para toda la aerolínea.",
       "Conocimiento marítimo individual y carta CMR maestra.",
-      "HAWB a cada cargador y MAWB para el envío consolidado ante la aerolínea.",
+      "HAWB por cargador y MAWB por envío consolidado.",
       "Carta CIM individual y AWB negociable general."
     ],
     "answer": 2,
@@ -311,7 +311,7 @@
     "question": "Un proveedor exige un documento de transporte que permita transmitir mercancía durante un viaje marítimo mediante entrega del título, si se emite a la orden. ¿Cuál debe considerar?",
     "options": [
       "Una carta de porte CMR nominativa de carretera.",
-      "Un conocimiento de embarque marítimo B/L negociable emitido a la orden.",
+      "El B/L marítimo negociable emitido a la orden.",
       "Un AWB aéreo utilizado como título representativo negociable.",
       "Un albarán de entrega de un almacén de tránsito."
     ],
@@ -329,7 +329,7 @@
     "topic": "Bill of Lading",
     "question": "Una carga embarca con B/L 'shipped on board', mientras otra cuenta solo con constancia de recepción del contenedor en terminal. ¿Por qué importa la diferencia?",
     "options": [
-      "El primer documento acredita embarque a bordo, mientras la recepción en terminal no lo hace por sí sola.",
+      "Solo el B/L 'on board' acredita embarque efectivo.",
       "La recepción en terminal equivale siempre a embarque cuando existe reserva de bodega.",
       "El conocimiento a bordo acredita que la mercancía ha llegado a destino.",
       "El B/L no puede contener fecha de embarque si se usa un contenedor."
@@ -351,7 +351,7 @@
       "La CMR es un título negociable equivalente al B/L a la orden.",
       "La CMR se emite exclusivamente para operaciones domésticas españolas.",
       "La CMR determina el pago de aranceles y no la relación de transporte.",
-      "La CMR documenta el transporte por carretera, pero no transmite por sí misma la propiedad."
+      "La CMR acredita el transporte, no transmite el dominio."
     ],
     "answer": 3,
     "explanation": "La carta de porte CMR es un documento de transporte, distinto de los pactos de transmisión del dominio.",
@@ -369,7 +369,7 @@
     "options": [
       "La superficie pintada del contenedor como índice legal de su carga.",
       "La equivalencia de dos TEU como autorización para duplicar el peso.",
-      "El peso bruto máximo permitido y la carga útil del contenedor concreto.",
+      "El peso máximo y la carga útil de esa unidad.",
       "La categoría de mercancía como único criterio de masa permitida."
     ],
     "answer": 2,
@@ -405,7 +405,7 @@
     "topic": "Documentación modal",
     "question": "Una venta FCA aeropuerto Madrid requiere que el comprador obtenga un conocimiento aéreo; propone exigir al vendedor un B/L 'on board'. ¿Qué aspecto de la operación es incoherente?",
     "options": [
-      "Se confunden documentos marítimos y aéreos; debe utilizarse documentación propia del modo.",
+      "Se están confundiendo documentos de modos de transporte distintos.",
       "El B/L es obligatorio para mercancía aérea de importe elevado.",
       "El AWB acredita dominio y sustituye la factura comercial.",
       "El vendedor FCA debe contratar un buque por exigencia bancaria."
@@ -427,7 +427,7 @@
       "El vendedor debe contratar además seguro ICC(A) para todo el trayecto.",
       "El comprador soporta el flete principal por utilizar un término de la familia C.",
       "El vendedor debe pagar aranceles de importación por incluir gastos hasta destino.",
-      "El vendedor contrata el transporte hasta el puerto, pero el despacho de importación corresponde al comprador."
+      "El vendedor paga el flete, no los trámites de importación."
     ],
     "answer": 3,
     "explanation": "CFR obliga al vendedor al flete hasta puerto convenido, pero no al seguro ni al despacho de importación.",
@@ -445,7 +445,7 @@
     "options": [
       "Elegir CIF, que regula por igual la entrega en todos los medios.",
       "Elegir FOB para que el vendedor gestione la última carretera.",
-      "Considerar términos multimodales como CIP o CPT según seguro y entrega pretendidos.",
+      "Optar por CPT o CIP, según las obligaciones deseadas.",
       "Utilizar FAS aunque la carga se entregue al primer camión."
     ],
     "answer": 2,
@@ -463,7 +463,7 @@
     "question": "Un exportador contrata un seguro de transporte, pero tras un daño destruye el embalaje dañado y no conserva fotografías. ¿Cuál es el riesgo?",
     "options": [
       "Hacer que el daño desaparezca del ámbito de la compraventa.",
-      "Dificultar la prueba del siniestro y el cumplimiento de deberes frente al asegurador.",
+      "Dificultar la prueba del siniestro ante la aseguradora.",
       "Transferir al comprador toda obligación de transporte posterior.",
       "Perder automáticamente el derecho a reclamar frente al vendedor."
     ],
