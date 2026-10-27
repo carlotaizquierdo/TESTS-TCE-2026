@@ -2,12 +2,12 @@
  * TCE 2026 · sincronización de GitHub Pages con Google Sheets.
  *
  * IMPORTANTE:
- * 1) Abre la hoja "Seguimiento TCE 2026".
+ * 1) Abre tu hoja "Seguimiento TCE 2026 - Examen 3 y tests".
  * 2) Extensiones > Apps Script.
  * 3) Pega este archivo en Code.gs.
  * 4) Implementar > Nueva implementación > Aplicación web.
  *    - Ejecutar como: Tú
- *    - Quién tiene acceso: Cualquiera
+ *    - Quién tiene acceso: Cualquiera (la URL debe mantenerse privada)
  * 5) Copia la URL que termina en /exec y pégala en
  *    Tests TCE > Estadísticas > Google Sheets.
  *
@@ -16,7 +16,7 @@
  */
 
 const TCE_SHEETS = {
-  plan: "Seguimiento Examen 1",
+  plans: ["Seguimiento Examen 1", "Seguimiento Examen 3"],
   history: "Historial tests",
   config: "Config"
 };
@@ -53,20 +53,24 @@ function configMap_(ss) {
     byKey[key] = item;
     byTitle[title.toLowerCase()] = item;
   });
-  return { byKey, byTitle };
+  retfunction markPlanTests_(ss, configByKey, keys) {
+  const planNames = TCE_SHEETS.plans || [TCE_SHEETS.plan].filter(Boolean);
+  planNames.forEach(planName => {
+    const sh = ss.getSheetByName(planName);
+    if (!sh || sh.getLastRow() < 7) return;
+    const startRow = 7;
+    const names = sh.getRange(startRow, 3, sh.getLastRow() - startRow + 1, 1).getDisplayValues().flat();
+    keys.forEach(key => {
+      const item = configByKey[key];
+      if (!item) return;
+      item.planTitles.forEach(title => {
+        const idx = names.indexOf(title);
+        if (idx >= 0) sh.getRange(startRow + idx, 5).setValue(true);
+      });
+    });
+  });
 }
-
-function markPlanTests_(ss, configByKey, keys) {
-  const sh = ss.getSheetByName(TCE_SHEETS.plan);
-  if (!sh || sh.getLastRow() < 7) return;
-  const startRow = 7;
-  const names = sh.getRange(startRow, 3, sh.getLastRow() - startRow + 1, 1).getDisplayValues().flat();
-  keys.forEach(key => {
-    const item = configByKey[key];
-    if (!item) return;
-    item.planTitles.forEach(title => {
-      const idx = names.indexOf(title);
-      if (idx >= 0) sh.getRange(startRow + idx, 5).setValue(true);
+lue(true);
     });
   });
 }
