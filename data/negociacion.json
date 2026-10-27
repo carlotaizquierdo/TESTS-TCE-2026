@@ -6,7 +6,7 @@
     "topic": "Intereses y posiciones",
     "question": "Una empresa negocia con un distribuidor local. Antes de hablar de descuentos, descubre que el socio necesita reposición rápida y ayuda de marketing. ¿Qué mejora introduce?",
     "options": [
-      "Investiga intereses, en vez de discutir solo posiciones.",
+      "Investiga las necesidades de fondo, sin limitarse a discutir precios.",
       "Abandona su alternativa de salida al acuerdo para acelerar el cierre.",
       "Acepta la primera petición del socio como señal de confianza.",
       "Convierte toda la negociación en una discusión sobre tarifas."
@@ -122,7 +122,7 @@
     "options": [
       "Superar sin más la oferta no documentada para no perder el cliente.",
       "Denunciar automáticamente un delito comercial sin investigar.",
-      "Pedir pruebas del argumento sin ceder por presión.",
+      "Solicitar pruebas y verificar la afirmación antes de ceder al farol.",
       "Revelar toda su estructura de costes a cambio de un compromiso verbal."
     ],
     "answer": 2,
@@ -180,7 +180,7 @@
       "Si la cadena está obligada legalmente a aceptar un descuento.",
       "Si el presupuesto anual permite transferir automáticamente riesgos.",
       "Si el contrato ha entrado ya en vigor por la aprobación verbal.",
-      "Si la falta de presupuesto es real o una táctica."
+      "Si el límite presupuestario es real o una táctica de presión."
     ],
     "answer": 3,
     "explanation": "La táctica de bolsillos vacíos puede ocultar falta real de capacidad o presión; explorar estructura del pago es mejor que conceder de entrada.",
@@ -256,7 +256,7 @@
       "Aceptar que la capacidad física aumenta al variar el discurso.",
       "Evitar calcular pérdidas de mercancía perecedera.",
       "Entregar el control de la carga a una sola parte sin contraprestación.",
-      "Explorar opciones de ganancia conjunta."
+      "Explorar opciones que generen valor para las dos partes."
     ],
     "answer": 3,
     "explanation": "Cuando los intereses lo permiten, cambiar secuencias o condiciones puede mejorar el resultado combinado sin crear capacidad física.",
@@ -332,7 +332,7 @@
       "Cerrar aunque el acuerdo resulte peor que su alternativa disponible.",
       "Evitar comparar la alternativa real con el precio ofrecido.",
       "Tomar la última propuesta recibida como límite obligatorio de negociación.",
-      "No cerrar cuando las alternativas son mejores."
+      "No cerrar si la alternativa real ofrece mejores condiciones."
     ],
     "answer": 3,
     "explanation": "Cerrar no es un fin en sí mismo; un acuerdo por debajo del umbral de aceptación puede destruir valor.",
@@ -350,7 +350,7 @@
     "options": [
       "Suponer que todos los compradores tendrán idéntico estilo por su nacionalidad.",
       "Ignorar aspectos culturales y repetir siempre el mismo guion.",
-      "Ajustar ritmo y expectativas sin caer en estereotipos.",
+      "Ajustar los tiempos y expectativas sin hacer generalizaciones culturales.",
       "Renunciar a confirmar por escrito las obligaciones pactadas."
     ],
     "answer": 2,
