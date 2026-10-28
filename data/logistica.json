@@ -138,10 +138,10 @@
    "El vendedor soporta el riesgo de la mercancía hasta el lugar de destino pactado",
    "El comprador contrata y paga el transporte principal",
    "El vendedor debe contratar un seguro de transporte a favor del comprador",
-   "El vendedor paga el transporte principal y el riesgo pasa en origen"
+   "El vendedor paga el transporte principal y el riesgo pasa antes del destino"
   ],
   "answer": 3,
-  "explanation": "Son la familia C: el vendedor paga el transporte principal hasta destino, pero el riesgo se transmite antes, en origen. Solo CIF y CIP obligan a asegurar.",
+  "explanation": "Son la familia C: el vendedor paga el transporte principal hasta destino, pero el riesgo se transmite antes, en el país de expedición (al entregar al transportista en CPT/CIP; a bordo del buque en CFR/CIF). Solo CIF y CIP obligan a asegurar.",
   "difficulty": "medium",
   "key": true,
   "approved": true,
@@ -648,13 +648,13 @@
  {
   "question": "Venta CIP aeropuerto JFK con entrega al transportista en Shanghái. ¿Cuál es la combinación correcta?",
   "options": [
-   "Cualquier modo, riesgo en origen e ICC A al 110 %",
+   "Cualquier modo, riesgo en Shanghái e ICC A al 110 %",
    "Solo marítimo, riesgo a bordo e ICC C al 110 %",
-   "Cualquier modo, riesgo en JFK e ICC A al 100 %",
-   "Solo aéreo, riesgo en origen e ICC B al 110 %"
+   "Cualquier modo, riesgo en JFK e ICC A al 100 % del valor",
+   "Solo aéreo, riesgo en Shanghái e ICC B al 110 %"
   ],
   "answer": 0,
-  "explanation": "CIP es polivalente, el riesgo pasa al entregar al transportista en origen y exige cobertura mínima ICC A por el 110 % del valor CIP.",
+  "explanation": "CIP es polivalente. El riesgo pasa cuando el vendedor entrega la mercancía al primer transportista en el lugar pactado (aquí, en Shanghái), aunque pague transporte y seguro hasta JFK. Ese lugar de entrega no tiene por qué ser la fábrica: puede ser el almacén del vendedor, una terminal o el aeropuerto de salida. CIP exige cobertura mínima ICC A por el 110 % del valor CIP.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -707,7 +707,7 @@
   "options": [
    "Sí: el riesgo pasa donde termina la cobertura del seguro",
    "Sí: el riesgo pasa cuando el comprador cobra el seguro",
-   "No: el seguro llega a destino, pero el riesgo pasó en origen",
+   "No: el riesgo pasó al entregar al transportista",
    "Depende de si el seguro es ICC A o es ICC C"
   ],
   "answer": 2,
