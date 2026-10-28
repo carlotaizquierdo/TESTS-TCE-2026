@@ -1140,15 +1140,15 @@
   "topic": "Seguro de transporte"
  },
  {
-  "question": "Una póliza tiene un capital asegurado de 20.000 € y una prima del 0,4 %. Se pierde la mercancía por un riesgo cubierto. ¿Qué es correcto?",
+  "question": "Un exportador asegura una carga con un capital de 20.000 €. Llega dañada aproximadamente un tercio de la mercancía por un riesgo cubierto, y reclama los 20.000 € «porque es lo que aseguré». ¿Qué le respondes?",
   "options": [
-   "La póliza solo indemniza 80 €, que es lo que se pagó de prima",
-   "La prima es de 80 € y la indemnización depende del daño y la póliza",
-   "La aseguradora paga de forma automática los 20.000 € del capital",
-   "La prima es de 800 € y la indemnización es de 20.000 € fijos"
+   "Que la aseguradora solo le devolverá lo que pagó como prima",
+   "Que el capital es un techo: se indemniza el daño acreditado",
+   "Que cobrará los 20.000 € porque el riesgo estaba cubierto",
+   "Que no cobra nada porque la pérdida no ha sido total"
   ],
   "answer": 1,
-  "explanation": "Prima ≠ capital. 0,4 % de 20.000 € = 80 € de prima. La indemnización se calcula según daño real, capital, franquicias y exclusiones.",
+  "explanation": "Hay que separar tres conceptos. La prima es el precio del seguro (un porcentaje del capital). El capital asegurado es el máximo que puede pagar la aseguradora. La indemnización es lo que realmente se cobra: el daño acreditado, con el capital como límite y descontando franquicias y exclusiones. Un daño parcial se indemniza de forma parcial; no da derecho al capital completo, ni tampoco deja al asegurado sin nada.",
   "difficulty": "medium",
   "key": true,
   "approved": true,
@@ -1311,15 +1311,15 @@
   "topic": "Seguro de transporte"
  },
  {
-  "question": "Venta FOB de 15.000 €. Los costes hasta destino no recuperables son 3.000 €. Según la pauta del profesor, ¿qué capital conviene asegurar?",
+  "question": "En una venta FOB, el comprador quiere asegurar la mercancía durante el transporte principal. Según la pauta del profesor para EXW-CFR, ¿sobre qué base fija el capital asegurado?",
   "options": [
-   "16.500 €",
-   "18.000 €",
-   "19.800 €",
-   "15.000 €"
+   "Sobre el 100 % del valor FOB que figura en la factura",
+   "Sobre el 110 % del valor FOB, sin añadir otros costes",
+   "Sobre el 110 % del valor final estimado, sin IVA deducible",
+   "Sobre el 100 % del valor CIF más los aranceles en destino"
   ],
   "answer": 2,
-  "explanation": "Para EXW-CFR se asegura el 110 % del valor final estimado (DDP sin IVA deducible): 110 % de 18.000 € = 19.800 €.",
+  "explanation": "En EXW, FCA, FAS, FOB, CPT y CFR se asegura el 110 % del valor final estimado (valor DDP), excluyendo el IVA si es deducible. Si solo se asegura el valor FOB, el comprador pierde los costes ya pagados y no recuperables (flete, despacho, gastos de destino). El 10 % adicional cubre el lucro cesante. En CIF/CIP la referencia es el 110 % del valor CIF/CIP y en los términos D, el 100 % del valor de entrega.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -1653,15 +1653,15 @@
   "topic": "Responsabilidad, DEG y documentos de transporte"
  },
  {
-  "question": "En un transporte por carretera internacional se pierden 125 kg de mercancía. ¿Cuál es el techo orientativo de responsabilidad del porteador?",
+  "question": "En un transporte por carretera internacional (CMR) se pierde parte de la carga. El daño acreditado es claramente inferior al límite que resultaría de aplicar el tope por kilo. ¿Cuánto debe indemnizar el porteador?",
   "options": [
-   "1.041,25 DEG",
-   "833,00 DEG",
-   "250,00 DEG",
-   "3.250,00 DEG"
+   "El daño probado, porque el límite por kilo es solo un máximo",
+   "El tope completo por kilo, aunque el daño acreditado sea menor",
+   "El valor de factura de la mercancía perdida más un 10 %",
+   "Nada, salvo que el cargador hubiese contratado un seguro"
   ],
   "answer": 0,
-  "explanation": "125 kg × 8,33 DEG/kg = 1.041,25 DEG. Es un máximo: no da derecho automático a cobrarlo si el daño probado es menor.",
+  "explanation": "Los límites de responsabilidad (8,33 DEG/kg bruto en CMR) funcionan como techo, no como tarifa de indemnización. El porteador responde del daño acreditado y, si este supera el techo, la indemnización se corta en el límite. Por eso el límite nunca da derecho automático a cobrarlo entero. El seguro de mercancías es otra relación distinta (con la aseguradora) y no excluye la responsabilidad del transportista.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -1672,15 +1672,15 @@
   "topic": "Responsabilidad, DEG y documentos de transporte"
  },
  {
-  "question": "Se pierde por mar un bulto de 200 kg bajo La Haya-Visby. ¿Cuál es el límite según el material?",
+  "question": "Bajo La Haya-Visby se pierde un único bulto muy ligero pero de bastante valor. ¿Qué criterio de límite acaba aplicándose previsiblemente?",
   "options": [
-   "666,67 DEG, porque es mayor que 400 DEG",
-   "400 DEG, porque se aplica el límite por kilo",
-   "1.066,67 DEG, suma de ambos límites",
-   "200 DEG, uno por cada kilo perdido"
+   "El límite por bulto, que no depende del peso de la mercancía",
+   "El límite por kilo, que es el que prevalece en el transporte marítimo",
+   "La suma del límite por bulto y del límite por kilo",
+   "El límite del CMR, al ser más elevado por kilo"
   ],
   "answer": 0,
-  "explanation": "Se calcula 666,67 DEG por bulto y 2 DEG/kg (200 × 2 = 400) y se elige el mayor: 666,67 DEG.",
+  "explanation": "La Haya-Visby fija dos límites: 666,67 DEG por bulto o unidad y 2 DEG por kilo bruto. Se calculan ambos y se aplica el mayor; no se suman. Con un bulto ligero el límite por kilo da una cifra baja, así que gana el límite por bulto. Con bultos muy pesados ocurre lo contrario. El límite CMR solo rige en carretera internacional.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -1691,15 +1691,15 @@
   "topic": "Responsabilidad, DEG y documentos de transporte"
  },
  {
-  "question": "Se pierde por mar un bulto de 500 kg bajo La Haya-Visby. ¿Cuál es el límite?",
+  "question": "Se pierde en el mar una máquina de varias toneladas que viajaba como un solo bulto bajo La Haya-Visby. La naviera alega que, por ser un único bulto, su límite es de 666,67 DEG. ¿Tiene razón?",
   "options": [
-   "666,67 DEG, que es el límite por bulto",
-   "1.666,67 DEG, sumando los dos límites",
-   "4.165 DEG, aplicando 8,33 DEG por kilo",
-   "1.000 DEG, porque supera los 666,67 DEG"
+   "Sí: con un solo bulto se aplica el límite por bulto",
+   "No: debe pagar el valor íntegro de la máquina perdida",
+   "No: al ser carga pesada se aplica el límite CMR de 8,33 DEG por kilo",
+   "No: se comparan ambos límites y, por el peso, rige el de kilo"
   ],
   "answer": 3,
-  "explanation": "500 × 2 = 1.000 DEG frente a 666,67 DEG por bulto: se aplica el mayor, 1.000 DEG.",
+  "explanation": "El número de bultos no decide por sí solo. Se comparan los 666,67 DEG por bulto con los 2 DEG por kilo bruto y se aplica el mayor. Con varias toneladas, el cálculo por kilo supera con holgura al límite por bulto, así que la naviera no puede quedarse en 666,67 DEG. Tampoco paga el valor íntegro: sigue habiendo límite. Las Reglas de Hamburgo (835 DEG/unidad o 2,5 DEG/kg) son un régimen alternativo, no acumulable.",
   "difficulty": "hard",
   "key": false,
   "approved": true,
@@ -2223,15 +2223,15 @@
   "topic": "Contenedores, tarifas y escandallo"
  },
  {
-  "question": "Una naviera mueve 3 contenedores de 20' y 2 de 40'. ¿Cuántos TEU son?",
+  "question": "Una naviera anuncia que su nuevo buque tiene una capacidad de 20.000 TEU. ¿Qué indica esa cifra?",
   "options": [
-   "5 TEU",
-   "8 TEU",
-   "7 TEU",
-   "10 TEU"
+   "Que puede cargar 20.000 toneladas de peso bruto",
+   "Que caben 20.000 contenedores de 40 pies",
+   "Que caben el equivalente a 20.000 contenedores de 20 pies",
+   "Que transporta 20.000 m³ de carga refrigerada en sus bodegas"
   ],
   "answer": 2,
-  "explanation": "Un 20' = 1 TEU y un 40' = 2 TEU: 3 × 1 + 2 × 2 = 7 TEU.",
+  "explanation": "TEU (Twenty-foot Equivalent Unit) es la unidad de medida de contenedores: un 20' equivale a 1 TEU y un 40' a 2 TEU (también llamado FEU). Se usa para expresar la capacidad de buques y terminales y el tráfico de puertos (por ejemplo, Algeciras, Valencia o Barcelona se comparan en TEU). Mide equivalencia de contenedores, no toneladas ni metros cúbicos.",
   "difficulty": "easy",
   "key": true,
   "approved": true,
@@ -2527,15 +2527,15 @@
   "topic": "Contenedores, tarifas y escandallo"
  },
  {
-  "question": "Se envían por avión 2 palés de 1,20 × 0,80 × 1,30 m que pesan 250 kg en total. Con la equivalencia aérea de clase, ¿sobre qué peso se factura?",
+  "question": "Se envían por avión varios palés de paneles de espuma aislante: ocupan mucho y pesan muy poco. ¿Sobre qué base factura la aerolínea el flete?",
   "options": [
-   "250 kg, el peso real de báscula",
-   "Unos 832 kg, a 333 kg por m³",
-   "Unos 418 kg, el peso volumétrico",
-   "Unos 2.500 kg, a 1.000 kg por m³"
+   "Sobre el peso real de báscula, que es el que acepta la IATA",
+   "Sobre la media entre el peso real y el peso volumétrico",
+   "Sobre el peso volumétrico, por ser mayor que el real",
+   "Sobre el volumen, aplicando la equivalencia marítima"
   ],
   "answer": 2,
-  "explanation": "Volumen ≈ 2,50 m³ × 167 = 418 kg. El peso tasable es el mayor entre real (250) y volumétrico (418).",
+  "explanation": "En aéreo se factura sobre el peso tasable (chargeable weight): el mayor entre el peso bruto real y el volumétrico, con la equivalencia 1 m³ ≈ 167 kg. Una carga ligera y voluminosa da un volumétrico superior al real, así que se cobra por el espacio que ocupa. En el ejemplo de clase (MAD-JFK), los dos palés se facturaron por su peso volumétrico, bastante mayor que los 250 kg de báscula. La equivalencia marítima (1 m³ ≈ 1.000 kg) no se aplica al avión.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -2565,15 +2565,15 @@
   "topic": "Contenedores, tarifas y escandallo"
  },
  {
-  "question": "Una carga por carretera ocupa 3 m³ y pesa 600 kg. Con el criterio de clase, ¿cuál es su peso volumétrico?",
+  "question": "Por carretera internacional se envían dos cargas que ocupan el mismo volumen: una de aparatos de aire acondicionado ligeros y otra de barras de acero. ¿Cuál es más probable que se facture por peso volumétrico?",
   "options": [
-   "501 kg",
-   "999 kg",
-   "600 kg",
-   "3.000 kg"
+   "La de acero, porque su peso real es muy elevado para su volumen",
+   "La de aparatos, porque pesan poco para el espacio que ocupan",
+   "Ambas igual, porque en carretera prima el volumen",
+   "Ninguna: la carretera internacional factura por bultos"
   ],
   "answer": 1,
-  "explanation": "3 m³ × 333 kg/m³ = 999 kg. Si la tarifa lo establece, se cobra sobre el mayor entre real y volumétrico.",
+  "explanation": "En carretera internacional la equivalencia de clase es 1 m³ ≈ 333 kg y, si la tarifa lo establece, se cobra sobre el mayor entre el peso real y el volumétrico. La carga densa (acero) supera ese ratio y se factura por peso real; la ligera (aparatos) queda por debajo y se factura por volumen. El metro lineal es otra herramienta para lo mismo: cobrar el espacio de plataforma que consume una carga poco pesada.",
   "difficulty": "hard",
   "key": false,
   "approved": true,
@@ -2774,15 +2774,15 @@
   "topic": "Contenedores, tarifas y escandallo"
  },
  {
-  "question": "Un proveedor chino ofrece FOB Shanghái 14.420 USD o CIF Valencia 16.375 USD. Con su transitario, el comprador calcula un CIF de 16.097,74 USD. ¿Qué concluye el caso?",
+  "question": "Un importador valenciano recibe de un proveedor chino una oferta FOB Shanghái y otra CIF Valencia. Su transitario le cotiza el flete y el seguro desde Shanghái. ¿Qué debe comparar para decidir?",
   "options": [
-   "Organizar él el transporte le ahorra 277,26 USD y le da más control",
-   "Comprar CIF es mejor porque el vendedor asume el riesgo del viaje",
-   "Las dos opciones cuestan lo mismo porque el flete es idéntico",
-   "Comprar FOB le sale 1.955 USD más caro que comprar en CIF"
+   "El CIF ofrecido con el FOB más flete y seguro del transitario",
+   "El FOB con el CIF del proveedor, eligiendo el de menor importe",
+   "El CIF con el DDP, porque en CIF el riesgo pasa en destino",
+   "Solo los fletes, ya que el seguro CIF tiene la misma cobertura"
   ],
   "answer": 0,
-  "explanation": "16.375 − 16.097,74 = 277,26 USD de ahorro, además de elegir el seguro. En CIF el riesgo del viaje sería del comprador igualmente.",
+  "explanation": "La comparación correcta es homogénea: construir un «CIF propio» (FOB + flete + seguro del transitario) y compararlo con el CIF del proveedor. En el caso de clase, el CIF propio salía algo más barato. Además, comprando FOB el importador elige transportista y cobertura: en CIF el vendedor solo está obligado a ICC C, y el riesgo del viaje ya es del comprador desde la carga en origen. Comparar FOB con CIF sin más no tiene sentido, porque no incluyen los mismos servicios.",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -3135,15 +3135,15 @@
   "topic": "Casos mixtos de logística"
  },
  {
-  "question": "Una carga aérea ocupa 3 m³ y pesa 400 kg. ¿Sobre qué peso se factura con la equivalencia de clase?",
+  "question": "Una pieza metálica muy compacta y pesada viaja por avión. ¿Sobre qué peso se factura previsiblemente?",
   "options": [
-   "501 kg",
-   "400 kg",
-   "999 kg",
-   "3.000 kg"
+   "Sobre el peso real, porque supera al volumétrico",
+   "Sobre el volumétrico, que rige para toda carga aérea",
+   "Sobre la suma del peso real y del volumétrico",
+   "Sobre el volumétrico con la equivalencia terrestre"
   ],
   "answer": 0,
-  "explanation": "3 m³ × 167 = 501 kg de peso volumétrico, mayor que los 400 kg reales: se factura sobre 501 kg.",
+  "explanation": "El peso tasable es el mayor de los dos. Una carga densa ocupa poco, así que su peso volumétrico (1 m³ ≈ 167 kg en aéreo) queda por debajo del real y se factura por báscula. El volumétrico solo «gana» con cargas ligeras y voluminosas. Los pesos no se suman y cada modo usa su propia equivalencia (aéreo 167, carretera 333, marítimo 1.000 kg/m³).",
   "difficulty": "hard",
   "key": true,
   "approved": true,
@@ -3154,15 +3154,15 @@
   "topic": "Casos mixtos de logística"
  },
  {
-  "question": "Una carga aérea ocupa 1 m³ y pesa 300 kg. ¿Sobre qué peso se factura?",
+  "question": "Un envío aéreo queda algo por debajo del inicio de un tramo de tarifa. El transitario propone facturarlo como si pesara lo que marca el tramo superior. ¿Por qué puede convenir?",
   "options": [
-   "167 kg, el volumétrico",
-   "333 kg, el terrestre",
-   "467 kg, la suma",
-   "300 kg, el peso real"
+   "Porque la IATA obliga a redondear al tramo siguiente",
+   "Porque así se reduce el recargo de seguridad del PNS por envío",
+   "Porque así aumenta el límite de responsabilidad por kilo",
+   "Porque el precio por kilo baja y el total puede ser menor"
   ],
   "answer": 3,
-  "explanation": "El volumétrico sería 167 kg; como el real (300 kg) es mayor, se factura sobre 300 kg.",
+  "explanation": "El flete aéreo se aplica por tramos regresivos de peso (MIN, -45, +45, +100, +300, +500, +1.000 kg): cuanto más peso, menor precio por kilo. Declarar el peso de inicio del tramo superior (peso ficticio o pivot weight) puede dar un total más bajo que el peso real al precio del tramo inferior. En el ejemplo de clase, facturar 500 kg al precio del tramo superior salía más barato que el peso tasable al precio del tramo inferior. Es una técnica de optimización, no una obligación, y conviene comprobarla siempre.",
   "difficulty": "hard",
   "key": false,
   "approved": true,
@@ -3173,15 +3173,15 @@
   "topic": "Casos mixtos de logística"
  },
  {
-  "question": "Se pierden por avión 40 kg de mercancía. Con la cifra de clase, ¿cuál es el límite orientativo?",
+  "question": "Por avión se pierde una caja ligera de componentes electrónicos muy valiosos. ¿Por qué la responsabilidad del transportista aéreo puede quedarse corta?",
   "options": [
-   "333,20 DEG",
-   "880 DEG",
-   "680 DEG",
-   "1.040 DEG"
+   "Porque el transporte aéreo no tiene límite de responsabilidad",
+   "Porque se calcula por bulto, sin tener en cuenta el peso de la caja",
+   "Porque el límite aéreo es el más bajo de todos los modos",
+   "Porque se calcula por kilo y la caja pesa poco para su valor"
   ],
   "answer": 3,
-  "explanation": "40 kg × 26 DEG/kg = 1.040 DEG (con 22 DEG/kg, la errata de la diapositiva, saldrían 880).",
+  "explanation": "El límite aéreo se expresa por kilo (26 DEG/kg según la referencia de clase; la diapositiva con 22 DEG/kg es una errata). Es el límite por kilo más alto de todos los modos, pero con mercancía ligera y valiosa el techo resultante es bajo frente al valor real. Por eso, en estas cargas, interesa un seguro de mercancías o una declaración especial de valor en el AWB.",
   "difficulty": "hard",
   "key": false,
   "approved": true,
