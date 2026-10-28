@@ -274,7 +274,7 @@
    "Que en CPT la propiedad se transmite en el destino"
   ],
   "answer": 2,
-  "explanation": "El segundo precio incorpora servicios logísticos (transporte hasta destino). No cambia el riesgo, que en CPT pasa en origen.",
+  "explanation": "El segundo precio incorpora los servicios logísticos que paga el vendedor en CPT (transporte hasta el lugar de destino pactado). El riesgo no cambia con el precio: en CPT se transmite cuando el vendedor entrega la mercancía al primer transportista en el lugar de expedición, no en destino.",
   "difficulty": "medium",
   "key": false,
   "approved": true,
@@ -1045,15 +1045,15 @@
   "topic": "Los once Incoterms en supuestos"
  },
  {
-  "question": "Un transportista por carretera pierde 100 kg de maquinaria que valen 18.000 €. Su límite es 8,33 DEG/kg. ¿Por qué conviene además un seguro de mercancías?",
+  "question": "Un transportista por carretera entrega mercancía dañada, pero su responsabilidad máxima bajo el CMR queda muy por debajo del valor comercial de los bienes. ¿Por qué conviene además contratar un seguro de mercancías?",
   "options": [
    "Porque el transportista no responde de las pérdidas en carretera internacional",
    "Porque el seguro sustituye al contrato de transporte y a la carta CMR",
    "Porque el límite del porteador solo se aplica en el transporte aéreo",
-   "Porque la responsabilidad del porteador está muy limitada"
+   "Porque la responsabilidad del porteador está muy limitada y no cubre el valor real"
   ],
   "answer": 3,
-  "explanation": "El techo orientativo sería 833 DEG, muy inferior a 18.000 €. El seguro protege el valor económico que interesa recuperar.",
+  "explanation": "El CMR fija un techo de 8,33 DEG por kilo bruto. Con mercancía valiosa ese límite puede ser una fracción pequeña del daño real. El seguro de mercancías cubre el valor de la carga desde el punto de vista del interés del propietario, independientemente de lo que pague o deje de pagar el porteador. Son dos relaciones jurídicas distintas y complementarias.",
   "difficulty": "medium",
   "key": true,
   "approved": true,
