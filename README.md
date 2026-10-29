@@ -9,9 +9,11 @@ Las cuatro alternativas se barajan en cada test, y todas las preguntas tienen ex
 | Contratación internacional | `derecho` | 25 | 8 |
 | Medios de pago, avales y CESCE | `pagos` | 22 | 8 |
 | Técnicas de negociación | `negociacion` | 22 | 5 |
-| Logística y transporte internacional | `logistica` | 25 | 3 |
+| Logística y transporte internacional | `logistica` | 209 | 3 |
 
-**Total: 131 preguntas nuevas.** No se carga el antiguo banco separado de IVA; `data/iva.json` está vacío. Se sustituyeron por completo los bancos de Contratación, Logística y Aduanas.
+**Logística (29/10/2026):** banco sustituido por 209 preguntas conceptuales, sin cálculos, generadas a partir de los «Apuntes de Logística» (notas y transcripciones de clase): Incoterms, responsabilidad del transportista, seguro, marítimo y B/L, contenedores, cotización, aéreo y terrestre. Los recuentos de las demás asignaturas pueden haber cambiado desde la tabla.
+
+**Total inicial: 131 preguntas nuevas.** No se carga el antiguo banco separado de IVA; `data/iva.json` está vacío. Se sustituyeron por completo los bancos de Contratación, Logística y Aduanas.
 
 ## Fuentes y cobertura temporal
 Fuentes: archivos de la carpeta `Tercer parcial` de Google Drive, incluidos `Técnicas de Negociación · Apuntes desarrollados` (27/10), `Apuntes · Medios de pago (diap. 1-34)` (26/10), `Apuntes_Transporte_Internacional_Incoterms_2020_Oposicion`, `Contratación Internacional · Apuntes desarrollados`, `Natalia Aduanas Viernes` y los resúmenes de IVA / Regímenes Aduaneros.
