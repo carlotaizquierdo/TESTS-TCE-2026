@@ -15,6 +15,19 @@ Las cuatro alternativas se barajan en cada test, y todas las preguntas tienen ex
 
 **Total inicial: 131 preguntas nuevas.** No se carga el antiguo banco separado de IVA; `data/iva.json` está vacío. Se sustituyeron por completo los bancos de Contratación, Logística y Aduanas.
 
+## Tercer parcial · asignaturas breves (30/10/2026)
+Cada asignatura tiene su propia carpeta en `data/<clave>/preguntas.json`, generada con `tools/gen_tercer_parcial.py` a partir de los apuntes en PDF de cada sesión.
+
+| Asignatura | Carpeta | Preguntas | Peso estimado |
+|---|---|---:|---:|
+| Gestión documental internacional | `data/documental/` | 15 | 2 |
+| China y Asia en contexto geoeconómico | `data/china/` | 16 | 2 |
+| Atracción de inversiones en Madrid | `data/inversiones/` | 14 | 1 |
+| Emprendedor de la Comunidad de Madrid | `data/emprendedor/` | 14 | 1 |
+| Caso empresa ALSA (Masterclass Internacionalización) | `data/alsa/` | 11 | 1 |
+
+China incluye las tres preguntas de examen marcadas por el profesor: el siglo de humillación (1839-1949) y la meta de 2049, la Reforma y apertura (1978) y la OMC (2001), y Made in China 2025 con los minerales. Emprendedor incluye la pregunta sobre las fases. Las longitudes de las opciones están equilibradas para que la correcta no sea la más larga; el script imprime la comprobación.
+
 ## Fuentes y cobertura temporal
 Fuentes: archivos de la carpeta `Tercer parcial` de Google Drive, incluidos `Técnicas de Negociación · Apuntes desarrollados` (27/10), `Apuntes · Medios de pago (diap. 1-34)` (26/10), `Apuntes_Transporte_Internacional_Incoterms_2020_Oposicion`, `Contratación Internacional · Apuntes desarrollados`, `Natalia Aduanas Viernes` y los resúmenes de IVA / Regímenes Aduaneros.
 

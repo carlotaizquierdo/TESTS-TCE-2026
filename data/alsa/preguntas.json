@@ -1,0 +1,200 @@
+[
+  {
+    "id": "als-01",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué garantiza un aval de oferta (bid bond)?",
+    "options": [
+      "La correcta ejecución del contrato una vez adjudicado",
+      "La devolución de un anticipo",
+      "Que el licitador mantenga su oferta y firme si gana",
+      "El pago al proveedor"
+    ],
+    "answer": 2,
+    "explanation": "Protege al cliente durante la licitación: si el licitador se retira o no firma tras ganar, se ejecuta el aval.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-02",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué garantiza un aval de ejecución (performance bond)?",
+    "options": [
+      "El correcto cumplimiento del contrato",
+      "Que la oferta se mantenga durante la licitación",
+      "El riesgo de tipo de cambio",
+      "La solvencia del cliente"
+    ],
+    "answer": 0,
+    "explanation": "Una vez adjudicado y firmado el contrato, garantiza que la empresa cumplirá lo pactado.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-03",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿En qué se diferencia la TIR del accionista de la TIR del proyecto?",
+    "options": [
+      "Incluye los impuestos, mientras que la del proyecto no los incluye",
+      "Mide la rentabilidad de los fondos propios tras la deuda",
+      "Solo existe en project finance",
+      "Siempre es menor"
+    ],
+    "answer": 1,
+    "explanation": "La TIR del proyecto mide la inversión total sin mirar cómo se financia. La del accionista mide lo que rinde su dinero una vez pagada la deuda.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-04",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué regula la norma contable IFRIC 12?",
+    "options": [
+      "Los arrendamientos de flota e inmuebles",
+      "Los instrumentos financieros",
+      "La consolidación de grupos",
+      "Los acuerdos de concesión de servicios"
+    ],
+    "answer": 3,
+    "explanation": "IFRIC 12 regula cómo contabiliza el concesionario un servicio público. Los arrendamientos se rigen por la IFRS 16.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "als-05",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué ilustra el caso de Marrakech, con 14 años hasta un nuevo contrato?",
+    "options": [
+      "El riesgo de corrupción",
+      "Los largos tiempos de maduración",
+      "La importancia de contar con un socio local",
+      "El riesgo de tipo de cambio"
+    ],
+    "answer": 1,
+    "explanation": "Estos proyectos tardan en madurar, y exigir resultados a corto plazo puede condenarlos. Después llegaron 4 adjudicaciones.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-06",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "Según el ponente, ¿cómo se superan las barreras de entrada en licitaciones públicas?",
+    "options": [
+      "Bajando el precio por debajo del de los incumbentes locales",
+      "Presentándose a todas las licitaciones",
+      "Instalándose antes de que se publique la licitación",
+      "Esperando a que se liberalice el mercado"
+    ],
+    "answer": 2,
+    "explanation": "Hay que llegar antes de la publicación y aliarse con socios locales (caso Chile). Presentarse a todo choca con los recursos limitados.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-07",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué combinación de equipo humano considera ideal el ponente?",
+    "options": [
+      "Solo expatriados de la matriz",
+      "Expatriados arraigados más talento local cualificado",
+      "Solo personal local",
+      "Externalizar la operación a un operador local con experiencia"
+    ],
+    "answer": 1,
+    "explanation": "Expatriados con fuerte arraigo en el país junto a personal local muy cualificado: «¡Contamos con talento local!».",
+    "difficulty": "easy",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "als-08",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "En los retos de internacionalización, ¿a qué se refiere la «venta interna»?",
+    "options": [
+      "A convencer a la propia empresa: rentabilidad y deal breakers",
+      "A consolidar las ventas en el mercado nacional antes de salir fuera",
+      "A las ventas entre filiales",
+      "A negociar con el socio local"
+    ],
+    "answer": 0,
+    "explanation": "Antes del cliente extranjero hay que convencer a la propia casa: rentabilidad, CapEx, RoI y deal breakers (riesgo jurídico, de moneda, corrupción).",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "als-09",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Cuál de estas fuentes NO aparece entre las vías de financiación de flota e infraestructura?",
+    "options": [
+      "ECAs",
+      "Bancos multilaterales",
+      "Bancos soberanos",
+      "Crowdfunding"
+    ],
+    "answer": 3,
+    "explanation": "Se citan la financiación propia, la bancaria, las ECAs, las multilaterales (WB, EBRD, ADB) y los bancos soberanos.",
+    "difficulty": "easy",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "als-10",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "¿Qué mide el ROCE?",
+    "options": [
+      "El beneficio neto obtenido sobre las ventas totales",
+      "La deuda sobre los fondos propios",
+      "El beneficio operativo sobre el capital empleado",
+      "La caja sobre la inversión inicial"
+    ],
+    "answer": 2,
+    "explanation": "Return on Capital Employed: cuánto beneficio operativo genera el capital invertido en el negocio.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "als-11",
+    "subject": "alsa",
+    "subjectName": "Caso empresa ALSA",
+    "source": "Apuntes · Masterclass Internacionalización (Enrique Blanco, ALSA, 29/10)",
+    "question": "Una pregunta clave antes de salir es si se puede hacer «Ctrl+C / Ctrl+V». ¿A qué se refiere?",
+    "options": [
+      "A copiar la oferta técnica y económica de un competidor",
+      "A replicar el modelo de negocio en el nuevo mercado",
+      "A traducir la documentación",
+      "A duplicar la estructura societaria"
+    ],
+    "answer": 1,
+    "explanation": "Se pregunta si el modelo de negocio puede trasladarse tal cual a otro mercado o si necesita adaptarse.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  }
+]

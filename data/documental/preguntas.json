@@ -1,0 +1,272 @@
+[
+  {
+    "id": "doc-01",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "Hay que enviar un poder notarial a un país del Convenio de La Haya de 1961. ¿Qué hace falta?",
+    "options": [
+      "Legalización ordinaria",
+      "La Apostilla de La Haya",
+      "Visado del consulado",
+      "Ningún trámite"
+    ],
+    "answer": 1,
+    "explanation": "En países de La Haya basta la Apostilla (legalización única). Fuera del convenio se necesita la legalización ordinaria.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-02",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Qué es la «procedencia» de una mercancía?",
+    "options": [
+      "El país donde se fabricó",
+      "El país de expedición o salida",
+      "El país donde se pagaron aranceles",
+      "El país del comprador final"
+    ],
+    "answer": 1,
+    "explanation": "La procedencia es el país desde el que se envía (casilla 15 del DUA). El país de fabricación es el origen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-03",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿En qué casilla del DUA se declara el país de origen?",
+    "options": [
+      "Casilla 15",
+      "Casilla 37",
+      "Casilla 34",
+      "Casilla 1"
+    ],
+    "answer": 2,
+    "explanation": "El origen va en la casilla 34. En la 15 va la procedencia y en la 37 el régimen.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-04",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Qué determina el «estatuto económico» de una mercancía?",
+    "options": [
+      "El país donde se liquidaron los derechos",
+      "El país donde se transformó sustancialmente",
+      "El país desde el que se expidió",
+      "El país del transportista"
+    ],
+    "answer": 0,
+    "explanation": "El estatuto lo marca el país donde se han liquidado los derechos arancelarios y/o se ha puesto la mercancía a consumo.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "doc-05",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Para qué sirve el origen NO preferencial?",
+    "options": [
+      "Para obtener las rebajas de un acuerdo comercial UE",
+      "Para aplicar el arancel general y los contingentes",
+      "Para recuperar el IVA de importación",
+      "Para conseguir el número EORI"
+    ],
+    "answer": 1,
+    "explanation": "Sirve para aplicar el derecho aduanero general y medidas como contingentes o antidumping. Se acredita con el certificado de origen cameral.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-06",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "Un exportador quiere aplicar el arancel reducido del acuerdo UE-Chile. ¿Qué tipo de origen debe acreditar?",
+    "options": [
+      "No preferencial",
+      "Comunitario cameral",
+      "Preferencial",
+      "Estatuto de la Unión"
+    ],
+    "answer": 2,
+    "explanation": "Las ventajas arancelarias de un acuerdo comercial se obtienen con el origen preferencial, definido en cada acuerdo.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-07",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Cuál de estas operaciones NO confiere origen a una mercancía?",
+    "options": [
+      "Un cambio de partida arancelaria",
+      "Embalarla de nuevo y reetiquetarla",
+      "Un proceso de fabricación específico",
+      "Alcanzar un contenido regional mínimo"
+    ],
+    "answer": 1,
+    "explanation": "Las operaciones simples (embalaje, reetiquetado, mezclas, limpieza, montaje básico) nunca dan origen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-08",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Cuál es la vigencia máxima habitual de un cuaderno ATA?",
+    "options": [
+      "6 meses",
+      "2 años",
+      "Sin límite con garantía",
+      "1 año"
+    ],
+    "answer": 3,
+    "explanation": "El ATA se usa para importaciones temporales con una vigencia máxima, por lo general, de un año.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-09",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Cuál de estas mercancías NO puede viajar con cuaderno ATA?",
+    "options": [
+      "Vino para degustar en un stand",
+      "Material de un equipo de rodaje",
+      "Muestras para enseñar a clientes",
+      "Maquinaria para exponer en feria"
+    ],
+    "answer": 0,
+    "explanation": "El ATA no cubre consumibles ni perecederos, porque la mercancía debe reexportarse tal como entró.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-10",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Cómo se puede constituir la garantía de un cuaderno ATA?",
+    "options": [
+      "Solo con depósito en efectivo",
+      "Con aval bancario, depósito o seguro",
+      "Solo con aval de la Cámara",
+      "No requiere garantía si lo emite la Cámara"
+    ],
+    "answer": 1,
+    "explanation": "Todos los cuadernos llevan garantía, que se constituye con aval bancario, depósito o seguro.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "doc-11",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Qué código de régimen va en la casilla 37 del DUA de exportación temporal?",
+    "options": [
+      "61",
+      "10",
+      "23",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "La exportación temporal con vistas a reintroducir sin transformar es el régimen 23. La reimportación se declara con el 61 e indica 23 como régimen precedente.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-12",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Para qué destino se usa el cuaderno CPD en lugar del ATA?",
+    "options": [
+      "China continental",
+      "Hong Kong",
+      "Corea del Sur",
+      "Taiwán"
+    ],
+    "answer": 3,
+    "explanation": "El CPD es el equivalente al ATA para importaciones temporales en Taiwán.",
+    "difficulty": "easy",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "doc-13",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Qué acredita un Certificado de Libre Venta?",
+    "options": [
+      "Que el producto cumple la normativa UE y se vende libremente",
+      "Que el exportador está inscrito como exportador registrado (REX)",
+      "Que la mercancía ha pagado los aranceles",
+      "Que el producto es de origen preferencial"
+    ],
+    "answer": 0,
+    "explanation": "Prueba ante administraciones extranjeras que el producto cumple la normativa de la Unión y se comercializa en el mercado de origen. Es habitual en alimentos, cosméticos y productos sanitarios.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "doc-14",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "¿Cuál es el umbral actual para presentar Intrastat?",
+    "options": [
+      "100.000 €",
+      "250.000 €",
+      "400.000 €",
+      "1.000.000 €"
+    ],
+    "answer": 2,
+    "explanation": "Hay que declarar Intrastat a partir de 400.000 € de operaciones intracomunitarias.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "doc-15",
+    "subject": "documental",
+    "subjectName": "Gestión documental internacional",
+    "source": "Apuntes · Gestión Documental Internacional (Saúl Jiménez / Luis Domínguez, 29/10)",
+    "question": "Para calcular el valor estadístico de una expedición intracomunitaria en Intrastat, ¿qué transporte se incluye?",
+    "options": [
+      "El trayecto completo hasta el destino final",
+      "Ningún transporte",
+      "Solo el seguro de la mercancía",
+      "El tramo hasta la frontera española"
+    ],
+    "answer": 3,
+    "explanation": "Solo el tramo hasta la frontera. En el ejemplo de clase: 937,50 € × 479/1.431 km = 313,81 €, y el valor estadístico queda en 5.782,36 €.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  }
+]

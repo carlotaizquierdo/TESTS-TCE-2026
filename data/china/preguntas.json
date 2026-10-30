@@ -1,0 +1,290 @@
+[
+  {
+    "id": "chn-01",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué periodo abarca el «siglo de las humillaciones» chino?",
+    "options": [
+      "1911-1949",
+      "1839-1949",
+      "1839-1911",
+      "1949-1978"
+    ],
+    "answer": 1,
+    "explanation": "Empieza en 1839 con la Primera Guerra del Opio y termina en 1949, con la fundación de la República Popular. Pregunta de examen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-02",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué acontecimiento abre el siglo de las humillaciones?",
+    "options": [
+      "La rebelión de los bóxers",
+      "La caída de la dinastía Qing",
+      "La Primera Guerra del Opio",
+      "La invasión japonesa de Manchuria"
+    ],
+    "answer": 2,
+    "explanation": "La Primera Guerra del Opio (1839-1842) contra Gran Bretaña inicia un siglo de tratados desiguales y reparto de China entre potencias.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-03",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Por qué China da por cerrado el siglo de las humillaciones en 1949?",
+    "options": [
+      "Porque recupera Hong Kong y Macao de manos europeas",
+      "Porque entra en el Consejo de Seguridad de la ONU como miembro",
+      "Porque acaba la Segunda Guerra Mundial",
+      "Porque nace la RPC y se acaba el imperialismo occidental"
+    ],
+    "answer": 3,
+    "explanation": "Con la fundación de la República Popular, China considera que ha acabado con el imperialismo occidental. Hong Kong volvió en 1997.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-04",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Cuál es la gran meta (horizonte) que se ha marcado China?",
+    "options": [
+      "2049",
+      "2035",
+      "2027",
+      "2030"
+    ],
+    "answer": 0,
+    "explanation": "2049, centenario de la RPC: ser un país moderno, fuerte y próspero («gran rejuvenecimiento»). 2035 es la meta intermedia y 2027 el XXI Congreso del PCCh. Pregunta de examen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-05",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Por qué el horizonte chino es precisamente 2049?",
+    "options": [
+      "Es el centenario del Partido Comunista Chino",
+      "Es el centenario de la República Popular",
+      "Termina el XVII Plan Quinquenal",
+      "Se cumplen 50 años en la OMC"
+    ],
+    "answer": 1,
+    "explanation": "La RPC se fundó en 1949. El centenario del Partido (fundado en 1921) fue en 2021: es la trampa típica.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-06",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué ocurre en China en 1978?",
+    "options": [
+      "Entra en la OMC y se abre al comercio mundial",
+      "Se funda la República Popular",
+      "Comienza la Reforma y apertura de Deng Xiaoping",
+      "Se lanza el plan Made in China 2025 con 10 sectores"
+    ],
+    "answer": 2,
+    "explanation": "En 1978 Deng Xiaoping introduce el mercado (reforma) y abre el país a la inversión extranjera con las Zonas Económicas Especiales (apertura). Pregunta de examen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-07",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿En qué año entra China en la OMC?",
+    "options": [
+      "1995",
+      "2008",
+      "1978",
+      "2001"
+    ],
+    "answer": 3,
+    "explanation": "En 2001. Culmina la apertura de 1978 y convierte a China en la «fábrica del mundo». 1995 es el año de creación de la OMC.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-08",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "En 2015 China se propone ser cabecera en 10 sectores estratégicos, empezando por las energías verdes. ¿Cómo se llama ese plan?",
+    "options": [
+      "Made in China 2025",
+      "La Franja y la Ruta",
+      "La doble circulación",
+      "La prosperidad común"
+    ],
+    "answer": 0,
+    "explanation": "Made in China 2025. La Franja y la Ruta (2013) es un plan de infraestructuras y proyección exterior. Pregunta de examen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-09",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "De los 10 sectores de Made in China 2025, ¿en cuántos ha conseguido China ser líder?",
+    "options": [
+      "En 5",
+      "En 8",
+      "En los 10",
+      "En 3"
+    ],
+    "answer": 1,
+    "explanation": "Es líder en 8 de 10, según el profesor. Sigue rezagada en chips avanzados, maquinaria de semiconductores y motores de avión.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-10",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué proporción de los minerales del mundo produce y procesa China?",
+    "options": [
+      "Produce el 90 % y procesa el 70 %",
+      "Produce el 50 % y procesa el 70 %",
+      "Produce el 70 % y procesa el 90 %",
+      "Produce el 30 % y procesa el 60 %"
+    ],
+    "answer": 2,
+    "explanation": "Produce el 70 % y procesa el 90 %. Es su gran baza frente a los controles de chips de EE. UU.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "chn-11",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "Según la sesión, ¿cuál es el núcleo de la rivalidad entre China y EE. UU.?",
+    "options": [
+      "La deuda pública estadounidense",
+      "Chips frente a tierras raras",
+      "El control del canal de Panamá",
+      "La cotización del yuan"
+    ],
+    "answer": 1,
+    "explanation": "EE. UU. restringe chips avanzados (oct. 2022) y China responde restringiendo tierras raras e imanes (abr. 2025). Después llega la tregua de Busan.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "chn-12",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué tradición filosófica se basa en la jerarquía, la piedad filial y el gobierno por el mérito?",
+    "options": [
+      "Taoísmo",
+      "Legismo",
+      "Budismo",
+      "Confucianismo"
+    ],
+    "answer": 3,
+    "explanation": "El confucianismo, al que Xi ha vuelto a dar protagonismo. El legismo defiende leyes estrictas y un Estado fuerte; el taoísmo, la armonía con la naturaleza.",
+    "difficulty": "easy",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "chn-13",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Cuál de estos cargos NO ocupa Xi Jinping?",
+    "options": [
+      "Primer ministro del Consejo de Estado",
+      "Secretario general del PCCh",
+      "Presidente de la Comisión Militar Central",
+      "Presidente de la República"
+    ],
+    "answer": 0,
+    "explanation": "Xi concentra Partido, Ejército y Jefatura del Estado. El primer ministro es otra persona.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "chn-14",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué describe el término nèijuǎn («involución»)?",
+    "options": [
+      "El envejecimiento acelerado de toda la población",
+      "La salida de capital extranjero del país",
+      "Una competencia interna feroz que hunde precios",
+      "La vuelta al confucianismo en la educación"
+    ],
+    "answer": 2,
+    "explanation": "Es la competencia interna extrema que reduce precios. El exceso de oferta sale al exterior como exportaciones baratas.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "chn-15",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Cómo responde China al envejecimiento de su población, según la sesión?",
+    "options": [
+      "Abriendo la puerta a la inmigración cualificada",
+      "Con robots, jubilación más tardía e incentivos",
+      "Reduciendo el gasto en pensiones",
+      "Trasladando fábricas a India"
+    ],
+    "answer": 1,
+    "explanation": "Responde con automatización, retraso de la jubilación, incentivos a la natalidad y economía plateada, pero no con inmigración (0,1 % de la población).",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "chn-16",
+    "subject": "china",
+    "subjectName": "China y Asia en contexto geoeconómico",
+    "source": "Apuntes · Análisis de la dinámica actual de China (Ignacio Niño, 30/10)",
+    "question": "¿Qué posición ocupa China en el comercio de bienes de España (2025)?",
+    "options": [
+      "1.er proveedor y 2.º cliente",
+      "11.º proveedor y 2.º cliente",
+      "2.º proveedor y 11.º cliente",
+      "4.º proveedor y 4.º cliente"
+    ],
+    "answer": 2,
+    "explanation": "Es el 2.º proveedor pero solo el 11.º cliente. La tasa de cobertura es del 15,9 %: exportamos 16 € por cada 100 € que importamos.",
+    "difficulty": "hard",
+    "key": false,
+    "approved": true
+  }
+]

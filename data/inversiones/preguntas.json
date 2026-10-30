@@ -1,0 +1,254 @@
+[
+  {
+    "id": "inv-01",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "Según la OCDE, ¿a partir de qué participación hablamos de inversión extranjera directa?",
+    "options": [
+      "Del 5 % del capital",
+      "De más del 50 % del capital social",
+      "Del 25 % del capital",
+      "Del 10 % del capital o del voto"
+    ],
+    "answer": 3,
+    "explanation": "La influencia significativa empieza en el 10 % del capital o de los derechos de voto. Por debajo es inversión en cartera.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-02",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "En la definición de IED, ¿cuánto dura como mínimo el «interés duradero»?",
+    "options": [
+      "Más de 1 año",
+      "Más de 3 años",
+      "Más de 5 años",
+      "Más de 10 años"
+    ],
+    "answer": 1,
+    "explanation": "El interés duradero supone una relación a largo plazo de más de 3 años.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-03",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "Un fondo estadounidense compra en bolsa el 2 % de una empresa española solo para obtener rentabilidad. ¿Qué tipo de inversión es?",
+    "options": [
+      "Inversión en cartera",
+      "IED greenfield",
+      "IED brownfield",
+      "Reinversión (aftercare)"
+    ],
+    "answer": 0,
+    "explanation": "No alcanza el 10 % ni busca influir en la gestión: es inversión en cartera, no IED.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-04",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Qué es la atracción de inversión?",
+    "options": [
+      "Invertir en el exterior para ganar cuota de mercado",
+      "Captar, facilitar y retener IED en un territorio",
+      "Comprar deuda pública de otros países",
+      "Conceder préstamos ICO a exportadores"
+    ],
+    "answer": 1,
+    "explanation": "Es el conjunto de políticas de un territorio (país, región, municipio) para captar, implantar y retener inversión extranjera. Las ejecutan las API.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-05",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Qué es una ETVE?",
+    "options": [
+      "Una agencia que registra inversiones extranjeras",
+      "Un fondo público para proyectos greenfield",
+      "Una sociedad holding con filiales extranjeras",
+      "Una sucursal de una empresa extranjera"
+    ],
+    "answer": 2,
+    "explanation": "Entidad (empresa) de Tenencia de Valores Extranjeros: sociedad española que tiene y gestiona participaciones en sociedades extranjeras, con un régimen fiscal ventajoso.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-06",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Por qué las estadísticas separan la inversión de las ETVE de la inversión productiva?",
+    "options": [
+      "Porque necesita autorización previa",
+      "Porque suele ser capital en tránsito",
+      "Porque solo incluye inversores no UE",
+      "Porque la declara el Banco de España"
+    ],
+    "answer": 1,
+    "explanation": "Mucha inversión vía ETVE entra y vuelve a salir hacia terceros países sin crear actividad ni empleo en España.",
+    "difficulty": "hard",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-07",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Cuál de estos NO es un objetivo de una Agencia de Promoción de Inversiones (API)?",
+    "options": [
+      "Construir la imagen del territorio",
+      "Mejorar el clima inversor",
+      "Conceder licencias de exportación",
+      "Mantener la inversión existente"
+    ],
+    "answer": 2,
+    "explanation": "Los 4 objetivos son: imagen país, generación de inversiones, mantener e incrementar la inversión existente y mejorar el clima inversor. Pregunta de examen.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-08",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿A qué objetivo de una API corresponde atraer y facilitar la implantación de nuevos proyectos?",
+    "options": [
+      "Aftercare",
+      "Imagen país",
+      "Mejora del clima inversor regional",
+      "Generación de inversiones"
+    ],
+    "answer": 3,
+    "explanation": "Generar inversiones es captar y facilitar nuevos proyectos. El aftercare corresponde a mantener e incrementar la inversión existente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-09",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Cuántas agencias de promoción de inversión hay aproximadamente en el mundo?",
+    "options": [
+      "Unas 150",
+      "Más de 15.000",
+      "Unas 1.500",
+      "Más de 50.000"
+    ],
+    "answer": 1,
+    "explanation": "Más de 15.000 según la UNCTAD, muchas de ámbito local o ligadas a espacios. De ahí la fuerte competencia entre territorios.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "inv-10",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "Una multinacional reacondiciona una nave industrial abandonada en Getafe para producir. ¿Qué tipo de proyecto es?",
+    "options": [
+      "Brownfield",
+      "Greenfield",
+      "Inversión en cartera",
+      "Fusión"
+    ],
+    "answer": 0,
+    "explanation": "Reaprovechar una instalación existente es brownfield: requiere menos tiempo, pero tiene costes de adaptación. Construir desde cero sería greenfield.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "inv-11",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "En la OCDE, ¿qué peso tiene la reinversión de empresas ya instaladas en la IED?",
+    "options": [
+      "Menos del 20 %",
+      "En torno al 40 %",
+      "Prácticamente el 100 %",
+      "Más del 60 %"
+    ],
+    "answer": 3,
+    "explanation": "Más del 60 % de la IED en la OCDE es aftercare (reinversión). Retener al inversor es tan importante como captarlo.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "inv-12",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Qué porcentaje de la IED recibida por España en 2025 fue a la Comunidad de Madrid?",
+    "options": [
+      "40 %",
+      "52 %",
+      "66 %",
+      "25 %"
+    ],
+    "answer": 1,
+    "explanation": "El 52 %. El 40 % es la proporción de empresas extranjeras con sede en Madrid y el 66 % la de españolas del Forbes Global 2000 con sede en Madrid.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "inv-13",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿De qué organismo depende Invest in Madrid?",
+    "options": [
+      "Del ICEX-Invest in Spain",
+      "Del Área de Economía y Hacienda del Ayuntamiento",
+      "De la Consejería de Economía, Hacienda y Empleo",
+      "De la Cámara de Comercio de Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Es la API autonómica y depende de la Consejería de Economía, Hacienda y Empleo. ICEX-Invest in Spain es la agencia nacional.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "inv-14",
+    "subject": "inversiones",
+    "subjectName": "Atracción de inversiones en Madrid",
+    "source": "Apuntes · Atracción de inversiones en la Comunidad de Madrid (23/10)",
+    "question": "¿Cuáles son, por orden, las fases con las que Invest in Madrid trabaja un proyecto?",
+    "options": [
+      "Aftercare, información y acompañamiento",
+      "Acompañamiento, aftercare e información",
+      "Información, aftercare y acompañamiento",
+      "Información, acompañamiento y aftercare"
+    ],
+    "answer": 3,
+    "explanation": "Primero se informa (marco normativo y trámites), después se acompaña la implantación y por último se hace aftercare para retener y ampliar la inversión.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  }
+]

@@ -1,11 +1,18 @@
-const BANK_FILES=["derecho","logistica","aduanas","pagos","negociacion"];
-const EXAM_WEIGHTS={derecho:8,logistica:3,aduanas:12,pagos:8,negociacion:5};
+const BANK_FILES=["derecho","logistica","aduanas","pagos","negociacion","documental","china","inversiones","emprendedor","alsa"];
+const EXAM_WEIGHTS={derecho:8,logistica:3,aduanas:12,pagos:8,negociacion:5,documental:2,china:2,inversiones:1,emprendedor:1,alsa:1};
+// Asignaturas con carpeta propia: data/<clave>/preguntas.json
+const BANK_PATHS={documental:"data/documental/preguntas.json",china:"data/china/preguntas.json",inversiones:"data/inversiones/preguntas.json",emprendedor:"data/emprendedor/preguntas.json",alsa:"data/alsa/preguntas.json"};
 const LABELS={
   derecho:"Contratación internacional",
   logistica:"Logística y transporte internacional",
   aduanas:"Técnicas aduaneras e IVA",
   pagos:"Medios de pago, avales y CESCE",
-  negociacion:"Técnicas de negociación"
+  negociacion:"Técnicas de negociación",
+  documental:"Gestión documental internacional",
+  china:"China y Asia en contexto geoeconómico",
+  inversiones:"Atracción de inversiones en Madrid",
+  emprendedor:"Emprendedor de la Comunidad de Madrid",
+  alsa:"Caso empresa ALSA"
 };
 
 let bank=[],quiz=[],index=0,selected=null,answers=[],currentView="home",uploadedText="",localDocs=[];
@@ -15,7 +22,7 @@ const esc=s=>(s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\
 
 async function loadBanks(){
   const chunks=await Promise.all(BANK_FILES.map(async f=>{
-    const r=await fetch("data/"+f+".json?v=20261029-logistica-apuntes-209",{cache:"no-store"});
+    const r=await fetch((BANK_PATHS[f]||"data/"+f+".json")+"?v=20261030-tercer-parcial-breves",{cache:"no-store"});
     if(!r.ok)throw new Error("No se pudo cargar "+f+" (HTTP "+r.status+")");
     const data=await r.json();
     if(!Array.isArray(data)||!data.length)throw new Error("Banco vacío o incorrecto: "+f);

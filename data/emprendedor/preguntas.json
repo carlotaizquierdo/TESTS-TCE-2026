@@ -1,0 +1,254 @@
+[
+  {
+    "id": "emp-01",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Cuál es el orden correcto de las fases del emprendimiento vistas en clase?",
+    "options": [
+      "Detectar, financiar, validar, poner en marcha, crecer",
+      "Validar, detectar, poner en marcha, financiar, crecer",
+      "Detectar, validar, poner en marcha, financiar, crecer",
+      "Detectar, poner en marcha, validar, crecer, financiar"
+    ],
+    "answer": 2,
+    "explanation": "Las 5 fases son: detectar un problema real, validar con clientes, poner en marcha (forma jurídica y trámites), financiar y crecer.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-02",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "En la fase de «validar», ¿qué hay que hacer?",
+    "options": [
+      "Elegir la forma jurídica",
+      "Pedir un préstamo ENISA",
+      "Hablar con clientes y comprobar que pagarían",
+      "Buscar nuevos mercados en el extranjero para crecer"
+    ],
+    "answer": 2,
+    "explanation": "Validar es hablar con clientes, probar y comprobar el pago. Elegir la forma jurídica es poner en marcha; buscar mercados es crecer.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-03",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Qué mide la TEA del informe GEM?",
+    "options": [
+      "El número de empresas inscritas cada año en el Registro Mercantil",
+      "El % de personas de 18-64 años emprendiendo en fases iniciales",
+      "El % de empresas que sobreviven 5 años",
+      "La intención de emprender de los jóvenes"
+    ],
+    "answer": 1,
+    "explanation": "La TEA mide personas, no empresas: adultos de 18 a 64 años con un proyecto naciente o un negocio nuevo. La supervivencia la mide el INE.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-04",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "Para la TEA, ¿hasta qué antigüedad se considera un «negocio nuevo»?",
+    "options": [
+      "Hasta 1 año",
+      "Hasta 5 años",
+      "Hasta 10 años",
+      "Hasta 3,5 años"
+    ],
+    "answer": 3,
+    "explanation": "Hasta 3,5 años. A partir de ahí es un negocio consolidado y no cuenta en la TEA.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-05",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Qué dos encuestas utiliza el GEM?",
+    "options": [
+      "APS (población adulta) y NES (expertos)",
+      "EPA y DIRCE",
+      "Censo y padrón municipal",
+      "Encuesta de empresas del INE y del SEPE"
+    ],
+    "answer": 0,
+    "explanation": "APS (Adult Population Survey) pregunta a personas de 18-64 años; NES (National Expert Survey), a expertos sobre el entorno.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "emp-06",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Cuál es la motivación más citada para emprender en España (GEM 2024)?",
+    "options": [
+      "Crear riqueza o conseguir una renta elevada",
+      "Marcar una diferencia en el mundo",
+      "Ganarse la vida por escasez de empleo",
+      "Continuar la tradición familiar"
+    ],
+    "answer": 2,
+    "explanation": "Ganarse la vida por escasez de empleo (52 %), seguida de marcar una diferencia (40 %) y crear riqueza (39 %).",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "emp-07",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "Según el INE, ¿qué porcentaje de empresas nacidas en 2018 seguía activa cinco años después?",
+    "options": [
+      "Alrededor del 20 %",
+      "41,9 %",
+      "Alrededor del 65 %",
+      "9,1 %"
+    ],
+    "answer": 1,
+    "explanation": "Un 41,9 %, unas 42 de cada 100. El 9,1 % es la TEA de la ciudad de Madrid, otro indicador.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "emp-08",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "Una startup pide 25.000 € tras 8 meses desarrollando su plataforma de IA. ¿Cuál era su error principal?",
+    "options": [
+      "La tecnología no funcionaba",
+      "Pedían demasiado dinero",
+      "Habían elegido mal la forma jurídica de la empresa",
+      "No habían validado problema ni cliente"
+    ],
+    "answer": 3,
+    "explanation": "No hablaron con pymes, no comprobaron si pagarían ni analizaron alternativas. Primero se valida el problema y el cliente; después se invierte.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-09",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Qué tres elementos necesita una idea para ser una oportunidad de negocio?",
+    "options": [
+      "Problema, cliente y modelo",
+      "Socios, capital y local",
+      "Tecnología, patente y página web",
+      "Ayudas, préstamo y aval"
+    ],
+    "answer": 0,
+    "explanation": "Un problema real, un cliente que lo tenga y un modelo que genere valor e ingresos.",
+    "difficulty": "easy",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "emp-10",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "Tres personas lanzan una startup tecnológica, prevén contratar equipo y buscar inversores. ¿Qué forma les encaja mejor?",
+    "options": [
+      "Autónomos por separado",
+      "Sociedad Limitada",
+      "Comunidad de bienes",
+      "Empresario individual"
+    ],
+    "answer": 1,
+    "explanation": "Con socios, inversión y crecimiento previsto encaja la SL, por la responsabilidad limitada y porque permite dar entrada a inversores.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-11",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Qué capital mínimo exige hoy una Sociedad Limitada?",
+    "options": [
+      "3.000 €",
+      "60.000 €",
+      "Desde 1 €",
+      "No tiene, como el autónomo"
+    ],
+    "answer": 2,
+    "explanation": "Desde 1 €. Si el capital es inferior a 3.000 €, se aplican reglas especiales.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  },
+  {
+    "id": "emp-12",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "En la creación de una empresa, ¿qué papel tiene CIRCE?",
+    "options": [
+      "Orientar y asesorar al emprendedor antes de darse de alta",
+      "Recoger los datos del alta",
+      "Financiar el arranque",
+      "Enviar los datos electrónicamente a los organismos"
+    ],
+    "answer": 3,
+    "explanation": "El PAE te acompaña, el DUE es el documento con los datos y CIRCE es el sistema que los tramita electrónicamente.",
+    "difficulty": "medium",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-13",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿Qué entidad ofrece préstamos participativos para proyectos innovadores?",
+    "options": [
+      "ICO",
+      "ENISA",
+      "Avalmadrid",
+      "SEPE"
+    ],
+    "answer": 1,
+    "explanation": "ENISA da préstamos participativos. Avalmadrid da avales, el ICO tiene líneas de financiación y el SEPE gestiona el paro.",
+    "difficulty": "easy",
+    "key": true,
+    "approved": true
+  },
+  {
+    "id": "emp-14",
+    "subject": "emprendedor",
+    "subjectName": "Emprendedor de la Comunidad de Madrid",
+    "source": "Apuntes · Emprender: de la idea a la oportunidad (Noemí Muñoz, 29/10)",
+    "question": "¿En qué consiste «capitalizar el paro»?",
+    "options": [
+      "Seguir cobrando el paro mientras se empieza la actividad",
+      "Cobrar por adelantado la prestación para invertirla",
+      "Pagar una cuota reducida de autónomos",
+      "Que la Comunidad devuelva las cuotas"
+    ],
+    "answer": 1,
+    "explanation": "Capitalizar es cobrar de golpe la prestación pendiente. Seguir cobrándola mientras empiezas es compatibilizar, y la devolución de cuotas es la Tarifa Cero.",
+    "difficulty": "medium",
+    "key": false,
+    "approved": true
+  }
+]
